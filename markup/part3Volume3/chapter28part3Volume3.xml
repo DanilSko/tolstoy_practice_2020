@@ -1,0 +1,144 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="28" type="chapter" xml:id="chapter28part3Volume3">
+          <p> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, решивший сам с <rs ref="Pierre_Bezukhov">собою</rs>, что <rs ref="Pierre_Bezukhov" rolename="experiencer">ему</rs> до исполнения <rs ref="Pierre_Bezukhov" rolename="experiencer">своего</rs> намерения не надо было открывать ни <rs ref="Pierre_Bezukhov" rolename="undergoer">своего</rs> звания, ни знания французского
+              языка, стоял в полураскрытых дверях коридора, намереваясь тотчас же скрыться, как
+              скоро войдут французы.</s>
+            <s>Но французы вошли, и <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> все не
+              отходил от двери: непреодолимое любопытство удерживало <rs ref="Pierre_Bezukhov" rolename="undergoer">его</rs>.</s> </p>
+          <p><s>Их было двое.</s>
+            <s>Один - <rs>офицер</rs>, высокий, бравый и красивый <rs>мужчина</rs>, другой -
+              очевидно, солдат или денщик, приземистый, худой загорелый человек с ввалившимися
+              щеками и тупым выражением лица.</s>
+            <s><rs rolename="agent">Офицер</rs>, опираясь на палку и прихрамывая, шел впереди.</s>
+            <s>Сделав несколько шагов, <rs rolename="agent">офицер</rs>, как бы решив сам с
+                <rs>собою</rs>, что квартира эта хороша, остановился, обернулся назад к стоявшим в
+              дверях солдатам и громким начальническим голосом крикнул им, чтобы они вводили
+              лошадей.</s>
+            <s>Окончив это дело, <rs rolename="agent">офицер</rs> молодецким жестом, высоко подняв
+              локоть руки, расправил усы и дотронулся рукой до шляпы.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="" speech_text="Bonjour la compagnie!" verb="проговорить" author_comment="- весело проговорил он, улыбаясь и оглядываясь вокруг себя." speech_id="5131"><s>- Bonjour la compagnie! - весело проговорил <rs>он</rs>, улыбаясь
+                и оглядываясь вокруг <rs>себя</rs>.</s></said>  </p>
+          <p><s>Никто ничего не отвечал.</s> </p>
+          <p>
+            <s>- Vous êtes le bourgeois? - обратился <rs rolename="undergoer">офицер</rs> к <rs ref="Gerasim">Герасиму</rs>.</s> </p>
+          <p><s><rs ref="Gerasim" rolename="agent">Герасим</rs> испуганно-вопросительно смотрел на
+                <rs rolename="undergoer">офицера</rs>.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="" speech_text="Quartire, quartire, logement," verb="сказать" author_comment="- сказал офицер, сверху вниз, с снисходительной и добродушной улыбкой глядя на маленького человека." speech_id="5121"><s>- Quartire, quartire, logement, - сказал <rs rolename="agent">офицер</rs>, сверху вниз, с снисходительной и добродушной улыбкой глядя на
+                маленького <rs rolename="undergoer">человека</rs>.</s></said>
+            <said who="Captain_Ramballe" corresp="Gerasim" speech_text="Les Français sont de bons enfants.. Ne nous fâchons pas, mon vieux,. Que diable!. Voyons!" verb="прибавить" author_comment="- прибавил он, трепля по плечу испуганного и молчаливого Герасима." speech_id="5135"><s>- Les Français sont de bons enfants. Que diable! Voyons! Ne nous
+                fâchons pas, mon vieux, - прибавил <rs ref="Gerasim">он</rs>, трепля по плечу
+                испуганного и молчаливого <rs ref="Gerasim" rolename="possessor">Герасима</rs>.</s></said> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="" speech_text="A ça!. Dites donc, on ne parle donc pas français dans cette boutique?" verb="прибавить" author_comment="- прибавил он, оглядываясь кругом и встречаясь глазами с Пьером." speech_id="5126"><s>- A ça! Dites donc, on ne parle donc pas français dans cette
+                boutique? - прибавил <rs ref="Gerasim" target="id_33282">он</rs>, оглядываясь кругом
+                и встречаясь глазами с <rs ref="Pierre_Bezukhov" xml:id="id_33282">Пьером</rs>.</s></said>
+            <s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> отстранился от двери.</s> </p>
+          <p><s><rs rolename="agent">Офицер</rs> опять обратился к <rs ref="Gerasim">Герасиму</rs>.</s>
+            <s><rs ref="Gerasim">Он</rs> требовал, чтобы <rs ref="Gerasim" rolename="agent">Герасим</rs> показал <rs ref="Gerasim">ему</rs> комнаты в доме.</s> </p>
+          <p>
+            <said who="Gerasim" corresp="Captain_Ramballe" speech_text="Барин нету - не понимай... моя ваш..." speech_id="5120"><s>- <rs rolename="undergoer">Барин</rs> нету - не понимай... <rs>моя</rs> ваш... - говорил
+                  <rs ref="Gerasim" rolename="agent">Герасим</rs>, стараясь делать <rs ref="Gerasim">свои</rs> слова понятнее тем, что <rs ref="Gerasim">он</rs> их говорил
+                навыворот.</s></said> </p>
+          <p><s>Французский <rs rolename="agent">офицер</rs>, улыбаясь, развел руками перед носом
+                <rs ref="Gerasim" rolename="possessor">Герасима</rs>, давая чувствовать, что и
+                <rs>он</rs> не понимает <rs ref="Gerasim" rolename="undergoer">его</rs>, и,
+              прихрамывая, пошел к двери, у которой стоял <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="experiencer">Пьер</rs> хотел отойти, чтобы
+              скрыться от него, но в это самое время <rs ref="Pierre_Bezukhov" rolename="experiencer">он</rs> увидал из
+              отворившейся двери кухни высунувшегося <rs rolename="undergoer">Макара Алексеича</rs> с
+              пистолетом в руках.</s>
+            <s>С хитростью безумного <rs rolename="agent">Макар Алексеич</rs> оглядел
+                <rs>француза</rs> и, приподняв пистолет, прицелился.</s> </p>
+          <p>
+            <said who="Макар Алексеевич" corresp="" speech_text="- На абордаж!" speech_id="5118"><s>- На абордаж!!! - закричал пьяный, нажимая спуск пистолета.</s></said>
+            <s>Французский <rs rolename="agent">офицер</rs> обернулся на крик, и в то же мгновенье
+                <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> бросился на
+              <rs>пьяного</rs>.</s>
+            <s>В то время как <rs ref="Pierre_Bezukhov" rolename="possessor">Пьер</rs> схватил и
+              приподнял пистолет, <rs rolename="agent">Макар Алексеич</rs> попал, наконец, пальцем
+              на спуск, и раздался оглушивший и обдавший всех пороховым дымом выстрел.</s>
+            <s><rs rolename="undergoer">Француз</rs> побледнел и бросился назад к двери.</s> </p>
+          <p><s>Забывший <rs ref="Pierre_Bezukhov" rolename="experiencer">свое</rs> намерение не
+              открывать <rs ref="Pierre_Bezukhov" rolename="experiencer">своего</rs> знания
+              французского языка, <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, вырвав
+              пистолет и бросив его, подбежал к <rs>офицеру</rs> и по-французски заговорил с
+                <rs>ним</rs>.</s> </p>
+          <p>
+            <said who="Pierre_Bezukhov" corresp="Captain_Ramballe" speech_text="Vous n'êtes pas blessé?" verb="сказать" author_comment="- сказал он." speech_id="5132"><s>- Vous n'êtes pas blessé? - сказал <rs ref="Pierre_Bezukhov" rolename="agent">он</rs>.</s></said> </p>
+          <p>
+            <s>- Je crois que non, - отвечал <rs rolename="agent">офицер</rs>, ощупывая
+                <rs>себя</rs>, - mais je l'ai manqué belle cette fois-ci, - прибавил <rs>он</rs>,
+              указывая на отбившуюся штукатурку в стене.</s>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Quel est cet homme?" verb="сказать" author_comment="- строго взглянув на Пьера, сказал офицер." speech_id="5128"><s>- Quel est cet homme? - строго взглянув на <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs>, сказал <rs rolename="agent">офицер</rs>.</s></said> </p>
+          <p>
+            <said who="Pierre_Bezukhov" corresp="Captain_Ramballe" speech_text="Ah, je suis vraiment au désespoir de ce qui vient d'arriver. C'est un fou, un malheureux qui ne savait pas ce qu'il faisait." verb="говорить" author_comment=", - быстро говорил Пьер, совершенно забыв свою роль. -" speech_id="5123"><s>- Ah, je suis vraiment au désespoir de ce qui vient d'arriver, -
+                быстро говорил <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, совершенно
+                забыв <rs ref="Pierre_Bezukhov">свою</rs> роль. - C'est un fou, un malheureux qui ne
+                savait pas ce qu'il faisait.</s></said> </p>
+          <p><s><rs rolename="agent">Офицер</rs> подошел к <rs>Макару Алексеичу</rs> и схватил <rs rolename="undergoer">его</rs> за́ ворот.</s> </p>
+          <p><s><rs rolename="agent">Макар Алексеич</rs>, распустив губы, как бы засыпая, качался,
+              прислонившись к стене.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Brigand, tu me la payeras," verb="сказать" author_comment="- сказал француз, отнимая руку." speech_id="5134"><s>- Brigand, tu me
+                la payeras, - сказал <rs rolename="agent">француз</rs>, отнимая
+            руку.</s></said> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Макар Алексеевич" speech_text="Nous autres nous sommes cléments après la victoire: mais nous ne pardonnons pas aux traîtres," verb="прибавить" author_comment="- прибавил он с мрачной торжественностью в лице и с красивым энергическим жестом." speech_id="5125"><s>- Nous autres nous sommes cléments après la victoire: mais nous ne
+                pardonnons pas aux traîtres, - прибавил <rs>он</rs> с мрачной торжественностью в
+                лице и с красивым энергическим жестом.</s></said> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> продолжал по-французски
+              уговаривать <rs rolename="experiencer">офицера</rs> не взыскивать с этого пьяного,
+              безумного <rs>человека</rs>.</s>
+            <s><rs ref="Captain_Ramballe" rolename="agent">Француз</rs> молча слушал, не изменяя мрачного вида, и вдруг с
+              улыбкой обратился к <rs ref="Pierre_Bezukhov">Пьеру</rs>.</s>
+            <s><rs rolename="agent">Он</rs> несколько секунд молча посмотрел на <rs ref="Pierre_Bezukhov">него</rs>.</s>
+            <s>Красивое лицо его приняло трагически-нежное выражение, и <rs ref="Captain_Ramballe">он</rs> протянул руку.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="- Vous m'avez sauvé la vie. Vous êtes Français." speech_id="5119"><said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Vous m'avez sauvé la vie!. Vous êtes Français," verb="сказать" author_comment="- сказал он." speech_id="5122"><s>- Vous m'avez sauvé la vie! Vous
+                  êtes Français, - сказал <rs ref="Captain_Ramballe">он</rs>.</s></said></said>
+            <s>Для <rs rolename="experiencer">француза</rs> вывод этот был несомненен.</s>
+            <s>Совершить великое дело мог только <rs>француз</rs>, а спасение жизни <rs rolename="experiencer">его</rs>, m-r Ramball'я capitaine du 13-me léger - было, без
+              сомнения, самым великим делом.</s> </p>
+          <p><s>Но как ни несомненен был этот вывод и основанное на нем убеждение <rs rolename="experiencer">офицера</rs>, <rs ref="Pierre_Bezukhov" rolename="experiencer">Пьер</rs> счел нужным разочаровать <rs rolename="experiencer">его</rs>.</s>  </p>
+          <p>
+            <said who="Pierre_Bezukhov" corresp="Captain_Ramballe" speech_text="Je suis Russe," verb="сказать" author_comment="- быстро сказал Пьер." speech_id="5130"><s>- Je suis
+                Russe, - быстро сказал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s></said> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Charmé de rencontrer un compatriote.. Tout à l'heure vous allez me conter tout ça. Ти-ти-ти, à d'autres" verb="сказать" author_comment=", - сказал француз, махая пальцем себе перед носом и улыбаясь. -" speech_id="5133"><s>- Ти-ти-ти, à d'autres, - сказал <rs rolename="agent">француз</rs>, махая пальцем <rs>себе</rs> перед носом и улыбаясь.</s></said>
+            <s>- Tout à l'heure vous allez me conter tout ça, - сказал он.</s>
+            <s>- Charmé de rencontrer un compatriote. Eh bien! qu'allons nous faire de cet homme? -
+              прибавил он, обращаясь к <rs ref="Pierre_Bezukhov">Пьеру</rs>, уже как к своему
+                <rs>брату</rs>.</s>
+            <s>Ежели бы даже <rs ref="Pierre_Bezukhov">Пьер</rs> не был француз, получив раз это
+              высшее в свете наименование, не мог же он отречься от него, говорило выражение лица и
+              тон французского <rs>офицера</rs>.</s>
+            <s>На последний вопрос <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> ещё раз
+              объяснил, кто был <rs>Макар Алексеич</rs>, объяснил, что пред самым их приходом этот
+              пьяный, безумный <rs rolename="possessor">человек</rs> утащил заряженный пистолет,
+              который не успели отнять у <rs>него</rs>, и просил оставить <rs rolename="agent">его</rs> поступок без наказания.</s> </p>
+          <p><s><rs rolename="agent">Француз</rs> выставил грудь и сделал царский жест
+            рукой.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="- Vous m'avez sauvé la vie. Vous êtes Français. Vous me demandez sa grâce? Je vous l'accorde." speech_id="5119"><s>- Vous m'avez sauvé la vie. Vous
+                  êtes Français. Vous me demandez sa grâce?</s></said>
+            <s>Je vous l'accorde.</s>
+            <s>Qu'on emmène cet homme - быстро и энергично проговорил французский <rs rolename="agent">офицер</rs>, взяв под руку произведенного <rs>им</rs> за спасение
+                <rs>его</rs> жизни во французы <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs>, и пошел с <rs>ним</rs> в дом.</s> </p>
+          <p><s>Солдаты, бывшие на дворе, услыхав выстрел, вошли в сени, спрашивая, что случилось, и
+              изъявляя готовность наказать виновных; но <rs rolename="agent">офицер</rs> строго
+              остановил их.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="" speech_text="On vous demandera quand on aura besoin de vous," verb="сказать" author_comment="- сказал он." speech_id="5129"><s>- On vous demandera quand on aura
+                besoin de vous, - сказал <rs>он</rs>.</s></said>
+            <s>Солдаты вышли.</s>
+            <s><rs rolename="agent">Денщик</rs>, успевший между тем побывать в кухне, подошел к
+                <rs>офицеру</rs>.</s> </p>
+          <p>
+            <said who="Морель" corresp="" speech_text="Capitaine, ils ont de la soupe et du gigot de mouton dans la cuisine. Faut-il vous l'apporter?" verb="сказать" author_comment=", - сказал он. -" speech_id="5127"><s>- Capitaine, ils
+                ont de la soupe et du gigot de mouton dans la cuisine, - сказал <rs rolename="agent">он</rs>. - Faut-il vous l'apporter?</s></said> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="" speech_text="Oui, et le vin," verb="сказать" author_comment="- сказал капитан." speech_id="5124"><s>- Oui, et le vin, - сказал <rs rolename="agent">капитан</rs>.</s></said>  </p>
+        </div>
+        

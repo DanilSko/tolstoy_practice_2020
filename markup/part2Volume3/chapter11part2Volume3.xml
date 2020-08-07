@@ -1,0 +1,138 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="11" type="chapter" xml:id="chapter11part2Volume3">
+          <p> </p>
+          <p><s>Через час после этого <rs ref="Dunyasha" rolename="agent" target="id_32111">Дуняша</rs> пришла к <rs ref="Princess_Mariya_Bolkonskaya" xml:id="id_32111">княжне</rs> с известием, что пришел <rs ref="Dron_Zakharych">Дрон</rs> и все
+              мужики, по приказанию <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжны</rs>, собрались у амбара, желая переговорить с <rs>госпожою</rs>.</s> </p>
+          <p>
+            <said who="Princess_Mariya_Bolkonskaya" corresp="Dunyasha (Bolkonsky maid)" speech_text="Да я никогда не звала их. я только сказала Дронушке, чтобы раздать им хлеба." verb="сказать" speech_id="4258"><said who="Princess_Mariya_Bolkonskaya" corresp="Dron_Zakharych" speech_text="Да я никогда не звала их. Ты, верно, не так передал им. Я только сказала, чтобы ты им отдал хлеб." verb="сказать" author_comment=", - сказала княжна. -" speech_id="4265"><s>- Да я
+                  никогда не звала их, - сказала <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжна Марья</rs>, - я только сказала <rs ref="Dron_Zakharych">Дронушке</rs>, чтобы раздать им хлеба.</s></said></said> </p>
+          <p>
+            <said who="Dunyasha (Bolkonsky maid)" corresp="Princess_Mariya_Bolkonskaya" speech_text="Все обман один. Только ради бога, княжна матушка, прикажите их прогнать и не ходите к ним. Все обман один" verb="говорить" speech_id="4268"><s>- Только ради бога, княжна <rs>матушка</rs>,
+                прикажите их прогнать и не ходите к ним. Все обман один, - говорила <rs ref="Dunyasha" rolename="agent">Дуняша</rs>, - а <rs ref="Yakov_Alpatych">Яков
+                  Алпатыч</rs> приедут, и поедем... и вы не извольте...</s></said> </p>
+          <p>
+            <said who="Princess_Mariya_Bolkonskaya" corresp="Dunyasha" speech_text="Какой же обман?" verb="спросить" author_comment="- удивленно спросила княжна." speech_id="4275"><s>-
+                Какой же обман? - удивленно спросила <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжна</rs>.</s></said> </p>
+          <p>
+            <said who="Dunyasha (Bolkonsky maid)" corresp="Princess_Mariya_Bolkonskaya" speech_text="Да уж я знаю, только послушайте меня, ради бога. Вот и няню хоть спросите. Говорят, не согласны уезжать по вашему приказанию." speech_id="4273"><s>- Да уж я знаю, только послушайте <rs rolename="undergoer">меня</rs>,
+                ради бога. Вот и <rs rolename="addressee">няню</rs> хоть спросите. Говорят, не
+                согласны уезжать по вашему приказанию.</s></said> </p>
+          <p>
+            <said who="Princess_Mariya_Bolkonskaya" corresp="Dunyasha (Bolkonsky maid)" speech_text="Да я никогда не звала их. я только сказала Дронушке, чтобы раздать им хлеба." verb="сказать" speech_id="4258"><said who="Princess_Mariya_Bolkonskaya" corresp="Dron_Zakharych" speech_text="Да я никогда не звала их. Ты, верно, не так передал им. Я только сказала, чтобы ты им отдал хлеб." verb="сказать" author_comment=", - сказала княжна. -" speech_id="4265"><said who="Princess_Mariya_Bolkonskaya" corresp="Dunyasha" speech_text="Да я никогда не приказывала уезжать.... Позови Дронушку.. Ты что-нибудь не то говоришь." verb="сказать" author_comment="- сказала княжна Марья. -" speech_id="4267"><s>- Ты
+                    что-нибудь не то говоришь. Да я никогда не приказывала уезжать... - сказала <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжна Марья</rs>. - Позови
+                      <rs ref="Dron_Zakharych">Дронушку</rs>.</s></said></said></said> </p>
+          <p><s>Пришедший <rs ref="Dron_Zakharych">Дрон</rs> подтвердил слова <rs ref="Dunyasha" rolename="agent">Дуняши</rs>: мужики пришли по приказанию <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжны</rs>.</s> </p>
+          <p>
+            <said who="Princess_Mariya_Bolkonskaya" corresp="Dunyasha (Bolkonsky maid)" speech_text="Да я никогда не звала их. я только сказала Дронушке, чтобы раздать им хлеба." verb="сказать" speech_id="4258"><said who="Princess_Mariya_Bolkonskaya" corresp="Dron_Zakharych" speech_text="Да я никогда не звала их. Ты, верно, не так передал им. Я только сказала, чтобы ты им отдал хлеб." verb="сказать" author_comment=", - сказала княжна. -" speech_id="4265"><s>- Да <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">я</rs> никогда не звала их, -
+                  сказала <rs ref="Princess_Mariya_Bolkonskaya">княжна</rs>. - <rs rolename="agent">Ты</rs>, верно, не так передал им. <rs ref="Princess_Mariya_Bolkonskaya">Я</rs>
+                  только сказала, чтобы <rs>ты</rs> им отдал хлеб.</s></said></said> </p>
+          <p><s>Дрон, не отвечая, вздохнул.</s> </p>
+          <p>
+            <said who="Dron_Zakharych" corresp="Princess_Mariya_Bolkonskaya" speech_text="Если прикажете, они уйдут," verb="сказать" author_comment="- сказал он." speech_id="4256"><s>- Если прикажете, они уйдут, - сказал он.</s></said> </p>
+          <p>
+            <said who="Princess_Mariya_Bolkonskaya" corresp="Dron_Zakharych" speech_text="Нет, нет, я пойду к ним," verb="сказать" author_comment="- сказала княжна Марья." speech_id="4257"><s>- Нет, нет, <rs rolename="agent">я</rs> пойду к ним, - сказала <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжна
+            Марья</rs>.</s></said> </p>
+          <p><s>Несмотря на отговариванье <rs ref="Dunyasha" rolename="experiencer">Дуняши</rs> и
+                <rs rolename="experiencer">няни</rs>, <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжна Марья</rs> вышла на крыльцо.</s>
+            <s>Дрон, <rs ref="Dunyasha" rolename="agent">Дуняша</rs>, <rs rolename="agent">няня</rs>
+              и <rs rolename="agent">Михаил Иваныч</rs> шли за нею.</s> </p>
+          <p><s>'<rs ref="Dunyasha">Они</rs>, вероятно, думают, что <rs rolename="agent">я</rs>
+              предлагаю <rs ref="Dunyasha">им</rs> хлеб с тем, чтобы <rs ref="Dunyasha">они</rs>
+              остались на <rs ref="Dunyasha">своих</rs> местах, и сама уеду, бросив <rs ref="Dunyasha">их</rs> на произвол французов, - думала <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжна Марья</rs>. - <rs>Я</rs>
+              <rs ref="Dunyasha">им</rs> буду обещать месячину в подмосковной, квартиры; <rs>я</rs>
+              уверена, что André еще больше бы сделал на <rs>моем</rs> месте', - думала она, подходя
+              в сумерках к толпе, стоявшей на выгоне у амбара.</s> </p>
+          <p><s>Толпа, скучиваясь, зашевелилась, и быстро снялись шляпы.</s>
+            <s><rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">Княжна Марья</rs>, опустив
+              глаза и путаясь ногами в платье, близко подошла к ним.</s>
+            <s>Столько разнообразных старых и молодых глаз было устремлено на нее и столько было
+              разных лиц, что <rs ref="Princess_Mariya_Bolkonskaya" rolename="experiencer">княжна
+                Марья</rs> не видала ни одного лица и, чувствуя необходимость говорить вдруг со
+              всеми, не знала, как быть.</s>
+            <s>Но опять сознание того, что она - представительница <rs rolename="undergoer">отца</rs> и
+                <rs rolename="undergoer">брата</rs>, придало ей силы, и она смело начала свою
+            речь.</s> </p>
+          <p>
+            <said who="Princess_Mariya_Bolkonskaya" corresp="" speech_text="Мне Дронушка сказал, что вас разорила  война.. Это наше общее горе, и я ничего не пожалею, чтобы помочь вам. Я сама еду, потому что уже опасно здесь и неприятель близко... потому что... Я вам отдаю все, мои друзья, и прошу вас взять все, весь хлеб наш, чтобы у вас не было нужды. А ежели вам сказали, что я отдаю вам хлеб с тем, чтобы вы остались здесь, то это неправда. Я, напротив, прошу вас уезжать со всем вашим имуществом в нашу подмосковную, и там я беру на себя и обещаю вам, что вы не будете нуждаться. Вам дадут и домы и хлеба.. Я очень рада, что вы пришли" verb="начало" author_comment=", - начала княжна Марья, не поднимая глаз и чувствуя, как быстро и сильно билось ее сердце. -" speech_id="4262"><s>- Я очень рада, что вы пришли, - начала <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжна Марья</rs>, не поднимая
+                глаз и чувствуя, как быстро и сильно билось ее сердце. - Мне <rs ref="Dron_Zakharych" rolename="agent">Дронушка</rs> сказал, что вас разорила
+                война. Это наше общее горе, и я ничего не пожалею, чтобы помочь вам. Я сама еду,
+                потому что уже опасно здесь и <rs rolename="undergoer">неприятель</rs>
+              близко</s></said><s>... потому что... Я вам отдаю все, мои друзья, и прошу вас взять
+              все, весь хлеб наш, чтобы у вас не было нужды. А ежели вам сказали, что я отдаю вам
+              хлеб с тем, чтобы вы остались здесь, то это неправда. Я, напротив, прошу вас уезжать
+              со всем вашим имуществом в нашу подмосковную, и там я беру на себя и обещаю вам, что
+              вы не будете нуждаться. Вам дадут и домы и хлеба.</s>
+            <s>- <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">Княжна</rs>
+              остановилась.</s>
+            <s>В толпе только слышались вздохи.</s> </p>
+          <p>
+            <said who="Princess_Mariya_Bolkonskaya" corresp="" speech_text="" verb="продолжать" author_comment=", - продолжала княжна, " speech_id="4266"><said who="Princess_Mariya_Bolkonskaya" corresp="" speech_text="Я не от себя делаю это. я это делаю именем покойного отца, который был вам хорошим барином, и за брата, и его сына." speech_id="4270"><s>- <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">Я</rs>
+                  не от себя делаю это, - продолжала <rs ref="Princess_Mariya_Bolkonskaya">княжна</rs>, - <rs ref="Princess_Mariya_Bolkonskaya">я</rs> это делаю именем
+                  покойного <rs rolename="undergoer">отца</rs>, <rs>который</rs> был вам хорошим
+                    <rs>барином</rs>, и за <rs>брата</rs>, и <rs>его</rs>
+            сына.</s></said></said> </p>
+          <p><s><rs ref="Princess_Mariya_Bolkonskaya" rolename="undergoer">Она</rs> опять
+              остановилась.</s>
+            <s>Никто не прерывал <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">ее</rs>
+              молчания.</s> </p>
+          <p>
+            <said who="Princess_Mariya_Bolkonskaya" corresp="" speech_text="Все, что мое, то ваше,. Горе наше общее, и будем делить всё пополам." verb="сказать" author_comment="- сказала она, оглядывая лица, стоявшие перед нею." speech_id="4255"><s>- Горе наше общее, и будем делить всё пополам. Все, что
+                  <rs>мое</rs>, то ваше, - сказала <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">она</rs>, оглядывая лица, стоявшие перед <rs ref="Princess_Mariya_Bolkonskaya" rolename="possessor">нею</rs>.</s></said> </p>
+          <p><s>Все глаза смотрели на <rs ref="Princess_Mariya_Bolkonskaya">нее</rs> с одинаковым
+              выражением, значения которого <rs ref="Princess_Mariya_Bolkonskaya">она</rs> не могла
+              понять.</s>
+            <s>Было ли это любопытство, преданность, благодарность, или испуг и недоверие, но
+              выражение на всех лицах было одинаковое.</s> </p>
+          <p>
+            <said who="крестьяне Болконских" corresp="Princess_Mariya_Bolkonskaya" speech_text="Много довольны вашей милостью, только нам брать господский хлеб не приходится," verb="сказать" author_comment="- сказал голос сзади." speech_id="4259"><s>- Много
+                довольны вашей милостью, только нам брать господский хлеб не приходится, - сказал
+                голос сзади.</s></said> </p>
+          <p>
+            <said who="Princess_Mariya_Bolkonskaya" corresp="" speech_text="Да отчего же?" verb="сказать" speech_id="4264"><s>- Да отчего же? - сказала <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжна</rs>.</s></said> </p>
+          <p><s>Никто не ответил, и <rs ref="Princess_Mariya_Bolkonskaya" rolename="experiencer">княжна Марья</rs>, оглядываясь по толпе, замечала, что теперь все глаза, с которыми
+              она встречалась, тотчас же опускались.</s> </p>
+          <p>
+            <said who="Princess_Mariya_Bolkonskaya" corresp="" speech_text="Отчего же вы не хотите?" verb="спросить" author_comment="- спросила она опять." speech_id="4263"><s>- Отчего же
+                вы не хотите? - спросила она опять.</s></said>
+            <s>Никто не отвечал.</s> </p>
+          <p><s><rs ref="Princess_Mariya_Bolkonskaya">Княжне Марье</rs> становилось тяжело от этого
+              молчанья; она старалась уловить чей-нибудь взгляд.</s> </p>
+          <p>
+            <said who="Princess_Mariya_Bolkonskaya" corresp="старик" speech_text="Скажи, ежели ты думаешь, что еще что-нибудь нужно.. Я все сделаю," verb="сказать" author_comment="- сказала она, уловив его взгляд." speech_id="4271"><said who="Princess_Mariya_Bolkonskaya" corresp="старик" speech_text="Отчего вы не говорите?" verb="обратиться" author_comment="- обратилась княжна к старому старику, который, облокотившись на палку, стоял перед ней." speech_id="4272"><s>- Отчего вы не говорите? - обратилась <rs ref="Princess_Mariya_Bolkonskaya" rolename="undergoer" target="id_32112">княжна</rs> к старому <rs>старику</rs>, <rs>который</rs>, облокотившись на
+                  палку, стоял перед ней. - Скажи, ежели <rs rolename="agent">ты</rs> думаешь, что
+                  еще что-нибудь нужно. <rs rolename="agent">Я</rs> все сделаю, - сказала <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent" xml:id="id_32112">она</rs>,
+                  уловив <rs rolename="undergoer">его</rs> взгляд. Но он, как бы рассердившись за это,
+                  опустил совсем голову и проговорил:</s></said></said> </p>
+          <p>
+            <said who="старик" corresp="Princess_Mariya_Bolkonskaya" speech_text="Чего соглашаться-то, не нужно нам хлеба." verb="проговорить" speech_id="4261"><s>- Чего соглашаться-то, не нужно нам хлеба.</s></said> </p>
+          <p>
+            <said who="старик" corresp="Princess_Mariya_Bolkonskaya" speech_text="Мы тебя жалеем, а нашего согласия нет.. Не согласны.. Не согласны.... Нет нашего согласия.. Поезжай сама, одна.... Что ж, нам все бросить-то?" verb="раздаться" author_comment="- раздалось в толпе  с разных сторон." speech_id="4260"><s>- Что ж, нам все бросить-то? Не согласны. Не согласны... Нет
+                нашего согласия. Мы <rs rolename="undergoer">тебя</rs> жалеем, а нашего согласия нет.
+                Поезжай сама, одна... - раздалось в толпе с разных сторон.</s></said>
+            <s>И опять на всех лицах этой толпы показалось одно и то же выражение, и теперь это было
+              уже наверное не выражение любопытства и благодарности, а выражение озлобленной
+              решительности.</s> </p>
+          <p>
+            <said who="Princess_Mariya_Bolkonskaya" corresp="" speech_text="Да вы не поняли, верно. Отчего вы не хотите ехать?. Я обещаю поселить вас, кормить. А здесь неприятель разорит вас..." verb="сказать" author_comment=", - с грустной улыбкой сказала княжна Марья. -" speech_id="4277"><s>- Да вы не поняли, верно, - с грустной улыбкой сказала <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжна Марья</rs>. - Отчего вы
+                не хотите ехать?</s></said>
+            <s>Я обещаю поселить вас, кормить.</s>
+            <s>А здесь <rs rolename="agent">неприятель</rs> разорит вас...</s> </p>
+          <p><s>Но голос ее заглушали голоса толпы.</s> </p>
+          <p>
+            <s>- Нет нашего согласия, пускай разоряет!</s>
+            <s>Не берем <rs>твоего</rs> хлеба, нет согласия нашего!</s> </p>
+          <p><s><rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">Княжна Марья</rs> старалась
+              уловить опять чей-нибудь взгляд из толпы, но ни один взгляд не был устремлен на нее;
+              глаза, очевидно, избегали ее.</s>
+            <s>Ей стало странно и неловко.</s> </p>
+          <p>
+            <said who="крестьяне Болконских" corresp="Princess_Mariya_Bolkonskaya" speech_text="Вишь, научила ловко, за ней в крепость иди!. Дома разори да в кабалу и ступай.. Как же!. Я хлеб, мол, отдам!" verb="слышаться" author_comment="- слышались голоса в толпе." speech_id="4269"><s>-
+                Вишь, научила ловко, за ней в крепость иди! Дома разори да в кабалу и ступай. Как
+                же! <rs rolename="agent">Я</rs> хлеб, мол, отдам! - слышались голоса в
+              толпе.</s></said> </p>
+          <p><s><rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">Княжна Марья</rs>, опустив
+              голову, вышла из круга и пошла в дом.</s>
+            <s>Повторив <rs ref="Dron_Zakharych">Дрону</rs> приказание о том, чтобы завтра были
+              лошади для отъезда, она ушла в свою комнату и осталась одна с своими мыслями.</s> 
+          </p>
+        </div>
+        

@@ -1,0 +1,197 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="6" type="chapter" xml:id="chapter6part1Volume5">
+          <p> </p>
+          <p><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Княжна! постойте, ради Бога. Княжна!" speech_id="6065"><s>В начале зимы
+                  <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжна Марья</rs> приехала
+                в Москву. Из городских слухов она узнала о положении Ростовых и о том, как '<rs rolename="possessor">сын</rs> жертвовал <rs rolename="undergoer">собой</rs> для <rs rolename="benemalefactive">матери</rs>',- так говорили в городе.</s></said> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="Princess_Mariya_Bolkonskaya" speech_text="Я и не ожидала от него другого'" verb="говорить" author_comment="Я и не ожидала от него другого',- говорила себе княжна Марья, чувствия радостное подтверждение своей любви к нему" speech_id="6060"><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Княжна! постойте, ради Бога. Княжна!" speech_id="6065"><s>'Я и не
+                  ожидала от него другого',- говорила себе <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжна Марья</rs>, чувствия радостное подтверждение своей любви
+                  к нему. Вспоминая свои дружеские и почти родственные отношения ко всему семейству,
+                  она считала своей обязанностью ехать к ним. Но, вспоминая свои отношения к <rs ref="Nikolai_Rostov">Николаю</rs> в Воронеже, она боялась этого. Сделав над
+                  собой большое усилие, она, однако, через несколько недель после своего приезда в
+                  город приехала к Ростовым.</s></said></said> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="possessor">Николай первый</rs> встретил ее, так
+              как к <rs>графине</rs> можно было проходить только через <rs ref="Nikolai_Rostov" rolename="possessor">его</rs> комнату.</s>
+            <said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Княжна! постойте, ради Бога. Княжна!" speech_id="6065"><s>При первом
+                взгляде на нее лицо <rs ref="Nikolai_Rostov" rolename="possessor">Николая</rs>
+                вместо выражения радости, которую ожидала увидать на нем <rs ref="Princess_Mariya_Bolkonskaya" rolename="experiencer">княжна Марья</rs>,
+                приняло невиданное прежде <rs>княжной</rs> выражение холодности, сухости и
+                гордости.</s></said>
+            <s><rs ref="Nikolai_Rostov" rolename="agent">Николай</rs> спросил о <rs rolename="experiencer">ее</rs> здоровье, проводил к <rs>матери</rs> и, посидев минут
+              пять, вышел из комнаты.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Княжна! постойте, ради Бога. Княжна!" speech_id="6065"><s>Когда <rs rolename="agent">княжна</rs> выходила от <rs>графини</rs>, <rs ref="Nikolai_Rostov" rolename="possessor">Николай</rs> опять встретил <rs>ее</rs>
+                и особенно торжественно и сухо проводил до передней.</s></said>
+            <s><rs ref="Nikolai_Rostov" rolename="agent">Он</rs> ни слова не ответил на <rs rolename="agent">ее</rs> замечания о здоровье <rs rolename="experiencer">графини</rs>.</s>
+            <s>'Вам какое дело? Оставьте меня в покое',- говорил его взгляд.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="Sonya_Rostova" speech_text="И что шляется?. Терпеть не могу этих барынь и все эти любезности!. Чего ей нужно?" verb="сказать" author_comment="- сказал он вслух при Соне, видимо не в силах удерживать свою досаду, после того как карета княжны отъехала от дома." speech_id="6039"><s>- И что шляется? Чего ей нужно? Терпеть не могу этих барынь и все
+                эти любезности! - сказал <rs ref="Nikolai_Rostov" target="id_5162">он</rs> вслух при
+                  <rs ref="Sonya_Rostova" xml:id="id_5162">Соне</rs>, видимо не в силах удерживать
+                свою досаду, после того как карета <rs rolename="possessor">княжны</rs> отъехала от
+                дома.</s></said> </p>
+          <p><said who="Sonya_Rostova" corresp="Nikolai_Rostov" speech_text="Ах, как можно так говорить, Nicolas!. Она такая добрая, и maman так любит ее." verb="сказать" author_comment="- сказала Соня, едва скрывая свою радость. -" speech_id="6053"><s>- Ах, как можно так говорить, Nicolas! - сказала <rs ref="Sonya_Rostova" rolename="agent">Соня</rs>, едва скрывая <rs ref="Sonya_Rostova">свою</rs> радость. - Она такая добрая, и maman так любит
+                ее.</s></said> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="agent">Николай</rs> ничего не отвечал и хотел бы
+              вовсе не говорить больше о <rs>княжне</rs>.</s>
+            <s>Но со времени <rs rolename="agent">ее</rs> посещения старая <rs rolename="agent">графиня</rs> всякий день по нескольку раз заговаривала о <rs>ней</rs>.</s> </p>
+          <p><s><rs rolename="agent">Графиня</rs> хвалила <rs rolename="undergoer">ее</rs>, требовала,
+              чтобы <rs rolename="agent">сын</rs> съездил к <rs>ней</rs>, выражала желание видеть
+                <rs>ее</rs> почаще, но вместе с тем всегда становилась не в духе, когда <rs>она</rs>
+              о ней говорила.</s> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="agent">Николай</rs> старался молчать, когда <rs rolename="agent">мать</rs> говорила о <rs>княжне</rs>, но молчание <rs>его</rs>
+              раздражало <rs rolename="experiencer">графиню</rs>.</s> </p>
+          <p><said who="Countess_Natalya_Rostova" corresp="Nikolai_Rostov" speech_text="- Она очень достойная и прекрасная девушка,- говорила она,- и тебе надо к ней съездить." verb="говорить" speech_id="6043"><s>- <rs>Она</rs> очень достойная и прекрасная
+                девушка,- говорила <rs rolename="agent">она</rs>,- и тебе надо к ней съездить.
+                Все-таки <rs rolename="experiencer">ты</rs> увидишь кого-нибудь; а то <rs>тебе</rs>
+                скука, <rs rolename="experiencer">я</rs> думаю, с нами.</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="Countess_Natalya_Rostova" speech_text="- Да я нисколько не желаю, маменька." speech_id="6057"><s>- Да я
+                нисколько не желаю, <rs>маменька</rs>.</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="Countess_Natalya_Rostova" speech_text="- То хотел видеть, а теперь не желаю. Я тебя, мой милый, право не понимаю. То тебе скучно, то ты вдруг никого не хочешь видеть." speech_id="6049"><s>- То хотел видеть, а теперь не желаю. <rs rolename="experiencer">Я</rs>
+                <rs><rs rolename="undergoer">тебя</rs></rs>, <rs>мой</rs>
+                <rs>милый</rs>, право, не понимаю. То <rs><rs>тебе</rs></rs> скучно, то <rs><rs rolename="experiencer">ты</rs></rs> вдруг никого не хочешь
+            видеть.</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="Countess_Natalya_Rostova" speech_text="- Да я не говорил, что мне скучно." verb="говорить" speech_id="6059"><s>-
+                Да <rs rolename="agent">я</rs> не говорил, что <rs>мне</rs> скучно.</s></said> </p>
+          <p><said who="Countess_Natalya_Rostova" corresp="Nikolai_Rostov" speech_text="- Она очень достойная и прекрасная девушка,- говорила она,- и тебе надо к ней съездить." verb="говорить" speech_id="6043"><said who="Countess_Natalya_Rostova" corresp="Nikolai_Rostov" speech_text="- Как же, ты сам сказал, что ты и видеть ее не желаешь." speech_id="6048"><s>- Как же, <rs><rs rolename="agent">ты</rs></rs> сам сказал, что
+                      <rs><rs>ты</rs></rs> и видеть ее не желаешь. Она очень достойная девушка и
+                  всегда <rs><rs>тебе</rs></rs> нравилась; а теперь вдруг какие-то резоны. Всё от
+                    <rs>меня</rs> скрывают.</s></said></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="Countess_Natalya_Rostova" speech_text="- Да нисколько, маменька." speech_id="6041"><s>- Да нисколько,
+                  <rs>маменька</rs>.</s></said> </p>
+          <p><said who="Countess_Natalya_Rostova" corresp="Nikolai_Rostov" speech_text="- Если б я тебя просила сделать что-нибудь неприятное, а то я тебя прошу съездить отдать визит." speech_id="6040"><s>- Если б <rs rolename="agent">я</rs>
+                <rs><rs rolename="addressee">тебя</rs></rs> просила сделать что-нибудь неприятное, а
+                то <rs rolename="agent">я</rs>
+                <rs><rs rolename="possessor">тебя</rs></rs> прошу съездить отдать визит. Кажется, и
+                учтивость требует... <rs rolename="agent">Я</rs>
+                <rs><rs rolename="addressee">тебя</rs></rs> просила и теперь больше не вмешиваюсь,
+                когда у <rs><rs rolename="possessor">тебя</rs></rs> тайны от
+              <rs>матери</rs>.</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="Countess_Natalya_Rostova" speech_text="- Да я поеду, если вы хотите." speech_id="6055"><s>- Да <rs>я</rs> поеду,
+                если вы хотите.</s></said> </p>
+          <p><said who="Countess_Natalya_Rostova" corresp="Nikolai_Rostov" speech_text="- Мне все равно; я для тебя желаю." speech_id="6056"><s>- <rs>Мне</rs>
+                все равно; <rs>я</rs> для тебя желаю.</s></said> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="agent">Николай</rs> вздыхал, кусая усы, и
+              раскладывал карты, стараясь отвлечь внимание <rs rolename="undergoer">матери</rs> на
+              другой предмет.</s> </p>
+          <p><s>На другой, на третий и на четвертый день повторился тот же и тот же
+            разговор.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Княжна! постойте, ради Бога. Княжна!" speech_id="6065"><s>После своего
+                посещения Ростовых и того неожиданного, холодного приема, сделанного ей <rs ref="Nikolai_Rostov" rolename="agent">Николаем</rs>, <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжна Марья</rs> призналась
+                себе, что она была права, не желая ехать первая к Ростовым.</s></said> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="Princess_Mariya_Bolkonskaya" speech_text="Мне нет никакого дела до него, и я только хотела видеть старушку, которая была всегда добра ко мне и которой я многим обязана. Я ничего и не ожидала другого" verb="говорить" author_comment=",- говорила она себе, призывая на помощь свою гордость. -" speech_id="6046"><s>'Я ничего и не ожидала другого,- говорила она себе, призывая на
+                помощь свою гордость. - Мне нет никакого дела до него, и я только хотела видеть <rs rolename="undergoer">старушку</rs>, которая была всегда добра ко мне и которой я
+                многим обязана'.</s></said> </p>
+          <p><s>Но она не могла успокоиться этими рассуждениями: чувство, похожее на раскаяние,
+              мучило ее, когда она вспоминала свое посещение.</s>
+            <s>Несмотря на то, что она твердо решилась не ездить больше к Ростовым и забыть все это,
+              она чувствовала себя беспрестанно в неопределенном положении.</s>
+            <s>И когда она спрашивала себя, что же такое было то, что мучило ее, она должна была
+              признаваться, что это были ее отношения к <rs ref="Nikolai_Rostov">Ростову</rs>.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="undergoer">Его</rs> холодный, учтивый тон не вытекал
+              из <rs ref="Nikolai_Rostov" rolename="experiencer">его</rs> чувства к ней (она это
+              знала), а тон этот прикрывал что-то.</s>
+            <s>Это что-то ей надо было разъяснить; и до тех пор она чувствовала, что не могла быть
+              покойна.</s> </p>
+          <p><s>В середине зимы она сидела в классной, следя за уроками <rs rolename="agent">племянника</rs>, когда ей пришли доложить о приезде <rs ref="Nikolai_Rostov" rolename="agent">Ростова</rs>.</s>
+            <s>С твердым решением не выдавать своей тайны и не выказать своего смущения она
+              пригласила <rs ref="Mademoiselle_Bourienne">m-lle Bourienne</rs> и с ней вместе вышла
+              в гостиную.</s> </p>
+          <p><s>При первом взгляде на лицо <rs ref="Nikolai_Rostov" rolename="possessor">Николая</rs> она увидала, что <rs ref="Nikolai_Rostov" rolename="agent">он</rs>
+              приехал только для того, чтобы исполнить долг учтивости, и решилась твердо держаться в
+              том самом тоне, в котором <rs ref="Nikolai_Rostov" rolename="agent">он</rs> обратится
+              к ней.</s> </p>
+          <p><s>Они заговорили о здоровье <rs rolename="experiencer">графини</rs>, об общих
+              знакомых, о последних новостях войны, и когда прошли те требуемые приличием десять
+              минут, после которых <rs>гость</rs> может встать, <rs ref="Nikolai_Rostov" rolename="agent">Николай</rs> поднялся, прощаясь.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Княжна! постойте, ради Бога. Княжна!" speech_id="6065"><s><rs rolename="agent">Княжна</rs> с помощью <rs ref="Mademoiselle_Bourienne">m-lle
+                  Bourienne</rs> выдержала разговор очень хорошо; но в самую последнюю минуту, в то
+                время как <rs ref="Nikolai_Rostov">он</rs> поднялся, <rs>она</rs> так устала
+                говорить о том, до чего <rs>ей</rs> не было дела, и мысль о том, за что <rs>ей</rs>
+                одной так мало дано радостей в жизни, так заняла <rs>ее</rs>, что <rs>она</rs> в
+                припадке рассеянности, устремив вперед <rs>себя свои</rs> лучистые глаза, сидела
+                неподвижно, не замечая, что <rs ref="Nikolai_Rostov">он</rs>
+            поднялся.</s></said> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="agent">Николай</rs> посмотрел на <rs>нее</rs> и,
+              желая сделать вид, что <rs ref="Nikolai_Rostov">он</rs> не замечает <rs>ее</rs>
+              рассеянности, сказал несколько слов <rs ref="Mademoiselle_Bourienne">m-lle
+                Bourienne</rs> и опять взглянул на <rs rolename="undergoer">княжну</rs>.</s>
+            <s><rs rolename="agent">Она</rs> сидела так же неподвижно, и на нежном лице <rs>ее</rs>
+              выражалось страдание.</s>
+            <s><rs ref="Nikolai_Rostov">Ему</rs> вдруг стало жалко <rs>ее</rs> и смутно
+              представилось, что, может быть, <rs ref="Nikolai_Rostov">он</rs> был причиной той
+              печали, которая выражалась на <rs>ее</rs> лице.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="experiencer">Ему</rs> захотелось помочь <rs rolename="experiencer">ей</rs>, сказать <rs rolename="addressee">ей</rs> что-нибудь
+              приятное; но <rs ref="Nikolai_Rostov">он</rs> не мог придумать, что бы сказать <rs rolename="addressee">ей</rs>.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="Прощайте, княжна," verb="сказать" author_comment="- сказал он." speech_id="6061"><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Княжна! постойте, ради Бога. Княжна!" speech_id="6065"><s>- Прощайте,
+                    <rs>княжна</rs>,- сказал <rs ref="Nikolai_Rostov" rolename="agent">он</rs>. <rs rolename="undergoer">Она</rs> опомнилась, вспыхнула и тяжело
+              вздохнула.</s></said></said> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="Nikolai_Rostov" speech_text="Ах, виновата. Вы уже едете, граф; ну, прощайте!" verb="сказать" author_comment=",- сказала она, как бы проснувшись. -" speech_id="6054"><s>- Ах,
+                виновата,- сказала она, как бы проснувшись. - <rs rolename="agent">Вы</rs> уже
+                едете, <rs>граф</rs>; ну, прощайте!</s></said>
+            <s>А подушку <rs rolename="benemalefactive">графине</rs>?</s> </p>
+          <p><said who="mademoiselle_Bourienne" corresp="" speech_text="Постойте, я сейчас принесу ее," verb="сказать" author_comment="- сказала m-lle Bourienne и вышла из комнаты." speech_id="6062"><s>-
+                Постойте, <rs rolename="agent">я</rs> сейчас принесу ее,- сказала <rs ref="Mademoiselle_Bourienne">m-lle Bourienne</rs> и вышла из
+            комнаты.</s></said> </p>
+          <p><s>Оба молчали, изредка взглядывая друг на друга.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="Да, княжна," verb="сказать" author_comment="- сказал, наконец, Николай, грустно улыбаясь,- недавно кажется, а сколько воды утекло с тех пор, как мы с вами в первый раз виделись в Богучарове." speech_id="6044"><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Княжна! постойте, ради Бога. Княжна!" speech_id="6065"><s>- Да,
+                    <rs>княжна</rs>,- сказал, наконец, <rs ref="Nikolai_Rostov" rolename="agent">Николай</rs>, грустно улыбаясь,- недавно кажется, а сколько воды утекло с тех
+                  пор, как мы с вами в первый раз виделись в Богучарове.</s></said></said>
+            <s>Как мы все казались в несчастии,- а я бы дорого дал, чтобы воротить это время... да
+              не воротишь.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Княжна! постойте, ради Бога. Княжна!" speech_id="6065"><s><rs rolename="agent">Княжна</rs> пристально глядела <rs ref="Nikolai_Rostov">ему</rs>
+                в глаза <rs>своим</rs> лучистым взглядом, когда <rs ref="Nikolai_Rostov">он</rs>
+                говорил это.</s></said>
+            <s><rs>Она</rs> как будто старалась понять тот тайный смысл <rs ref="Nikolai_Rostov">его</rs> слов, который бы объяснил <rs>ей</rs>
+              <rs ref="Nikolai_Rostov">его</rs> чувство к <rs>ней</rs>.</s> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="Nikolai_Rostov" speech_text="Да, да, но вам нечего жалеть прошедшего, граф." verb="сказать" author_comment="- сказала она,- но вам нечего жалеть прошедшего, граф." speech_id="6050"><s>- Да, да,- сказала она,- но вам нечего жалеть прошедшего,
+                  <rs>граф</rs>. Как <rs rolename="experiencer">я</rs> понимаю вашу жизнь теперь, вы
+                всегда с наслаждением будете вспоминать ее, потому ,что самоотвержение, которым вы
+                живете теперь...</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Я не принимаю ваших похвал,напротив, я беспрестанно себя упрекаю; но это совсем неинтересный и невеселый разговор." speech_id="6058"><s>- <rs rolename="experiencer">Я</rs> не принимаю ваших похвал,-
+                перебил <rs rolename="agent">он</rs> ее поспешно,- напротив, <rs rolename="agent">я</rs> беспрестанно <rs>себя</rs> упрекаю; но это совсем неинтересный и невеселый
+                разговор.</s></said> </p>
+          <p><s>И опять взгляд <rs>его</rs> принял прежнее сухое и холодное выражение.</s>
+            <said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Княжна! постойте, ради Бога. Княжна!" speech_id="6065"><s>Но <rs rolename="experiencer">княжна</rs> уже увидала в нем опять того же <rs rolename="undergoer">человека</rs>, <rs>которого</rs>
+                <rs rolename="experiencer">она</rs> знала и любила, и говорила теперь только с этим
+                  <rs>человеком</rs>.</s></said> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="Nikolai_Rostov" speech_text="Я думала, что вы позволите мне сказать вам это," verb="сказать" author_comment="- сказала она." speech_id="6042"><s>- Я думала, что вы позволите <rs rolename="addressee">мне</rs> сказать вам это,- сказала <rs rolename="agent">она</rs>.</s></said>
+            <said who="Princess_Mariya_Bolkonskaya" corresp="Nikolai_Rostov" speech_text="Я думала, что вы позволите мне сказать вам это," verb="сказать" author_comment="- сказала она." speech_id="6042"><said who="Princess_Mariya_Bolkonskaya" corresp="Nikolai_Rostov" speech_text="Мы так сблизились с вами... и с вашим семейством, и я думала, что вы не почтете неуместным мое участие; но я ошиблась," verb="сказать" author_comment="- сказала она." speech_id="6052"><s>- Мы так
+                  сблизились с вами... и с вашим семейством, и <rs rolename="experiencer">я</rs>
+                  думала, что вы не почтете неуместным <rs rolename="possessor">мое</rs> участие; но
+                    <rs rolename="experiencer">я</rs> ошиблась,- сказала
+              <rs>она</rs>.</s></said></said>
+            <s>Голос <rs>ее</rs> вдруг дрогнул.</s>
+            <said who="Princess_Mariya_Bolkonskaya" corresp="Nikolai_Rostov" speech_text="Я не знаю почему," verb="продолжать" author_comment="- продолжала она, оправившись,- вы прежде были другой и.." speech_id="6045"><s>- <rs rolename="experiencer">Я</rs> не знаю почему,- продолжала
+                она, оправившись,- вы прежде были другой и...</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="Благодарю вас, княжна. Есть тысячи причин почему.. Иногда тяжело." verb="сказать" author_comment=",- сказал он тихо. -" speech_id="6064"><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Княжна! постойте, ради Бога. Княжна!" speech_id="6065"><s>- Есть
+                  тысячи причин почему (он сделал особое ударение на слово почему). Благодарю <rs rolename="addressee">вас</rs>, <rs>княжна</rs>,- сказал он тихо. - Иногда
+                  тяжело.</s></said></said> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="Nikolai_Rostov" speech_text="Вот отчего!. Да, если б этого не было.... Да, он теперь беден, а я богата.... Да, только от этого.... Нет, я не один этот веселый, добрый и открытый взгляд, не одну красивую внешность полюбила в нем; я угадала его благородную, твердую, самоотверженную душу. Так вот отчего!" verb="говорить" author_comment="- говорил внутренний голос в душе княжны Марьи. -" speech_id="6047"><s>'<rs>Так</rs> вот отчего! Вот отчего! - говорил внутренний голос в
+                душе <rs ref="Princess_Mariya_Bolkonskaya" rolename="undergoer">княжны Марьи</rs>. -
+                Нет, я не один этот веселый, добрый и открытый взгляд, не одну красивую внешность
+                полюбила в нем; я угадала его благородную, твердую, самоотверженную душу,- говорила
+                она себе. - Да, он теперь беден, а я богата... Да, только от этого... Да, если б
+                этого не было...'</s></said>
+            <s>И, вспоминая прежнюю его нежность и теперь глядя на его доброе и грустное лицо, она
+              вдруг поняла причину его холодности.</s> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="Nikolai_Rostov" speech_text="Вы должны сказать.. Почему же, граф, почему?. Почему, скажите мне?" verb="вскрикнуть" author_comment="- вдруг почти вскрикнула она невольно, подвигаясь к нему. -" speech_id="6063"><s>- Почему же, <rs>граф</rs>, почему? - вдруг почти вскрикнула она
+                невольно, подвигаясь к нему. - Почему, скажите мне?</s></said>
+            <s>Вы должны сказать.</s>
+            <s>- Он молчал.</s>
+            <said who="Princess_Mariya_Bolkonskaya" corresp="Nikolai_Rostov" speech_text="Я не знаю, граф, вашего почему," verb="продолжать" author_comment="- продолжала она." speech_id="6051"><s>- Я не знаю, <rs>граф</rs>,
+                вашего почему,- продолжала она.</s></said>
+            <s>- Но <rs>мне</rs> тяжело, <rs>мне... <rs rolename="agent">Я</rs></rs> признаюсь вам в
+              этом.</s>
+            <s>Вы за что-то хотите лишить <rs>меня</rs> прежней дружбы.</s>
+            <s>И <rs>мне</rs> это больно.</s><s>- У нее слезы были в глазах и в голосе.</s>
+            <s>- У <rs>меня</rs> так мало было счастия в жизни, что <rs>мне</rs> тяжела всякая
+              потеря... Извините <rs>меня</rs>, прощайте.</s>
+            <s>- Она вдруг заплакала и пошла из комнаты.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Княжна! постойте, ради Бога. Княжна!" speech_id="6065"><s>-
+                  <rs>Княжна</rs>!</s></said>
+            <s>постойте, ради бога,- вскрикнул он, стараясь остановить <rs rolename="undergoer">ее</rs>.</s>
+            <said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Княжна! постойте, ради Бога. Княжна!" speech_id="6065"><s>-
+                  <rs>Княжна</rs>!</s></said> </p>
+          <p><s><rs rolename="agent">Она</rs> оглянулась.</s>
+            <s>Несколько секунд они молча смотрели в глаза друг другу, и далекое, невозможное вдруг
+              стало близким, возможным и неизбежным.</s>  </p>
+        </div>
+        

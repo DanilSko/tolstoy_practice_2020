@@ -1,0 +1,122 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="3" type="chapter" xml:id="chapter3part4Volume4">
+          <p> </p>
+          <p><s><rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">Княжна Марья</rs> отложила
+              свой отъезд.</s>
+            <s><rs ref="Sonya_Rostova" rolename="agent">Соня</rs>, граф старались заменить <rs ref="NatashaRostova" rolename="undergoer">Наташу</rs>, но не могли.</s>
+            <s><rs ref="Sonya_Rostova">Они</rs> видели, что <rs ref="NatashaRostova">она</rs> одна
+              могла удерживать <rs rolename="undergoer">мать</rs> от безумного отчаяния.</s>
+            <s>Три недели <rs ref="NatashaRostova" rolename="agent">Наташа</rs> безвыходно жила при
+                <rs>матери</rs>, спала на кресле в ее комнате, поила, кормила ее и не переставая
+              говорила с ней,- говорила, потому что один нежный, ласкающий голос ее успокоивал <rs rolename="experiencer">графиню</rs>.</s> </p>
+          <p><s>Душевная рана <rs rolename="possessor">матери</rs> не могла залечиться.</s>
+            <s>Смерть <rs ref="Petya_Rostov" rolename="experiencer">Пети</rs> оторвала половину <rs ref="NatashaRostova" rolename="experiencer">ее</rs> жизни.</s>
+            <s>Через месяц после известия о смерти <rs ref="Petya_Rostov">Пети</rs>, заставшего ее
+              свежей и бодрой пятидесятилетней <rs rolename="experiencer">женщиной</rs>, она вышла
+              из своей комнаты полумертвой и не принимающею участия в жизни - <rs>старухой</rs>.</s>
+            <s>Но та же рана, которая наполовину убила <rs rolename="undergoer">графиню</rs>, эта новая
+              рана вызвала <rs ref="NatashaRostova" rolename="undergoer">Наташу</rs> к жизни.</s> </p>
+          <p><s>Душевная рана, происходящая от разрыва духовного тела, точно так же, как и рана
+              физическая, как ни странно это кажется, после того как глубокая рана зажила и кажется
+              сошедшейся своими краями, рана душевная, как и физическая, заживает только изнутри
+              выпирающею силой жизни.</s> </p>
+          <p><s>Так же зажила рана <rs ref="NatashaRostova" rolename="possessor">Наташи</rs>.</s>
+            <s><rs ref="NatashaRostova" rolename="experiencer">Она</rs> думала, что жизнь <rs ref="NatashaRostova" rolename="experiencer">ее</rs> кончена.</s>
+            <s>Но вдруг любовь к <rs rolename="undergoer">матери</rs> показала <rs rolename="addressee">ей</rs>, что сущность <rs rolename="experiencer">ее</rs> жизни - любовь - еще жива
+              в ней.</s>
+            <s>Проснулась любовь, и проснулась жизнь.</s> </p>
+          <p><s>Последние дни <rs ref="AndreyBolkonsky" rolename="undergoer">князя Андрея</rs> связали
+                <rs ref="NatashaRostova">Наташу</rs> с <rs ref="Princess_Mariya_Bolkonskaya" rolename="undergoer">княжной Марьей</rs>.</s>
+            <s>Новое несчастье еще более сблизило их.</s>
+            <s><rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">Княжна Марья</rs> отложила
+              свой отъезд и последние три недели, как за больным <rs>ребенком</rs>, ухаживала за <rs ref="NatashaRostova" rolename="undergoer">Наташей</rs>.</s>
+            <s>Последние недели, проведенные <rs ref="NatashaRostova" rolename="experiencer">Наташей</rs> в комнате <rs rolename="possessor">матери</rs>, надорвали <rs rolename="undergoer">ее</rs> физические силы.</s> </p>
+          <p><s>Однажды <rs ref="Princess_Mariya_Bolkonskaya">княжна Марья</rs>, в середине дня,
+              заметив, что <rs ref="NatashaRostova" rolename="undergoer">Наташа</rs> дрожит в
+              лихорадочном ознобе, увела <rs ref="NatashaRostova" rolename="agent">ее</rs> к себе и
+              уложила на своей постели.</s>
+            <s><rs ref="NatashaRostova" rolename="agent">Наташа</rs> легла, но когда <rs ref="Princess_Mariya_Bolkonskaya" rolename="experiencer">княжна Марья</rs>, опустив
+              сторы, хотела выйти, <rs ref="NatashaRostova" rolename="agent">Наташа</rs> подозвала
+                <rs ref="Princess_Mariya_Bolkonskaya">ее</rs> к <rs ref="NatashaRostova">себе</rs>.</s> </p>
+          <p><said who="NatashaRostova" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Мне не хочется спать." speech_id="5811"><s>- Мне не хочется спать.
+                  <rs>Мари</rs>, посиди со мной.</s></said> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="NatashaRostova" speech_text="- Ты устала - постарайся заснуть." speech_id="5810"><s>- Ты устала -
+                постарайся заснуть.</s></said> </p>
+          <p><said who="NatashaRostova" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Нет, нет. Зачем ты увела меня? Она спросит." speech_id="5812"><s>- Нет,
+                нет. Зачем <rs>ты</rs> увела <rs rolename="agent">меня</rs>?</s></said>
+            <s>Она спросит.</s> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="NatashaRostova" speech_text="Ей гораздо лучше.. Она нынче так хорошо говорила," verb="сказать" author_comment="- сказала княжна Марья." speech_id="5808"><s>- Ей гораздо лучше. Она
+                нынче так хорошо говорила,- сказала <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжна Марья</rs>.</s></said> </p>
+          <p><s><rs ref="NatashaRostova" rolename="agent">Наташа</rs> лежала в постели и в полутьме
+              комнаты рассматривала лицо <rs ref="Princess_Mariya_Bolkonskaya" rolename="possessor">княжны Марьи</rs>.</s> </p>
+          <p><s>'Похожа она на него? - думала <rs ref="NatashaRostova" rolename="experiencer">Наташа</rs>. - Да, похожа и не похожа. Но она особенная, чужая, совсем новая,
+              неизвестная. И она любит <rs rolename="undergoer">меня</rs>. Что у ней на душе? Все
+              доброе. Но как? Как она думает? Как <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">она</rs> на <rs rolename="undergoer">меня</rs> смотрит? Да, она
+              прекрасная'.</s> </p>
+          <p><said who="NatashaRostova" corresp="Princess_Mariya_Bolkonskaya" speech_text="Маша. Маша, ты не думай, что я дурная. Нет? Маша, голубушка. Как я тебя люблю. Будем совсем, совсем друзьями." verb="сказать" author_comment=",- сказала она, робко притянув к себе ее руку. -" speech_id="5807"><s>- <rs>Маша</rs>,- сказала <rs ref="NatashaRostova">она</rs>, робко
+                притянув к <rs ref="NatashaRostova">себе</rs> ее руку. - <rs>Маша</rs>, <rs><rs rolename="experiencer">ты</rs></rs> не думай, что <rs rolename="undergoer">я</rs>
+                дурная. Нет?</s></said>
+            <s><rs>Маша</rs>, <rs>голубушка</rs>.</s>
+            <s>Как <rs rolename="experiencer">я</rs>
+              <rs><rs rolename="undergoer">тебя</rs></rs> люблю.</s>
+            <s>Будем совсем, совсем друзьями.</s> </p>
+          <p><s>И <rs ref="NatashaRostova" rolename="agent">Наташа</rs>, обнимая, стала целовать
+              руки и лицо <rs ref="Princess_Mariya_Bolkonskaya" rolename="possessor">княжны
+                Марьи</rs>.</s>
+            <s><rs ref="Princess_Mariya_Bolkonskaya" rolename="experiencer">Княжна Марья</rs>
+              стыдилась и радовалась этому выражению чувств <rs ref="NatashaRostova" rolename="undergoer">Наташи</rs>.</s> </p>
+          <p><s>С этого дня между <rs ref="Princess_Mariya_Bolkonskaya">княжной Марьей</rs> и <rs ref="NatashaRostova">Наташей</rs> установилась та страстная и нежная дружба, которая
+              бывает только между женщинами.</s>
+            <s><rs ref="NatashaRostova" rolename="agent">Они</rs> беспрестанно целовались, говорили
+              друг <rs ref="NatashaRostova">другу</rs> нежные слова и большую часть времени
+              проводили вместе.</s>
+            <s>Если одна выходила, то другая была беспокойна и спешила присоединиться к ней.</s>
+            <s>Они вдвоем чувствовали большее согласие между собой, чем порознь, каждая сама с
+              собою.</s>
+            <s>Между ними установилось чувство сильнейшее, чем дружба: это было исключительное
+              чувство возможности жизни только в присутствии друг друга.</s> </p>
+          <p><s>Иногда они молчали целые часы; иногда, уже лежа в постелях, они начинали говорить и
+              говорили до утра.</s>
+            <s>Они говорили большей частию о дальнем прошедшем.</s>
+            <s><rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">Княжна Марья</rs> рассказывала
+              про свое детство, про свою <rs>мать</rs>, про своего <rs>отца</rs>, про свои мечтания;
+              и <rs ref="NatashaRostova" rolename="experiencer">Наташа</rs>, прежде с спокойным
+              непониманием отворачивавшаяся от этой жизни, преданности, покорности, от поэзии
+              христианского самоотвержения, теперь, чувствуя себя связанной любовью с <rs ref="Princess_Mariya_Bolkonskaya">княжной Марьей</rs>, полюбила и прошедшее княжны
+              Марьи и поняла непонятную ей прежде сторону жизни.</s>
+            <s>Она не думала прилагать к своей жизни покорность и самоотвержение, потому что она
+              привыкла искать других радостей, но она поняла и полюбила в другой эту прежде
+              непонятную ей добродетель.</s>
+            <s>Для <rs ref="Princess_Mariya_Bolkonskaya" rolename="benemalefactive">княжны</rs>
+              <rs ref="Princess_Mariya_Bolkonskaya">Марьи</rs>, слушавшей рассказы о детстве и
+              первой молодости <rs ref="NatashaRostova" rolename="possessor">Наташи</rs>, тоже
+              открывалась прежде непонятная сторона жизни, вера в жизнь, в наслаждения
+            жизни.</s> </p>
+          <p><s>Они всё точно так же никогда не говорили про него с тем, чтобы не нарушать словами,
+              как им казалось, той высоты чувства, которая была в них, а это умолчание о нем делало
+              то, что понемногу, не веря этому, они забывали его.</s> </p>
+          <p><s><rs ref="NatashaRostova" rolename="undergoer">Наташа</rs> похудела, побледнела и
+              физически так стала слаба, что все постоянно говорили о <rs ref="NatashaRostova" rolename="experiencer">ее</rs> здоровье, и <rs ref="NatashaRostova">ей</rs> это
+              приятно было.</s>
+            <s>Но иногда не <rs ref="NatashaRostova">нее</rs> неожиданно находил не только страх
+              смерти, но страх болезни, слабости, потери красоты, и невольно <rs ref="NatashaRostova" rolename="agent">она</rs> иногда внимательно разглядывала <rs ref="NatashaRostova">свою</rs> голую руку, удивляясь на ее худобу, или заглядывалась
+              по утрам в зеркало на <rs ref="NatashaRostova">свое</rs> вытянувшееся, жалкое, как <rs ref="NatashaRostova">ей</rs> казалось, лицо.</s>
+            <s>Ей казалось, что это так должно быть, и вместе с тем становилось страшно и
+              грустно.</s> </p>
+          <p><s>Один раз она скоро взошла наверх и тяжело запыхалась.</s>
+            <s>Тотчас же невольно она придумала себе дело внизу и оттуда вбежала опять наверх,
+              пробуя силы и наблюдая за собой.</s> </p>
+          <p><s>Другой раз она позвала <rs rolename="undergoer">Дуняшу</rs>, и голос <rs rolename="undergoer">ее</rs> задребезжал.</s>
+            <s><rs>Она</rs> еще раз кликнула ее, несмотря на то, что <rs>онa</rs> слышала ее шаги,-
+              кликнула тем грудным голосом, которым <rs>она</rs> певала, и прислушалась к
+            нему.</s> </p>
+          <p><s><rs rolename="experiencer">Она</rs> не знала этого, не поверила бы, но под
+              казавшимся <rs rolename="experiencer">ей</rs> непроницаемым слоем ила, застлавшим <rs rolename="undergoer">ее</rs> душу, уже пробивались тонкие, нежные молодые иглы травы,
+              которые должны были укорениться и так застлать своими жизненными побегами задавившее
+                <rs rolename="undergoer">ее</rs> горе, что его скоро будет не видно и не заметно.</s>
+            <s>Рана заживала изнутри.</s>
+            <s>В конце января <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжна
+                Марья</rs> уехала в Москву, и <rs ref="Count_Ilya_Rostov" rolename="agent">граф</rs>
+              настоял на том, чтобы <rs ref="NatashaRostova" rolename="agent">Наташа</rs> ехала с
+              нею, с тем чтобы посоветоваться с докторами.</s>  </p>
+        </div>
+        

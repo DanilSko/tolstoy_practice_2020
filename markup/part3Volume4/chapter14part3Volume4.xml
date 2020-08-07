@@ -1,0 +1,63 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="14" type="chapter" xml:id="chapter14part3Volume4">
+          <p> </p>
+          <p><s>- A vos places! - вдруг закричал голос.</s> </p>
+          <p><s>Между пленными и конвойными произошло радостное смятение и ожидание чего-то
+              счастливого и торжественного.</s>
+            <s>Со всех сторон послышались крики команды, и с левой стороны, рысью объезжая пленных,
+              показались кавалеристы, хорошо одетые, на хороших лошадях.</s>
+            <s>На всех лицах было выражение напряженности, которая бывает у людей при близости
+              высших властей.</s>
+            <s>Пленные сбились в кучу, их столкнули с дороги; конвойные построились.</s> </p>
+          <p><said who="конвойные" corresp="" speech_text="L'Empereur! L'Empereur!. Le duc!. Le maréchal!" verb="проехать" author_comment="- и только что проехали сытые конвойные, как прогремела карета цугом, на серых лошадях." speech_id="5765"><s>- L'Empereur! L'Empereur! Le maréchal! Le duc! - и только что
+                проехали сытые конвойные, как прогремела карета цугом, на серых лошадях.</s></said>
+            <s><rs ref="Pierre_Bezukhov" rolename="experiencer">Пьер</rs> мельком увидал спокойное,
+              красивое, толстое и белое лицо <rs rolename="possessor">человека</rs> в треугольной
+              шляпе.</s>
+            <s>Это был один из маршалов.</s>
+            <s>Взгляд <rs rolename="agent">маршала</rs> обратился на крупную, заметную фигуру <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs>, и в том выражении, с которым <rs rolename="experiencer">маршал</rs> этот нахмурился и отвернул лицо, <rs ref="Pierre_Bezukhov" rolename="addressee">Пьеру</rs> показалось сострадание и
+              желание скрыть его.</s> </p>
+          <p><s><rs rolename="agent">Генерал</rs>, <rs>который</rs> вел депо, с красным испуганным
+              лицом, погоняя <rs>свою</rs> худую лошадь, скакал за каретой.</s>
+            <s>Несколько офицеров сошлось вместе, солдаты окружили их.</s>
+            <s>У всех были взволнованно-напряженные лица.</s> </p>
+          <p><s>- Qu'est ce qu'il a dit? Qu'est ce qu'il a dit?.. - слышал <rs ref="Pierre_Bezukhov" rolename="experiencer">Пьер</rs>.</s> </p>
+          <p><s>Во время проезда <rs rolename="agent">маршала</rs> пленные сбились в кучу, и <rs ref="Pierre_Bezukhov" rolename="experiencer" target="id_43142">Пьер</rs> увидал <rs ref="Platon_Karataev" rolename="undergoer" xml:id="id_43142">Каратаева</rs>, <rs ref="Platon_Karataev">которого</rs>
+              <rs ref="Pierre_Bezukhov" rolename="experiencer">он</rs> не видал еще в нынешнее
+              утро.</s>
+            <s><rs ref="Platon_Karataev" rolename="agent">Каратаев</rs> в <rs ref="Platon_Karataev">своей</rs> шинельке сидел, прислонившись к березе.</s>
+            <s>В лице <rs ref="Platon_Karataev">его</rs>, кроме выражения вчерашнего радостного
+              умиления при рассказе о безвинном страдании <rs rolename="experiencer">купца</rs>,
+              светилось еще выражение тихой торжественности.</s> </p>
+          <p><s><rs ref="Platon_Karataev" rolename="agent" target="id_43143">Каратаев</rs> смотрел
+              на <rs ref="Pierre_Bezukhov" rolename="undergoer" xml:id="id_43143">Пьера</rs>
+              <rs ref="Platon_Karataev">своими</rs> добрыми, круглыми глазами, подернутыми теперь
+              слезою, и, видимо, подзывал <rs ref="Pierre_Bezukhov" rolename="undergoer">его</rs> к <rs ref="Platon_Karataev">себе</rs>, хотел сказать что-то.</s>
+            <s>Но <rs ref="Pierre_Bezukhov">Пьеру</rs> слишком страшно было за себя.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="agent">Он</rs> сделал так, как будто не видал <rs ref="Pierre_Bezukhov" rolename="agent">его</rs> взгляда, и поспешно отошел.</s> </p>
+          <p><s>Когда пленные опять тронулись, <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>
+              оглянулся назад.</s>
+            <s><rs ref="Platon_Karataev" rolename="agent">Каратаев</rs> сидел на краю дороги, у
+              березы; и два француза что-то говорили над <rs ref="Platon_Karataev">ним</rs>.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> не оглядывался больше.</s>
+            <s><rs ref="Pierre_Bezukhov">Он</rs> шел, прихрамывая, в гору.</s> </p>
+          <p><s>Сзади, с того места, где сидел <rs ref="Platon_Karataev" rolename="agent">Каратаев</rs>, послышался выстрел.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="experiencer">Пьер</rs> слышал явственно этот
+              выстрел, но в то же мгновение, как <rs ref="Pierre_Bezukhov" rolename="experiencer">он</rs> услыхал его, <rs ref="Pierre_Bezukhov" rolename="experiencer">Пьер</rs>
+              вспомнил, что <rs ref="Pierre_Bezukhov" rolename="agent">он</rs> не кончил еще начатое
+              перед проездом <rs rolename="agent">маршала</rs> вычисление о том, сколько переходов
+              оставалось до Смоленска.</s>
+            <s>И <rs ref="Pierre_Bezukhov">он</rs> стал считать.</s>
+            <s>Два французские солдата, из которых один держал в руке снятое, дымящееся ружье,
+              пробежали мимо <rs ref="Pierre_Bezukhov">Пьера</rs>.</s>
+            <s>Они оба были бледны, и в выражении их лиц - один из них робко взглянул на <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs> - было что-то похожее на то, что
+              он видел в молодом <rs>солдате</rs> на казни.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> посмотрел на <rs rolename="undergoer">солдата</rs> и вспомнил о том, как этот <rs rolename="agent">солдат</rs> третьего дня сжег, высушивая на костре, <rs>свою</rs> рубаху и как
+              смеялись над ним.</s> </p>
+          <p><s>Собака завыла сзади, с того места, где сидел <rs ref="Platon_Karataev" rolename="agent">Каратаев</rs>.</s>
+            <s>'Экая <rs>дура</rs>, о чем она воет?' - подумал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s> </p>
+          <p><s>Солдаты-товарищи, шедшие рядом с <rs ref="Pierre_Bezukhov">Пьером</rs>, не
+              оглядывались, так же как и <rs ref="Pierre_Bezukhov">он</rs>, на то место, с которого
+              послышался выстрел и потом вой собаки; но строгое выражение лежало на всех лицах.</s> 
+          </p>
+        </div>
+        

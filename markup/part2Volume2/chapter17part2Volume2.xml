@@ -1,0 +1,166 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="17" type="chapter" xml:id="chapter17part2Volume2">
+          <p> </p>
+          <p><s>В июне месяце произошло Фридландское сражение, в котором не участвовали павлоградцы,
+              и вслед за ним объявлено было перемирие.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="agent" target="id_22172">Ростов</rs>, тяжело
+              чувствовавший отсутствие <rs ref="Nikolai_Rostov" xml:id="id_22172">своего</rs>
+              <rs rolename="undergoer">друга</rs>, не имея со времени <rs rolename="agent">его</rs>
+              отъезда никаких известий о нем и беспокоясь о ходе <rs>его</rs> дела и раны,
+              воспользовался перемирием и отпросился в госпиталь проведать <rs ref="Vasily__Vasska__Denisov">Денисова</rs>.</s> </p>
+          <p><s>Госпиталь находился в маленьком прусском местечке, два раза разоренном русскими и
+              французскими войсками.</s>
+            <said who="доктор" corresp="фельдшер" speech_text="- Э!" speech_id="2700"><s>Именно
+                потому, что это было летом, когда в поле было так хорошо, местечко это с своими
+                разломанными крышами и заборами и своими загаженными улицами, оборванными жителями и
+                пьяными или больными солдатами, бродившими по нем, представляло особенно мрачное
+                зрелище.</s></said> </p>
+          <p><s>В каменном доме, на дворе с остатками разобранного забора, выбитыми частью рамами и
+              стеклами, помещался госпиталь.</s>
+            <s>Несколько перевязанных, бледных и опухших солдат ходили и сидели на дворе на
+              солнышке.</s> </p>
+          <p><s>Как только <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> вошел в двери дома,
+              его обхватил запах гниющего тела и больницы.</s>
+            <s>На лестнице <rs ref="Nikolai_Rostov">он</rs> встретил <rs>военного</rs> русского <rs rolename="undergoer">доктора</rs> с сигарою во рту.</s>
+            <s>За <rs>доктором</rs> шел русский <rs rolename="agent">фельдшер</rs>.</s> </p>
+          <p><said who="доктор" corresp="фельдшер" speech_text="Не могу же я разорваться. Фельдшер что-то еще спросил у него." verb="приходить" author_comment=",- говорил доктор,- приходи вечерком к Макару Алексеевичу, я там буду.-" speech_id="2676"><s>- Не могу же <rs>я</rs> разорваться,- говорил <rs rolename="agent">доктор</rs>,- приходи вечерком к <rs>Макару Алексеевичу</rs>, <rs rolename="undergoer">я</rs> там буду.- <rs rolename="agent">Фельдшер</rs> что-то еще
+                спросил у <rs rolename="addressee">него</rs>.</s></said> </p>
+          <p><said who="доктор" corresp="фельдшер" speech_text="- Э!" speech_id="2700"><s>- Э! делай
+                как знаешь! Разве не все равно? - <rs rolename="experiencer">Доктор</rs> увидал
+                подымающегося на лестницу <rs ref="Nikolai_Rostov" rolename="undergoer">Ростова</rs>.</s></said> </p>
+          <p><said who="доктор" corresp="Nikolai_Rostov" speech_text="Вы зачем, ваше благородие?. Вы зачем?. Или пуля вас не брала, так вы тифу набраться хотите?. Тут, батюшка, дом прокаженных." verb="сказать" author_comment="- сказал доктор. -" speech_id="2685"><s>- Вы зачем,
+                ваше благородие? - сказал <rs rolename="agent">доктор</rs>. - Вы зачем?</s></said>
+            <s>Или пуля вас не брала, так вы тифу набраться хотите?</s>
+            <s>Тут, батюшка, дом прокаженных.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="доктор" speech_text="Отчего?" verb="спросить" author_comment="- спросил Ростов." speech_id="2694"><s>- Отчего? - спросил <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>.</s></said> </p>
+          <p><said who="доктор" corresp="Nikolai_Rostov" speech_text="- Тиф, батюшка. Кто ни взойдет - смерть. Только мы двое с Макеевым (он указал на фельдшера) еще тут треплемся. Тут уж нашего брата докторов человек пять перемерло. Как поступит новенький, через недельку готов,- с видимым удовольствием сказал доктор.- Прусских докторов вызывали, так не любят союзники-то наши." speech_id="2699"><s>- Тиф, батюшка. Кто ни взойдет - смерть. Только мы двое с
+                  <rs>Макеевым</rs> (он указал на <rs rolename="undergoer">фельдшера</rs>) еще тут
+                треплемся. Тут уж нашего <rs>брата</rs> докторов человек пять перемерло. Как
+                поступит <rs rolename="agent">новенький</rs>, через недельку готов,- с видимым
+                удовольствием сказал <rs rolename="agent">доктор</rs>.- Прусских докторов вызывали,
+                так не любят союзники-то наши.</s></said> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> объяснил <rs>ему</rs>, что
+                <rs>он</rs> желал видеть здесь лежащего гусарского майора <rs ref="Vasily__Vasska__Denisov">Денисова</rs>.</s> </p>
+          <p><said who="доктор" corresp="Nikolai_Rostov" speech_text="- Не знаю, не ведаю, батюшка." speech_id="2698"><s>- Не знаю, не ведаю, батюшка. Ведь вы подумайте, у <rs rolename="possessor">меня</rs> на одного три госпиталя, четыреста больных с
+                лишком!</s></said>
+            <s>Еще хорошо, прусские дамы-благодетельницы нам кофею и корпию присылают по два фунта в
+              месяц, а то бы пропали.</s>
+            <s>- Он засмеялся.</s>
+            <s>- Четыреста, батюшка; а <rs rolename="addressee">мне</rs> все новеньких присылают.
+              Ведь четыреста есть? А? - обратился он к <rs>фельдшеру</rs>.</s> </p>
+          <p><s><rs rolename="possessor">Фельдшер</rs> имел измученный вид.</s>
+            <s><rs rolename="experiencer">Он</rs>, видимо, с досадой дожидался, скоро ли уйдет
+              заболтавшийся <rs rolename="agent">доктор</rs>.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="доктор" speech_text="Майор Денисов," verb="повторить" author_comment="- повторил Ростов,- он под Молитеном ранен был." speech_id="2686"><s>- Майор <rs ref="Vasily__Vasska__Denisov">Денисов</rs>,- повторил
+                  <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>,- <rs>он</rs> под Молитеном
+                ранен был.</s></said> </p>
+          <p><said who="доктор" corresp="фельдшер" speech_text="А, Макеев?. Кажется, умер." verb="спросить" author_comment="- равнодушно спросил доктор у фельдшера." speech_id="2675"><s>- Кажется, умер. А, <rs>Макеев</rs>? - равнодушно спросил <rs rolename="agent">доктор</rs> у <rs rolename="addressee">фельдшера</rs>.</s></said> </p>
+          <p><s><rs rolename="agent">Фельдшер</rs>, однако, не подтвердил слов <rs rolename="agent">доктора</rs>.</s> </p>
+          <p><said who="доктор" corresp="Nikolai_Rostov" speech_text="Что, он такой длинный, рыжеватый?" verb="спросить" author_comment="- спросил доктор." speech_id="2684"><s>- Что, <rs>он</rs> такой
+                длинный, рыжеватый? - спросил <rs rolename="agent">доктор</rs>.</s></said> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> описал наружность <rs ref="Vasily__Vasska__Denisov" rolename="undergoer">Денисова</rs>.</s> </p>
+          <p><said who="доктор" corresp="фельдшер" speech_text="- Э!" speech_id="2700"><said who="доктор" corresp="Nikolai_Rostov" speech_text="- Был, был такой,- как бы радостно проговорил доктор,- этот, должно быть, умер, а впрочем, я справлюсь, у меня списки были." speech_id="2702"><s>- Был, был такой,- как бы радостно проговорил <rs rolename="agent">доктор</rs>,- этот, должно быть, умер, а впрочем, <rs rolename="experiencer">я</rs> справлюсь, у <rs rolename="possessor">меня</rs>
+                  списки были. Есть у <rs rolename="possessor">тебя</rs>,
+                <rs>Макеев</rs>?</s></said></said> </p>
+          <p><said who="фельдшер" corresp="Nikolai_Rostov" speech_text="Списки у Макара Алексеича," verb="сказать" author_comment="- сказал фельдшер." speech_id="2689"><s>- Списки у <rs rolename="possessor">Макара Алексеича</rs>,- сказал <rs rolename="agent">фельдшер</rs>.</s></said>
+            <said who="фельдшер" corresp="" speech_text="А пожалуйте в офицерские палаты, там сами увидите," verb="прибавить" author_comment="- прибавил он, обращаясь к Ростову." speech_id="2679"><s>- А пожалуйте
+                в офицерские палаты, там сами увидите,- прибавил <rs rolename="agent">он</rs>,
+                обращаясь к <rs ref="Nikolai_Rostov" rolename="addressee">Ростову</rs>.</s></said> </p>
+          <p><said who="доктор" corresp="Nikolai_Rostov" speech_text=" не ходить батюшка" verb="сказать" speech_id="2690"><said who="доктор" corresp="Nikolai_Rostov" speech_text="- Эх, лучше не ходить, батюшка, а то как бы сами тут не остались! " speech_id="2695"><said who="доктор" corresp="фельдшер" speech_text="- Э!" speech_id="2700"><s>- Эх, лучше не ходить, батюшка,- сказал <rs rolename="agent">доктор</rs>,- а то как бы сами тут не остались! - Но <rs ref="Nikolai_Rostov">Ростов</rs> откланялся <rs>доктору</rs> и попросил <rs rolename="addressee">фельдшера</rs> проводить его.</s></said></said></said> </p>
+          <p><said who="доктор" corresp="Nikolai_Rostov" speech_text="- Не пенять же, чур, на меня,- прокричал доктор из-под лестницы." speech_id="2701"><s>- Не пенять же, чур, на <rs rolename="experiencer">меня</rs>,-
+                прокричал <rs rolename="agent">доктор</rs> из-под лестницы.</s></said> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> с <rs rolename="agent">фельдшером</rs> вошли в коридор.</s>
+            <said who="доктор" corresp="фельдшер" speech_text="- Э!" speech_id="2700"><s>Больничный
+                запах был так силен в этом темном коридоре, что <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> схватился за нос и должен был остановиться, чтобы
+                собраться с силами и идти дальше.</s></said>
+            <s>Направо отворилась дверь, и оттуда высунулся на костылях худой, желтый <rs rolename="agent">человек</rs>, босой и в одном белье.</s>
+            <s><rs>Он</rs>, упершись о притолоку, блестящими, завистливыми глазами поглядел на
+              проходящих.</s>
+            <s>Заглянув в дверь, <rs ref="Nikolai_Rostov" rolename="experiencer">Ростов</rs> увидал,
+              что больные и раненые лежали там на полу, на соломе и шинелях.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="доктор" speech_text="Что же это?" verb="спросить" author_comment="- спросил он." speech_id="2693"><said who="доктор" corresp="фельдшер" speech_text="- Э!" speech_id="2700"><s>- Что же это? - спросил <rs ref="Nikolai_Rostov" rolename="agent">он</rs>.</s></said></said> </p>
+          <p><said who="фельдшер" corresp="Nikolai_Rostov" speech_text="Это солдатские," verb="отвечать" author_comment="- отвечал фельдшер." speech_id="2691"><said who="доктор" corresp="фельдшер" speech_text="- Э!" speech_id="2700"><s>- Это
+                  солдатские,- отвечал <rs rolename="agent">фельдшер</rs>.</s></said></said>
+            <said who="Nikolai_Rostov" corresp="" speech_text="Что же делать," verb="прибавить" author_comment="- прибавил он, как будто извиняясь." speech_id="2682"><s>- Что же
+                делать,- прибавил <rs rolename="agent">он</rs>, как будто извиняясь.</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="фельдшер" speech_text="А можно войти посмотреть?" verb="спросить" author_comment="- спросил Ростов." speech_id="2688"><s>- А можно войти
+                посмотреть? - спросил <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>.</s></said> </p>
+          <p><said who="фельдшер" corresp="Nikolai_Rostov" speech_text="Что же смотреть?" verb="сказать" author_comment="- сказал фельдшер." speech_id="2687"><s>- Что же
+                смотреть? - сказал <rs rolename="agent">фельдшер</rs>.</s></said>
+            <s>Но именно потому, что <rs rolename="experiencer">фельдшер</rs>, очевидно, не желал
+              впустить туда, <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> вошел в
+              солдатские палаты.</s>
+            <s>Запах, к которому <rs ref="Nikolai_Rostov">он</rs> уже успел придышаться в коридоре,
+              здесь был еще сильнее.</s>
+            <said who="доктор" corresp="фельдшер" speech_text="- Э!" speech_id="2700"><s>Запах этот
+                здесь несколько изменился: он был резче, и чувствительно было, что отсюда-то именно
+                он и происходил.</s></said> </p>
+          <p><s>В длинной комнате, ярко освещенной солнцем в большие окна, в два ряда, головами к
+              стенам и оставляя проход посередине, лежали больные и раненые.</s>
+            <s>Большая часть из них были в забытьи и не обратили внимания на вошедших.</s>
+            <s>Те, которые были в памяти, все приподнялись или подняли свои худые, желтые лица, и
+              все с одним и тем же выражением надежды на помощь, упрека и зависти к чужому здоровью,
+              не спуская глаз, смотрели на <rs ref="Nikolai_Rostov" rolename="undergoer">Ростова</rs>.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> вышел на середину комнаты,
+              заглянул в соседние две комнаты с растворенными дверями, и с обеих сторон увидал то же
+              самое.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="undergoer">Он</rs> остановился, молча оглядываясь
+              вокруг <rs ref="Nikolai_Rostov">себя</rs>.</s>
+            <said who="доктор" corresp="фельдшер" speech_text="- Э!" speech_id="2700"><s><rs ref="Nikolai_Rostov" rolename="experiencer">Он</rs> никак не ожидал видеть
+                это.</s></said>
+            <s>Перед самым <rs ref="Nikolai_Rostov">им</rs> лежал почти поперек среднего прохода, на
+              голом полу, <rs>больной</rs>, вероятно, казак, потому что волосы <rs rolename="possessor">его</rs> были обстрижены в скобку.</s>
+            <said who="доктор" corresp="фельдшер" speech_text="- Э!" speech_id="2700"><s><rs rolename="agent">Казак</rs> этот лежал навзничь, раскинув огромные руки и
+                ноги.</s></said>
+            <s>Лицо <rs>его</rs> было багрово-красно, глаза совершенно закачены, так что видны были
+              одни белки, и на босых ногах <rs>его</rs> и на руках, еще красных, жилы напружились,
+              как веревки.</s>
+            <said who="доктор" corresp="фельдшер" speech_text="- Э!" speech_id="2700"><s><rs rolename="undergoer">Он</rs> стукнулся затылком о пол и что-то хрипло проговорил и
+                стал повторять это слово.</s></said>
+            <s><rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> прислушался к тому, что он
+              говорил, и разобрал повторяемое им слово.</s>
+            <said who="доктор" corresp="фельдшер" speech_text="- Э!" speech_id="2700"><s>Слово это
+                было: испить - пить - испить!</s></said>
+            <said who="доктор" corresp="фельдшер" speech_text="- Э!" speech_id="2700"><s><rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> оглянулся, отыскивая того, кто
+                бы мог уложить на место этого <rs rolename="agent">больного</rs> и дать <rs rolename="possessor">ему</rs> воды.</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="фельдшер" speech_text="Кто ж тут ходит за больными?" verb="спросить" author_comment="- спросил он фельдшера." speech_id="2683"><s>- Кто ж тут ходит за
+                больными? - спросил он <rs rolename="addressee">фельдшера</rs>.</s></said>
+            <said who="доктор" corresp="фельдшер" speech_text="- Э!" speech_id="2700"><s>В это время
+                из соседней комнаты вышел фурштатский <rs rolename="agent">солдат</rs>, больничный
+                служитель, и, отбивая шаг, вытянулся перед <rs ref="Nikolai_Rostov">Ростовым</rs>.</s></said> </p>
+          <p><said who="солдат" corresp="" speech_text="Здравия желаю, ваше высокоблагородие!" verb="прокричать" author_comment="- прокричал этот солдат, выкатывая глаза на Ростова и, очевидно, принимая его за больничное начальство." speech_id="2697"><said who="доктор" corresp="фельдшер" speech_text="- Э!" speech_id="2700"><s>- Здравия желаю, <rs rolename="possessor">ваше</rs>
+                  <rs>высокоблагородие</rs>! - прокричал этот <rs rolename="agent">солдат</rs>,
+                  выкатывая глаза на <rs ref="Nikolai_Rostov">Ростова</rs> и, очевидно, принимая его
+                  за больничное начальство.</s></said></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="солдат" speech_text="Убери же его, дай ему воды," verb="сказать" author_comment="- сказал Ростов, указывая на казака." speech_id="2677"><s>- Убери же <rs>его</rs>, дай <rs>ему</rs> воды,- сказал <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>, указывая на <rs rolename="undergoer">казака</rs>.</s></said> </p>
+          <p><said who="солдат" corresp="Nikolai_Rostov" speech_text="Слушаю, ваше высокоблагородие," verb="проговорить" author_comment="- с удовольствием проговорил солдат, еще старательнее выкатывая глаза и вытягиваясь, но не трогаясь с места." speech_id="2696"><s>- Слушаю, <rs>ваше</rs>
+                <rs>высокоблагородие</rs>,- с удовольствием проговорил <rs rolename="agent">солдат</rs>, еще старательнее выкатывая глаза и вытягиваясь, но не трогаясь с
+                места.</s></said> </p>
+          <p><s>'Нет, тут ничего не сделаешь',- подумал <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>, опустив глаза, и хотел уже выходить, но с правой стороны <rs>он</rs>
+              чувствовал устремленный на <rs>себя</rs> значительный взгляд и оглянулся на него.</s>
+            <s>Почти в самом углу на шинели сидел с желтым, как скелет, худым, строгим лицом и с
+              небритой седой бородой старый <rs rolename="agent">солдат</rs> и упорно смотрел на <rs ref="Nikolai_Rostov" rolename="undergoer">Ростова</rs>.</s>
+            <s>С одной стороны <rs rolename="agent">сосед</rs> старого <rs>солдата</rs> что-то
+              шептал <rs rolename="addressee">ему</rs>, указывая на <rs ref="Nikolai_Rostov" rolename="undergoer">Ростова</rs>.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="experiencer">Ростов</rs> понял, что
+                <rs>старик</rs> намерен о чем-то просить <rs rolename="addressee">его</rs>.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="agent">Он</rs> подошел ближе и увидал, что у
+                <rs>старика</rs> была согнута только одна нога, а другой совсем не было выше
+              колена.</s>
+            <s>Другой <rs>сосед</rs>
+              <rs>старика</rs>, неподвижно лежавший с закинутой головой, довольно далеко от
+                <rs>него</rs>, был молодой солдат с восковой бледностью на курносом, покрытом еще
+              веснушками, лице и с закаченными под веки глазами.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> поглядел на курносого <rs rolename="undergoer">солдата</rs>, и мороз пробежал по <rs rolename="possessor">его</rs> спине.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="фельдшер" speech_text="- Да ведь этот, кажется... " speech_id="2692"><said who="доктор" corresp="фельдшер" speech_text="- Э!" speech_id="2700"><s>- Да ведь этот, кажется... - обратился <rs rolename="undergoer">он</rs> к <rs>фельдшеру</rs>.</s></said></said> </p>
+          <p><said who="солдат" corresp="" speech_text="Еще утром кончился.. Уж как просили, ваше благородие" verb="сказать" author_comment=",- сказал старый солдат с дрожанием нижней челюсти. -" speech_id="2678"><s>- Уж как просили, <rs rolename="possessor">ваше</rs>
+                <rs>благородие</rs>,- сказал старый <rs rolename="agent">солдат</rs> с дрожанием
+                нижней челюсти. - Еще утром кончился. Ведь тоже люди, а не собаки...</s></said> </p>
+          <p><said who="фельдшер" corresp="Nikolai_Rostov" speech_text="Пожалуйте, ваше благородие.. Сейчас пришлю, уберут, уберут" verb="сказать" author_comment=",- поспешно сказал фельдшер. -" speech_id="2681"><s>-
+                Сейчас пришлю, уберут, уберут,- поспешно сказал <rs rolename="agent">фельдшер</rs>.
+                - Пожалуйте, <rs>ваше</rs>
+                <rs>благородие</rs>.</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="фельдшер" speech_text="Пойдем, пойдем!" verb="сказать" author_comment="— поспешно сказал Ростов, и, опустив глаза и сжавшись, стараясь пройти незамеченным сквозь строй этих укоризненных и завистливых глаз, устремленных на него, он вышел из комнаты." speech_id="2680"><said who="доктор" corresp="фельдшер" speech_text="- Э!" speech_id="2700"><s>— Пойдем, пойдем! — поспешно сказал <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>, и, опустив глаза и сжавшись, стараясь пройти
+                  незамеченным сквозь строй этих укоризненных и завистливых глаз, устремленных на
+                    <rs ref="Nikolai_Rostov">него, он</rs> вышел из комнаты.</s></said></said>  </p>
+        </div>
+        

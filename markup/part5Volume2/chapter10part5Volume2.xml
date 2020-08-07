@@ -1,0 +1,129 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="10" type="chapter" xml:id="chapter10part5Volume2">
+          <p> </p>
+          <p><s>В антракте в ложе <rs ref="HeleneKuragin" rolename="possessor">Элен</rs> пахнуло
+              холодом, отворилась дверь и, нагибаясь и стараясь не зацепить кого-нибудь, вошел
+              Анатоль.</s> </p>
+          <p><said who="HeleneKuragin" corresp="NatashaRostova" speech_text="Позвольте мне вам представить брата," verb="сказать" author_comment="- беспокойно перебегая глазами с Наташи на Анатоля, сказала Элен." speech_id="3545"><s>- Позвольте <rs rolename="addressee">мне</rs> вам представить <rs rolename="undergoer">брата</rs>,- беспокойно перебегая глазами с <rs ref="NatashaRostova" target="id_25103">Наташи</rs> на Анатоля, сказала <rs ref="HeleneKuragin" rolename="agent" xml:id="id_25103">Элен</rs>. <rs ref="NatashaRostova" rolename="agent">Наташа</rs> через голое плечо оборотила к
+                  <rs>красавцу</rs>
+                <rs ref="NatashaRostova">свою</rs> хорошенькую головку и улыбнулась. <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs>, который вблизи был так же
+                хорош, как и издали, подсел к <rs ref="NatashaRostova">ней</rs> и сказал, что давно
+                желал иметь это удовольствие, еще с нарышкинского бала, на котором имел
+                удовольствие, которое он не забыл, видеть <rs ref="NatashaRostova">ее</rs>.</s></said>
+            <s><rs rolename="undergoer">Курагин</rs> с женщинами был гораздо умнее и проще, чем в
+              мужском обществе.</s>
+            <s><rs rolename="agent">Он</rs> говорил смело и просто, и <rs ref="NatashaRostova" rolename="experiencer">Наташу</rs> странно и приятно поразило то, что не только
+              ничего не было такого страшного в этом <rs>человеке</rs>, про <rs>которого</rs> так
+              много рассказывали, но что, напротив, у <rs rolename="possessor">него</rs> была самая
+              наивно-веселая и добродушная улыбка.</s> </p>
+          <p><s rolename="agent">Анатоль <rs>Курагин</rs> спросил про впечатление спектакля и
+              рассказал <rs ref="NatashaRostova" rolename="addressee">ей</rs> про то, как в прошлый
+              спектакль <rs rolename="agent">Семенова</rs>, играя, упала.</s> </p>
+          <p><said who="Anatole_Kuragin" corresp="NatashaRostova" speech_text="А знаете, графиня, у нас устраивается карусель в костюмах; вам бы надо участвовать в нем: будет очень весело.. Все собираются у Архаровых.. Пожалуйста, приезжайте, право, а?" verb="проговорить" author_comment="- сказал он, вдруг обращаясь к ней, как к старой давнишней знакомой,-" speech_id="3542"><s>- А знаете, <rs>графиня</rs>,- сказал он, вдруг обращаясь к <rs ref="NatashaRostova" rolename="addressee">ней</rs>, как к старой давнишней
+                  <rs>знакомой</rs>,- у нас устраивается карусель в костюмах; вам бы надо
+                участвовать в нем: будет очень весело. Все собираются у Архаровых. Пожалуйста,
+                приезжайте, право, а? - проговорил он.</s></said> </p>
+          <p><s>Говоря это, он не спускал улыбающихся глаз с лица, с шеи, с оголенных рук <rs ref="NatashaRostova" rolename="possessor">Наташи</rs>.</s>
+            <s><rs ref="NatashaRostova" rolename="experiencer">Наташа</rs> несомненно знала, что он
+              восхищается <rs ref="NatashaRostova" rolename="undergoer">ею</rs>.</s>
+            <s><rs ref="NatashaRostova">Ей</rs> было это приятно, но почему-то <rs ref="NatashaRostova">ей</rs> тесно, жарко и тяжело становилось от его
+              присутствия.</s>
+            <s>Когда <rs ref="NatashaRostova" rolename="agent">она</rs> не смотрела на него, <rs ref="NatashaRostova">она</rs> чувствовала, что он смотрел на <rs ref="NatashaRostova">ее</rs> плечи, и <rs ref="NatashaRostova">она</rs> невольно
+              перехватывала его взгляд, чтоб он уж лучше смотрел на <rs ref="NatashaRostova">ее</rs>
+              глаза.</s>
+            <s>Но, глядя ему в глаза, она со страхом чувствовала, что между им и ею совсем нет той
+              преграды стыдливости, которую всегда она чувствовала между собой и другими
+              мужчинами.</s>
+            <s>Она, сама не зная как, через пять минут чувствовала себя страшно близкой к этому
+                <rs>человеку</rs>.</s>
+            <s>Когда она отворачивалась, она боялась, как бы <rs rolename="possessor">он</rs> сзади
+              не взял ее за голую руку, не поцеловал бы ее в шею.</s>
+            <s>Они говорили о самых простых вещах, а она чувствовала, что они близки, как она
+              никогда не была с <rs>мужчиной</rs>.</s>
+            <said who="взгляд" corresp="NatashaRostova" speech_text="как только то, что он всегда говорил: 'Весело, ну я и рад'" verb="сказать" speech_id="3541"><s><rs ref="NatashaRostova" rolename="agent" target="id_25104">Наташа</rs> оглядывалась на <rs ref="HeleneKuragin" rolename="undergoer" xml:id="id_25104">Элен</rs> и на <rs rolename="undergoer">отца</rs>, как будто спрашивая <rs ref="HeleneKuragin" rolename="addressee">их</rs>, что такое это значило; но <rs ref="HeleneKuragin" rolename="undergoer">Элен</rs> была занята разговором с каким-то <rs>генералом</rs> и не ответила на
+                  <rs ref="NatashaRostova">её</rs> взгляд, а взгляд <rs rolename="agent">отца</rs>
+                ничего не сказал <rs ref="HeleneKuragin" rolename="addressee">ей</rs>, как только
+                то, что <rs>он</rs> всегда говорил: 'Весело, ну <rs>я</rs> и рад'.</s></said> </p>
+          <p><s>В одну из минут неловкого молчания, во время которых <rs rolename="agent">Анатоль</rs> своими выпуклыми глазами спокойно и упорно смотрел на <rs ref="NatashaRostova">нее</rs>, <rs ref="NatashaRostova" rolename="agent">Наташа</rs>, чтобы прервать это молчание, спросила <rs rolename="addressee">его</rs>,
+              как <rs rolename="experiencer">ему</rs> нравится Москва.</s>
+            <s><rs ref="NatashaRostova" rolename="agent">Наташа</rs> спросила и покраснела.</s>
+            <s><rs ref="NatashaRostova">Ей</rs> постоянно казалось, что что-то неприличное <rs ref="NatashaRostova">она</rs> делает, говоря с ним.</s>
+            <s><rs ref="Anatole_Kuragin" rolename="agent" target="id_25105">Анатоль</rs> улыбнулся,
+              как бы ободряя <rs ref="NatashaRostova" xml:id="id_25105">ее</rs>.</s> </p>
+          <p><said who="Anatole_Kuragin" corresp="NatashaRostova" speech_text="Ce sont les jolies femmes, не правда  ли?. Vous serez la plus jolie.. Ну а теперь очень нравится. Поедете на карусель, графиня?. Сначала мне мало нравилась, потому что что́ делает город приятным?" verb="сказать" author_comment=",- сказал он, значительно глядя на нее. -" speech_id="3546"><s>- Сначала <rs><rs ref="Anatole_Kuragin">мне</rs></rs> мало
+                нравилась, потому что что́ делает город приятным? Ce sont les jolies femmes, не
+                правда ли? Ну а теперь очень нравится,- сказал <rs><rs ref="Anatole_Kuragin">он</rs></rs>, значительно глядя на <rs ref="NatashaRostova">нее</rs>. - Поедете
+                на карусель, <rs>графиня</rs>? Пожалуйста, поезжайте,- сказал <rs><rs ref="Anatole_Kuragin">он</rs></rs> и, протянув руку к ее букету и понижая голос,
+                сказал: - Vous serez la plus jolie. Venez, chère comtesse, et comme gage donnez moi
+                cette fleur.</s></said> </p>
+          <p><s><rs ref="NatashaRostova" rolename="experiencer">Наташа</rs> не поняла того, что
+                  <rs><rs ref="Anatole_Kuragin">он</rs></rs> сказал, так же как <rs><rs ref="Anatole_Kuragin">он</rs></rs> сам, но <rs ref="NatashaRostova" rolename="experiencer">она</rs> чувствовала, что в непонятных словах <rs><rs ref="Anatole_Kuragin">его</rs></rs> был неприличный умысел.</s>
+            <s><rs ref="NatashaRostova" rolename="experiencer">Она</rs> не знала, что сказать, и
+              отвернулась, как будто не слыхала того, что <rs ref="Anatole_Kuragin">он</rs>
+              сказал.</s>
+            <s>Но только что <rs ref="NatashaRostova" rolename="agent">она</rs> отвернулась, <rs ref="NatashaRostova">она</rs> подумала, что <rs ref="Anatole_Kuragin">он</rs> тут
+              сзади, так близко от <rs ref="NatashaRostova">нее</rs>.</s> </p>
+          <p><said who="NatashaRostova" corresp="NatashaRostova" speech_text="Надо поправить это?. Он сконфужен?. Рассержен?. Что он теперь?" verb="спрашивать" author_comment="Что он теперь? Он сконфужен? Рассержен? Надо поправить это?'- спрашивала она сама себя" speech_id="3539"><s>'Что он теперь? Он сконфужен? Рассержен? Надо поправить это?'-
+                спрашивала <rs ref="NatashaRostova">она</rs> сама <rs ref="NatashaRostova">себя</rs>.</s></said>
+            <s><rs ref="NatashaRostova">Она</rs> не могла удержаться, чтобы не оглянуться.</s>
+            <s><rs ref="NatashaRostova">Она</rs> прямо в глаза взглянула ему, и его близость, и
+              уверенность, и добродушная ласковость улыбки победили <rs ref="NatashaRostova">ее</rs>.</s>
+            <s>Она улыбнулась тоже, так же, как и он, глядя прямо в глаза ему.</s>
+            <s>И опять она с ужасом чувствовала, что между ним и ею нет никакой преграды.</s> </p>
+          <p><s>Опять поднялась занавесь.</s>
+            <s rolename="agent">Анатоль вышел из ложи, спокойный и веселый.</s>
+            <s><rs ref="NatashaRostova" rolename="agent">Наташа</rs> вернулась к <rs>отцу</rs> в
+              ложу, совершенно уже подчиненная тому миру, в котором она находилась.</s>
+            <s>Все, что происходило перед <rs ref="NatashaRostova">нею</rs>, уже казалось <rs ref="NatashaRostova" rolename="experiencer">ей</rs> вполне естественным; но зато все
+              прежние мысли <rs ref="NatashaRostova" rolename="experiencer">ее</rs> о
+                <rs>женихе</rs>, о <rs ref="Princess_Mariya_Bolkonskaya">княжне Марье</rs>, о
+              деревенской жизни ни разу не пришли <rs ref="NatashaRostova" rolename="experiencer">ей</rs> в голову, как будто все то было давно, давно прошедшее.</s> </p>
+          <p><s>В четвертом акте был какой-то черт, который пел, махая рукою до тех пор, пока не
+              выдвинули под ним доски и он не опустился туда.</s>
+            <s><rs ref="NatashaRostova" rolename="experiencer">Наташа</rs> только это и видела из
+              четвертого акта: что-то волновало и мучило <rs ref="NatashaRostova" rolename="experiencer">ее</rs>, и причиной этого волнения был <rs>Курагин</rs>, за
+                <rs>которым</rs>
+              <rs ref="NatashaRostova" rolename="agent">она</rs> невольно следила глазами.</s>
+            <s>Когда они выходили из театра, <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs>
+              подошел к ним, вызвал их карету и подсаживал их.</s>
+            <s>Подсаживая <rs ref="NatashaRostova" rolename="agent">Наташу</rs>, он пожал <rs ref="NatashaRostova">ей</rs> руку выше кисти.</s>
+            <s><rs ref="NatashaRostova" rolename="agent">Наташа</rs>, взволнованная, красная и
+              счастливая, оглянулась на него.</s>
+            <s><rs ref="Anatole_Kuragin" rolename="experiencer">Он</rs>, блестя своими глазами и нежно улыбаясь, смотрел на <rs ref="NatashaRostova" rolename="undergoer">нее</rs>.</s> </p>
+          <p><s>Только приехав домой, <rs ref="NatashaRostova">Наташа</rs> могла ясно обдумать все
+              то, что с <rs ref="NatashaRostova">ней</rs> было, и, вдруг вспомнив о <rs ref="AndreyBolkonsky">князе Андрее</rs>, <rs ref="NatashaRostova" rolename="experiencer">она</rs> ужаснулась и при всех, за чаем, за который все сели
+              после театра, громко ахнула и, раскрасневшись, выбежала из комнаты.</s>
+            <s>'Боже мой! <rs ref="NatashaRostova" rolename="experiencer">Я</rs> погибла! - сказала
+                <rs ref="NatashaRostova" rolename="agent">она себе</rs>. - Как <rs ref="NatashaRostova">я</rs> могла допустить до этого?'- думала <rs ref="NatashaRostova">она</rs>.</s>
+            <s>Долго <rs ref="NatashaRostova">она</rs> сидела, закрыв раскрасневшееся лицо руками,
+              стараясь дать <rs ref="NatashaRostova">себе</rs> ясный отчет в том, что было с <rs ref="NatashaRostova">нею</rs>, и не могла ни понять того, что с <rs ref="NatashaRostova">ней</rs> было, ни того, что <rs ref="NatashaRostova">она</rs>
+              чувствовала.</s>
+            <s>Все казалось ей темно, неясно и страшно.</s>
+            <s>Там, в этой огромной освещенной зале, где по мокрым доскам прыгал под музыку с голыми
+              ногами Duport в курточке с блестками, и девицы, и старики, и голая, с спокойной и
+              гордой улыбкой <rs ref="HeleneKuragin">Элен</rs> в восторге кричали браво,- там, под тенью этой <rs ref="HeleneKuragin">Элен</rs>, там это было
+              все ясно и просто; но теперь одной, самой с собой, это было непонятно.</s>
+            <s>'Что это такое? Что такое этот страх, который я испытывала к нему? Что такое эти
+              угрызения совести, которые я испытываю теперь?'- думала она.</s> </p>
+          <p><s>Одной старой <rs ref="Countess_Natalya_Rostova">графине</rs>
+              <rs ref="NatashaRostova" rolename="undergoer">Наташа</rs> в состоянии была бы ночью в
+              постели рассказать все, что она думала.</s>
+            <s><rs ref="Sonya_Rostova">Соня</rs>, она знала, с своим строгим и цельным взглядом, или
+              ничего бы не поняла, или ужаснулась бы ее признанию.</s>
+            <s><rs ref="NatashaRostova" rolename="agent">Наташа</rs> одна сама с <rs><rs ref="NatashaRostova">собой</rs></rs> старалась разрешить то, что ее
+            мучило.</s> </p>
+          <p><said who="NatashaRostova" corresp="NatashaRostova" speech_text="Погибла ли я для любви князя Андрея или нет?" verb="спрашивать" author_comment="Погибла ли я для любви князя Андрея или нет?' - спрашивала она себя" speech_id="3543"><s>'Погибла ли <rs><rs ref="NatashaRostova" rolename="experiencer">я</rs></rs> для любви <rs ref="AndreyBolkonsky" rolename="experiencer">князя
+                  Андрея</rs> или нет?' - спрашивала <rs><rs ref="NatashaRostova">она себя</rs></rs>
+                и с успокоительной усмешкой отвечала <rs><rs ref="NatashaRostova" rolename="addressee">себе</rs></rs>: 'Что <rs>я</rs> за дура, что <rs rolename="agent">я</rs> спрашиваю это? Что ж со <rs>мной</rs> было? Ничего.
+                  <rs>Я</rs> ничего не сделала, ничем не вызвала этого. Никто не узнает, и <rs rolename="experiencer">я</rs> его больше не увижу никогда,- говорила она <rs rolename="addressee">себе</rs>. - Стало быть, ясно, что ничего не случилось, что
+                не в чем раскаиваться, что <rs ref="AndreyBolkonsky">князь Андрей</rs> может любить
+                меня и такою.</s></said><s> Но какою такою? Ах боже, боже мой! Зачем его нет
+              тут!'</s>
+            <s><rs ref="NatashaRostova" rolename="experiencer">Наташа</rs> успокоивалась на
+              мгновенье, но потом опять какой-то инстинкт говорил <rs ref="NatashaRostova" rolename="addressee">ей</rs>, что хотя все это и правда и хотя ничего не было,-
+              инстинкт говорил <rs ref="NatashaRostova" rolename="addressee">ей</rs>, что вся
+              прежняя чистота любви ее к <rs ref="AndreyBolkonsky" rolename="undergoer">князю
+                Андрею</rs> погибла.</s>
+            <s>И она опять в своем воображении повторяла весь свой разговор с <rs>Курагиным</rs> и
+              представляла себе лицо, жест и нежную улыбку этого красивого и смелого <rs rolename="agent">человека</rs>, в то время как <rs>он</rs> пожал ее руку.</s>  </p>
+        </div>
+        

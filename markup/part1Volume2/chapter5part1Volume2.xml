@@ -1,0 +1,105 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="5" type="chapter" xml:id="chapter5part1Volume2">
+          <p> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Pierre_Bezukhov" speech_text="Ну, начинайте!" verb="сказать" author_comment="- сказал Долохов." speech_id="2157"><s>- Ну, начинайте! - сказал <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>.</s></said> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Fedor_Ivanovich_Dolokhov" speech_text="- Что ж" verb="сказать" author_comment="- сказал Пьер, все так же улыбаясь." speech_id="2162"><s>- Что ж,- сказал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, все так
+                же улыбаясь.</s></said> </p>
+          <p><s>Становилось страшно.</s>
+            <s>Очевидно было, что дело, начавшееся так легко, уже ничем не могло быть предотвращено,
+              что оно шло само собою, уже независимо от воли людей, и должно было совершиться.</s>
+            <s><rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs> первый вышел вперед
+              до барьера и провозгласил:</s> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Fedor_Ivanovich_Dolokhov;Pierre_Bezukhov" speech_text="- Так как пг'отивники отказались от пг'имиг'ения, то не угодно ли начинать: взять пистолеты и по слову тг'и начинать сходиться." speech_id="2155"><s>- Так как пг'отивники отказались от пг'имиг'ения, то не угодно ли
+                начинать: взять пистолеты и по слову тг'и начинать сходиться.</s></said> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Fedor_Ivanovich_Dolokhov" speech_text="- Г'...аз!" speech_id="2153"><s>- Г'...аз! Два! Тг'и!.. - сердито
+                прокричал <rs ref="Vasily__Vasska__Denisov" rolename="undergoer">Денисов</rs> и отошел
+                в сторону.</s></said>
+            <s>Оба пошли по протоптанным дорожкам все ближе и ближе, в тумане узнавая друг
+              друга.</s>
+            <s>Противники имели право, сходясь до барьера, стрелять, когда кто захочет.</s>
+            <s><rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs> шел медленно, не
+              поднимая пистолета, вглядываясь <rs ref="Fedor_Ivanovich_Dolokhov">своими</rs>
+              светлыми, блестящими, голубыми глазами в лицо <rs ref="Fedor_Ivanovich_Dolokhov">своего</rs> противника.</s>
+            <s>Рот <rs ref="Fedor_Ivanovich_Dolokhov" rolename="possessor">его</rs>, как и всегда,
+              имел на себе подобие улыбки.</s> </p>
+          <p><s>При слове три <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> быстрыми шагами
+              пошел вперед, сбиваясь с протоптанной дорожки и шагая по цельному снегу.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> держал пистолет, вытянув вперед
+              правую руку, видимо, боясь, как бы из этого пистолета не убить самого себя.</s>
+            <s>Левую руку <rs ref="Pierre_Bezukhov">он</rs> старательно отставлял назад, потому что
+                <rs ref="Pierre_Bezukhov">ему</rs> хотелось поддержать ею правую руку, а <rs ref="Pierre_Bezukhov">он</rs> знал, что этого нельзя было.</s>
+            <s>Пройдя шагов шесть и сбившись с дорожки в снег, <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> оглянулся под ноги, опять быстро взглянул на <rs ref="Fedor_Ivanovich_Dolokhov" rolename="undergoer">Долохова</rs> и, потянув пальцем,
+              как его учили, выстрелил.</s>
+            <s>Никак не ожидая такого сильного звука, <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьер</rs> вздрогнул от <rs ref="Pierre_Bezukhov" rolename="agent">своего</rs>
+              выстрела, потом улыбнулся сам <rs ref="Pierre_Bezukhov">своему</rs> впечатлению и
+              остановился.</s>
+            <s>Дым, особенно густой от тумана, помешал <rs ref="Pierre_Bezukhov">ему</rs> видеть в
+              первое мгновение; но другого выстрела, которого <rs ref="Pierre_Bezukhov">он</rs>
+              ждал, не последовало.</s>
+            <s>Только слышны были торопливые шаги <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохова</rs>, и из-за дыма показалась <rs ref="Fedor_Ivanovich_Dolokhov">его</rs> фигура.</s>
+            <s>Одною рукою <rs ref="Fedor_Ivanovich_Dolokhov">он</rs> держался за левый бок, другой
+              сжимал опущенный пистолет.</s>
+            <s>Лицо <rs ref="Fedor_Ivanovich_Dolokhov">его</rs> было бледно.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> подбежал и что-то сказал <rs ref="Nikolai_Rostov">ему</rs>.</s> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Pierre_Bezukhov" speech_text="Не... нет,. нет, не кончено" verb="упасть" author_comment="- проговорил сквозь зубы Долохов,- нет, не кончено,- и, сделав еще несколько падающих, ковыляющих шагов до самой сабли, упал на снег подле нее." speech_id="2152"><s>- Не... нет,- проговорил сквозь зубы <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>,- нет, не кончено,-
+                и, сделав еще несколько падающих, ковыляющих шагов до самой сабли, упал на снег
+                подле нее.</s></said>
+            <s>Левая рука <rs ref="Nikolai_Rostov">его</rs> была в крови, <rs ref="Fedor_Ivanovich_Dolokhov">он</rs> обтер ее о сюртук и оперся ею.</s>
+            <s>Лицо <rs ref="Fedor_Ivanovich_Dolokhov">его</rs> было бледно, нахмурено и
+              дрожало.</s> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Pierre_Bezukhov" speech_text="- Пожалу..." speech_id="2149"><said who="Fedor_Ivanovich_Dolokhov" corresp="Pierre_Bezukhov" speech_text="начал Долохов, но не мог сразу выговорить..." verb="пожаловать" author_comment="- пожалуйте,- договорил он с усилием." speech_id="2150"><said who="Fedor_Ivanovich_Dolokhov" corresp="Fedor_Ivanovich_Dolokhov" speech_text="К барьеру!" verb="крикнуть" speech_id="2159"><s>- Пожалу... - начал <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent" target="id_2152">Долохов</rs>, но не мог сразу выговорить...
+                    - пожалуйте,- договорил он с усилием. <rs ref="Pierre_Bezukhov" rolename="agent" xml:id="id_2152">Пьер</rs>, едва удерживая рыдания, побежал к <rs ref="Fedor_Ivanovich_Dolokhov">Долохову</rs> и хотел уже перейти пространство,
+                    отделяющее барьеры, как <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs> крикнул: - К барьеру! - и <rs ref="Pierre_Bezukhov">Пьер</rs>,
+                    поняв, в чем дело, остановился у <rs ref="Pierre_Bezukhov" rolename="possessor">своей</rs> сабли. Только десять шагов разделяло их. <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs> опустился головой
+                    к снегу, жадно укусил снег, опять поднял голову, поправился, подобрал ноги и
+                    сел, отыскивая прочный центр тяжести.</s></said></said></said>
+            <s><rs ref="Fedor_Ivanovich_Dolokhov">Он</rs> глотал холодный снег и сосал его; губы <rs ref="Fedor_Ivanovich_Dolokhov">его</rs> дрожали, но все улыбались; глаза блестели
+              усилием и злобой последних собранных сил.</s>
+            <s>Он поднял пистолет и стал целиться.</s> </p>
+          <p><said who="Prince_Nesvitsky" corresp="Pierre_Bezukhov" speech_text="Боком, закройтесь пистолетом," verb="проговорить" author_comment="- проговорил Несвицкий." speech_id="2163"><s>- Боком, закройтесь
+                пистолетом,- проговорил <rs ref="Prince_Nesvitsky" rolename="agent">Несвицкий</rs>.</s></said> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Pierre_Bezukhov" speech_text="Закг'ойтесь!" verb="крикнуть" author_comment="- не выдержав, крикнул даже Денисов своему противнику." speech_id="2148"><s>- Закг'ойтесь! - не выдержав, крикнул даже <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs>
+                <rs ref="Vasily__Vasska__Denisov">своему</rs> противнику.</s></said> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="agent" target="id_2155">Пьер</rs> с кроткой
+              улыбкой сожаления и раскаяния, беспомощно расставив ноги и руки, прямо <rs ref="Pierre_Bezukhov" xml:id="id_2155">своей</rs> широкой грудью стоял перед <rs ref="Fedor_Ivanovich_Dolokhov">Долоховым</rs> и грустно смотрел на <rs ref="Fedor_Ivanovich_Dolokhov" rolename="undergoer">него</rs>.</s>
+            <s><rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs>, <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> и Несвицкий зажмурились.</s>
+            <s>В одно и то же время <rs ref="Vasily__Vasska__Denisov">они</rs> услыхали выстрел и
+              злой крик <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохова</rs>.</s> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Pierre_Bezukhov" speech_text="Мимо!" verb="лечь" author_comment="- крикнул Долохов и бессильно лег на снег лицом книзу." speech_id="2154"><s>- Мимо! - крикнул <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs> и бессильно лег на снег лицом книзу.</s></said>
+            <s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> схватился за голову и,
+              повернувшись назад, пошел в лес, шагая целиком по снегу и вслух приговаривая
+              непонятные слова.</s> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Nikolai_Rostov" speech_text="Глупо... глупо!. Смерть.... ложь..." verb="твердить" author_comment="- твердил он, морщась." speech_id="2160"><s>- Глупо... глупо!
+                Смерть... ложь... - твердил <rs ref="Pierre_Bezukhov">он</rs>, морщась.</s></said>
+            <s><rs ref="Prince_Nesvitsky" rolename="agent" target="id_2158">Несвицкий</rs> остановил
+                <rs ref="Pierre_Bezukhov" xml:id="id_2158">его</rs> и повез домой.</s> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> с <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисовым</rs> повезли раненого <rs ref="Fedor_Ivanovich_Dolokhov">Долохова</rs>.</s> </p>
+          <p><s><rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>, молча, с закрытыми
+              глазами, лежал в санях и ни слова не отвечал на вопросы, которые <rs ref="Fedor_Ivanovich_Dolokhov">ему</rs> делали; но, въехав в Москву, <rs ref="Fedor_Ivanovich_Dolokhov">он</rs> вдруг очнулся и, с трудом приподняв голову,
+              взял за руку сидевшего подле <rs ref="Nikolai_Rostov">себя</rs>
+              <rs ref="Nikolai_Rostov" rolename="undergoer">Ростова</rs>.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="experiencer">Ростова</rs> поразило совершенно
+              изменившееся и неожиданно восторженно-нежное выражение лица <rs ref="Fedor_Ivanovich_Dolokhov" rolename="possessor">Долохова</rs>.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="Fedor_Ivanovich_Dolokhov" speech_text="- Ну, что? как ты чувствуешь себя?" verb="спросить" author_comment="- спросил Ростов." speech_id="2151"><s>- Ну, что? как <rs rolename="undergoer">ты</rs> чувствуешь себя? - спросил <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>.</s></said> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Nikolai_Rostov" speech_text="- Скверно!. но не в том дело. Друг мой, где мы? Мы в Москве, я знаю. Я ничего, но я убил ее, убил... Она не перенесет этого. Она не перенесет..." speech_id="2161"><s>- Скверно!</s></said>
+            <s>но не в том дело.</s>
+            <s><rs>Друг</rs>
+              <rs>мой</rs>,- сказал <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>
+              прерывающимся голосом,- где <rs ref="Fedor_Ivanovich_Dolokhov">мы</rs>?</s>
+            <s><rs ref="Fedor_Ivanovich_Dolokhov">Мы</rs> в Москве, я знаю.</s>
+            <s><rs rolename="undergoer">Я</rs> ничего, но <rs rolename="agent">я</rs> убил ее, убил...
+              Она не перенесет этого.</s>
+            <s>Она не перенесет...</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="Fedor_Ivanovich_Dolokhov" speech_text="Кто?" verb="спросить" author_comment="- спросил Ростов." speech_id="2156"><s>- Кто? -
+                спросил <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>.</s></said> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Nikolai_Rostov" speech_text="Мать моя.. Моя мать, мой ангел, мой обожаемый ангел, мать," verb="заплакать" author_comment="- и Долохов заплакал, сжимая руку Ростова." speech_id="2158"><s>- <rs>Мать</rs>
+                <rs>моя</rs>. <rs>Моя</rs>
+                <rs rolename="agent">мать</rs>, <rs>мой</rs>
+                <rs rolename="agent">ангел</rs>, <rs>мой</rs> обожаемый <rs rolename="agent">ангел</rs>, <rs>мать</rs>,- и <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs> заплакал, сжимая руку <rs ref="Nikolai_Rostov" rolename="possessor">Ростова</rs>. Когда <rs ref="Fedor_Ivanovich_Dolokhov">он</rs> несколько
+                успокоился, <rs ref="Fedor_Ivanovich_Dolokhov">он</rs> объяснил <rs ref="Nikolai_Rostov" rolename="addressee">Ростову</rs> что живет с
+                  <rs>матерью</rs>, что, ежели <rs rolename="experiencer">мать</rs> увидит <rs ref="Fedor_Ivanovich_Dolokhov">его</rs> умирающим, <rs rolename="experiencer">она</rs> не перенесет этого.</s></said>
+            <s><rs ref="Fedor_Ivanovich_Dolokhov" target="id_21511">Он</rs> умолял <rs ref="Nikolai_Rostov" rolename="addressee" xml:id="id_21511">Ростова</rs> ехать к <rs ref="Nikolai_Rostov">ней</rs> и приготовить <rs ref="Nikolai_Rostov" rolename="experiencer">ее</rs>.</s> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> поехал вперед исполнять
+              поручение и, к великому удивлению <rs ref="Nikolai_Rostov">своему</rs>, узнал, что <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>, этот буян бретёр-<rs ref="Fedor_Ivanovich_Dolokhov">Долохов</rs>, жил в Москве с <rs>старушкой</rs>
+              матерью и горбатой <rs>сестрой</rs> и был самый нежный сын и брат.</s>  </p>
+        </div>
+        

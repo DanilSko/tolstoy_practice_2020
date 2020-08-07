@@ -1,0 +1,131 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="12" type="chapter" xml:id="chapter12part1Volume2">
+          <p> </p>
+          <p><s>У Иогеля были самые веселые балы в Москве.</s>
+            <s>Это говорили матушки, глядя на своих adolescentes, выделывающих свои только что
+              выученные па; это говорили и сами adolescentes и adolescents, танцевавшие до упаду;
+              это говорили взрослые девицы и молодые люди, приезжавшие на эти балы с мыслию снизойти
+              до них и находя в них самое лучшее веселье.</s>
+            <s>В этот же год на этих балах сделалось два брака.</s>
+            <s>Две хорошенькие княжны Горчаковы нашли женихов и вышли замуж, и тем еще более пустили
+              в славу эти балы.</s>
+            <said who="Nikolai_Rostov" corresp="Vasily__Vasska__Denisov" speech_text="- Кто?" speech_id="2264"><s>Особенного на этих балах было то, что не было <rs rolename="undergoer">хозяина</rs> и <rs rolename="undergoer">хозяйки</rs>: был, как пух
+                летающий, по правилам искусства расшаркивающийся добродушный Иогель, который
+                принимал билетики за уроки от всех своих гостей; было то, что на эти балы еще езжали
+                только те, кто хотел танцевать и веселиться, как хотят этого тринадцати- и
+                четырнадцатилетние девочки, в первый раз надевающие длинные платья.</s></said>
+            <s>Все, за редкими исключениями, были или казались хорошенькими: так восторженно они все
+              улыбались и так разгорались их глазки.</s>
+            <s>Иногда танцовывали даже pas de châle лучшие ученицы, из которых лучшая была <rs ref="NatashaRostova" rolename="undergoer">Наташа</rs>, отличавшаяся <rs ref="NatashaRostova" rolename="undergoer">своею</rs> грациозностью; но на этом,
+              последнем бале танцевали только экосезы, англезы и только что входящую в моду
+              мазурку.</s>
+            <s>Зала была взята Иогелем в доме <rs>Безухова</rs>, и бал очень удался, как говорили
+              все.</s>
+            <s>Много было хорошеньких девочек, и Ростовы <rs>барышни</rs> были из лучших.</s>
+            <s>Они обе были особенно счастливы и веселы в этот вечер.</s>
+            <s><rs ref="Sonya_Rostova" rolename="undergoer">Соня</rs>, гордая предложением Долохова,
+                <rs ref="Sonya_Rostova" rolename="agent">своим</rs> отказом и объяснением с <rs ref="Nikolai_Rostov" rolename="addressee">Николаем</rs>, кружилась еще дома, не
+              давая <rs rolename="addressee">девушке</rs> дочесать свои косы, и теперь насквозь
+              светилась порывистой радостью.</s> </p>
+          <p><s><rs ref="NatashaRostova" rolename="undergoer">Наташа</rs>, не менее гордая тем, что <rs ref="NatashaRostova" rolename="undergoer">она</rs> в первый раз была в длинном платье,
+              на настоящем бале, была еще счастливее.</s>
+            <s>Они были в белых кисейных платьях с розовыми лентами.</s> </p>
+          <p><s><rs ref="NatashaRostova" rolename="undergoer">Наташа</rs> сделалась влюблена с самой
+              той минуты, как она вошла на бал.</s>
+            <s>Она не была влюблена ни в кого в особенности, но влюблена была во всех.</s>
+            <s>В того, на кого <rs ref="NatashaRostova" rolename="agent">она</rs> смотрела в ту
+              минуту, как <rs ref="NatashaRostova">она</rs> смотрела, в того она и была
+              влюблена.</s> </p>
+          <p><said who="NatashaRostova" corresp="Sonya_Rostova" speech_text="Ах, как хорошо!" verb="говорить" author_comment="- все говорила она, подбегая к Соне." speech_id="2266"><s>- Ах, как хорошо! - все говорила она, подбегая к <rs ref="Sonya_Rostova">Соне</rs>.</s></said> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="agent" target="id_21121">Николай</rs> с <rs ref="Vasily__Vasska__Denisov" rolename="agent" xml:id="id_21121">Денисовым</rs>
+              ходили по залам, ласково и покровительственно оглядывая танцующих.</s> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Nikolai_Rostov" speech_text="Как она мила, кг'асавица будет," verb="сказать" author_comment="- сказал Денисов." speech_id="2269"><s>- Как <rs ref="Sonya_Rostova" rolename="undergoer">она</rs> мила, кг'асавица будет,- сказал <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs>.</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="Vasily__Vasska__Denisov" speech_text="- Кто?" speech_id="2264"><s>- Кто?</s></said> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Nikolai_Rostov" speech_text="Г'афиня Наташа," verb="отвечать" author_comment="- отвечал Денисов." speech_id="2279"><s>- <rs ref="NatashaRostova">Г'афиня Наташа</rs>,- отвечал <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs>.</s></said> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Nikolai_Rostov" speech_text="И как она танцует, какая г'ация!" verb="сказать" author_comment="- помолчав немного, опять сказал он." speech_id="2267"><s>- И как <rs ref="NatashaRostova" rolename="agent" target="id_21122">она</rs> танцует, какая
+                г'ация! - помолчав немного, опять сказал <rs ref="Vasily__Vasska__Denisov">он</rs>.</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="Vasily__Vasska__Denisov" speech_text="- Да про кого ты говоришь?" speech_id="2277"><s>- Да про кого <rs rolename="agent">ты</rs> говоришь?</s></said> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Nikolai_Rostov" speech_text="Пг'о сестг'у пг'о твою," verb="крикнуть" author_comment="- сердито крикнул Денисов." speech_id="2271"><s>- Пг'о сестг'у пг'о
+                  <rs>твою</rs>,- сердито крикнул <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs>. <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>
+                усмехнулся.</s></said> </p>
+          <p><said who="Иогель" corresp="Nikolai_Rostov" speech_text="Mon cher comte; vous êtes l'un de mes meilleurs ecoliers, il faut que vous dansiez. Voyez combien de jolies demoiselles." verb="сказать" author_comment=",- сказал маленький Иогель, подходя к Николаю. -" speech_id="2282"><s>- Mon cher comte; vous êtes l'un de mes meilleurs ecoliers, il
+                faut que vous dansiez,- сказал маленький Иогель, подходя к <rs ref="Nikolai_Rostov">Николаю</rs>. - Voyez combien de jolies demoiselles.</s></said>
+            <s>- <rs ref="Nikolai_Rostov" rolename="agent" target="id_21125">Он</rs> с тою же
+              просьбой обратился и к <rs ref="Vasily__Vasska__Denisov" rolename="addressee" xml:id="id_21125">Денисову</rs>, тоже <rs ref="Nikolai_Rostov">своему</rs> бывшему
+              ученику.</s> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Йогель" speech_text="Non, mon cher, je ferai tapisserie. Разве вы не помните, как дурно я пользовался вашими уроками?.." verb="сказать" author_comment=",- сказал Денисов. -" speech_id="2278"><s>- Non, mon
+                cher, je ferai tapisserie,- сказал <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs>. - Разве вы не помните, как дурно <rs rolename="agent">я</rs> пользовался вашими уроками?..</s></said> </p>
+          <p><said who="Иогель" corresp="Vasily__Vasska__Denisov" speech_text="Вы только невнимательны были, а вы имели способности, да, вы имели способности.. О нет!" verb="сказать" author_comment="- поспешно утешая его, сказал Иогель. -" speech_id="2280"><s>- О нет! - поспешно утешая <rs ref="Nikolai_Rostov">его</rs>,
+                сказал Иогель. - Вы только невнимательны были, а вы имели способности, да, вы имели
+                способности.</s></said> </p>
+          <p><s>Заиграли вновь вводившуюся мазурку.</s>
+            <s><rs ref="Nikolai_Rostov" target="id_21126">Николай</rs> не мог отказать Иогелю и
+              пригласил <rs ref="Sonya_Rostova" rolename="undergoer" xml:id="id_21126">Соню</rs>.</s>
+            <s><rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs> подсел к старушкам и,
+              облокотившись на саблю, притопывая такт, что-то весело рассказывал и смешил старых
+              дам, поглядывая на танцующую молодежь.</s>
+            <s>Иогель в первой паре танцевал с <rs ref="NatashaRostova">Наташей</rs>, своею
+              гордостью и лучшей <rs>ученицей</rs>.</s>
+            <s>Мягко, нежно перебирая своими ножками в башмачках, Иогель первым полетел по зале с
+              робевшей, но старательно выделывающей па <rs ref="NatashaRostova">Наташей</rs>.</s>
+            <s><rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs> не спускал с <rs ref="NatashaRostova" rolename="undergoer">нее</rs> глаз и пристукивал саблей такт с
+              таким видом, который ясно говорил, что он сам не танцует только оттого, что не хочет,
+              а не оттого, что не может.</s>
+            <s>В середине фигуры <rs ref="Vasily__Vasska__Denisov" rolename="agent" target="id_21128">он</rs> подозвал к <rs ref="Vasily__Vasska__Denisov" xml:id="id_21128">себе</rs> проходившего мимо <rs ref="Nikolai_Rostov" rolename="undergoer">Ростова</rs>.</s> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Nikolai_Rostov" speech_text="- Это совсем не то. Разве это польская мазуг'ка." verb="сказать" author_comment=",- сказал он. -" speech_id="2281"><s>- Это совсем не то,- сказал <rs ref="Nikolai_Rostov">он</rs>. - Разве это польская мазуг'ка. А отлично
+                танцует.</s></said> </p>
+          <p><s>Зная, что <rs ref="Vasily__Vasska__Denisov" rolename="undergoer">Денисов</rs> и в
+              Польше даже славился <rs ref="Vasily__Vasska__Denisov" rolename="experiencer">своим</rs> мастерством плясать польскую мазурку, <rs ref="Nikolai_Rostov" rolename="agent" target="id_21129">Николай</rs> подбежал к <rs ref="NatashaRostova" xml:id="id_21129">Наташе</rs>.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="NatashaRostova" speech_text="Вот танцует!. Поди выбери Денисова.. Чудо!" verb="сказать" author_comment="- сказал он." speech_id="2276"><s>- Поди выбери <rs ref="Vasily__Vasska__Denisov" rolename="undergoer">Денисова</rs>. <rs>Вот</rs>
+                танцует! Чудо! - сказал <rs ref="Nikolai_Rostov">он</rs>.</s></said> </p>
+          <p><s>Когда пришел опять черед Наташи, она встала и, быстро перебирая своими с бантиками
+              башмачками, робея, одна пробежала через залу к углу, где сидел Денисов.</s>
+            <s><rs ref="NatashaRostova" rolename="experiencer">Она</rs> видела, что все смотрят на
+                <rs ref="NatashaRostova" rolename="undergoer">нее</rs> и ждут.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="experiencer">Николай</rs> видел, что <rs ref="Vasily__Vasska__Denisov" rolename="agent" target="id_211211">Денисов</rs> и <rs ref="NatashaRostova" rolename="agent" xml:id="id_211211">Наташа</rs>, улыбаясь,
+              спорили и что <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs>
+              отказывался, но радостно улыбался.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="agent">Он</rs> подбежал.</s>  </p>
+          <p><said who="NatashaRostova" corresp="Vasily__Vasska__Denisov" speech_text="- Пожалуйста, Василий Дмитрич,- говорила Наташа,- пойдемте, пожалуйста." verb="говорить" speech_id="2268"><s>- Пожалуйста, <rs>Василий Дмитрич</rs>,- говорила
+                  <rs ref="NatashaRostova" rolename="agent">Наташа</rs>,- пойдемте,
+              пожалуйста.</s></said> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="NatashaRostova" speech_text="- Да что. Увольте г'афиня" verb="говорить" speech_id="2265"><s>- Да что.
+                Увольте, г'афиня,- говорил <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs>.</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="Vasily__Vasska__Denisov" speech_text="Ну полно, Вася," verb="сказать" author_comment="- сказал Николай." speech_id="2274"><s>- Ну полно, <rs ref="Vasily__Vasska__Denisov">Вася</rs>,- сказал
+                  <rs ref="Nikolai_Rostov" rolename="agent">Николай</rs>.</s></said> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Nikolai_Rostov" speech_text="Точно кота Ваську уговаг'ивает," verb="сказать" author_comment="- шутя сказал Денисов." speech_id="2275"><s>- Точно кота Ваську
+                уговаг'ивает,- шутя сказал <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs>.</s></said> </p>
+          <p><said who="NatashaRostova" corresp="Vasily__Vasska__Denisov" speech_text="Целый вечер вам буду петь," verb="сказать" author_comment="- сказала Наташа." speech_id="2270"><s>- Целый вечер вам буду петь,-
+                сказала <rs ref="NatashaRostova" rolename="agent">Наташа</rs>.</s></said> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="NatashaRostova" speech_text="Волшебница, все со мной сделает!" verb="сказать" author_comment="- сказал Денисов и отстегнул саблю." speech_id="2273"><s>-
+                  <rs>Волшебница</rs>, все со <rs>мной</rs> сделает! - сказал <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs> и отстегнул
+              саблю.</s></said>
+            <s><rs ref="Vasily__Vasska__Denisov">Он</rs> вышел из-за стульев, крепко взял за руку
+                <rs ref="Vasily__Vasska__Denisov">свою</rs>
+              <rs rolename="undergoer">даму</rs>, приподнял голову и отставил ногу, ожидая такта.</s>
+            <s>Только на коне и в мазурке не видно было маленького роста <rs ref="Vasily__Vasska__Denisov" rolename="undergoer">Денисова</rs>, и <rs ref="Vasily__Vasska__Denisov">он</rs> представлялся тем самым <rs>молодцом</rs>,
+              каким <rs ref="Vasily__Vasska__Denisov" rolename="undergoer">он</rs> сам <rs ref="Vasily__Vasska__Denisov">себя</rs> чувствовал.</s>
+            <said who="Nikolai_Rostov" corresp="Vasily__Vasska__Denisov" speech_text="- Кто?" speech_id="2264"><s>Выждав такт, <rs ref="Vasily__Vasska__Denisov" rolename="agent">он</rs> сбоку, победоносно и шутливо, взглянул на <rs ref="Vasily__Vasska__Denisov">свою</rs>
+                <rs rolename="undergoer">даму</rs>, неожиданно пристукнул одною ногой и, как мячик,
+                упруго отскочил от пола и полетел вдоль по кругу, увлекая за собой свою <rs rolename="undergoer">даму</rs>.</s></said>
+            <s>Он неслышно летел половину залы на одной ноге и, казалось, не видел стоявших перед
+              ним стульев и прямо несся на них; но вдруг, прищелкнув шпорами и расставив ноги,
+              останавливался на каблуках, стоял так секунду, с грохотом шпор стучал на одном месте
+              ногами, быстро вертелся и, левою ногой подщелкивая правую, опять летел по кругу.</s>
+            <s><rs ref="NatashaRostova" rolename="agent">Наташа</rs> чутьем угадывала то, что он
+              намерен был сделать, и, сама не зная как, следила за ним - отдаваясь ему.</s>
+            <s>То он кружил <rs ref="NatashaRostova" rolename="undergoer">ее</rs> на правой, то на
+              левой руке, то, падая на колена, обводил ее вокруг себя и опять вскакивал и пускался
+              вперед с такой стремительностью, как будто он намерен был, не переводя духа,
+              перебежать через все комнаты; то вдруг опять останавливался и делал опять новое и
+              неожиданное колено.</s>
+            <s>Когда он, бойко закружив <rs rolename="undergoer">даму</rs> перед <rs rolename="undergoer">ее</rs> местом, щелкнул шпорой, кланяясь перед ней, <rs ref="NatashaRostova" rolename="agent">Наташа</rs> даже не присела ему.</s>
+            <s><rs ref="NatashaRostova">Она</rs> с недоумением уставила на него глаза, улыбаясь, как
+              будто не узнавая его.</s> </p>
+          <p><said who="NatashaRostova" corresp="Vasily__Vasska__Denisov" speech_text="Что ж это такое?" verb="проговорить" author_comment="- проговорила она." speech_id="2272"><s>- Что ж это такое? - проговорила <rs ref="NatashaRostova">она</rs>.</s></said> </p>
+          <p><s>Несмотря на то, что <rs rolename="agent">Йогель</rs> не признавал эту мазурку
+              настоящей, все были восхищены мастерством <rs ref="Vasily__Vasska__Denisov" rolename="experiencer">Денисова</rs>, беспрестанно стали выбирать <rs>его</rs>, и
+              старики, улыбаясь, стали разговаривать про Польшу и про доброе старое время.</s>
+            <s><rs ref="Vasily__Vasska__Denisov" rolename="agent" target="id_211212">Денисов</rs>,
+              раскрасневшись от мазурки и отираясь платком, подсел к <rs ref="NatashaRostova" xml:id="id_211212">Наташе</rs> и весь бал не отходил от <rs ref="NatashaRostova">нее</rs>.</s>  </p>
+        </div>
+        

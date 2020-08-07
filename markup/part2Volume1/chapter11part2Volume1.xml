@@ -1,0 +1,109 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="11" type="chapter" xml:id="chapter11part2Volume1">
+          <p> </p>
+          <p><s>XI</s> </p>
+          <p><s>На другой день <rs rolename="experiencer">он</rs> проснулся поздно.</s>
+            <s>Возобновляя впечатления прошедшего, <rs rolename="experiencer">он</rs> вспомнил
+              прежде всего то, что нынче надо представляться <rs ref="Emperor_Francis_I_of_Austria" rolename="addressee">императору Францу</rs>, вспомнил военного министра, учтивого
+              австрийского флигель-адъютанта, <rs ref="Bilibin" rolename="undergoer">Билибина</rs> и разговор
+              вчерашнего вечера.</s>
+            <s>Одевшись для поездки во дворец в полную парадную форму, которой он уже давно не
+              надевал, <rs rolename="agent">он</rs>, свежий, оживленный и красивый, с подвязанною
+              рукой, вошел в кабинет Билибина.</s>
+            <s>В кабинете находились четыре господина дипломатического корпуса.</s>
+            <s>С <rs ref="Hippolyte_Kuragin">князем Ипполитом Курагиным</rs>, <rs ref="Hippolyte_Kuragin">который</rs> был секретарем посольства, <rs ref="AndreyBolkonsky">Болконский</rs> был знаком; с другими <rs>его</rs> познакомил
+                <rs ref="Bilibin" rolename="agent">Билибин</rs>.</s> </p>
+          <p><s>Господа, бывавшие у <rs ref="Bilibin" rolename="possessor">Билибина</rs>, светские, молодые,
+              богатые и веселые люди, составляли и в Вене и здесь отдельный кружок, который <rs ref="Bilibin" rolename="agent">Билибин</rs>, бывший главой этого кружка, называл наши, les
+              nôtres.</s>
+            <s>В кружке этом, состоявшем почти исключительно из дипломатов, видимо, были свои, не
+              имеющие ничего общего с войной и политикой, интересы высшего света, отношений к
+              некоторым женщинам и канцелярской стороны службы.</s>
+            <s>Эти господа, по-видимому, охотно, как <rs ref="AndreyBolkonsky" rolename="undergoer">своего</rs> (<rs>честь</rs>, <rs ref="AndreyBolkonsky">которую</rs> они делали
+              немногим), приняли в <rs ref="AndreyBolkonsky" rolename="possessor">свой</rs> кружок
+                <rs ref="AndreyBolkonsky" rolename="undergoer">князя Андрея</rs>.</s>
+            <s>Из учтивости, и как предмет для вступления в разговор, <rs ref="AndreyBolkonsky" rolename="experiencer">ему</rs> сделали несколько вопросов об армии и сражении, и
+              разговор опять рассыпался на непоследовательные веселые шутки и пересуды.</s> </p>
+          <p><s>- Но особенно хорошо,- говорил один, рассказывая неудачу <rs rolename="experiencer">товарища</rs>-<rs>дипломата</rs>,- особенно хорошо то, что <rs rolename="agent">канцлер</rs> прямо сказал ему, что назначение <rs>его</rs> в Лондон есть повышение
+              и чтоб <rs ref="AndreyBolkonsky" rolename="agent">он</rs> так и смотрел на это.</s>
+            <s>Видите вы его фигуру при этом?..</s> </p>
+          <p><said who="Bilibin" corresp="" speech_text="- Но что всего хуже, господа, я вам выдаю Курагина: человек в несчастии, и этим-то пользуется этот донжуан, этот ужасный человек!" speech_id="1231"><s>- Но что всего хуже, господа, <rs rolename="agent">я</rs> вам
+                выдаю <rs ref="Hippolyte_Kuragin" rolename="undergoer">Курагина</rs>: человек в
+                несчастии, и этим-то пользуется этот <rs rolename="agent">донжуан</rs>, этот ужасный
+                человек!</s></said> </p>
+          <p><s><rs ref="Hippolyte_Kuragin" rolename="agent">Князь Ипполит</rs> лежал в <rs rolename="possessor">вольтеровском</rs> кресле, положив ноги через ручку.</s>
+            <s><rs ref="Hippolyte_Kuragin" rolename="agent">Он</rs> засмеялся.</s> </p>
+          <p><said who="Hippolyte_Kuragin" corresp="" speech_text="Parlez-moi de ça," verb="сказать" author_comment="- сказал он." speech_id="1235"><s>- Parlez-moi de ça,- сказал <rs ref="Hippolyte_Kuragin">он</rs>.</s></said> </p>
+          <p><said who="дипломаты " corresp="" speech_text="О донжуан!. О змея!" verb="послышаться" author_comment="- послышались голоса." speech_id="1236"><s>- О <rs>донжуан</rs>! О
+                змея! - послышались голоса.</s></said> </p>
+          <p><said who="Bilibin" corresp="AndreyBolkonsky" speech_text="- Вы не знаете, Болконский, что все ужасы французской армии (я чуть было не сказал - русской армии) - ничто в сравнении с тем, что наделал между женщинами этот человек." verb="сказать" speech_id="1230"><s>- <rs rolename="experiencer">Вы</rs> не знаете, <rs ref="AndreyBolkonsky">Болконский</rs>,- обратился <rs ref="Bilibin" rolename="undergoer">Билибин</rs> к <rs ref="AndreyBolkonsky" rolename="finalpoint">князю
+                    Андрею</rs>,- что все ужасы французской армии (<rs rolename="agent">я</rs> чуть
+                  было не сказал - русской армии) - ничто в сравнении с тем, что наделал между
+                  женщинами этот <rs rolename="agent">человек</rs>.</s></said> </p>
+          <p><said who="Hippolyte_Kuragin" corresp="Bilibin" speech_text="La femme est la compagne de l'homme," verb="стать" author_comment="-произнес князь Ипполит и стал смотреть в лорнет на свои поднятые ноги." speech_id="1246"><s>- La femme est la compagne de l'homme,-произнес <rs ref="Hippolyte_Kuragin" rolename="agent">князь Ипполит</rs> и стал смотреть в
+                лорнет на <rs ref="Hippolyte_Kuragin" rolename="possessor">свои</rs> поднятые
+                ноги.</s></said> </p>
+          <p><s>Билибин и наши расхохотались, глядя в глаза <rs ref="Hippolyte_Kuragin">Ипполиту</rs>.</s>
+            <s><rs ref="AndreyBolkonsky" rolename="experiencer" target="id_12113">Князь Андрей</rs>
+              видел, что этот <rs ref="Hippolyte_Kuragin" xml:id="id_12113">Ипполит</rs>, <rs ref="Hippolyte_Kuragin">которого</rs>
+              <rs ref="AndreyBolkonsky" rolename="experiencer">он</rs> (должно было признаться)
+              почти ревновал к <rs ref="AndreyBolkonsky">своей</rs>
+              <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="undergoer">жене</rs>,
+              был шутом в этом обществе.</s> </p>
+          <p><said who="Bilibin" corresp="AndreyBolkonsky" speech_text="Нет, я должен вас угостить Курагиным. Он прелестен, когда рассуждает о политике, надо видеть эту важность." verb="сказать" author_comment=",- сказал Билибин тихо Болконскому.-" speech_id="1233"><s>- Нет, я должен вас угостить <rs ref="Hippolyte_Kuragin" rolename="undergoer">Курагиным</rs>,- сказал <rs ref="Bilibin" rolename="agent">Билибин</rs> тихо <rs ref="AndreyBolkonsky" rolename="addressee">Болконскому</rs>.- <rs ref="Hippolyte_Kuragin" rolename="undergoer">Он</rs> прелестен, когда рассуждает о
+                  <rs>политике</rs>, надо видеть эту важность.</s></said> </p>
+          <p><s> подсел к <rs ref="Hippolyte_Kuragin">Ипполиту</rs> и, собрав на лбу <rs ref="Bilibin">свои</rs> складки,
+              завел с <rs ref="Hippolyte_Kuragin" rolename="experiencer" target="id_12116">ним</rs>
+              разговор о политике.</s>
+            <s><rs ref="AndreyBolkonsky" rolename="undergoer">Князь Андрей</rs> и другие обступили
+              обоих.</s> </p>
+          <p><said who="Hippolyte_Kuragin" corresp="дипломаты " speech_text="Le cabinet de Berlin ne peut pas exprimer un sentiment d'alliance," verb="начать" author_comment="- начал Ипполит, значительно оглядывая всех,- sans exprimer... comme dans sa dernière note.." speech_id="1239"><s>- Le cabinet de Berlin ne peut pas exprimer un sentiment
+                d'alliance,- начал <rs ref="Hippolyte_Kuragin" rolename="agent">Ипполит</rs>,
+                значительно оглядывая всех,- sans exprimer... comme dans sa dernière
+              note..</s><s>. vous comprenez... vous comprenez... et puis si sa Majesté
+              l'Empereur ne déroge pas au principe de notre alliance...</s> </said></p>
+          <p><said who="Hippolyte_Kuragin" corresp="" speech_text="- Attendez, je n'ai pas fini.." speech_id="1248"><s>- Attendez, je n'ai pas fini..</s></said><s>. - сказал <rs ref="Hippolyte_Kuragin" rolename="agent">он</rs> <rs ref="AndreyBolkonsky" rolename="addressee">князю Андрею</rs>, хватая <rs ref="AndreyBolkonsky" rolename="undergoer">его</rs> за руку.</s><said who="Hippolyte_Kuragin" corresp="AndreyBolkonsky" speech_text="Et.... Je suppose que l'intervention sera plus forte que la non-intervention." verb="помолчать" author_comment="- Он помолчал." speech_id="1243"><s>- Je suppose que
+                l'intervention sera plus forte que la non-intervention. Et...- <rs ref="Hippolyte_Kuragin" rolename="agent">Он</rs> помолчал.</s></said><s>- On ne
+              pourra pas imputer à la fin de non-recevoir notre dépêche du 28 novembre.</s>
+            <s>Voilà comment tout cela finira.</s> </p>
+          <p><s>И он отпустил руку <rs ref="AndreyBolkonsky" rolename="possessor">Болконского</rs>,
+              показывая тем, что теперь <rs rolename="agent">он</rs> совсем кончил.</s> </p>
+          <p><said who="Bilibin" corresp="Hippolyte_Kuragin" speech_text="Demosthènes, je te reconnais au caillou que tu as caché dans ta bouche d'or!" verb="сказать" author_comment="- сказал Билибин, у которого шапка волос подвинулась на голове от удовольствия." speech_id="1229"><s>- Demosthènes, je te reconnais au caillou que tu as caché dans ta
+                bouche d'or! - сказал <rs ref="Bilibin" rolename="agent">Билибин</rs>, у которого шапка волос
+                подвинулась на голове от удовольствия.</s></said> </p>
+          <p><s>Все засмеялись.</s>
+            <s><rs ref="Hippolyte_Kuragin" rolename="agent">Ипполит</rs> смеялся громче всех.</s>
+            <s><rs ref="Hippolyte_Kuragin">Он</rs>, видимо, страдал, задыхался, но не мог удержаться
+              от дикого смеха, растягивающего <rs ref="Hippolyte_Kuragin">его</rs> всегда
+              неподвижное лицо.</s> </p>
+          <p><said who="Bilibin" corresp="" speech_text="Ну, вот что, господа, Болконский мой гость в доме и здесь в Брюнне, и я хочу его угостить, сколько могу, всеми радостями здешней жизни." verb="хотеть" speech_id="1247"><s>- Ну, вот что, господа,- сказал <rs ref="Bilibin" rolename="agent">Билибин</rs>,- <rs ref="AndreyBolkonsky">Болконский</rs>
+                <rs>мой</rs> гость в доме и здесь в Брюнне, и <rs rolename="experiencer">я</rs> хочу
+                  <rs rolename="possessor">его</rs> угостить, сколько могу, всеми радостями здешней
+                жизни. Ежели бы мы были в Вене, это было бы легко; но здесь, dans ce vilain trou
+                morave, это труднее, и <rs rolename="agent">я</rs> прошу у всех <rs ref="Hippolyte_Kuragin" rolename="addressee">вас</rs> помощи. Il faut lui faire
+                les honneurs de Brünn.</s></said>
+            <s><rs ref="Hippolyte_Kuragin" rolename="possessor">Вы</rs> возьмите на <rs ref="Hippolyte_Kuragin">себя</rs> театр, <rs>я</rs> - общество, <rs ref="Hippolyte_Kuragin">вы</rs>, <rs ref="Hippolyte_Kuragin" rolename="possessor">Ипполит</rs>, разумеется,- женщин.</s> </p>
+          <p><said who="один из дипломатов" corresp="" speech_text="Надо ему показать Амели, прелесть!" verb="сказать" author_comment="- сказал один из наших, целуя кончики пальцев." speech_id="1237"><s>-
+                Надо <rs ref="Hippolyte_Kuragin">ему</rs> показать <rs rolename="undergoer">Амели</rs>,
+                прелесть! - сказал один из наших, целуя кончики пальцев.</s></said> </p>
+          <p><said who="Bilibin" corresp="дипломаты " speech_text="- Вообще этого кровожадного солдата,- сказал Билибин,- надо обратить к более человеколюбивым взглядам." speech_id="1238"><s>- Вообще этого кровожадного <rs>солдата</rs>,- сказал <rs ref="Bilibin" rolename="agent">Билибин</rs>,- надо обратить к более человеколюбивым
+                взглядам.</s></said> </p>
+          <p><said who="AndreyBolkonsky" corresp="Bilibin" speech_text="Едва ли я воспользуюсь вашим гостеприимством, господа, и теперь мне пора ехать," verb="сказать" author_comment="- взглядывая на часы, сказал Болконский." speech_id="1250"><s>- Едва ли <rs rolename="agent">я</rs> воспользуюсь вашим
+                гостеприимством, господа, и теперь <rs>мне</rs> пора ехать,- взглядывая на часы,
+                сказал <rs ref="AndreyBolkonsky" rolename="agent">Болконский</rs>.</s></said> </p>
+          <p><said who="Bilibin" corresp="AndreyBolkonsky" speech_text="- Куда?" speech_id="1241"><s>- Куда?</s></said> </p>
+          <p><said who="AndreyBolkonsky" corresp="Bilibin" speech_text="- К императору." speech_id="1245"><s>- К <rs>императору</rs>.</s></said> </p>
+          <p><s>- О, о!</s>
+            <s>о!</s> </p>
+          <p><said who="дипломаты " corresp="AndreyBolkonsky" speech_text="До свидания, князь; приезжайте же обедать раньше. Мы беремся за вас.. Ну, до свидания, Болконский!" verb="послышаться" author_comment=",- послышались голоса.-" speech_id="1240"><s>- Ну,
+                до свидания, <rs ref="AndreyBolkonsky">Болконский</rs>! До свидания, <rs>князь</rs>;
+                приезжайте же обедать раньше,- послышались голоса.- Мы беремся за
+            вас.</s></said> </p>
+          <p><said who="Bilibin" corresp="AndreyBolkonsky" speech_text="Старайтесь как можно более расхваливать порядок в доставлении провианта и маршрутов, когда будете говорить с императором," verb="сказать" author_comment="- сказал Билибин, провожая до передней Болконского." speech_id="1232"><s>- Старайтесь как можно более расхваливать порядок в доставлении
+                провианта и маршрутов, когда будете говорить с <rs>императором</rs>,- сказал <rs ref="Bilibin" rolename="agent">Билибин</rs>, провожая до передней <rs ref="AndreyBolkonsky" rolename="undergoer">Болконского</rs>.</s></said> </p>
+          <p><said who="AndreyBolkonsky" corresp="Bilibin" speech_text="И желал бы хвалить, но не могу, сколько знаю," verb="отвечать" author_comment="- улыбаясь, отвечал Болконский." speech_id="1244"><s>- И желал бы
+                хвалить, но не могу, сколько знаю,- улыбаясь, отвечал <rs ref="AndreyBolkonsky" rolename="agent">Болконский</rs>.</s></said> </p>
+          <p><said who="Bilibin" corresp="AndreyBolkonsky" speech_text="- Ну, вообще как можно больше говорите." speech_id="1234"><s>- Ну, вообще
+                как можно больше говорите. <rs>Его</rs> страсть - аудиенции; а говорить сам
+                  <rs>он</rs> не любит и не умеет, как увидите.</s></said>  </p>
+        </div>
+        

@@ -1,0 +1,260 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="3" type="chapter" xml:id="chapter3part2Volume1">
+          <p> </p>
+          <p><s>III</s> </p>
+          <p><said who="AndreyBolkonsky" corresp="Prince_Kozlovsky" speech_text="- Нет." speech_id="954"><s>Возвратившись со смотра, <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs>, сопутствуемый австрийским <rs rolename="agent">генералом</rs>, прошел в <rs ref="Mikhail_Ilarionovich_Kutuzov">свой</rs> кабинет
+                и, кликнув <rs rolename="undergoer">адъютанта</rs>, приказал подать <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="possessor">себе</rs> некоторые
+                бумаги, относившиеся до состояния приходивших войск, и письма, полученные от
+                  <rs>эрцгерцога Фердинанда</rs>, начальствовавшего передовою армией.</s></said>
+            <said who="AndreyBolkonsky" corresp="Prince_Kozlovsky" speech_text="- Нет." speech_id="954"><s><rs ref="AndreyBolkonsky" rolename="agent">Князь Андрей
+                  Болконский</rs> с требуемыми бумагами вошел в кабинет
+                <rs>главнокомандующего</rs>.</s></said>
+            <s>Перед разложенным на столе планом сидели <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs> и австрийский <rs rolename="agent">член</rs>
+              гофкригсрата.</s> </p>
+          <p><said who="Mikhail_Ilarionovich_Kutuzov" corresp="" speech_text="А..." verb="сказать" author_comment="- сказал Кутузов, оглядываясь на Болконского, как будто этим словом приглашая адъютанта подождать, и продолжал по-французски начатый разговор." speech_id="929"><s>- А... - сказал <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent" target="id_1231">Кутузов</rs>, оглядываясь на <rs ref="AndreyBolkonsky" rolename="undergoer" xml:id="id_1231">Болконского</rs>, как
+                будто этим словом приглашая <rs rolename="undergoer">адъютанта</rs> подождать, и
+                продолжал по-французски начатый разговор.</s></said> </p>
+          <p><said who="Mikhail_Ilarionovich_Kutuzov" corresp="австрийский генерал" speech_text="Я только говорю одно, генерал," verb="говорить" author_comment="- говорил Кутузов с приятным изяществом выражений и интонации, заставлявшим вслушиваться в каждое неторопливо сказанное слово." speech_id="933"><said who="AndreyBolkonsky" corresp="Prince_Kozlovsky" speech_text="- Нет." speech_id="954"><s>- <rs rolename="agent">Я</rs> только говорю
+                  одно, <rs>генерал</rs>, - говорил <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs> с приятным изяществом выражений и интонации,
+                  заставлявшим вслушиваться в каждое неторопливо сказанное слово. Видно было, что
+                    <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs> и сам с
+                  удовольствием слушал <rs ref="Mikhail_Ilarionovich_Kutuzov">себя</rs>.</s></said></said>
+            <said who="австрийский генерал" corresp="Mikhail_Ilarionovich_Kutuzov" speech_text="Я только одно говорю, генерал, что ежели бы дело зависело от моего личного желания, то воля его величества императора Франца давно была бы исполнена. Я давно уже присоединился бы к эрцгерцогу. И верьте моей чести, что для меня лично передать высшее начальство армией более меня сведущему и искусному генералу, какими так обильна Австрия, и сложить с себя всю эту тяжкую ответственность, для меня лично было бы отрадой. Но обстоятельства бывают сильнее нас, генерал." speech_id="949"><s>- <rs>Я</rs> только одно говорю, <rs>генерал</rs>, что ежели бы
+                дело зависело от <rs>моего</rs> личного желания, то воля <rs ref="Mikhail_Ilarionovich_Kutuzov">его</rs> величества <rs ref="Emperor_Francis_I_of_Austria">императора Франца</rs> давно была бы
+                исполнена.</s></said>
+            <s><rs>Я</rs> давно уже присоединился бы к эрцгерцогу.</s>
+            <s>И верьте <rs>моей</rs>
+              <rs>чести</rs>, что для <rs>меня</rs> лично передать высшее начальство армией более
+                <rs>меня</rs> сведущему и искусному <rs rolename="possessor">генералу</rs>,
+                <rs>какими</rs> так обильна Австрия, и сложить с <rs>себя</rs> всю эту тяжкую
+              ответственность, для <rs rolename="experiencer">меня</rs> лично было бы отрадой.</s>
+            <s>Но обстоятельства бывают сильнее нас, <rs>генерал</rs>.</s> </p>
+          <p><said who="AndreyBolkonsky" corresp="Prince_Kozlovsky" speech_text="- Нет." speech_id="954"><s>И <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs> улыбнулся с таким выражением, как будто <rs ref="Mikhail_Ilarionovich_Kutuzov">он</rs> говорил: 'Вы имеете полное право не
+                верить <rs ref="Mikhail_Ilarionovich_Kutuzov">мне</rs>, и даже <rs ref="Mikhail_Ilarionovich_Kutuzov">мне</rs> совершенно все равно, верите ли вы <rs ref="Mikhail_Ilarionovich_Kutuzov">мне</rs> или нет, но вы не имеете повода
+                сказать <rs ref="Mikhail_Ilarionovich_Kutuzov">мне</rs> это. И в этом-то все
+                дело'.</s></said> </p>
+          <p><s>Австрийский <rs rolename="possessor">генерал</rs> имел недовольный вид, но не мог не
+              в том же тоне отвечать <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="addressee">Кутузову</rs>.</s> </p>
+          <p><s>- Напротив,- сказал <rs><rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">он</rs></rs> ворчливым и сердитым тоном, так противоречившим лестному значению
+              произносимых слов,- напротив, участие вашего <rs rolename="agent">превосходительства</rs> в общем деле высоко ценится <rs>его</rs>
+              <rs rolename="experiencer">величеством</rs>; но мы полагаем, что настоящее замедление
+              лишает славные русские войска и их главнокомандующих тех лавров, которые <rs rolename="experiencer">они</rs> привыкли пожинать в битвах,- закончил <rs><rs ref="Mikhail_Ilarionovich_Kutuzov">он</rs></rs>, видимо, приготовленную
+            фразу.</s> </p>
+          <p><s><rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs> поклонился, не
+              изменяя улыбки.</s> </p>
+          <p><said who="Mikhail_Ilarionovich_Kutuzov" corresp="австрийский генерал" speech_text="А я так убежден и, основываясь на последнем письме, которым почтил меня его высочество эрцгерцог Фердинанд, предполагаю, что австрийские войска, под начальством столь искусного помощника, каков генерал Мак, теперь уже одержали решительную победу и не нуждаются более в нашей помощи," verb="сказать" author_comment="- сказал Кутузов." speech_id="936"><s>- А <rs rolename="experiencer">я</rs> так убежден и, основываясь на последнем письме,
+                которым почтил <rs rolename="undergoer">меня</rs>
+                <rs ref="Mikhail_Ilarionovich_Kutuzov">его</rs> высочество <rs>эрцгерцог
+                  Фердинанд</rs>, предполагаю, что австрийские войска, под начальством столь
+                искусного <rs>помощника</rs>, каков генерал <rs ref="General_Mack">Мак</rs>, теперь
+                уже одержали решительную победу и не нуждаются более в нашей помощи,- сказал <rs ref="Mikhail_Ilarionovich_Kutuzov">Кутузов</rs>.</s></said> </p>
+          <p><s><rs rolename="experiencer">Генерал</rs> нахмурился.</s>
+            <s>Хотя и не было положительных известий о поражении австрийцев, но было слишком много
+              обстоятельств, подтверждавших общие невыгодные слухи; и потому предположение <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="experiencer">Кутузова</rs> о победе
+              австрийцев было весьма похоже на насмешку.</s>
+            <s>Но <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs> кротко
+              улыбался, все с тем же выражением, которое говорило, что <rs ref="Mikhail_Ilarionovich_Kutuzov">он</rs> имеет право предполагать это.</s>
+            <s>Действительно, последнее письмо, полученное <rs ref="Mikhail_Ilarionovich_Kutuzov">им</rs> из армии <rs ref="General_Mack">Мака</rs>, извещало <rs ref="Mikhail_Ilarionovich_Kutuzov">его</rs> о победе и о самом выгодном
+              стратегическом положении армии.</s> </p>
+          <p><said who="Mikhail_Ilarionovich_Kutuzov" corresp="австрийский генерал;AndreyBolkonsky" speech_text="Вот изволите видеть,. Дай-ка сюда это письмо" verb="сказать" author_comment=", - сказал Кутузов, обращаясь к князю Андрею. -" speech_id="946"><s>-
+                Дай-ка сюда это письмо, - сказал <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs>, обращаясь к <rs ref="AndreyBolkonsky">князю
+                  Андрею</rs>. - Вот изволите видеть, - и <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs>, с насмешливою улыбкой на концах губ, прочел
+                по-немецки австрийскому <rs rolename="addressee">генералу</rs> следующее место из
+                письма <rs rolename="agent">эрцгерцога Фердинанда</rs>: - 'Wir haben vollkommen
+                zusammengehaltene Kräfte, nahe an 70 000 Mann, um den Feind, wenn er den Lech
+                passierte, angreifen und schlagen zu können.</s></said>
+            <s>Wir können, da wir Meister von Ulm sind, den Vorteil, auch von beiden Ufern der Donau
+              Meister zu bleiben, nicht verlieren; mithin auch jeden Augenblick, wenn der Feind den
+              Lech nicht, passierte, die Donau übersetzen, uns auf seine Kommunikations-Linie
+              werfen, die Donau unterhalb repassieren um dem Feinde, wenn er sich gegen unsere treue
+              Allierte mit ganzer Macht wenden wollte, seine Absicht alsbald vereiteln.</s>
+            <s>Wir werden auf solche Weise dem Zeitpunkt, wo die Kaiserlich-Russische Armee
+              ausgerüstet sein wird, mutig entgegenharren, und sodann leicht gemeinschaftlich die
+              Möglichkeit finden, dem Feinde das Schicksal zuzubereiten, so er verdient'l</s> </p>
+          <p><s><rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="experiencer">Кутузов</rs> тяжело
+              вздохнул, окончив этот период, и внимательно и ласково посмотрел на <rs rolename="undergoer">члена</rs> гофкригсрата.</s> </p>
+          <p><said who="Zherkov" corresp="австрийский генерал" speech_text="Ваше превосходительство. Имею честь поздравить." verb="сказать" author_comment=",- сказал он по-немецки, выдвигаясь вперед и обращаясь к австрийскому генералу. -" speech_id="924"><said who="австрийский генерал" corresp="Mikhail_Ilarionovich_Kutuzov" speech_text="Но вы знаете, ваше превосходительство, мудрое правило, предписывающее предполагать худшее," verb="сказать" author_comment="- сказал австрийский генерал, видимо желая покончить с шутками и приступить к делу." speech_id="932"><s>- Но <rs rolename="experiencer">вы</rs> знаете, <rs rolename="possessor">ваше</rs>
+                  <rs>превосходительство</rs>, мудрое правило, предписывающее предполагать худшее,-
+                  сказал австрийский <rs rolename="agent">генерал</rs>, видимо желая покончить с
+                  шутками и приступить к делу.</s></said></said> </p>
+          <p><s>Он недовольно оглянулся на <rs rolename="undergoer">адъютанта</rs>.</s> </p>
+          <p><said who="Mikhail_Ilarionovich_Kutuzov" corresp="AndreyBolkonsky" speech_text="Вот два письма от графа Ностица, вот письмо от его высочества эрцгерцога Фердинанда, вот еще. Вот что, мой любезный, возьми ты все донесения от наших лазутчиков у Козловского.. И из всего этого чистенько, на французском языке, составь mémorandum, записочку, для видимости всех тех известий, которые мы о действиях австрийской армии имели.. Извините, генерал" verb="сказать" author_comment=",- сказал он, подавая ему несколько бумаг. -" speech_id="947"><s>- Извините, <rs>генерал</rs>,- перебил его <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs> и тоже
+                поворотился к <rs ref="AndreyBolkonsky" rolename="finalpoint">князю Андрею</rs>. -
+                Вот что, мой любезный, возьми <rs rolename="possessor">ты</rs> все донесения от
+                наших лазутчиков у <rs ref="Prince_Kozlovsky">Козловского</rs>. Вот два письма от
+                  <rs>графа Ностица</rs>, вот письмо от <rs rolename="possessor">его</rs> высочества
+                  <rs>эрцгерцога Фердинанда</rs>, вот еще,- сказал он, подавая ему несколько бумаг.
+                - И из всего этого чистенько, на французском языке, составь mémorandum, записочку,
+                для видимости всех тех известий, которые мы о действиях австрийской армии имели. Ну,
+                так-то, и представь <rs rolename="possessor">его</rs>
+                <rs rolename="addressee">превосходительству</rs>.</s></said> </p>
+          <p><said who="AndreyBolkonsky" corresp="Prince_Kozlovsky" speech_text="- Нет." speech_id="954"><s> наклонил голову в знак того, что понял с первых слов не только то,
+                что было сказано, но и то, что желал бы сказать <rs ref="AndreyBolkonsky" rolename="addressee" xml:id="id_1234">ему</rs>
+                <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="experiencer">Кутузов</rs>.</s></said>
+            <s><rs ref="AndreyBolkonsky" rolename="possessor">Он</rs> собрал бумаги и, отдав общий
+              поклон, тихо шагая по ковру, вышел в приемную.</s> </p>
+          <p><s>Несмотря на то, что еще не много времени прошло с тех пор, как <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs> оставил Россию, <rs ref="AndreyBolkonsky" rolename="undergoer">он</rs> много изменился за это время.</s>
+            <s>В выражении <rs ref="AndreyBolkonsky" rolename="possessor">его</rs> лица, в
+              движениях, в походке почти не было заметно прежнего притворства, усталости и лени; <rs ref="AndreyBolkonsky" rolename="possessor">он</rs> имел вид <rs rolename="undergoer">человека</rs>, не имеющего времени думать о впечатлении, какое <rs><rs ref="AndreyBolkonsky" rolename="agent">он</rs></rs> производит на других, и
+              занятого делом приятным и интересным.</s>
+            <s>Лицо <rs><rs ref="AndreyBolkonsky" rolename="possessor">его</rs></rs> выражало больше
+              довольства собой и окружающими; улыбка и взгляд его были веселее и
+              привлекательнее.</s> </p>
+          <p><s><rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent" target="id_1235">Кутузов</rs>, <rs ref="Mikhail_Ilarionovich_Kutuzov" xml:id="id_1235">которого</rs>
+              <rs><rs ref="AndreyBolkonsky">он</rs></rs> догнал еще в Польше, принял <rs ref="Mikhail_Ilarionovich_Kutuzov">его</rs> очень ласково, обещал <rs><rs ref="AndreyBolkonsky" rolename="addressee">ему</rs></rs> не забывать <rs ref="AndreyBolkonsky" rolename="undergoer">его</rs>, отличал от других адъютантов, брал
+              с <rs ref="Mikhail_Ilarionovich_Kutuzov">собою</rs> в Вену и давал более серьезные
+              поручения.</s>
+            <s>Из Вены <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs> писал
+                <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="addressee">своему</rs> старому <rs rolename="addressee">товарищу</rs>, отцу <rs ref="AndreyBolkonsky">князя
+              Андрея</rs>.</s> </p>
+          <p><s>'Ваш <rs>сын</rs>,- писал <rs ref="Mikhail_Ilarionovich_Kutuzov">он</rs>,- надежду
+              подает быть офицером, из ряду выходящим по <rs rolename="possessor">своим</rs>
+              знаниям, твердости и исполнительности. <rs rolename="experiencer">Я</rs> считаю <rs rolename="undergoer">себя</rs> счастливым, имея под рукой такого <rs rolename="undergoer">подчиненного</rs>'.</s> </p>
+          <p><s>В штабе <rs ref="Mikhail_Ilarionovich_Kutuzov">Кутузова</rs> между
+              товарищами-сослуживцами и вообще в армии <rs ref="AndreyBolkonsky" rolename="undergoer">князь Андрей</rs>, так же как и в петербургском обществе, имел две совершенно
+              противоположные репутации.</s>
+            <s>Одни, меньшая часть, признавали <rs ref="AndreyBolkonsky" rolename="undergoer">князя
+                Андрея</rs> чем-то особенным от себя и от всех других людей, ожидали от <rs ref="AndreyBolkonsky">него</rs> больших успехов, слушали <rs ref="AndreyBolkonsky" rolename="undergoer">его</rs>, восхищались <rs ref="AndreyBolkonsky" rolename="undergoer">им</rs> и подражали <rs ref="AndreyBolkonsky">ему</rs>; и с этими людьми <rs ref="AndreyBolkonsky" rolename="undergoer">князь Андрей</rs> был прост и приятен.</s>
+            <s>Другие, большинство, не любили <rs ref="AndreyBolkonsky" rolename="undergoer">князя
+                Андрея</rs>, считали <rs ref="AndreyBolkonsky">его</rs> надутым, холодным и
+              неприятным человеком.</s>
+            <s>Но с этими людьми <rs ref="AndreyBolkonsky" rolename="experiencer">князь Андрей</rs>
+              умел поставить <rs ref="AndreyBolkonsky" rolename="undergoer">себя</rs> так, что <rs ref="AndreyBolkonsky" rolename="undergoer">его</rs> уважали и даже боялись.</s> </p>
+          <p><said who="AndreyBolkonsky" corresp="Prince_Kozlovsky" speech_text="- Нет." speech_id="954"><s>Выйдя в приемную из кабинета <rs ref="Mikhail_Ilarionovich_Kutuzov">Кутузова</rs>, <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs> с
+                бумагами подошел к товарищу, дежурному адъютанту <rs ref="Prince_Kozlovsky">Козловскому</rs>, <rs ref="Prince_Kozlovsky">который</rs> с книгой сидел у
+                окна.</s></said> </p>
+          <p><said who="Prince_Kozlovsky" corresp="" speech_text="- Ну, что, князь? - спросил Козловский." speech_id="950"><s>- Ну, что,
+                князь? - спросил <rs ref="Prince_Kozlovsky" rolename="agent">Козловский</rs>.</s></said> </p>
+          <p><said who="AndreyBolkonsky" corresp="Prince_Nesvitsky" speech_text="- Приказано составить записку, почему нейдем вперед." speech_id="944"><s>- Приказано составить записку, почему нейдем вперед.</s></said> </p>
+          <p><said who="Prince_Kozlovsky" corresp="AndreyBolkonsky" speech_text="- А почему?" speech_id="948"><s>- А почему?</s></said> </p>
+          <p><s><rs ref="AndreyBolkonsky" rolename="agent">Князь Андрей</rs> пожал плечами.</s> </p>
+          <p><said who="Prince_Kozlovsky" corresp="AndreyBolkonsky" speech_text="Нет известия от Мака?" verb="спросить" author_comment="- спросил Козловский." speech_id="937"><said who="AndreyBolkonsky" corresp="Prince_Kozlovsky" speech_text="- Нет." speech_id="954"><s>- Нет известия от
+                    <rs ref="General_Mack">Мака</rs>? - спросил <rs ref="Prince_Kozlovsky" rolename="agent">Козловский</rs>.</s></said></said> </p>
+          <p><said who="AndreyBolkonsky" corresp="Prince_Kozlovsky" speech_text="- Нет." speech_id="954"><s>- Нет.</s></said> </p>
+          <p><said who="Prince_Kozlovsky" corresp="AndreyBolkonsky" speech_text="- Ежели бы правда, что он разбит, так пришло бы известие." speech_id="945"><s>- Ежели бы правда, что он разбит, так пришло бы
+              известие.</s></said> </p>
+          <p><said who="AndreyBolkonsky" corresp="Prince_Kozlovsky" speech_text="Вероятно," verb="сказать" author_comment="- сказал князь Андрей и направился к выходной двери; но в то же время навстречу ему, хлопнув дверью, быстро вошел в приемную высокий, очевидно приезжий, австрийский генерал в сюртуке, с повязанною черным платком головою и с орденом Марии-Терезии на шее." speech_id="927"><s>- Вероятно,- сказал <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs> и направился к выходной двери; но в то же время навстречу <rs ref="Prince_Kozlovsky" rolename="addressee">ему</rs>, хлопнув дверью, быстро вошел
+                в приемную высокий, очевидно приезжий, австрийский <rs rolename="agent">генерал</rs>
+                в сюртуке, с повязанною черным платком головою и с орденом <rs rolename="possessor">Марии-<rs>Терезии</rs></rs> на шее.</s></said>
+            <s><rs ref="AndreyBolkonsky" rolename="agent">Князь Андрей</rs> остановился.</s> </p>
+          <p><said who="Prince_Kozlovsky" corresp="General_Mack" speech_text="Генерал-аншеф занят. Как прикажете доложить?" verb="сказать" author_comment=",- сказал Козловский, торопливо подходя к неизвестному генералу и загораживая ему дорогу от двери. -" speech_id="925"><said who="General_Mack" corresp="Prince_Kozlovsky" speech_text="Генерал-аншеф Кутузов?" verb="проговорить" author_comment="- быстро проговорил приезжий генерал с резким немецким выговором, оглядываясь на обе стороны и без остановки проходя к двери кабинета." speech_id="926"><said who="Prince_Kozlovsky" corresp="General_Mack" speech_text="Генерал-аншеф занят," verb="повторить" author_comment="- спокойно повторил Козловский." speech_id="935"><said who="AndreyBolkonsky" corresp="Prince_Kozlovsky" speech_text="- Нет." speech_id="954"><s>- Генерал-аншеф <rs ref="Mikhail_Ilarionovich_Kutuzov">Кутузов</rs>? - быстро проговорил приезжий <rs rolename="agent">генерал</rs> с резким немецким выговором, оглядываясь на обе стороны и без
+                      остановки проходя к двери кабинета.</s></said></said></said></said> </p>
+          <p><said who="Prince_Kozlovsky" corresp="General_Mack" speech_text="Генерал-аншеф занят. Как прикажете доложить?" verb="сказать" author_comment=",- сказал Козловский, торопливо подходя к неизвестному генералу и загораживая ему дорогу от двери. -" speech_id="925"><said who="General_Mack" corresp="Prince_Kozlovsky" speech_text="Генерал-аншеф Кутузов?" verb="проговорить" author_comment="- быстро проговорил приезжий генерал с резким немецким выговором, оглядываясь на обе стороны и без остановки проходя к двери кабинета." speech_id="926"><said who="Prince_Kozlovsky" corresp="General_Mack" speech_text="Генерал-аншеф занят," verb="повторить" author_comment="- спокойно повторил Козловский." speech_id="935"><s>- <rs rolename="experiencer">Генерал</rs>-аншеф занят,- сказал <rs ref="Prince_Kozlovsky" rolename="agent">Козловский</rs>, торопливо подходя к
+                    неизвестному <rs>генералу</rs> и загораживая <rs><rs rolename="benemalefactive">ему</rs></rs> дорогу от двери. - Как прикажете
+              доложить?</s></said></said></said> </p>
+          <p><s>Неизвестный <rs rolename="agent">генерал</rs> презрительно оглянулся сверху вниз на
+              невысокого ростом <rs ref="Prince_Kozlovsky" rolename="undergoer">Козловского</rs>, как
+              будто удивляясь, что <rs ref="Prince_Kozlovsky">его</rs> могут не знать.</s> </p>
+          <p><said who="Prince_Kozlovsky" corresp="General_Mack" speech_text="Генерал-аншеф занят. Как прикажете доложить?" verb="сказать" author_comment=",- сказал Козловский, торопливо подходя к неизвестному генералу и загораживая ему дорогу от двери. -" speech_id="925"><said who="General_Mack" corresp="Prince_Kozlovsky" speech_text="Генерал-аншеф Кутузов?" verb="проговорить" author_comment="- быстро проговорил приезжий генерал с резким немецким выговором, оглядываясь на обе стороны и без остановки проходя к двери кабинета." speech_id="926"><said who="Prince_Kozlovsky" corresp="General_Mack" speech_text="Генерал-аншеф занят," verb="повторить" author_comment="- спокойно повторил Козловский." speech_id="935"><s>- <rs rolename="experiencer">Генерал</rs>-аншеф занят,- спокойно повторил <rs ref="Prince_Kozlovsky" rolename="agent">Козловский</rs>.</s></said></said></said> </p>
+          <p><s>Лицо <rs rolename="possessor">генерала</rs> нахмурилось, губы <rs ref="Prince_Kozlovsky"><rs rolename="possessor">его</rs></rs> дернулись и
+              задрожали.</s>
+            <s><rs ref="Prince_Kozlovsky"><rs rolename="possessor">Он</rs></rs> вынул записную
+              книжку, быстро начертил что-то карандашом, вырвал листок, отдал, быстрыми шагами
+              подошел к окну, бросил <rs rolename="possessor">свое</rs> тело на стул и оглянул
+              бывших в комнате, как будто спрашивая: зачем они на <rs rolename="undergoer">него</rs>
+              смотрят?</s>
+            <s>Потом <rs rolename="agent">генерал</rs> поднял голову, вытянул шею, как будто
+              намереваясь что-то сказать, но тотчас же, как будто небрежно начиная напевать про
+              себя, произвел странный звук, который тотчас же пресекся.</s>
+            <said who="AndreyBolkonsky" corresp="Prince_Kozlovsky" speech_text="- Нет." speech_id="954"><s>Дверь кабинета отворилась, и на пороге ее показался <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="undergoer">Кутузов</rs>.</s></said>
+            <s><rs rolename="agent">Генерал</rs> с повязанною головой, как будто убегая от
+              опасности, нагнувшись, большими, быстрыми шагами худых ног подошел к <rs ref="Mikhail_Ilarionovich_Kutuzov">Кутузову</rs>.</s> </p>
+          <p><said who="General_Mack" corresp="Mikhail_Ilarionovich_Kutuzov" speech_text="Vous voyez le malheureux Mack," verb="проговорить" author_comment="- проговорил он сорвавшимся голосом." speech_id="940"><s>- Vous voyez
+                le malheureux Mack,- проговорил <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">он</rs> сорвавшимся голосом.</s></said> </p>
+          <p><said who="AndreyBolkonsky" corresp="Prince_Kozlovsky" speech_text="- Нет." speech_id="954"><s>Лицо <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="possessor">Кутузова</rs>, стоявшего в дверях кабинета, несколько мгновений оставалось
+                совершенно неподвижно.</s></said>
+            <s>Потом, как волна, пробежала по <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="possessor" target="id_1236">его</rs> лицу морщина, лоб разгладился; <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent" xml:id="id_1236">он</rs>
+              почтительно наклонил голову, закрыл глаза, молча пропустил мимо <rs ref="Mikhail_Ilarionovich_Kutuzov">себя</rs>
+              <rs ref="General_Mack" rolename="agent">Мака</rs> и сам за <rs ref="Mikhail_Ilarionovich_Kutuzov">собой</rs> затворил дверь.</s> </p>
+          <p><s>Слух, уже распространенный прежде, о разбитии австрийцев и о сдаче всей армии под
+              Ульмом оказывался справедливым.</s>
+            <s>Через полчаса уже по разным направлениям были разосланы адъютанты с приказаниями,
+              доказывавшими, что скоро и русские войска, до сих пор бывшие в бездействии, должны
+              будут встретиться с <rs>неприятелем</rs>.</s> </p>
+          <p><s><rs ref="AndreyBolkonsky">Князь Андрей</rs> был один из тех редких офицеров в штабе,
+              который полагал свой главный интерес в общем ходе военного дела.</s>
+            <s>Увидав <rs ref="General_Mack" rolename="undergoer" target="id_1238">Мака</rs> и услыхав
+              подробности <rs ref="General_Mack" xml:id="id_1238"><rs ref="AndreyBolkonsky" rolename="experiencer">его</rs></rs> погибели, <rs ref="AndreyBolkonsky" rolename="experiencer">он</rs> понял, что половина кампании проиграна, понял всю
+              трудность положения русских войск и живо вообразил себе то, что ожидает армию, и ту
+              роль, которую он должен будет играть в ней.</s>
+            <s>Невольно он испытывал волнующее радостное чувство при мысли о посрамлении
+              самонадеянной Австрии и о том, что через неделю, может быть, придется ему увидеть и
+              принять участие в столкновении русских с французами, впервые после Суворова.</s>
+            <s>Но он боялся гения <rs ref="Napoleon_Bonaparte">Бонапарта</rs>, <rs ref="Napoleon_Bonaparte">который</rs> мог оказаться сильнее всей храбрости русских
+              войск, и вместе с тем не мог допустить позора для своего <rs rolename="experiencer">героя</rs>.</s> </p>
+          <p><s>Взволнованный и раздраженный этими мыслями, <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs> пошел в <rs ref="AndreyBolkonsky" rolename="possessor">свою</rs> комнату, чтобы написать <rs rolename="addressee">отцу</rs>, <rs>которому</rs> он писал каждый день.</s>
+            <s><rs ref="AndreyBolkonsky" rolename="agent" target="id_12311">Он</rs> сошелся в
+              коридоре с <rs ref="AndreyBolkonsky" xml:id="id_12311">своим</rs> сожителем <rs ref="Prince_Nesvitsky">Несвицким</rs> и шутником <rs ref="Zherkov">Жерковым</rs>;
+                <rs ref="Zherkov">они</rs>, как всегда, чему-то смеялись.</s> </p>
+          <p><said who="Prince_Nesvitsky" corresp="" speech_text="- Что ты так мрачен? - спросил Несвицкий, заметив бледное, с блестящими глазами лицо князя Андрея." speech_id="952"><s>- Что <rs rolename="undergoer">ты</rs> так мрачен? - спросил <rs ref="Prince_Nesvitsky" rolename="agent">Несвицкий</rs>, заметив бледное, с
+                блестящими глазами лицо <rs ref="AndreyBolkonsky" rolename="possessor">князя
+                  Андрея</rs>.</s></said> </p>
+          <p><said who="AndreyBolkonsky" corresp="Prince_Nesvitsky" speech_text="Веселиться нечему," verb="отвечать" author_comment="- отвечал Болконский." speech_id="938"><s>- Веселиться
+                нечему,- отвечал <rs ref="AndreyBolkonsky" rolename="agent">Болконский</rs>.</s></said> </p>
+          <p><s>В то время как <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs> сошелся
+              с <rs ref="Prince_Nesvitsky" target="id_12314">Несвицким</rs> и <rs ref="Zherkov" xml:id="id_12314">Жерковым</rs>, с другой стороны коридора навстречу <rs ref="Zherkov" rolename="benemalefactive">им</rs> шли Штраух, австрийский <rs rolename="agent">генерал</rs>, состоявший при штабе <rs ref="Mikhail_Ilarionovich_Kutuzov">Кутузова</rs> для наблюдения за продовольствием
+              русской армии, и <rs rolename="agent">член</rs> гофкригсрата, приехавшие накануне.</s>
+            <s>По широкому коридору было достаточно места, чтобы генералы могли свободно разойтись с
+              тремя офицерами; но <rs ref="Zherkov" rolename="agent" target="id_12315">Жерков</rs>,
+              отталкивая рукой <rs ref="Prince_Nesvitsky" rolename="undergoer" xml:id="id_12315">Несвицкого</rs>, запыхавшимся голосом проговорил:</s> </p>
+          <p><said who="Zherkov" corresp="Prince_Nesvitsky" speech_text="- Идут!.." speech_id="941"><s>- Идут!..</s></said>
+            <said who="Zherkov" corresp="Prince_Nesvitsky" speech_text="- Идут!.." speech_id="941"><s>идут!..</s></said>
+            <s>посторонитесь, дорогу!</s>
+            <s>пожалуйста, дорогу!</s> </p>
+          <p><s>Генералы проходили с видом желания избавиться от утруждающих почестей.</s>
+            <s>На лице шутника <rs ref="Zherkov">Жеркова</rs> выразилась вдруг глупая улыбка
+              радости, которой <rs ref="Zherkov">он</rs> как будто не мог удержать.</s> </p>
+          <p><said who="Zherkov" corresp="австрийский генерал" speech_text="Ваше превосходительство. Имею честь поздравить." verb="сказать" author_comment=",- сказал он по-немецки, выдвигаясь вперед и обращаясь к австрийскому генералу. -" speech_id="924"><said who="Zherkov" corresp="австрийский генерал;генерал Штраух" speech_text="Имею честь поздравить, генерал Мак приехал, совсем здоров, только немного тут зашибся," verb="прибавить" author_comment="- прибавил он, сияя улыбкой и указывая на свою голову." speech_id="931"><s>- <rs rolename="possessor">Ваше</rs>
+                  <rs>превосходительство</rs>,- сказал он по-немецки, выдвигаясь вперед и обращаясь
+                  к австрийскому <rs>генералу</rs>. - Имею честь поздравить.</s></said></said> </p>
+          <p><s>Он наклонил голову и неловко, как дети, которые учатся танцевать, стал
+              расшаркиваться то одной, то другой ногою.</s> </p>
+          <p><s><rs rolename="agent">Генерал</rs>, член гофкригсрата, строго оглянулся на него; но,
+              заметив серьезность глупой улыбки, не мог отказать в минутном внимании.</s>
+            <s>Он прищурился, показывая, что слушает.</s> </p>
+          <p><said who="Zherkov" corresp="австрийский генерал;генерал Штраух" speech_text="Имею честь поздравить, генерал Мак приехал, совсем здоров, только немного тут зашибся," verb="прибавить" author_comment="- прибавил он, сияя улыбкой и указывая на свою голову." speech_id="931"><s>- Имею честь поздравить, генерал <rs ref="General_Mack">Мак</rs>
+                приехал, совсем здоров, только немного тут зашибся,- прибавил он, сияя улыбкой и
+                указывая на свою голову.</s></said> </p>
+          <p><s><rs rolename="experiencer">Генерал</rs> нахмурился, отвернулся и пошел
+            дальше.</s> </p>
+          <p><said who="австрийский генерал" corresp="Zherkov" speech_text="Gott, wie naiv!" verb="сказать" author_comment="- сказал он сердито, отойдя несколько шагов." speech_id="930"><s>- Gott, wie naiv! - сказал <rs rolename="agent">он</rs> сердито,
+                отойдя несколько шагов.</s></said> </p>
+          <p><s><rs ref="Prince_Nesvitsky" rolename="agent" target="id_12317">Несвицкий</rs> с
+              хохотом обнял <rs ref="AndreyBolkonsky" rolename="undergoer" xml:id="id_12317">князя
+                Андрея</rs>, но <rs ref="AndreyBolkonsky" rolename="agent">Болконский</rs>, еще
+              более побледнев, с злобным выражением в лице, оттолкнул <rs ref="Prince_Nesvitsky">его</rs> и обратился к Жеркову.</s>
+            <s>То нервное раздражение, в которое <rs ref="AndreyBolkonsky">его</rs> привели вид
+              Мака, известив об <rs ref="Prince_Nesvitsky">его</rs> поражении и мысли о том, что
+              ожидает русскую армию, нашли себе исход в озлоблении на неуместную шутку <rs ref="Zherkov">Жеркова</rs>.</s> </p>
+          <p><said who="AndreyBolkonsky" corresp="Zherkov" speech_text=" Если вы, милостивый государь, хотите быть шутом, то я вам в этом не могу воспрепятствовать; но объявляю вам, что если вы осмелитесь другой раз скоморошничать в моем присутствии, то я вас научу, как вести себя." speech_id="943"><s>- Если <rs ref="Tsar_Alexander_I_of_Russia" rolename="experiencer">вы</rs>, милостивый <rs ref="Tsar_Alexander_I_of_Russia">государь</rs>,-
+                заговорил <rs ref="AndreyBolkonsky">он</rs> пронзительно, с легким дрожанием нижней
+                челюсти,- хотите быть шутом, то <rs>я</rs>
+                <rs ref="Tsar_Alexander_I_of_Russia">вам</rs> в этом не могу воспрепятствовать; но
+                объявляю <rs ref="Tsar_Alexander_I_of_Russia" rolename="addressee">вам</rs>, что
+                если <rs ref="Tsar_Alexander_I_of_Russia" rolename="agent">вы</rs> осмелитесь другой
+                раз скоморошничать в <rs rolename="undergoer">моем</rs> присутствии, то <rs rolename="agent">я</rs>
+                <rs ref="Tsar_Alexander_I_of_Russia">вас</rs> научу, как вести <rs ref="Tsar_Alexander_I_of_Russia">себя</rs>.</s></said> </p>
+          <p><s><rs ref="Prince_Nesvitsky" rolename="experiencer" target="id_12319">Несвицкий</rs> и
+                <rs ref="Zherkov" rolename="experiencer" xml:id="id_12319">Жерков</rs> так были
+              удивлены этой выходкой, что молча, раскрыв глаза, смотрели на <rs ref="AndreyBolkonsky" rolename="undergoer">Болконского</rs>.</s> </p>
+          <p><said who="Zherkov" corresp="AndreyBolkonsky" speech_text="Что ж, я поздравил только," verb="сказать" author_comment="- сказал Жерков." speech_id="939"><s>- Что ж,
+                  <rs>я</rs> поздравил только,- сказал <rs ref="Zherkov" rolename="agent">Жерков</rs>.</s></said> </p>
+          <p><said who="AndreyBolkonsky" corresp="Zherkov" speech_text="Я не шучу с вами, извольте молчать!" verb="пойти" author_comment="- крикнул Болконский и, взяв за руку Несвицкого, пошел прочь от Жеркова, не нашедшегося, что ответить." speech_id="928"><said who="AndreyBolkonsky" corresp="" speech_text="" verb="ответить" speech_id="953"><s>- <rs>Я</rs> не шучу с вами, извольте молчать! - крикнул <rs ref="AndreyBolkonsky" rolename="agent" target="id_12320">Болконский</rs> и, взяв
+                  за руку <rs ref="Prince_Nesvitsky" rolename="undergoer" xml:id="id_12320">Несвицкого</rs>, пошел прочь от Жеркова, не нашедшегося, что
+                ответить.</s></said></said> </p>
+          <p><said who="Prince_Nesvitsky" corresp="AndreyBolkonsky" speech_text="- Ну, что ты, братец," verb="сказать" speech_id="934"><s>- Ну, что <rs rolename="agent">ты</rs>, <rs>братец</rs>,- успокоивая, сказал <rs ref="Prince_Nesvitsky" rolename="undergoer">Несвицкий</rs>.</s></said> </p>
+          <p><said who="AndreyBolkonsky" corresp="" speech_text="Как что?" verb="заговорить" author_comment="- заговорил князь Андрей, останавливаясь от волнения.-" speech_id="951"><s>- Как что? - заговорил <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs>, останавливаясь от волнения.</s></said><said who="AndreyBolkonsky" corresp="Prince_Nesvitsky" speech_text="Quarante milles hommes massacrés et l'armée de nos alliés détruite, et vous trouvez là le mot pour rire,. Да ты пойми, что мы - или офицеры, которые служим своему царю и отечеству и радуемся общему успеху и печалимся об общей неудаче, или мы лакеи, которым дела нет до господского дела." verb="сказать" author_comment=",- сказал он, как будто этою французскою фразой закрепляя свое мнение.-" speech_id="942"><said who="AndreyBolkonsky" corresp="Prince_Kozlovsky" speech_text="- Нет." speech_id="954"><s>- Да <rs>ты</rs> пойми, что мы - или
+                  офицеры, которые служим своему <rs rolename="benemalefactive">царю</rs> и
+                  отечеству и радуемся общему успеху и печалимся об общей неудаче, или мы лакеи,
+                  которым дела нет до господского дела. Quarante milles hommes massacrés et l'armée
+                  de nos alliés détruite, et vous trouvez là le mot pour rire,- сказал <rs ref="AndreyBolkonsky" rolename="agent">он</rs>, как будто этою французскою
+                  фразой закрепляя <rs ref="AndreyBolkonsky" rolename="experiencer">свое</rs>
+                  мнение.</s></said></said><said who="AndreyBolkonsky" corresp="Prince_Nesvitsky" speech_text="C'est bien pour un garçon de rien comme cet individu dont vous avez fait un ami, mais pas pour vous, pas pour vous.. Мальчишкам только можно так забавляться," verb="прибавить" speech_id="923"><s>- C'est bien pour un garçon de rien comme cet
+                individu dont vous avez fait un ami, mais pas pour vous, pas pour vous. Мальчишкам
+                только можно так забавляться,- прибавил <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs> по-русски, выговаривая это слово с французским акцентом,
+                заметив, что <rs ref="Zherkov">Жерков</rs> мог еще слышать <rs ref="AndreyBolkonsky" rolename="undergoer">его</rs>.</s></said> </p>
+          <p><said who="AndreyBolkonsky" corresp="Prince_Kozlovsky" speech_text="- Нет." speech_id="954"><s><rs ref="AndreyBolkonsky" rolename="experiencer">Он</rs> подождал,
+                не ответит ли что-нибудь <rs rolename="agent">корнет</rs>.</s></said>
+            <said who="AndreyBolkonsky" corresp="Prince_Kozlovsky" speech_text="- Нет." speech_id="954"><s>Но <rs rolename="agent">корнет</rs> повернулся и вышел из
+                коридора.</s></said>  </p>
+        </div>
+        

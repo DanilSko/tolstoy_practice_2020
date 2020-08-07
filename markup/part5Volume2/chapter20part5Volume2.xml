@@ -1,0 +1,132 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="20" type="chapter" xml:id="chapter20part5Volume2">
+          <p> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="undergoer">Пьер</rs> не остался обедать, а тотчас
+              же вышел из комнаты и уехал.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="agent">Он</rs> поехал отыскивать по городу <rs ref="Anatole_Kuragin" rolename="undergoer">Анатоля Курагина</rs>, при мысли о котором
+              теперь вся кровь у него приливала к сердцу и он испытывал затруднение переводить
+              дыхание.</s>
+            <s>На горах, у цыган, у Comoneno - его не было.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> поехал в клуб.</s>
+            <s>В клубе все шло своим обыкновенным порядком: гости, съехавшиеся обедать, сидели
+              группами и здоровались с <rs ref="Pierre_Bezukhov" rolename="addressee">Пьером</rs> и
+              говорили о городских новостях.</s>
+            <s><rs rolename="agent">Лакей</rs>, поздоровавшись с <rs ref="Pierre_Bezukhov" rolename="addressee">ним</rs>, доложил <rs ref="Pierre_Bezukhov" rolename="addressee">ему</rs>, зная <rs ref="Pierre_Bezukhov" rolename="experiencer">его</rs> знакомство и привычки, что место <rs ref="Pierre_Bezukhov" rolename="benemalefactive">ему</rs> оставлено в маленькой столовой, что <rs rolename="agent">князь Михаил Захарыч</rs> в библиотеке, а <rs rolename="agent">Павел Тимофеич</rs> не приезжали еще.</s>
+            <s>Один из знакомых <rs ref="Pierre_Bezukhov">Пьера</rs> между разговором о погоде
+              спросил у <rs ref="Pierre_Bezukhov" rolename="addressee">него</rs>, слышал ли <rs ref="Pierre_Bezukhov" rolename="experiencer">он</rs> о похищении <rs ref="Countess_Natalya_Rostova" rolename="possessor">Курагиным Ростовой</rs>, про
+              которое говорят в городе, правда ли это?</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, засмеявшись, сказал, что это
+              вздор, потому что <rs ref="Pierre_Bezukhov">он</rs> сейчас только от <rs ref="Pierre_Bezukhov">Ростовых</rs>.</s>
+            <s><rs ref="Pierre_Bezukhov">Он</rs> спрашивал у всех про Анатоля; <rs rolename="addressee">ему</rs> сказал один, что не приезжал еще, другой - что <rs rolename="agent">он</rs> будет обедать нынче.</s>
+            <s><rs ref="Pierre_Bezukhov">Пьеру</rs> странно было смотреть на эту спокойную,
+              равнодушную толпу людей, не знавшую того, что делалось у <rs ref="Pierre_Bezukhov">него</rs> в душе.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="agent">Он</rs> прошелся по залам, дождался, пока
+              все съехались, и, не дождавшись <rs ref="Anatole_Kuragin" rolename="undergoer">Анатоля</rs>, не стал обедать и поехал домой.</s> </p>
+          <p><s rolename="agent">Анатоль, которого <rs ref="Pierre_Bezukhov">он</rs> искал, в этот
+              день обедал у <rs ref="Fedor_Ivanovich_Dolokhov">Долохова</rs> и совещался с <rs ref="Fedor_Ivanovich_Dolokhov">ним</rs> о том, как поправить испорченное дело.</s>
+            <s>Ему казалось необходимо увидаться с <rs ref="Countess_Natalya_Rostova">Ростовой</rs>.</s>
+            <s>Вечером он поехал к <rs>сестре</rs>, чтобы переговорить с <rs>ней</rs> о средствах
+              устроить это свидание.</s>
+            <s>Когда <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, тщетно объездив всю
+              Москву, вернулся домой, <rs rolename="agent">камердинер</rs> доложил ему, что <rs rolename="undergoer">князь</rs> Анатоль Васильевич у <rs ref="HeleneKuragin" rolename="possessor">графини</rs>.</s>
+            <s>Гостиная <rs ref="HeleneKuragin" rolename="possessor">графини</rs> была полна
+              гостей.</s> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="agent" target="id_25202">Пьер</rs>, не
+              здороваясь с <rs ref="HeleneKuragin" rolename="addressee" xml:id="id_25202">женою</rs>, <rs ref="HeleneKuragin">которой</rs> он не видал после приезда (<rs ref="HeleneKuragin" rolename="undergoer">она</rs> больше чем когда-нибудь ненавистна
+              была ему в эту минуту), вошел в гостиную и, увидав <rs ref="Anatole_Kuragin" rolename="undergoer">Анатоля</rs>, подошел к нему.</s> </p>
+          <p><said who="HeleneKuragin" corresp="Pierre_Bezukhov" speech_text="Ты не знаешь, в каком положении наш Анатоль..." verb="остановиться" author_comment="- Она остановилась, увидав в опущенной голове, в лице мужа, в его блестящих глазах, в его решительной походке то страшное выражение бешенства и силы, которое она знала и испытала на себе после дуэли с Долоховым." speech_id="3770"><said who="HeleneKuragin" corresp="Pierre_Bezukhov" speech_text="Ah, Pierre,. Ты не знаешь, в каком положении наш Анатоль..." verb="сказать" author_comment="- сказала графиня, подходя к мужу." speech_id="3773"><s>- Ah, Pierre,- сказала <rs ref="HeleneKuragin" rolename="agent">графиня</rs>,
+                  подходя к <rs>мужу</rs>.- <rs rolename="experiencer">Ты</rs> не знаешь, в каком
+                  положении наш Анатоль... - <rs rolename="undergoer">Она</rs> остановилась, увидав в
+                  опущенной голове, в лице <rs rolename="possessor">мужа</rs>, в <rs rolename="possessor">его</rs> блестящих глазах, в его решительной походке то
+                  страшное выражение бешенства и силы, которое <rs rolename="experiencer">она</rs>
+                  знала и испытала на себе после дуэли с <rs ref="Fedor_Ivanovich_Dolokhov">Долоховым</rs>.</s></said></said> </p>
+          <p><said who="Pierre_Bezukhov" corresp="HeleneKuragin" speech_text="Где вы - там разврат, зло," verb="сказать" author_comment="- сказал Пьер жене." speech_id="3765"><said who="Pierre_Bezukhov" corresp="Anatole_Kuragin" speech_text="Анатоль, пойдемте, мне надо поговорить с вами," verb="сказать" author_comment="- сказал он по-французски." speech_id="3778"><s>-Где вы - там
+                  разврат, зло, - сказал <rs ref="Pierre_Bezukhov" rolename="agent" target="id_25204">Пьер</rs>
+                  <rs ref="HeleneKuragin" rolename="addressee" xml:id="id_25204">жене</rs>. -
+                  Анатоль, пойдемте, <rs rolename="experiencer">мне</rs> надо поговорить с вами, -
+                  сказал <rs ref="Pierre_Bezukhov" rolename="agent">он</rs>
+                по-французски.</s></said></said> </p>
+          <p><s rolename="agent">Анатоль оглянулся на <rs rolename="undergoer">сестру</rs> и покорно
+              встал, готовый следовать за <rs ref="Pierre_Bezukhov">Пьером</rs>.</s> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, взяв его за руку, дернул к <rs ref="Pierre_Bezukhov">себе</rs> и пошел из комнаты.</s> </p>
+          <p><said who="HeleneKuragin" corresp="Pierre_Bezukhov" speech_text="- Si vous vous permettez dans mon salon..." speech_id="3763"><s>- Si vous
+                vous permettez dans mon salon... - шепотом проговорила <rs ref="HeleneKuragin" rolename="agent" target="id_25205">Элен</rs>; но <rs ref="Pierre_Bezukhov" rolename="agent" xml:id="id_25205">Пьер</rs>, не отвечая <rs ref="HeleneKuragin">ей</rs>, вышел из комнаты.</s></said> </p>
+          <p><s rolename="agent">Анатоль шел за <rs ref="Pierre_Bezukhov">ним</rs> обычной
+              молодцеватой походкой.</s>
+            <s>Но на лице его было заметно беспокойство.</s> </p>
+          <p><s>Войдя в <rs ref="Pierre_Bezukhov">свой</rs> кабинет, <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> затворил дверь и обратился к Анатолю, не глядя на <rs rolename="undergoer">него</rs>.</s> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Anatole_Kuragin" speech_text="- Вы обещали графине Ростовой жениться на ней?" speech_id="3776"><s>- Вы
+                обещали <rs ref="Countess_Natalya_Rostova" rolename="addressee">графине
+                  Ростовой</rs> жениться на <rs ref="Countess_Natalya_Rostova">ней</rs>?</s></said>
+            <s>хотели увезти <rs ref="Countess_Natalya_Rostova" rolename="undergoer">ее</rs>?</s> </p>
+          <p><said who="Anatole_Kuragin" corresp="Pierre_Bezukhov" speech_text="Мой милый,. я не считаю себя обязанным отвечать на допросы, делаемые в таком тоне." verb="отвечать" author_comment="- отвечал Анатоль по-французски (как и шел весь разговор), - я не считаю себя обязанным отвечать на допросы, делаемые в таком тоне." speech_id="3779"><s>- <rs>Мой</rs>
+                <rs>милый</rs>, - отвечал <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs>
+                по-французски (как и шел весь разговор), - <rs rolename="experiencer">я</rs> не
+                считаю <rs rolename="undergoer">себя</rs> обязанным отвечать на допросы, делаемые в
+                таком тоне.</s></said> </p>
+          <p><s>Лицо <rs ref="Pierre_Bezukhov" rolename="possessor">Пьера</rs>, и прежде бледное,
+              исказилось бешенством.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="possessor">Он</rs> схватил <rs ref="Pierre_Bezukhov" rolename="possessor">своей</rs> большой рукой <rs ref="Anatole_Kuragin" rolename="undergoer">Анатоля</rs> за воротник мундира и стал
+              трясти из стороны в сторону до тех пор, пока лицо <rs ref="Anatole_Kuragin" rolename="possessor">Анатоля</rs> не приняло достаточное выражение испуга.</s> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Anatole_Kuragin" speech_text="Когда я говорю, что мне надо говорить с вами..." verb="повторять" author_comment="- повторял Пьер." speech_id="3772"><s>- Когда <rs rolename="agent">я</rs> говорю, что <rs>мне</rs> надо говорить с вами... - повторял <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s></said> </p>
+          <p><s>- Ну что, это глупо. А? - сказал <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs>, ощупывая оторванную с сукном пуговицу воротника.</s> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Anatole_Kuragin" speech_text="Вы негодяй и мерзавец, и не знаю, что меня воздерживает от удовольствия размозжить вам голову вот этим," verb="говорить" speech_id="3757"><s>- Вы негодяй и мерзавец, и не знаю, что меня
+                воздерживает от удовольствия размозжить вам голову вот этим,- говорил <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, выражаясь так искусственно
+                потому, что он говорил по-французски. Он взял в руку тяжелое пресс-папье и угрожающе
+                поднял и тотчас же торопливо положил его на место.</s></said> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Anatole_Kuragin" speech_text="- Обещали вы ей жениться?" speech_id="3760"><s>- Обещали вы ей
+                жениться?</s></said> </p>
+          <p><said who="Anatole_Kuragin" corresp="Pierre_Bezukhov" speech_text="- Я, я, я не думал; впрочем, я никогда не обещался, потому что..." speech_id="3762"><s>- <rs rolename="experiencer">Я</rs>, я, я не думал; впрочем, <rs rolename="undergoer">я</rs> никогда не обещался, потому что...</s></said> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> перебил его.</s> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Anatole_Kuragin" speech_text="Есть у вас письма ее?. Есть у вас письма?" verb="повторить" author_comment="- повторил Пьер, подвигаясь к Анатолю." speech_id="3774"><s>- Есть у
+                вас письма ее? Есть у вас письма? - повторил <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, подвигаясь к Анатолю.</s></said> </p>
+          <p><s rolename="agent">Анатоль взглянул на <rs ref="Pierre_Bezukhov">него</rs> и тотчас
+              же, засунув руку в карман, достал бумажник.</s> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="possessor">Пьер</rs> взял подаваемое <rs rolename="possessor">ему</rs> письмо и, оттолкнув стоявший на дороге стол, повалился
+              на диван.</s> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Anatole_Kuragin" speech_text="Je ne serai pas violent, ne craignez rien," verb="сказать" author_comment="- сказал Пьер, отвечая на испуганный жест Анатоля." speech_id="3777"><s>- Je ne serai pas violent, ne craignez rien,- сказал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, отвечая на испуганный жест <rs rolename="agent">Анатоля</rs>.</s></said>
+            <said who="Pierre_Bezukhov" corresp="Anatole_Kuragin" speech_text="Письма - раз," verb="сказать" author_comment="- сказал Пьер, как будто повторяя урок для самого себя." speech_id="3768"><s>- Письма - раз,- сказал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, как будто повторяя урок для самого <rs ref="Pierre_Bezukhov">себя</rs>.</s></said>
+            <said who="Pierre_Bezukhov" corresp="Anatole_Kuragin" speech_text="Второе," verb="продолжать" author_comment="- после минутного молчания продолжал он, опять вставая и начиная ходить,- вы завтра должны уехать из Москвы." speech_id="3766"><s>- Второе,- после минутного молчания продолжал <rs ref="Pierre_Bezukhov">он</rs>, опять вставая и начиная ходить,- вы завтра должны
+                уехать из Москвы.</s></said> </p>
+          <p><said who="Anatole_Kuragin" corresp="Pierre_Bezukhov" speech_text="- Но как же я могу..." speech_id="3758"><s>- Но как же <rs>я</rs>
+                могу...</s></said> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Anatole_Kuragin" speech_text="Но как же я могу..." verb="говорить" speech_id="3759"><said who="Pierre_Bezukhov" corresp="Anatole_Kuragin" speech_text="- Третье,вы никогда ни слова не должны говорить о том, что было между вами и графиней." speech_id="3761"><s>- Третье,- не слушая его, продолжал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>,- вы никогда ни слова не должны говорить о том, что
+                  было между вами и <rs ref="HeleneKuragin">графиней</rs>.</s></said></said>
+            <s>Этого, <rs rolename="experiencer">я</rs> знаю, <rs>я</rs> не могу запретить вам, но
+              ежели в вас есть искра совести... - <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> несколько раз молча прошел по комнате.</s>
+            <s rolename="agent">Анатоль сидел у стола и, нахмурившись, кусал себе губы.</s> </p>
+          <p>- <said who="Pierre_Bezukhov" corresp="Anatole_Kuragin" speech_text="- Вы не можете не понять наконец, что, кроме вашего удовольствия, есть счастье, спокойствие других людей, что вы губите целую жизнь из того, что вам хочется веселиться." speech_id="3755"><s>Вы не можете не понять наконец, что, кроме вашего удовольствия,
+                есть счастье, спокойствие других людей, что вы губите целую жизнь из того, что вам
+                хочется веселиться.</s></said>
+            <s>Забавляйтесь с женщинами, подобными <rs>моей</rs>
+              <rs ref="HeleneKuragin">супруге</rs>,- с этими вы в своем праве, они знают, чего вы
+              хотите от них.</s>
+            <s>Они вооружены против вас тем же опытом разврата; но обещать <rs rolename="addressee">девушке</rs> жениться на ней... обмануть, украсть... Как вы не понимаете, что это
+              так же подло, как прибить <rs rolename="undergoer">старика</rs> или <rs rolename="undergoer">ребенка</rs>!..</s> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> замолчал и взглянул на <rs ref="Anatole_Kuragin" rolename="undergoer">Анатоля</rs> уже не гневным, но
+              вопросительным взглядом.</s> </p>
+          <p><said who="Anatole_Kuragin" corresp="Pierre_Bezukhov" speech_text="Этого я не знаю и знать не хочу,. но вы сказали мне такие слова: подло и тому подобное, которые я, comme un homme d'honneur, никому не позволю." verb="сказать" author_comment="- сказал он, не глядя на Пьера и с легким дрожанием нижней челюсти,- но вы сказали мне такие слова: подло и тому подобное, которые я, comme un homme d'honneur, никому не позволю." speech_id="3769"><said who="Anatole_Kuragin" corresp="Pierre_Bezukhov" speech_text="А?. Этого я не знаю." verb="сказать" author_comment="- сказал Анатоль, ободряясь по мере того, как Пьер преодолевал свой гнев." speech_id="3780"><s>- Этого я не знаю. А? - сказал <rs rolename="agent">Анатоль</rs>, ободряясь по мере того, как <rs ref="Pierre_Bezukhov" rolename="experiencer">Пьер</rs> преодолевал <rs ref="Pierre_Bezukhov" rolename="experiencer">свой</rs> гнев. - Этого я не знаю и знать не хочу,-
+                  сказал он, не глядя на <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs> и с
+                  легким дрожанием нижней челюсти,- но <rs ref="Pierre_Bezukhov" rolename="agent">вы</rs> сказали мне такие слова: подло и тому подобное, которые я, comme un
+                  homme d'honneur, никому не позволю.</s></said></said> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> с удивлением посмотрел на него,
+              не в силах понять, чего ему было нужно.</s> </p>
+          <p><said who="Anatole_Kuragin" corresp="Pierre_Bezukhov" speech_text="- Хотя это и было с глазу на глаз, но я не могу..." speech_id="3756"><s>-
+                Хотя это и было с глазу на глаз,- продолжал <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs>,- но <rs>я</rs> не могу...</s></said>  </p>
+          <p><said who="Pierre_Bezukhov" corresp="Anatole_Kuragin" speech_text="Что ж, вам нужно удовлетворение?" verb="сказать" author_comment="- насмешливо сказал Пьер." speech_id="3767"><s>- Что ж, вам нужно
+                удовлетворение? - насмешливо сказал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s></said> </p>
+          <p><said who="Anatole_Kuragin" corresp="Pierre_Bezukhov" speech_text="- По крайней мере, вы можете взять назад свои слова.. А? Ежели вы хотите, чтоб я исполнил ваши желанья. А?" speech_id="3771"><s>- По крайней мере, вы можете взять назад свои слова. А?</s></said>
+            <s>Ежели вы хотите, чтоб <rs rolename="agent">я</rs> исполнил ваши желанья.</s>
+            <s>А?</s> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Anatole_Kuragin" speech_text="Беру, беру назад. И денег, ежели вам нужно на дорогу.. и прошу вас извинить меня." verb="проговорить" author_comment=", - проговорил Пьер,- и прошу вас извинить меня. -" speech_id="3775"><s>- Беру, беру назад, - проговорил <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>,- и прошу вас извинить меня. - <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> взглянул невольно на оторванную
+                пуговицу.</s></said>
+            <s>- И денег, ежели вам нужно на дорогу.</s>
+            <s>- <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs> улыбнулся.</s> </p>
+          <p><s>Это выражение робкой и подлой улыбки, знакомой <rs rolename="experiencer">ему</rs>
+              по <rs ref="HeleneKuragin">жене</rs>, взорвало <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs>.</s> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Anatole_Kuragin" speech_text="О, подлая, бессердечная порода!" verb="проговорить" author_comment="- проговорил он и вышел из комнаты." speech_id="3764"><s>- О, подлая,
+                бессердечная порода! - проговорил <rs ref="Pierre_Bezukhov" rolename="agent">он</rs>
+                и вышел из комнаты.</s></said> </p>
+          <p><s>На другой день <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs> уехал в
+              Петербург.</s>  </p>
+        </div>
+        

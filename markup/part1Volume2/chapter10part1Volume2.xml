@@ -1,0 +1,129 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="10" type="chapter" xml:id="chapter10part1Volume2">
+          <p> </p>
+          <p><s>Участие <rs ref="Nikolai_Rostov" rolename="agent">Ростова</rs> в дуэли <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохова</rs> с <rs ref="Pierre_Bezukhov">Безуховым</rs> было замято стараниями старого <rs ref="Count_Ilya_Rostov">графа</rs>, и <rs ref="Nikolai_Rostov" rolename="undergoer">Ростов</rs>, вместо того чтобы быть разжалованным, как <rs ref="Nikolai_Rostov" rolename="experiencer">он</rs> ожидал, был определен <rs rolename="agent">адъютантом</rs> к московскому <rs>генерал-губернатору</rs>.</s>
+            <s>Вследствие этого <rs>он</rs> не мог ехать в деревню со всем семейством, а оставался
+              при своей новой должности все лето в Москве.</s>
+            <s><rs ref="Fedor_Ivanovich_Dolokhov" rolename="experiencer" target="id_21101">Долохов</rs> выздоровел, и <rs ref="Nikolai_Rostov" rolename="experiencer" xml:id="id_21101">Ростов</rs> особенно сдружился с <rs ref="Fedor_Ivanovich_Dolokhov">ним</rs> в это время <rs ref="Fedor_Ivanovich_Dolokhov" rolename="experiencer">его</rs> выздоровления.</s>
+            <s><rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs> больной лежал у
+                <rs>матери</rs>, страстно и нежно любившей <rs ref="Fedor_Ivanovich_Dolokhov">его</rs>.</s>
+            <s>, полюбившая <rs ref="Nikolai_Rostov" rolename="undergoer">Ростова</rs> за <rs ref="Nikolai_Rostov" rolename="experiencer">его</rs> дружбу к <rs ref="Fedor_Ivanovich_Dolokhov" target="id_21102">Феде</rs>, часто говорила <rs ref="Fedor_Ivanovich_Dolokhov" xml:id="id_21102">ему</rs> про своего
+              <rs>сына</rs>.</s> </p>
+          <p><said who="Марья Ивановна" corresp="Nikolai_Rostov" speech_text="- Да, граф, он слишком благороден и чист душою для нашего нынешнего, развращенного света.. Добродетели никто не любит, она всем глаза колет. Ну, скажите, граф, справедливо это, честно это со стороны Безухова? А Федя по своему благородству любил его, и теперь никогда ничего дурного про него не говорит. В Петербурге эти шалости с квартальным, там что-то шутили, ведь они вместе делали? Что ж, Безухову ничего, а Федя все на своих плечах перенес! Ведь что он перенес! Положим, возвратили, да ведь как же и не возвратить? Я думаю, таких, как он, храбрецов и сынов отечества немного там было. Что ж, теперь - эта дуэль. Есть ли чувства, честь у этих людей! Зная, что он единственный сын, вызвать на дуэль и стрелять так прямо! Хорошо, что бог помиловал нас. И за что же? Ну, кто же в наше время не имеет интриги? Что ж, коли он так ревнив - я понимаю,- ведь он прежде мог дать почувствовать, а то ведь год продолжалось. И что же, вызвал на дуэль, полагая, что Федя не будет драться, потому что он ему должен. Какая низость! Какая гадость! Я знаю, вы Федю поняли, мой милый граф, оттого-то я вас душой люблю, верьте мне. Его редкие понимают. Это такая высокая, небесная душа..." author_comment="- говаривала она,-" speech_id="2231"><said who="Марья Ивановна" corresp="Nikolai_Rostov" speech_text="справедливо это, честно это со стороны Безухова" verb="сказать" speech_id="2235"><s>- Да, <rs>граф</rs>, <rs>он</rs> слишком благороден и чист
+                  душою,- говаривала <rs rolename="agent">она</rs>,- для нашего нынешнего,
+                  развращенного света. Добродетели никто не любит, она всем глаза колет. Ну,
+                  скажите, <rs>граф</rs>, справедливо это, честно это со стороны <rs rolename="undergoer">Безухова</rs>? А <rs ref="Fedor_Ivanovich_Dolokhov" rolename="experiencer">Федя</rs> по <rs ref="Fedor_Ivanovich_Dolokhov" rolename="undergoer">своему</rs> благородству любил его, и теперь никогда ничего
+                  дурного про него не говорит. В Петербурге эти шалости с квартальным, там что-то
+                  шутили, ведь они вместе делали? Что ж, <rs>Безухову</rs> ничего, а <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Федя</rs> все на <rs ref="Fedor_Ivanovich_Dolokhov" rolename="possessor">своих</rs> плечах перенес!
+                  Ведь что он перенес! Положим, возвратили, да ведь как же и не
+                возвратить?</s></said></said><s>
+              <rs rolename="experiencer">Я</rs> думаю, таких, как он, храбрецов и сынов отечества
+              немного там было. Что ж, теперь - эта дуэль. Есть ли чувства, честь у этих людей!
+              Зная, что он единственный сын, вызвать на дуэль и стрелять так прямо! Хорошо, что бог
+              помиловал нас. И за что же? Ну, кто же в наше время не имеет интриги? Что ж, коли он
+              так ревнив - <rs rolename="experiencer">я</rs> понимаю,- ведь он прежде мог дать
+              почувствовать, а то ведь год продолжалось.</s>
+            <s>И что же, вызвал на дуэль, полагая, что <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Федя</rs> не будет драться, потому что он <rs ref="Fedor_Ivanovich_Dolokhov">ему</rs> должен.</s>
+            <s>Какая низость!</s>
+            <s>Какая гадость!</s>
+            <s><rs rolename="experiencer">Я</rs> знаю, вы <rs ref="Fedor_Ivanovich_Dolokhov" rolename="undergoer">Федю</rs> поняли, <rs>мой</rs> милый <rs>граф</rs>, оттого-то <rs rolename="experiencer">я</rs> вас душой люблю, верьте <rs rolename="addressee">мне</rs>.</s>
+            <s><rs ref="Fedor_Ivanovich_Dolokhov" rolename="undergoer">Его</rs> редкие понимают.</s>
+            <s>Это такая высокая, небесная душа...</s> </p>
+          <p><s>Сам <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent" target="id_21105">Долохов</rs> часто во время <rs ref="Fedor_Ivanovich_Dolokhov" xml:id="id_21105">своего</rs> выздоровления говорил <rs ref="Nikolai_Rostov" rolename="addressee">Ростову</rs> такие слова, которых никак нельзя было ожидать от <rs ref="Nikolai_Rostov">него</rs>.</s> </p>
+          <p><s>- Меня считают злым человеком, я знаю,- говаривал он,- и пускай. Я никого знать не
+              хочу, кроме тех, кого люблю; но кого я люблю, того люблю так, что жизнь отдам, а
+              остальных передавлю всех, коли станут на дороге. У меня есть обожаемая, неоцененная
+              мать, два-три друга, ты в том числе, а на остальных я обращаю внимание только
+              настолько, насколько они полезны или вредны.</s><said who="Fedor_Ivanovich_Dolokhov" corresp="Nikolai_Rostov" speech_text="А эти!..И веришь ли мне, ежели я еще дорожу жизнью, то дорожу только потому, что надеюсь еще встретить такое небесное существо, которое бы возродило, очистило и возвысило меня." author_comment="- Он сделал презрительный жест. -" speech_id="2233"><said who="Fedor_Ivanovich_Dolokhov" corresp="Nikolai_Rostov" speech_text="Да, душа моя,- продолжал он,- мужчин я встречал любящих, благородных, возвышенных; но женщин, кроме продажных тварей - графинь или кухарок, все равно,- я не встречал еще. Я не встречал еще той небесной чистоты, преданности, которых я ищу в женщине. Ежели бы я нашел такую женщину, я бы жизнь отдал за нее" verb="продолжать" author_comment="- продолжал он,-" speech_id="2237"><s> И все почти
+                  вредны, в особенности женщины. Да, душа <rs rolename="undergoer">моя</rs>,- продолжал
+                  он,- мужчин <rs rolename="possessor">я</rs> встречал любящих, благородных,
+                  возвышенных; но женщин, кроме продажных тварей - графинь или кухарок, все равно,-
+                    <rs rolename="experiencer">я</rs> не встречал еще. <rs rolename="possessor">Я</rs> не встречал еще той небесной чистоты, преданности, которых <rs rolename="possessor">я</rs> ищу в <rs>женщине</rs>. Ежели бы <rs rolename="possessor">я</rs> нашел такую <rs rolename="undergoer">женщину</rs>, <rs rolename="possessor">я</rs> бы жизнь отдал за <rs>нее</rs>. А эти!.. - Он сделал
+                  презрительный жест. - И веришь ли <rs rolename="addressee">мне</rs>, ежели <rs rolename="experiencer">я</rs> еще дорожу жизнью, то дорожу только потому, что
+                  надеюсь еще встретить такое небесное существо, которое бы возродило, очистило и
+                  возвысило <rs rolename="undergoer">меня</rs>. Но <rs rolename="experiencer">ты</rs>
+                  не понимаешь этого.</s></said></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="Fedor_Ivanovich_Dolokhov" speech_text="Нет, я очень понимаю," verb="отвечаться" author_comment="- отвечал Ростов, находившийся под влиянием своего нового друга." speech_id="2236"><s>- Нет, <rs ref="Nikolai_Rostov" rolename="experiencer">я</rs>
+                очень понимаю,- отвечал <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>,
+                находившийся под влиянием <rs ref="Nikolai_Rostov" rolename="agent">своего</rs>
+                нового <rs rolename="agent">друга</rs>.</s></said> </p>
+          <p><s>Осенью семейство Ростовых вернулось в Москву.</s>
+            <s>В начале зимы вернулся и <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs> и остановился у Ростовых.</s>
+            <s>Это первое время зимы 1806 года, проведенное <rs ref="Nikolai_Rostov" rolename="experiencer">Николаем Ростовым</rs> в Москве, было одно из самых
+              счастливых и веселых для <rs ref="Nikolai_Rostov">него</rs> и для всего <rs ref="Vasily__Vasska__Denisov">его</rs> семейства.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="agent">Николай</rs> привлек с <rs ref="Nikolai_Rostov">собой</rs> в дом родителей много молодых людей.</s>
+            <s><rs ref="Vera_Rostova">Вера</rs> была двадцатилетняя красивая девица; <rs ref="Sonya_Rostova">Соня</rs> шестнадцатилетняя девушка во всей прелести только
+              распустившегося цветка; <rs ref="NatashaRostova">Наташа</rs> полубарышня, полудевочка,
+              то детски смешная, то девически обворожительная.</s> </p>
+          <p><s>В доме Ростовых завелась в это время какая-то особенная атмосфера любовности, как
+              это бывает в доме, где очень милые и очень молодые девушки.</s>
+            <s>Всякий <rs rolename="undergoer">молодой человек</rs>, приезжавший в дом Ростовых, глядя
+              на эти молодые, восприимчивые, чему-то (вероятно, своему счастию) улыбающиеся
+              девические лица, на эту оживленную беготню, слушая этот непоследовательный, но
+              ласковый ко всем, на все готовый, исполненный надежды лепет женской молодежи, слушая
+              эти непоследовательные звуки то пенья, то музыки, испытывал одно и то же чувство
+              готовности к любви и ожидания счастья, которое испытывала и сама молодежь дома
+              Ростовых.</s> </p>
+          <p><s>В числе молодых людей, введенных <rs ref="Nikolai_Rostov" rolename="agent">Ростовым</rs>, был одним из первых - <rs ref="Fedor_Ivanovich_Dolokhov">Долохов</rs>, который понравился всем в доме, исключая <rs ref="NatashaRostova" rolename="undergoer">Наташи</rs>.</s>
+            <s>За <rs ref="Fedor_Ivanovich_Dolokhov" target="id_21108">Долохова</rs>
+              <rs ref="NatashaRostova" rolename="agent" xml:id="id_21108">она</rs> чуть не
+              поссорилась с <rs ref="Nikolai_Rostov">братом</rs>.</s>
+            <s><rs ref="NatashaRostova">Она</rs> настаивала на том, что <rs ref="Fedor_Ivanovich_Dolokhov">он</rs> злой человек, что в дуэли с <rs ref="Pierre_Bezukhov">Безуховым</rs>
+              <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьер</rs> был прав, а <rs ref="Fedor_Ivanovich_Dolokhov" rolename="undergoer">Долохов</rs> виноват, что <rs rolename="undergoer">он</rs> неприятен и неестествен.</s> </p>
+          <p><said who="NatashaRostova" corresp="Nikolai_Rostov" speech_text="Нечего мне понимать! - он злой и без чувств." verb="кричать" author_comment="- с упорным своевольством кричала Наташа," speech_id="2232"><s>-
+                Нечего мне понимать! - с упорным своевольством кричала <rs ref="NatashaRostova" rolename="agent">Наташа</rs>,- <rs rolename="undergoer">он</rs> злой и без
+                чувств.</s></said>
+            <s>Вот ведь я же люблю <rs>твоего</rs>
+              <rs ref="Vasily__Vasska__Denisov" rolename="undergoer">Денисова</rs>, <rs ref="Vasily__Vasska__Denisov" rolename="experiencer">он</rs> и кутила, и всё, а я
+              все-таки <rs ref="Vasily__Vasska__Denisov" rolename="undergoer">его</rs> люблю, стало
+              быть, я понимаю.</s>
+            <s>Не умею, как <rs rolename="addressee">тебе</rs> сказать; у него все назначено, а я
+              этого не люблю.</s>
+            <s><rs ref="Vasily__Vasska__Denisov">Денисова</rs>...</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="NatashaRostova" speech_text="- Ну, Денисов другое дело, надо понимать, какая душа у этого Долохова, надо видеть его с матерью, это такое сердце!" author_comment="- отвечал Николай, давая чувствовать, что в сравнении с Долоховым даже и Денисов был ничто" speech_id="2230"><s>- Ну, <rs ref="Vasily__Vasska__Denisov">Денисов</rs> другое дело,-
+                отвечал <rs ref="Nikolai_Rostov" rolename="agent">Николай</rs>, давая чувствовать,
+                что в сравнении с <rs ref="Fedor_Ivanovich_Dolokhov">Долоховым</rs> даже и <rs ref="Vasily__Vasska__Denisov">Денисов</rs> был ничто,- надо понимать, какая душа у
+                этого <rs ref="Fedor_Ivanovich_Dolokhov" rolename="undergoer">Долохова</rs>, надо
+                видеть <rs ref="Fedor_Ivanovich_Dolokhov" rolename="undergoer">его</rs> с
+                  <rs>матерью</rs>, это такое сердце!</s></said> </p>
+          <p><said who="NatashaRostova" corresp="Nikolai_Rostov" speech_text="- Уж этого я не знаю, но с ним мне неловко." speech_id="2234"><s>- Уж
+                этого <rs rolename="experiencer">я</rs> не знаю, но с ним <rs>мне</rs> неловко. И
+                  <rs>ты</rs> знаешь ли, что он влюбился в <rs ref="Sonya_Rostova" rolename="undergoer">Соню</rs>?</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="NatashaRostova" speech_text="- Какие глупости..." speech_id="2239"><s>- Какие глупости...</s></said> </p>
+          <p><said who="NatashaRostova" corresp="Nikolai_Rostov" speech_text="- Я уверена, вот увидишь." speech_id="2238"><s>- <rs rolename="undergoer">Я</rs> уверена, вот увидишь.</s></said> </p>
+          <p><s>Предсказание <rs ref="NatashaRostova" rolename="agent">Наташи</rs> сбывалось.</s>
+            <s><rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>, не любивший
+              дамского общества, стал часто бывать в доме, и вопрос о том, для кого <rs ref="Fedor_Ivanovich_Dolokhov">он</rs> ездит, скоро (хотя никто и не говорил про
+              это) был решен так, что он ездит для <rs ref="Sonya_Rostova" rolename="benemalefactive">Сони</rs>.</s>
+            <s>И <rs ref="Sonya_Rostova" rolename="experiencer">Соня</rs>, хотя никогда не посмела
+              бы сказать этого, знала это и всякий раз, как кумач, краснела при появлении <rs ref="Fedor_Ivanovich_Dolokhov" rolename="undergoer">Долохова</rs>.</s> </p>
+          <p><s><rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs> часто обедал у
+              Ростовых, никогда не пропускал спектакля, где они были, и бывал на балах adolescentes
+              у Иогеля, где всегда бывали Ростовы.</s>
+            <s><rs ref="Fedor_Ivanovich_Dolokhov">Он</rs> оказывал преимущественное внимание <rs ref="Sonya_Rostova" rolename="experiencer">Соне</rs> и смотрел на <rs ref="Sonya_Rostova" rolename="undergoer">нее</rs> такими глазами, что не только <rs ref="Sonya_Rostova">она</rs> без краски не могла выдержать этого взгляда, но и
+              старая <rs rolename="undergoer">графиня</rs> и <rs ref="NatashaRostova" rolename="undergoer">Наташа</rs> краснели, заметив этот взгляд.</s> </p>
+          <p><s>Видно было, что этот сильный, странный <rs rolename="undergoer">мужчина</rs> находился
+              под неотразимым влиянием, производимым на <rs>него</rs> этой черненькой, грациозной,
+              любящей другого <rs>девочкой</rs>.</s> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="agent" target="id_21109">Ростов</rs> замечал
+              что-то новое между <rs ref="Fedor_Ivanovich_Dolokhov" xml:id="id_21109">Долоховым</rs>
+              и <rs ref="Sonya_Rostova">Соней</rs>; но он не определял себе, какие это были новые
+              отношения.</s>
+            <s>'<rs ref="Fedor_Ivanovich_Dolokhov"><rs ref="Sonya_Rostova" rolename="experiencer">Они</rs></rs> там все влюблены в кого-то',- думал он про <rs ref="Sonya_Rostova">Соню</rs> и <rs ref="NatashaRostova">Наташу</rs>.</s>
+            <s>Но ему было не так, как прежде, ловко с <rs ref="Sonya_Rostova">Соней</rs> и <rs ref="Fedor_Ivanovich_Dolokhov">Долоховым</rs>, и он реже стал бывать дома.</s> </p>
+          <p><s>С осени 1806 года опять все заговорило о войне с <rs ref="Napoleon_Bonaparte">Наполеоном</rs>, еще с большим жаром, чем в прошлом году.</s>
+            <s>Назначен был не только набор десяти <rs>рекрут</rs>, но и ещё девяти ратников с
+              тысячи.</s>
+            <s>Повсюду проклинали анафемой Бонапартия, и в Москве только и толков было, что о
+              предстоящей войне.</s>
+            <s>Для семейства Ростовых весь интерес этих приготовлений к войне заключался только в
+              том, что Николушка ни за что не соглашался оставаться в Москве и выжидал только конца
+              отпуска <rs ref="Vasily__Vasska__Denisov" rolename="possessor">Денисова</rs>, с тем
+              чтобы с ним вместе ехать в полк после праздников.</s>
+            <s>Предстоящий отъезд не только не мешал ему веселиться, но ещё поощрял его к этому.</s>
+            <s>Большую часть времени он проводил вне дома, на обедах, вечерах и балах.</s>
+            <s>этих приготовлений к войне заключался только в том, что Николушка ни за что не
+              соглашался оставаться в Москве и выжидал только конца отпуска <rs ref="Vasily__Vasska__Denisov" rolename="possessor">Денисова</rs>, с тем чтобы с <rs ref="Vasily__Vasska__Denisov">ним</rs> вместе ехать в полк после праздников.</s>
+            <s>Предстоящий отъезд не только не мешал ему веселиться, но ещё поощрял его к этому.</s>
+            <s>Большую часть времени он проводил вне дома, на обедах, вечерах и балах.</s>  </p>
+        </div>
+        

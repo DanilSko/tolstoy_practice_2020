@@ -1,0 +1,205 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="13" type="chapter" xml:id="chapter13part2Volume3">
+          <p> </p>
+          <p><s>17-го августа <rs ref="Nikolai_Rostov" target="id_32131">Ростов</rs> и <rs ref="Ilyin" xml:id="id_32131">Ильин</rs>, сопутствуемые только что вернувшимся из
+              плена <rs ref="Lavrushka">Лаврушкой</rs> и вестовым <rs>гусаром</rs>, из <rs ref="Nikolai_Rostov">своей</rs> стоянки Янково, в пятнадцати верстах от Богучарова,
+              поехали кататься верхами - попробовать новую, купленную <rs ref="Ilyin" rolename="possessor">Ильиным</rs> лошадь и разузнать, нет ли в деревнях
+            сена.</s> </p>
+          <p><s>Богучарово находилось последние три дня между двумя неприятельскими армиями, так что
+              так же легко мог зайти туда русский арьергард, как и французский авангард, и потому
+                <rs ref="Nikolai_Rostov" rolename="experiencer">Ростов</rs>, как заботливый
+              эскадронный <rs>командир</rs>, желал прежде французов воспользоваться тем провиантом,
+              который оставался в <rs>Богучарове</rs>.</s> </p>
+          <p><s>Ростов и <rs ref="Ilyin" rolename="undergoer">Ильин</rs> были в самом веселом
+              расположении духа.</s>
+            <s>Дорогой в Богучарово, в княжеское именье с усадьбой, где <rs ref="Ilyin" rolename="experiencer" target="id_32132">они</rs> надеялись найти большую дворню и
+              хорошеньких девушек, <rs ref="Ilyin" rolename="agent" xml:id="id_32132">они</rs> то
+              расспрашивали <rs ref="Lavrushka">Лаврушку</rs> о <rs ref="Napoleon_Bonaparte">Наполеоне</rs> и смеялись <rs ref="Napoleon_Bonaparte" rolename="agent">его</rs>
+              рассказам, то перегонялись, пробуя лошадь <rs ref="Ilyin" rolename="possessor">Ильина</rs>.</s> </p>
+          <p><s>Ростов и не знал и не думал, что эта деревня, в которую он ехал, была именье того
+              самого <rs ref="Prince_Nikolay_Bolkonsky" rolename="possessor">Болконского</rs>, <rs ref="Prince_Nikolay_Bolkonsky">который</rs> был женихом <rs ref="Prince_Nikolay_Bolkonsky">его</rs>
+              <rs>сестры</rs>.</s> </p>
+          <p><s><rs ref="Nikolai_Rostov" target="id_32138">Ростов</rs> с <rs ref="Ilyin" xml:id="id_32138">Ильиным</rs> в последний раз выпустили на перегонку лошадей в
+              изволок перед <rs>Богучаровым</rs>, и <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>, перегнавший <rs ref="Ilyin" rolename="agent">Ильина</rs>, первый
+              вскакал в улицу деревни Богучарова.</s> </p>
+          <p>
+            <said who="Ilyin" corresp="Nikolai_Rostov" speech_text="Ты вперед взял," verb="говорить" author_comment="- говорил раскрасневшийся Ильин." speech_id="4287"><s>- <rs rolename="possessor">Ты</rs> вперед взял, - говорил раскрасневшийся <rs ref="Ilyin" rolename="agent">Ильин</rs>.</s></said> </p>
+          <p>
+            <said who="Nikolai_Rostov" corresp="Ilyin" speech_text="Да, всё вперед, и на лугу вперед, и тут," verb="отвечать" author_comment="- отвечал Ростов, поглаживая рукой своего взмылившегося донца." speech_id="4283"><s>- Да, всё вперед, и на лугу вперед, и тут, - отвечал <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>, поглаживая рукой <rs ref="Nikolai_Rostov">своего</rs> взмылившегося донца.</s></said> </p>
+          <p>
+            <said who="Lavrushka" corresp="Nikolai_Rostov" speech_text="А я на французской, ваше сиятельство. перегнал бы, да только срамить не хотел." verb="говорить" speech_id="4309"><s>- А <rs rolename="undergoer">я</rs> на французской,
+                  <rs rolename="possessor">ваше</rs>
+                <rs>сиятельство</rs>, - сзади говорил <rs ref="Lavrushka" rolename="agent">Лаврушка</rs>, называя французской свою упряжную клячу, - перегнал бы, да только
+                срамить не хотел.</s></said> </p>
+          <p><s><rs rolename="agent">Они</rs> шагом подъехали к амбару, у которого стояла большая
+              толпа мужиков.</s> </p>
+          <p><s>Некоторые мужики сняли шапки, некоторые, не снимая шапок, смотрели на
+              подъехавших.</s>
+            <s>Два старые длинные мужика, с сморщенными лицами и редкими бородами, вышли из кабака и
+              с улыбками, качаясь и распевая какую-то нескладную песню, подошли к офицерам.</s> </p>
+          <p>
+            <said who="Nikolai_Rostov" corresp="мужики " speech_text="Молодцы!. Что, сено есть?" verb="сказать" author_comment="- сказал, смеясь, Ростов. -" speech_id="4295"><s>-
+                Молодцы! - сказал, смеясь, <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>. -
+                Что, сено есть?</s></said> </p>
+          <p>
+            <said who="Ilyin" corresp="Nikolai_Rostov" speech_text="И одинакие какие..." verb="сказать" author_comment="- сказал Ильин." speech_id="4306"><s>- И одинакие
+                какие... - сказал <rs ref="Ilyin" rolename="agent">Ильин</rs>.</s></said> </p>
+          <p>
+            <s>- Развесе... оо...ооо...лая бесе... бесе... - распевали мужики с счастливыми
+              улыбками.</s> </p>
+          <p><s>Один <rs rolename="agent">мужик</rs> вышел из толпы и подошел к <rs ref="Nikolai_Rostov" target="id_321310">Ростову</rs>.</s> </p>
+          <p>
+            <said who="мужик" corresp="Nikolai_Rostov" speech_text="Вы из каких будете?" verb="спросить" author_comment="- спросил он." speech_id="4288"><s>- Вы из каких
+                будете? - спросил <rs ref="Nikolai_Rostov" rolename="agent">он</rs>.</s></said> </p>
+          <p>
+            <said who="Ilyin" corresp="мужик" speech_text="Французы," verb="отвечать" author_comment="- отвечал, смеючись, Ильин." speech_id="4300"><s>- Французы, -
+                отвечал, смеючись, <rs ref="Ilyin" rolename="agent">Ильин</rs>.</s></said>
+            <said who="Ilyin" corresp="мужик" speech_text="Вот и Наполеон сам," verb="сказать" author_comment="- сказал он, указывая на Лаврушку." speech_id="4285"><s>- Вот и <rs ref="Napoleon_Bonaparte">Наполеон</rs> сам, - сказал <rs ref="Ilyin">он</rs>,
+                указывая на <rs ref="Lavrushka">Лаврушку</rs>.</s></said> </p>
+          <p>
+            <said who="мужик" corresp="Ilyin" speech_text="Стало быть, русские будете?" verb="переспросить" author_comment="- переспросил мужик." speech_id="4310"><s>- Стало
+                быть, русские будете? - переспросил <rs rolename="agent">мужик</rs>.</s></said> </p>
+          <p>
+            <said who="мужик" corresp="Nikolai_Rostov" speech_text="А много вашей силы тут?" verb="спросить" author_comment="- спросил другой небольшой мужик, подходя к ним." speech_id="4307"><s>- А много вашей силы тут? - спросил другой небольшой <rs rolename="agent">мужик</rs>, подходя к ним.</s></said> </p>
+          <p>
+            <said who="Nikolai_Rostov" corresp="мужик" speech_text="Да вы что ж собрались тут?. Много, много. Праздник, что ль?" verb="прибавить" author_comment="- прибавил он. -" speech_id="4302"><s>- Много, много,
+                - отвечал <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>. - Да вы что ж
+                собрались тут? - прибавил <rs rolename="agent">он</rs>. - Праздник, что
+              ль?</s></said> </p>
+          <p>
+            <said who="мужик" corresp="Nikolai_Rostov" speech_text="Старички собрались, по мирскому делу," verb="отвечать" author_comment="- отвечал мужик, отходя от него." speech_id="4297"><s>- Старички
+                собрались, по мирскому делу, - отвечал <rs rolename="agent">мужик</rs>, отходя от
+                  <rs ref="Nikolai_Rostov" target="id_321312">него</rs>.</s></said> </p>
+          <p><s>В это время по дороге от барского дома показались две женщины и <rs rolename="undergoer">человек</rs> в белой шляпе, шедшие к офицерам.</s> </p>
+          <p>
+            <said who="Ilyin" corresp="Nikolai_Rostov" speech_text="В розовом моя, чур не отбивать!" verb="сказать" speech_id="4292"><s>- В розовом <rs>моя</rs>, чур не отбивать! - сказал
+                  <rs ref="Ilyin" rolename="agent" target="id_321315">Ильин</rs>, заметив решительно
+                подвигавшуюся к <rs ref="Ilyin" xml:id="id_321315">нему</rs>
+                <rs ref="Dunyasha" rolename="undergoer">Дуняшу</rs>.</s></said> </p>
+          <p>
+            <said who="Lavrushka" corresp="Ilyin" speech_text="Наша будет!" verb="сказать" author_comment="- подмигнув, сказал Ильину Лаврушка." speech_id="4312"><s>- Наша
+                будет! - подмигнув, сказал <rs ref="Ilyin" rolename="addressee" target="id_321317">Ильину</rs>
+                <rs ref="Lavrushka" rolename="agent" xml:id="id_321317">Лаврушка</rs>.</s></said> </p>
+          <p>
+            <said who="Ilyin" corresp="Dunyasha (Bolkonsky maid)" speech_text="Что, моя красавица, нужно?" verb="сказать" author_comment="- сказал Ильин, улыбаясь." speech_id="4299"><s>- Что, <rs>моя</rs>
+                красавица, нужно? - сказал <rs ref="Ilyin" rolename="agent">Ильин</rs>,
+                улыбаясь.</s></said> </p>
+          <p>
+            <said who="Dunyasha (Bolkonsky maid)" corresp="Ilyin" speech_text="Княжна приказали узнать, какого вы полка и ваши фамилии?" speech_id="4304"><s>- <rs>Княжна</rs> приказали узнать, какого вы полка и ваши
+                фамилии?</s></said> </p>
+          <p>
+            <said who="Ilyin" corresp="Dunyasha (Bolkonsky maid)" speech_text="Это граф Ростов, эскадронный командир, а я ваш покорный слуга." speech_id="4296"><s>- Это <rs ref="Nikolai_Rostov">граф Ростов</rs>, эскадронный
+                командир, а <rs>я</rs> ваш покорный слуга.</s></said> </p>
+          <p>
+            <said who="мужик" corresp="" speech_text="Бе...се...е...ду...шка!" speech_id="4308"><s>-
+                Бе...се...е...ду...шка!- распевал пьяный <rs rolename="agent">мужик</rs>, счастливо
+                улыбаясь и глядя на <rs ref="Ilyin" rolename="undergoer" target="id_321320">Ильина</rs>, разговаривающего с <rs>девушкой</rs>.</s></said>
+            <s>Вслед за <rs ref="Dunyasha">Дуняшей</rs> подошел к <rs ref="Nikolai_Rostov">Ростову</rs>
+              <rs ref="Yakov_Alpatych">Алпатыч</rs>, еще издали сняв <rs ref="Nikolai_Rostov" rolename="possessor">свою</rs> шляпу.</s> </p>
+          <p>
+            <said who="Yakov_Alpatych" corresp="Nikolai_Rostov" speech_text="Моя госпожа, дочь скончавшегося сего пятнадцатого числа генерал-аншефа князя Николая Андреевича Болконского, находясь в затруднении по случаю невежества этих лиц. Осмелюсь обеспокоить, ваше благородие. просит вас пожаловать... не угодно ли будет, - с грустной улыбкой сказал Алпатыч, - отъехать несколько, а то не так удобно при..." verb="сказать" author_comment=", - сказал он с почтительностью, но с относительным пренебрежением к юности этого офицера и заложив руку за пазуху. -" speech_id="4301"><s>- Осмелюсь обеспокоить, <rs rolename="possessor">ваше</rs>
+                <rs>благородие</rs>, - сказал <rs ref="Yakov_Alpatych" rolename="agent">он</rs> с
+                почтительностью, но с относительным пренебрежением к юности этого <rs ref="Nikolai_Rostov" rolename="undergoer">офицера</rs> и заложив руку за пазуху. -
+                Моя <rs rolename="agent">госпожа</rs>, дочь скончавшегося сего пятнадцатого числа
+                генерал-аншефа <rs ref="Prince_Nikolay_Bolkonsky">князя Николая Андреевича
+                  Болконского</rs>, находясь в затруднении по случаю невежества этих лиц, - <rs ref="Nikolai_Rostov">он</rs> указал на мужиков, - просит вас пожаловать... не
+                угодно ли будет, - с грустной улыбкой сказал <rs rolename="agent">Алпатыч</rs>, -
+                отъехать несколько, а то не так удобно при... - <rs>Алпатыч</rs> указал на двух
+                мужиков, которые сзади так и носились около <rs>него</rs>, как слепни около
+                лошади.</s></said> </p>
+          <p>
+            <s>- А!.. <rs ref="Yakov_Alpatych">Алпатыч</rs>... А? <rs ref="Yakov_Alpatych">Яков
+                Алпатыч</rs>!.. Важно! прости ради <rs rolename="benemalefactive">Христа</rs>.
+              Важно! А?.. - говорили мужики, радостно улыбаясь <rs rolename="addressee">ему</rs>.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> посмотрел на пьяных стариков и
+              улыбнулся.</s> </p>
+          <p>
+            <said who="Yakov_Alpatych" corresp="Nikolai_Rostov" speech_text="Или, может, это утешает ваше сиятельство?" verb="сказать" author_comment="- сказал Яков Алпатыч с степенным видом, не заложенной за пазуху рукой указывая на стариков." speech_id="4289"><s>- Или, может, это утешает <rs rolename="possessor">ваше</rs>
+                <rs rolename="experiencer">сиятельство</rs>? - сказал <rs rolename="agent">Яков
+                  Алпатыч</rs> с степенным видом, не заложенной за пазуху рукой указывая на
+                стариков.</s></said> </p>
+          <p>
+            <said who="Nikolai_Rostov" corresp="Yakov_Alpatych" speech_text="Нет, тут утешенья мало," verb="сказать" author_comment="- сказал Ростов и отъехал." speech_id="4305"><s>- Нет, тут утешенья
+                мало, - сказал <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> и
+              отъехал.</s></said>
+            <said who="Nikolai_Rostov" corresp="Yakov_Alpatych" speech_text="В чем дело?" verb="спросить" author_comment="- спросил он." speech_id="4298"><s>- В чем дело? -
+                спросил <rs ref="Nikolai_Rostov">он</rs>.</s></said> </p>
+          <p>
+            <said who="Yakov_Alpatych" corresp="Nikolai_Rostov" speech_text="- Осмелюсь доложить вашему сиятельству, что грубый народ здешний не желает выпустить госпожу из имения и угрожает отпречь лошадей, так что с утра все уложено и ее сиятельство не могут выехать." speech_id="4284"><s>- Осмелюсь доложить <rs rolename="possessor">вашему</rs>
+                <rs rolename="addressee">сиятельству</rs>, что грубый народ здешний не желает
+                выпустить <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">госпожу</rs> из
+                имения и угрожает отпречь лошадей, так что с утра все уложено и <rs>ее</rs>
+                <rs>сиятельство</rs> не могут выехать.</s></said> </p>
+          <p>
+            <said who="Nikolai_Rostov" corresp="Yakov_Alpatych" speech_text="Не может быть!" verb="вскрикнуть" author_comment="- вскрикнул Ростов." speech_id="4286"><s>- Не может
+                быть! - вскрикнул <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>.</s></said> </p>
+          <p>
+            <said who="Yakov_Alpatych" corresp="Nikolai_Rostov" speech_text="Имею честь докладывать вам сущую правду," verb="повторить" author_comment="- повторил Алпатыч." speech_id="4294"><s>- Имею честь докладывать вам
+                сущую правду, - повторил <rs ref="Yakov_Alpatych" rolename="agent">Алпатыч</rs>.</s></said> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> слез с лошади и, передав ее
+                <rs rolename="addressee">вестовому</rs>, пошел с <rs ref="Yakov_Alpatych">Алпатычем</rs> к дому, расспрашивая его о подробностях дела.</s>
+            <s>Действительно, вчерашнее предложение <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжны</rs> мужикам хлеба, <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">ее</rs> объяснение с <rs ref="Dron_Zakharych">Дроном</rs> и с
+              сходкою так испортили дело, что <rs ref="Dron_Zakharych">Дрон</rs> окончательно сдал
+              ключи, присоединился к мужикам и не являлся по требованию <rs ref="Yakov_Alpatych">Алпатыча</rs> и что поутру, когда <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжна</rs> велела закладывать, чтобы ехать, мужики вышли большой
+              толпой к амбару и выслали сказать, что они не выпустят <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжны</rs> из деревни, что есть
+              приказ, чтобы не вывозиться, и они выпрягут лошадей.</s>
+            <s><rs ref="Yakov_Alpatych">Алпатыч</rs> выходил к ним, усовещивая их, но ему отвечали
+              (больше всех говорил <rs rolename="agent">Карп</rs>; <rs ref="Dron_Zakharych">Дрон</rs> не показывался из толпы), что <rs ref="Princess_Mariya_Bolkonskaya">княжну</rs> нельзя выпустить, что на то приказ есть; а что пускай <rs ref="Princess_Mariya_Bolkonskaya" rolename="undergoer">княжна</rs> остается, и они
+              по-старому будут служить ей и во всем повиноваться.</s> </p>
+          <p><s>В ту минуту, когда <rs ref="Nikolai_Rostov" rolename="agent" target="id_321321">Ростов</rs> и <rs ref="Ilyin" rolename="agent" xml:id="id_321321">Ильин</rs>
+              проскакали по дороге, <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжна
+                Марья</rs>, несмотря на отговариванье <rs ref="Yakov_Alpatych">Алпатыча</rs>, <rs rolename="experiencer">няни</rs> и девушек, велела закладывать и хотела ехать; но,
+              увидав проскакавших кавалеристов, их приняли за французов, кучера разбежались, и в
+              доме поднялся плач женщин.</s> </p>
+          <p>
+            <s>- Батюшка!</s>
+            <s><rs>отец</rs> родной!</s>
+            <said who="голоса" corresp="" speech_text="бог тебя послал" verb="говорить" speech_id="4293"><s>бог <rs rolename="undergoer">тебя</rs> послал, - говорили умиленные
+                голоса, в то время как <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>
+                проходил через переднюю.</s></said> </p>
+          <p><s><rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">Княжна Марья</rs>, потерянная
+              и бессильная, сидела в зале, в то время как к ней ввели <rs ref="Nikolai_Rostov" rolename="agent">Ростова</rs>.</s>
+            <s><rs ref="Princess_Mariya_Bolkonskaya" rolename="experiencer">Она</rs> не понимала,
+              кто <rs ref="Nikolai_Rostov">он</rs>, и зачем <rs ref="Nikolai_Rostov">он</rs>, и что
+              с нею будет.</s>
+            <s>Увидав <rs ref="Nikolai_Rostov" rolename="undergoer">его</rs> русское <rs rolename="undergoer">лицо</rs> и по входу <rs rolename="undergoer">его</rs> и первым
+              сказанным словам признав <rs rolename="undergoer">его</rs> за человека своего круга, она
+              взглянула на <rs>него</rs> своим глубоким и лучистым взглядом и начала говорить
+              обрывавшимся и дрожавшим от волнения голосом.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="possessor">Ростову</rs> тотчас же представилось
+              что-то романическое в этой встрече.</s>
+            <s>'Беззащитная, убитая горем <rs>девушка</rs>, одна, оставленная на произвол грубых,
+              бунтующих мужиков! И какая-то странная судьба натолкнула <rs ref="Nikolai_Rostov" rolename="experiencer">меня</rs> сюда! - думал <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>, слушая ее и глядя на нее. - И какая кротость,
+              благородство в <rs rolename="undergoer">ее</rs> чертах и в выражении!' - думал <rs ref="Nikolai_Rostov" rolename="agent">он</rs>, слушая ее робкий рассказ.</s> </p>
+          <p><s>Когда она заговорила о том, что все это случилось на другой день после похорон <rs rolename="undergoer">отца</rs>, ее голос задрожал.</s>
+            <s>Она отвернулась и потом, как бы боясь, чтобы <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> не принял её слова за желание разжалобить <rs ref="Nikolai_Rostov">его</rs>, вопросительно-испуганно взглянула на <rs ref="Nikolai_Rostov">него</rs>.</s>
+            <s>У <rs ref="Nikolai_Rostov">Ростова</rs> слезы стояли в глазах.</s>
+            <s><rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">Княжна Марья</rs> заметила это
+              и благодарно посмотрела на <rs ref="Nikolai_Rostov" rolename="undergoer">Ростова</rs> тем
+              своим лучистым взглядом, который заставлял забывать некрасивость ее лица.</s> </p>
+          <p>
+            <said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="Извольте ехать, и я отвечаю вам своей честью, что ни один человек не посмеет сделать вам неприятность, ежели вы мне только позволите конвоировать вас.. Не могу выразить, княжна, как я счастлив тем, что я случайно заехал сюда и буду в состоянии показать вам свою готовность" verb="сказать" author_comment=", - сказал Ростов, вставая. -" speech_id="4291"><s>- Не
+                могу выразить, <rs>княжна</rs>, как я счастлив тем, что я случайно заехал сюда и
+                буду в состоянии показать <rs rolename="addressee">вам</rs> свою готовность, -
+                сказал <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>, вставая. - Извольте
+                ехать, и я отвечаю вам своей честью, что ни один <rs rolename="agent">человек</rs>
+                не посмеет сделать вам неприятность, ежели вы мне только позволите конвоировать вас,
+                - и, почтительно поклонившись, как кланяются дамам царской крови, <rs>он</rs>
+                направился к двери.</s></said> </p>
+          <p><s>Почтительностью <rs ref="Nikolai_Rostov" rolename="undergoer">своего</rs> тона <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> как будто показывал, что, несмотря
+              на то, что <rs ref="Nikolai_Rostov">он</rs> за счастье бы счел <rs ref="Nikolai_Rostov">свое</rs> знакомство с <rs ref="Princess_Mariya_Bolkonskaya">нею</rs>, <rs ref="Nikolai_Rostov">он</rs> не хотел пользоваться случаем ее
+              несчастия для сближения с <rs ref="Princess_Mariya_Bolkonskaya">нею</rs>.</s> </p>
+          <p><s><rs ref="Princess_Mariya_Bolkonskaya" rolename="experiencer">Княжна Марья</rs>
+              поняла и оценила этот тон.</s> </p>
+          <p>
+            <said who="Princess_Mariya_Bolkonskaya" corresp="Nikolai_Rostov" speech_text="Я очень, очень благодарна вам. но надеюсь, что все это было только недоразуменье и что никто не виноват в том." verb="сказать" author_comment=", - сказала ему княжна по-французски, - но надеюсь, что все это было только недоразуменье и что никто не виноват в том. -" speech_id="4311"><s>- <rs rolename="undergoer">Я</rs> очень, очень благодарна вам, -
+                сказала <rs ref="Nikolai_Rostov" rolename="addressee">ему</rs>
+                <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжна</rs> по-французски, -
+                но надеюсь, что все это было только недоразуменье и что никто не виноват в том. -
+                  <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">Княжна</rs> вдруг
+                заплакала.</s></said>
+            <said who="Princess_Mariya_Bolkonskaya" corresp="Nikolai_Rostov" speech_text="Извините меня," verb="сказать" author_comment="- сказала она." speech_id="4290"><s>- Извините <rs rolename="undergoer">меня</rs>, - сказала
+                <rs>она</rs>.</s></said> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>, нахмурившись, еще раз низко
+              поклонился и вышел из комнаты.</s>  </p>
+        </div>
+        

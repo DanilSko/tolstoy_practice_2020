@@ -1,0 +1,220 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="23" type="chapter" xml:id="chapter23part1Volume1">
+          <p> </p>
+          <p><s>XXIII</s> </p>
+          <p><s>Седой <rs rolename="agent">камердинер</rs> сидел, дремля и прислушиваясь к храпению
+                <rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">князя</rs> в огромном
+              кабинете.</s>
+            <s>Из дальней стороны дома, из-за затворенных дверей слышались по двадцати раз
+              повторяемые трудные пассажи Дюссековой сонаты.</s> </p>
+          <p><s>В это время подъехала к крыльцу карета и бричка, и из кареты вышел <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs>, высадил свою маленькую <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="agent">жену</rs> и
+              пропустил ее вперед.</s>
+            <s>Седой <rs rolename="agent">Тихон</rs>, в парике, высунувшись из двери официантской,
+              шепотом доложил, что <rs ref="Prince_Nikolay_Bolkonsky">князь</rs> почивают, и
+              торопливо затворил дверь.</s>
+            <s><rs rolename="experiencer">Тихон</rs> знал, что ни приезд <rs rolename="agent">сына</rs> и никакие необыкновенные события не должны были нарушать порядка дня.</s>
+            <s><rs ref="AndreyBolkonsky" rolename="experiencer">Князь Андрей</rs>, видимо, знал это
+              так же хорошо, как и <rs>Тихон</rs>; <rs ref="AndreyBolkonsky" xml:id="id_11231"><rs rolename="agent">он</rs></rs> посмотрел на часы, как будто для того, чтобы
+              поверить, не изменились ли привычки <rs ref="Prince_Nikolay_Bolkonsky" rolename="experiencer">отца</rs> за то время, в которое <rs ref="AndreyBolkonsky" target="id_11231"><rs>он</rs></rs> не видал <rs><rs ref="Prince_Nikolay_Bolkonsky" rolename="undergoer">его</rs></rs>, и, убедившись, что они не изменились, обратился к
+                <rs>жене</rs>.</s> </p>
+          <p><said who="AndreyBolkonsky" corresp="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" speech_text="Пройдем к княжне Марье,. Через двадцать минут он встанет." verb="сказать" author_comment="- сказал он." speech_id="711"><s>- Через двадцать минут <rs ref="AndreyBolkonsky"><rs rolename="agent">он</rs></rs> встанет. Пройдем к <rs ref="Princess_Mariya_Bolkonskaya" rolename="finalpoint">княжне Марье</rs>,- сказал
+                  <rs ref="AndreyBolkonsky"><rs>он</rs></rs>.</s></said> </p>
+          <p><s>Маленькая <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="undergoer">княгиня</rs> потолстела за это время, но глаза и короткая губка с усиками и улыбкой
+              поднимались так же весело и мило, когда <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="agent">она</rs>
+              заговорила.</s> </p>
+          <p><said who="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" corresp="AndreyBolkonsky" speech_text="Mais c'est un palais," verb="сказать" author_comment="- сказала она мужу, оглядываясь кругом, с тем выражением, с каким говорят похвалы хозяину бала." speech_id="712"><s>- Mais c'est un palais,- сказала <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya">она</rs>
+                <rs ref="AndreyBolkonsky" rolename="addressee">мужу</rs>, оглядываясь кругом, с тем
+                выражением, с каким говорят похвалы <rs rolename="addressee">хозяину</rs>
+              бала.</s></said><said who="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" corresp="AndreyBolkonsky" speech_text="Allons, vite, vite!.." verb="улыбаться" author_comment="- Она, оглядываясь, улыбалась и Тихону, и мужу, и официанту, провожавшему их." speech_id="710"><s>- Allons, vite, vite!.. - <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya">Она</rs>, оглядываясь,
+                улыбалась и <rs rolename="addressee">Тихону</rs>, и <rs ref="AndreyBolkonsky" rolename="addressee">мужу</rs>, и <rs rolename="addressee">официанту</rs>,
+                провожавшему <rs ref="AndreyBolkonsky" rolename="undergoer">их</rs>.</s></said> </p>
+          <p><said who="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" corresp="AndreyBolkonsky" speech_text="- C'est Marie qui s'exerce?" speech_id="699"><s>- C'est Marie qui
+                s'exerce?</s></said>
+            <s>Allons doucement, il faut la surprendre.</s> </p>
+          <p><s><rs ref="AndreyBolkonsky" rolename="agent">Князь Андрей</rs> шел за ней с учтивым и
+              грустным выражением.</s> </p>
+          <p><said who="AndreyBolkonsky" corresp="Prince_Nikolay_Bolkonsky" speech_text="Ты постарел, Тихон," verb="сказать" author_comment="- сказал он, проходя, старику, целовавшему его руку." speech_id="726"><s>- <rs rolename="undergoer">Ты</rs> постарел, <rs>Тихон</rs>,- сказал <rs ref="AndreyBolkonsky" rolename="agent" target="id_11233">он</rs>, проходя, <rs ref="Prince_Nikolay_Bolkonsky" rolename="addressee" xml:id="id_11233">старику</rs>, целовавшему <rs ref="AndreyBolkonsky" rolename="possessor">его</rs>
+                руку.</s></said> </p>
+          <p><s>Перед комнатою, в которой слышны были клавикорды, из боковой двери выскочила
+              хорошенькая белокурая <rs ref="Mademoiselle_Bourienne" rolename="agent">француженка</rs>.</s>
+            <s><rs ref="Mademoiselle_Bourienne">M-lle Bourienne</rs> казалась обезумевшею от
+              восторга.</s> </p>
+          <p><said who="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Ah!" speech_id="700"><s>-
+              Ah!</s></said>
+            <s>quel bonheur pour la princesse,- заговорила она.</s><s>- Enfin!</s>
+            <s>Il faut que je la prévienne.</s> </p>
+          <p><said who="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" corresp="mademoiselle_Bourienne" speech_text="Elle ne nous attend pas!. Non, non, de grâce.... Vous êtes mademoiselle Bourienne, je vous connais déjà par l'amitié que vous porte ma belle-sœur" verb="говорить" author_comment=",- говорила княгиня, целуясь с нею.-" speech_id="719"><s>- Non, non, de grâce... Vous êtes <rs ref="Mademoiselle_Bourienne">mademoiselle
+                  Bourienne</rs>, je vous connais déjà par l'amitié que vous porte ma belle-sœur,-
+                говорила <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="agent">княгиня</rs>, целуясь с нею.- Elle ne nous attend pas!</s></said> </p>
+          <p><s>Они подошли к двери диванной, из которой слышался опять и опять повторяемый
+              пассаж.</s>
+            <s><rs ref="AndreyBolkonsky" rolename="agent">Князь Андрей</rs> остановился и
+              поморщился, как будто ожидая чего-то неприятного.</s> </p>
+          <p><s><rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="agent">Княгиня</rs> вошла.</s>
+            <s>Пассаж оборвался на середине; послышался крик, тяжелые ступни <rs ref="Princess_Mariya_Bolkonskaya" rolename="possessor">княжны Марьи</rs> и звуки
+              поцелуев.</s>
+            <s>Когда <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs> вошел, <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжна</rs> и <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="agent">княгиня</rs>,
+              только раз на короткое время видевшиеся во время свадьбы <rs ref="AndreyBolkonsky" rolename="agent">князя Андрея</rs>, обхватившись руками, крепко прижимались губами к
+              тем местам, на которые попали в первую минуту.</s>
+            <s><rs ref="Mademoiselle_Bourienne">M-lle Bourienne</rs> стояла около них, прижав руки к
+              сердцу и набожно улыбаясь, очевидно, столько же готовая заплакать, сколько и
+              засмеяться.</s>
+            <s><rs ref="AndreyBolkonsky" rolename="agent">Князь Андрей</rs> пожал плечами и
+              поморщился, как морщатся любители музыки, услышав фальшивую ноту.</s>
+            <s>Обе женщины отпустили друг друга; потом опять, как будто боясь опоздать, схватили
+              друг друга за руки, стали целовать и отрывать руки и потом опять стали целовать друг
+              друга в лицо, и совершенно неожиданно для <rs ref="AndreyBolkonsky" rolename="experiencer">князя Андрея</rs> обе заплакали и опять стали целоваться.</s>
+            <s><rs ref="Mademoiselle_Bourienne">M-lle Bourienne</rs> тоже заплакала.</s>
+            <s><rs ref="AndreyBolkonsky">Князю Андрею</rs> было, очевидно, неловко; но для двух
+              женщин казалось так естественно, что они плакали; казалось, они и не предполагали,
+              чтобы могло иначе совершиться это свидание.</s> </p>
+          <p><said who="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Ah!" speech_id="700"><s>- Ah!
+                chère!.. Ah! Marie!.. - вдруг заговорили обе женщины и засмеялись. - J'ai rêvé cette
+                nuit..</s></said><said who="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Ah!" speech_id="700"><s>. - Vous
+                ne nous attendiez donc pas?.. Ah!</s></said>
+            <s>Marie, vous avez maigri... - Et vous avez repris...</s> </p>
+          <p><said who="mademoiselle_Bourienne" corresp="Princess_Mariya_Bolkonskaya;Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" speech_text="J'ai tout de suite reconnu madame la princesse," verb="вставить" author_comment="- вставила m-lle Бурьен." speech_id="722"><s>- J'ai tout de suite
+                reconnu madame la princesse,- вставила <rs ref="Mademoiselle_Bourienne" rolename="agent">m-lle Бурьен</rs>.</s></said> </p>
+          <p><said who="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Ah!" speech_id="700"><said who="Princess_Mariya_Bolkonskaya" corresp="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya;AndreyBolkonsky" speech_text="Ah!. Et moi qui ne me doutais pas!.." verb="восклицать" author_comment="- восклицала княжна Марья.-" speech_id="718"><s>- Et moi qui ne me
+                  doutais pas!..- восклицала <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжна Марья</rs>.- Ah!</s></said></said>
+            <s>André, je ne vous voyais pas.</s> </p>
+          <p><s><rs ref="AndreyBolkonsky" rolename="agent">Князь Андрей</rs> поцеловался с <rs ref="Princess_Mariya_Bolkonskaya">сестрою</rs> рука в руку и указал <rs ref="Princess_Mariya_Bolkonskaya" rolename="addressee">ей</rs>, что <rs>она</rs>
+              такая же pleurnicheuse, как всегда была.</s>
+            <s><rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">Княжна Марья</rs> повернулась
+              к <rs>брату</rs>, и сквозь слезы любовный, теплый и кроткий взгляд <rs ref="Princess_Mariya_Bolkonskaya" rolename="possessor">ее</rs> прекрасных в ту
+              минуту, больших лучистых глаз остановился на лице <rs ref="AndreyBolkonsky" rolename="possessor">князя Андрея</rs>.</s> </p>
+          <p><s><rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="agent">Княгиня</rs> говорила без умолку.</s>
+            <s>Короткая верхняя губка с усиками то и дело на мгновение слетала вниз, притрагивалась,
+              где нужно было, к румяной нижней губке, и вновь открывалась блестевшая зубами и
+              глазами улыбка.</s>
+            <s><rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="agent">Княгиня</rs> рассказывала случай, который был с ними на Спасской горе, грозивший
+                <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya">ей</rs> опасностию в <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya">ее</rs> положении, и сейчас же
+              после этого сообщила, что <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya">она</rs> все платья <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya">свои</rs> оставила в Петербурге и здесь будет ходить бог знает в чем, и что <rs ref="AndreyBolkonsky" rolename="undergoer">Андрей</rs> совсем переменился, и что <rs rolename="agent">Китти Одынцова</rs> вышла замуж за <rs>старика</rs>, и что есть <rs rolename="undergoer">жених</rs> для <rs ref="Princess_Mariya_Bolkonskaya" rolename="benemalefactive">княжны Марьи</rs> pour tout de bon, но что об этом
+              поговорим после.</s>
+            <s><rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">Княжна Марья</rs> все еще
+              молча смотрела на <rs ref="AndreyBolkonsky" rolename="undergoer">брата</rs>, и в
+              прекрасных глазах <rs ref="Princess_Mariya_Bolkonskaya"><rs rolename="possessor">ее</rs></rs> были и любовь и грусть.</s>
+            <s>Видно было, что в <rs ref="Princess_Mariya_Bolkonskaya" rolename="experiencer">ней</rs> установился теперь свой ход мысли, независимый от речей <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="agent">невестки</rs>.</s>
+            <s><rs ref="Princess_Mariya_Bolkonskaya" rolename="agent"><rs>Она</rs></rs> в середине
+                <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="agent"><rs>ее</rs></rs> рассказа о последнем празднике в Петербурге обратилась к <rs ref="AndreyBolkonsky" rolename="addressee">брату</rs>.</s> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="AndreyBolkonsky" speech_text="И ты решительно едешь на войну, André?" verb="сказать" author_comment="- сказала она, вздохнув." speech_id="720"><s>- И ты решительно едешь
+                на войну, André? - сказала она, вздохнув.</s></said> </p>
+          <p><s>Lise вздохнула тоже.</s> </p>
+          <p><said who="AndreyBolkonsky" corresp="Princess_Mariya_Bolkonskaya" speech_text="Даже завтра," verb="отвечать" author_comment="- отвечал брат." speech_id="708"><s>- Даже завтра,- отвечал <rs ref="AndreyBolkonsky" rolename="agent">брат</rs>.</s></said> </p>
+          <p><said who="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Il m'abandonne ici, et dieu sait pourquoi, quand il aurait pu avoir de l'avancement..." speech_id="698"><s>- Il m'abandonne ici, et dieu sait pourquoi, quand il aurait pu
+                avoir de l'avancement...</s></said> </p>
+          <p><s><rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">Княжна Марья</rs> не
+              дослушала и, продолжая нить <rs ref="Princess_Mariya_Bolkonskaya" rolename="experiencer">своих</rs> мыслей, обратилась к <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="addressee">невестке</rs>, ласковыми глазами указывая на <rs rolename="possessor">ее</rs>
+              живот.</s> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" speech_text="Наверное?" verb="сказать" author_comment="- сказала она." speech_id="717"><s>- Наверное? -
+                сказала <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">она</rs>.</s></said> </p>
+          <p><s>Лицо <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="possessor">княгини</rs> изменилось.</s>
+            <s><rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="agent">Она</rs>
+              вздохнула.</s> </p>
+          <p><said who="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" corresp="Princess_Mariya_Bolkonskaya" speech_text="Ах!. Да, наверное" verb="сказать" author_comment=",- сказала она.-" speech_id="714"><said who="Princess_Mariya_Bolkonskaya" corresp="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" speech_text="Наверное?" verb="сказать" author_comment="- сказала она." speech_id="717"><s>- Да, наверное,-
+                  сказала <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya">она</rs>.-
+                  Ах!</s></said></said>
+            <s>Это очень страшно...</s> </p>
+          <p><s>Губки <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="possessor">Лизы</rs> опустились.</s>
+            <s><rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="agent">Она</rs>
+              приблизила <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya"><rs>свое</rs></rs>
+              лицо к лицу <rs rolename="possessor">золовки</rs> и опять неожиданно
+            заплакала.</s> </p>
+          <p><said who="AndreyBolkonsky" corresp="Princess_Mariya_Bolkonskaya;Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" speech_text="Ей надо отдохнуть. Не правда ли, Лиза?" verb="сказать" author_comment=",- сказал князь Андрей, морщась. -" speech_id="706"><s>- <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya"><rs>Ей</rs></rs> надо
+                отдохнуть,- сказал <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs>,
+                морщась. - Не правда ли, <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="undergoer">Лиза</rs>?</s></said>
+            <s>Сведи <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya"><rs>ее</rs></rs> к
+                <rs>себе</rs>, а <rs rolename="agent">я</rs> пойду к батюшке.</s>
+            <s>Что он, все то же?</s> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="AndreyBolkonsky" speech_text=" То же, то же самое; не знаю, как на твои глаза" speech_id="703"><s>- То
+                же, то же самое; не знаю, как на твои глаза,- отвечала радостно <rs rolename="agent">княжна</rs>.</s></said> </p>
+          <p><said who="AndreyBolkonsky" corresp="Princess_Mariya_Bolkonskaya" speech_text="И те же часы, и по аллеям прогулки?. Станок?" verb="спрашивать" author_comment="- спрашивал князь Андрей с чуть заметною улыбкой, показывавшею, что, несмотря на всю свою любовь и уважение к отцу, он понимал его слабости." speech_id="721"><s>- И те же часы, и по аллеям прогулки? Станок? - спрашивал <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs> с чуть заметною улыбкой,
+                показывавшею, что, несмотря на всю <rs ref="AndreyBolkonsky" rolename="experiencer">свою</rs> любовь и уважение к <rs ref="Prince_Nikolay_Bolkonsky" rolename="undergoer">отцу</rs>, <rs ref="AndreyBolkonsky" rolename="experiencer">он</rs> понимал <rs ref="Prince_Nikolay_Bolkonsky" rolename="undergoer">его</rs>
+                слабости.</s></said> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="AndreyBolkonsky" speech_text="Те же часы и станок, еще математика и мои уроки геометрии," verb="отвечать" author_comment="- радостно отвечала княжна Марья, как будто  ее уроки из геометрии были одним из самых радостных впечатлений ее жизни." speech_id="716"><s>- Те же часы и станок, еще математика и <rs ref="Princess_Mariya_Bolkonskaya" rolename="possessor">мои</rs> уроки геометрии,-
+                радостно отвечала <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжна
+                  Марья</rs>, как будто <rs ref="Princess_Mariya_Bolkonskaya" rolename="possessor">ее</rs> уроки из геометрии были одним из самых радостных впечатлений <rs ref="Princess_Mariya_Bolkonskaya">ее</rs> жизни.</s></said> </p>
+          <p><s>Когда прошли те двадцать минут, которые нужны были для срока вставанья старого <rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">князя</rs>, <rs rolename="agent">Тихон</rs> пришел звать молодого <rs ref="AndreyBolkonsky" rolename="undergoer">князя</rs> к <rs ref="Prince_Nikolay_Bolkonsky">отцу</rs>.</s>
+            <s><rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">Старик</rs> сделал исключение в
+                <rs ref="Prince_Nikolay_Bolkonsky">своем</rs> образе жизни в честь приезда <rs ref="AndreyBolkonsky" rolename="agent">сына</rs>: <rs ref="Prince_Nikolay_Bolkonsky">он</rs> велел впустить <rs ref="Prince_Nikolay_Bolkonsky">его</rs> в <rs ref="Prince_Nikolay_Bolkonsky">свою</rs>
+              <rs>половину</rs> во время одеванья перед обедом.</s>
+            <s><rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">Князь</rs> ходил по-старинному, в
+              кафтане и пудре.</s>
+            <s>И в то время как <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs> (не с
+              тем брюзгливым выражением лица и манерами, которые он напускал на себя в гостиных, а с
+              тем оживленным лицом, которое у него было, когда он разговаривал с <rs ref="Pierre_Bezukhov" rolename="addressee">Пьером</rs>) входил к <rs ref="Prince_Nikolay_Bolkonsky">отцу</rs>, <rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">старик</rs> сидел в уборной на широком, сафьяном обитом кресле, в
+              пудроманте, предоставляя <rs ref="Prince_Nikolay_Bolkonsky" rolename="possessor">свою</rs> голову рукам <rs rolename="possessor">Тихона</rs>.</s> </p>
+          <p><said who="Prince_Nikolay_Bolkonsky" corresp="AndreyBolkonsky" speech_text="А!. Бонапарта завоевать хочешь? Примись хоть ты за него хорошенько, а то он этак скоро и нас своими подданными запишет. Здорово!. Воин! " verb="тряхнуть" author_comment="- сказал старик и тряхнул напудренною головой, сколько позволяла это заплетаемая коса, находившаяся в руках Тихона." speech_id="724"><s>- А! <rs>Воин</rs>! Бонапарта завоевать хочешь? - сказал <rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">старик</rs> и тряхнул напудренною
+                головой, сколько позволяла это заплетаемая коса, находившаяся в руках <rs rolename="possessor">Тихона</rs>.</s></said><said who="Prince_Nikolay_Bolkonsky" corresp="AndreyBolkonsky" speech_text="Здорово!. Примись хоть ты за него хорошенько, а то он этак скоро и нас своими подданными запишет." verb="выставить" author_comment="- И он выставил свою щеку." speech_id="725"><s>-
+                Примись хоть <rs rolename="agent">ты</rs> за <rs><rs ref="Napoleon_Bonaparte">него</rs></rs> хорошенько, а то <rs><rs ref="Napoleon_Bonaparte" rolename="agent">он</rs></rs> этак скоро и нас <rs><rs ref="Napoleon_Bonaparte">своими</rs></rs> подданными запишет. Здорово!- И <rs><rs ref="Prince_Nikolay_Bolkonsky">он</rs></rs> выставил <rs><rs ref="Prince_Nikolay_Bolkonsky">свою</rs></rs> щеку.</s></said> </p>
+          <p><s><rs ref="Prince_Nikolay_Bolkonsky" rolename="undergoer">Старик</rs> находился в хорошем
+              расположении духа после дообеденного сна.</s>
+            <s>(<rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">Он</rs> говорил, что после обеда
+              серебряный сон, а до обеда золотой.)</s>
+            <s><rs ref="Prince_Nikolay_Bolkonsky">Он</rs> радостно из-под <rs ref="Prince_Nikolay_Bolkonsky">своих</rs> густых нависших бровей косился на <rs rolename="undergoer">сына</rs>.</s>
+            <s><rs ref="AndreyBolkonsky" rolename="agent">Князь Андрей</rs> подошел и поцеловал <rs ref="Prince_Nikolay_Bolkonsky" rolename="undergoer">отца</rs> в указанное <rs ref="Prince_Nikolay_Bolkonsky">им</rs> место.</s>
+            <s><rs ref="AndreyBolkonsky" rolename="agent">Он</rs> не отвечал на любимую тему
+              разговора <rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">отца</rs> -
+              подтруниванье над теперешними военными людьми, а особенно над Бонапартом.</s> </p>
+          <p><said who="AndreyBolkonsky" corresp="Prince_Nikolay_Bolkonsky" speech_text="Да, приехал к вам, батюшка, и с беременною женой. Как здоровье ваше?" verb="сказать" author_comment=",- сказал князь Андрей, следя оживленными и почтительными глазами за движением каждой черты отцовского лица.-" speech_id="723"><s>- Да, приехал к вам, батюшка, и с беременною <rs>женой</rs>,-
+                сказал <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs>, следя
+                оживленными и почтительными глазами за движением каждой черты отцовского лица.- Как
+                здоровье ваше?</s></said> </p>
+          <p><said who="Prince_Nikolay_Bolkonsky" corresp="AndreyBolkonsky" speech_text="- Нездоровы, брат, бывают только дураки да развратники, а ты меня знаешь: с утра до вечера занят, воздержан, ну и здоров." speech_id="695"><s>- Нездоровы, <rs>брат</rs>, бывают только дураки да развратники, а
+                  <rs rolename="experiencer">ты</rs>
+                <rs rolename="undergoer">меня</rs> знаешь: с утра до вечера занят, воздержан, ну и
+                здоров.</s></said> </p>
+          <p><said who="AndreyBolkonsky" corresp="" speech_text="Слава богу," verb="сказать" author_comment="- сказал сын, улыбаясь." speech_id="705"><s>- Слава богу,- сказал <rs ref="AndreyBolkonsky" rolename="agent">сын</rs>, улыбаясь.</s></said> </p>
+          <p><said who="Prince_Nikolay_Bolkonsky" corresp="AndreyBolkonsky" speech_text="Бог тут ни при чем.. Ну, рассказывай,. как вас немцы с Бонапартом сражаться по вашей новой науке, стратегией называемой, научили." verb="продолжать" author_comment="- продолжал он, возвращаясь к своему любимому коньку,- как вас немцы с Бонапартом сражаться по вашей новой науке, стратегией называемой, научили." speech_id="707"><s>- Бог тут ни при чем. Ну, рассказывай,- продолжал <rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">он</rs>, возвращаясь к
+                  <rs>своему</rs> любимому коньку,- как вас немцы с Бонапартом сражаться по вашей
+                новой науке, стратегией называемой, научили.</s></said> </p>
+          <p><s><rs ref="AndreyBolkonsky" rolename="agent">Князь Андрей</rs> улыбнулся.</s> </p>
+          <p><said who="AndreyBolkonsky" corresp="Prince_Nikolay_Bolkonsky" speech_text="Ведь я еще и не разместился.. Дайте опомниться, батюшка" verb="сказать" author_comment=",- сказал он с улыбкою, показывавшею, что слабости отца не мешают ему уважать и любить его.-" speech_id="715"><s>- Дайте опомниться, батюшка,- сказал <rs ref="AndreyBolkonsky" rolename="agent">он</rs> с улыбкою, показывавшею, что слабости <rs ref="Prince_Nikolay_Bolkonsky" rolename="experiencer">отца</rs> не мешают <rs ref="AndreyBolkonsky" target="id_11235">ему</rs> уважать и любить <rs ref="Prince_Nikolay_Bolkonsky" rolename="undergoer" xml:id="id_11235">его</rs>.- Ведь
+                  <rs ref="AndreyBolkonsky" rolename="agent">я</rs> еще и не
+            разместился.</s></said> </p>
+          <p><said who="Prince_Nikolay_Bolkonsky" corresp="AndreyBolkonsky" speech_text="Врешь, врешь. Княжна Марья сведет ее и покажет и с три короба наболтает. Это их бабье дело. Я ей рад. Сиди, рассказывай. Михельсона армию я понимаю, Толстого тоже... высадка единовременная... Южная армия что будет делать? Пруссия, нейтралитет... это я знаю. Австрия что? Швеция что? Как Померанию перейдут?. Сиди, рассказывай.. Я ей рад.. я понимаю, Толстого тоже... высадка единовременная... Южная армия что будет делать?" verb="закричать" author_comment=",- закричал старик, встряхивая косичкою, чтобы попробовать, крепко ли она была заплетена, и хватая сына за руку.-" speech_id="709"><s>- Врешь, врешь,- закричал <rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">старик</rs>, встряхивая косичкою, чтобы попробовать, крепко ли
+                она была заплетена, и хватая <rs rolename="undergoer">сына</rs> за руку.- Дом для
+                  <rs>твоей</rs>
+                <rs rolename="benemalefactive">жены</rs> готов.</s></said><s>
+              <rs ref="Princess_Mariya_Bolkonskaya">Княжна Марья</rs> сведет <rs rolename="agent">ее</rs> и покажет и с три короба наболтает. Это их бабье дело.</s><s>
+              <rs>Я</rs>
+              <rs>ей</rs> рад. Сиди, рассказывай. <rs rolename="undergoer">Михельсона</rs> армию
+                <rs>я</rs> понимаю, <rs>Толстого</rs> тоже... высадка единовременная... Южная армия
+              что будет делать? Пруссия, нейтралитет... это <rs>я</rs> знаю. Австрия что? - говорил
+                <rs rolename="agent">он</rs>, встав с кресла и ходя по комнате с бегавшим и
+              подававшим части одежды <rs>Тихоном</rs>.- Швеция что?</s>
+            <s>Как Померанию перейдут?</s> </p>
+          <p><s><rs ref="AndreyBolkonsky" rolename="agent">Князь Андрей</rs>, видя настоятельность
+              требования <rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">отца</rs>, сначала
+              неохотно, но потом все более и более оживляясь и невольно посреди рассказа, по
+              привычке, перейдя с <rs>русского</rs> на французский язык, начал излагать операционный
+              план предполагаемой кампании.</s>
+            <s><rs ref="AndreyBolkonsky" rolename="agent">Он</rs> рассказал, как девяностотысячная
+              армия должна была угрожать Пруссии, чтобы вывести ее из нейтралитета и втянуть в
+              войну, как часть этих войск должна была в Штральзунде соединиться с шведскими
+              войсками, как двести двадцать тысяч австрийцев, в соединении со ста тысячами русских,
+              должны были действовать в Италии и на Рейне, и как пятьдесят тысяч русских и пятьдесят
+              тысяч англичан высадятся в Неаполе, и как в итоге пятисоттысячная армия должна была с
+              разных сторон сделать нападение на французов.</s>
+            <s>Старый <rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">князь</rs> не выказал ни
+              малейшего интереса при рассказе, как будто не слушал, и, продолжая на ходу одеваться,
+              три раза неожиданно перервал его.</s>
+            <s>Один раз <rs ref="Prince_Nikolay_Bolkonsky">он</rs> остановил <rs ref="Prince_Nikolay_Bolkonsky" rolename="undergoer">его</rs> и закричал:</s> </p>
+          <p><s>- Белый!</s>
+            <s>белый!</s> </p>
+          <p><s>Это значило, что <rs rolename="agent">Тихон</rs> подавал ему не тот жилет, который
+              он хотел.</s>
+            <s>Другой раз он остановился, спросил:</s> </p>
+          <p><said who="Prince_Nikolay_Bolkonsky" corresp="AndreyBolkonsky" speech_text="- И скоро она родит? Нехорошо!" speech_id="694"><s>- И скоро она родит? -
+                и, с упреком покачав головой, сказал: - Нехорошо!</s></said>
+            <s>Продолжай, продолжай.</s> </p>
+          <p><said who="Prince_Nikolay_Bolkonsky" corresp="" speech_text="Dieu sait quand reviendra. Marlbroug s'en va-t-en guerre." verb="запеть" speech_id="713"><s>В третий раз, когда <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs> оканчивал описание, <rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">старик</rs> запел фальшивым и старческим голосом: 'Marlbroug s'en
+                va-t-en guerre. Dieu sait quand reviendra'.</s></said> </p>
+          <p><s><rs rolename="agent">Сын</rs> только улыбнулся.</s> </p>
+          <p><said who="AndreyBolkonsky" corresp="Prince_Nikolay_Bolkonsky" speech_text=" Я не говорю, чтоб это был план, который я одобряю. Я вам только рассказал, что есть. Наполеон уже составил свой план не хуже этого." speech_id="702"><said who="AndreyBolkonsky" corresp="Prince_Nikolay_Bolkonsky" speech_text=" есть" verb="рассказать" speech_id="704"><s>- <rs ref="AndreyBolkonsky" rolename="agent">Я</rs> не говорю, чтоб это был план, который <rs ref="AndreyBolkonsky">я</rs> одобряю,- сказал <rs rolename="agent">сын</rs>,-
+                      <rs><rs>я</rs></rs> вам только рассказал, что есть. <rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs> уже составил <rs ref="Napoleon_Bonaparte">свой</rs> план не хуже этого.</s></said></said> </p>
+          <p><s>- Ну, новенького <rs rolename="agent">ты</rs>
+              <rs><rs>мне</rs></rs> ничего не сказал.</s><s>- И <rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">старик</rs> задумчиво проговорил про <rs ref="Prince_Nikolay_Bolkonsky">себя</rs> скороговоркой: 'Dieu sait quand
+              reviendra'.</s>
+            <s>- Иди в столовую.</s>  </p>
+        </div>
+        

@@ -1,0 +1,75 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="5" type="chapter" xml:id="chapter5part2Volume2">
+          <p> </p>
+          <p><s>На другой день после приема в ложу <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> сидел дома, читая книгу и стараясь вникнуть в значение квадрата,
+              изображавшего одной своей стороною бога, другою нравственное, третьего физическое и
+              четвертою смешанное.</s>
+            <s>Изредка <rs ref="Pierre_Bezukhov">он</rs> отрывался от книги и квадрата и в
+              воображении <rs ref="Pierre_Bezukhov">своем</rs> составлял <rs ref="Pierre_Bezukhov">себе</rs> новый план жизни.</s>
+            <s>Вчера в ложе <rs ref="Pierre_Bezukhov">ему</rs> сказали, что до сведения <rs ref="Tsar_Alexander_I_of_Russia" rolename="agent">государя</rs> дошел слух о дуэли и
+              что <rs ref="Pierre_Bezukhov">Пьеру</rs> благоразумнее бы было удалиться из
+              Петербурга.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="experiencer">Пьер</rs> предполагал ехать в <rs ref="Pierre_Bezukhov">свои</rs> южные имения и заняться там <rs ref="Pierre_Bezukhov">своими</rs> крестьянами.</s>
+            <s>Он радостно обдумывал эту новую жизнь, когда неожиданно в комнату вошел <rs ref="Vasili_Kuragin" rolename="agent">князь Василий</rs>.</s> </p>
+          <p><said who="Vasili_Kuragin" corresp="Pierre_Bezukhov" speech_text="За что ты поссорился с Лелей, mon cher?. Мой друг, что ты наделал в Москве?. Ты в заблуждении. Я все узнал, я могу тебе сказать верно, что Элен невинна перед тобой, как Христос перед жидами." verb="сказать" author_comment=",- сказал князь Василий, входя в комнату.-" speech_id="2470"><s>- <rs>Мой</rs>
+                <rs>друг</rs>, что <rs><rs rolename="agent">ты</rs></rs> наделал в Москве? За что
+                    <rs><rs>ты</rs></rs> поссорился с Лелей, mon cher? <rs><rs>Ты</rs></rs> в
+                заблуждении,- сказал <rs ref="Vasili_Kuragin" rolename="agent">князь Василий</rs>,
+                входя в комнату.- Я все узнал, я могу <rs><rs>тебе</rs></rs> сказать верно, что <rs ref="HeleneKuragin" rolename="undergoer">Элен</rs> невинна перед
+                  <rs><rs>тобой</rs></rs>, как <rs>Христос</rs> перед жидами.</s></said> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="experiencer">Пьер</rs> хотел отвечать, но <rs ref="Pierre_Bezukhov" rolename="agent">он</rs> перебил его.</s> </p>
+          <p><said who="Vasili_Kuragin" corresp="Pierre_Bezukhov" speech_text="Она живет в Москве, ты здесь.. Полно, мой милый,. здесь одно недоразуменье; ты сам, я думаю, чувствуешь. Напиши сейчас со мною письмо, и она приедет сюда, все объяснится, и все эти толки кончатся, а то, я тебе скажу, ты очень легко можешь пострадать, мой милый." verb="чувствовать" author_comment="- он потянул его вниз за руку,- здесь одно недоразуменье; ты сам, я думаю, чувствуешь." speech_id="2472"><said who="Vasili_Kuragin" corresp="Pierre_Bezukhov" speech_text="И зачем ты не обратился прямо и просто ко мне, как к другу?. Одно ты пойми, в какое ты ставишь положение ее и меня в глазах всего общества и даже двора,. Я все знаю, я все понимаю, ты вел себя, как прилично человеку, дорожащему своей честью; может быть, слишком поспешно, но об этом мы не будем судить." verb="прибавить" author_comment="- прибавил он, понизив голос." speech_id="2473"><s>- И зачем <rs><rs>ты</rs></rs> не обратился прямо и просто ко <rs>мне</rs>,
+                  как к <rs>другу</rs>? <rs rolename="experiencer">Я</rs> все знаю, <rs rolename="experiencer">я</rs> все понимаю,- сказал <rs ref="Pierre_Bezukhov">он</rs>,- <rs><rs>ты</rs></rs> вел <rs><rs>себя</rs></rs>, как прилично <rs rolename="experiencer">человеку</rs>, дорожащему <rs rolename="undergoer">своей</rs> честью; может быть, слишком поспешно, но об этом мы не будем судить.
+                  Одно <rs><rs>ты</rs></rs> пойми, в какое <rs><rs>ты</rs></rs> ставишь положение
+                    <rs>ее</rs> и <rs>меня</rs> в глазах всего общества и даже двора,- прибавил <rs ref="Pierre_Bezukhov">он</rs>, понизив голос. - <rs rolename="agent">Она</rs>
+                  живет в Москве, <rs><rs>ты</rs></rs> здесь. Полно, <rs>мой</rs>
+                  <rs>милый</rs>,- <rs ref="Pierre_Bezukhov">он</rs> потянул его вниз за руку,-
+                  здесь одно недоразуменье; <rs><rs>ты</rs></rs> сам, я думаю,
+                чувствуешь.</s></said></said>
+            <s>Напиши сейчас со <rs>мною</rs> письмо, и она приедет сюда, все объяснится, и все эти
+              толки кончатся, а то, <rs rolename="agent">я</rs>
+              <rs rolename="addressee">тебе</rs> скажу, <rs>ты</rs> очень легко можешь пострадать,
+              мой <rs>милый</rs>.</s> </p>
+          <p><s><rs ref="Vasili_Kuragin" rolename="agent">Князь Василий</rs> внушительно взглянул на
+                <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs>.</s> </p>
+          <p><said who="Vasili_Kuragin" corresp="Pierre_Bezukhov" speech_text="- Мне из хороших источников известно, что вдовствующая императрица принимает живой интерес во всем этом деле." speech_id="2468"><s>- Мне из хороших источников известно, что вдовствующая <rs rolename="experiencer">императрица</rs> принимает живой интерес во всем этом деле.
+                  <rs rolename="experiencer">Ты</rs> знаешь, <rs rolename="undergoer">она</rs> очень
+                милостива к <rs ref="HeleneKuragin">Элен</rs>.</s></said> </p>
+          <p><s>Несколько раз <rs ref="Pierre_Bezukhov" rolename="experiencer">Пьер</rs> собирался
+              говорить, но, с одной стороны, <rs ref="Vasili_Kuragin" rolename="experiencer">князь
+                Василий</rs> не допускал <rs ref="Pierre_Bezukhov" rolename="undergoer">его</rs> до
+              этого, поспешно перебивая разговор, с другой стороны - сам <rs ref="Pierre_Bezukhov" rolename="experiencer">Пьер</rs> боялся начать говорить не в том тоне решительного
+              отказа и несогласия, в котором <rs ref="Pierre_Bezukhov" rolename="agent">он</rs>
+              твердо решился отвечать <rs ref="Pierre_Bezukhov">своему</rs>
+              <rs rolename="addressee">тестю</rs>.</s>
+            <s>Кроме того, слова масонского устава: 'буди ласков и приветлив'- вспоминались <rs ref="Pierre_Bezukhov" rolename="experiencer">ему</rs>.</s>
+            <s>Он морщился, краснел, вставал и опускался, работая над собою в самом трудном для него
+              в жизни деле - сказать неприятное в глаза <rs rolename="addressee">человеку</rs>,
+              сказать не то, чего ожидал этот <rs>человек</rs>, кто бы он ни был.</s>
+            <s>Он так привык повиноваться этому тону небрежной самоуверенности <rs ref="Vasili_Kuragin" rolename="experiencer">князя Василия</rs>, что и теперь он
+              чувствовал, что не в силах будет противостоять ей; но он чувствовал, что от того, что
+              он скажет сейчас, будет зависеть вся дальнейшая судьба его: пойдет ли он по старой,
+              прежней дороге, или по той новой, которая так привлекательно была указана ему масонами
+              и на которой он твердо верил, что найдет возрождение к новой жизни.</s> </p>
+          <p><said who="Vasili_Kuragin" corresp="Pierre_Bezukhov" speech_text="- Ну, мой милый, скажи же мне 'да', и я от себя напишу ей, и мы убьем жирного тельца." verb="сказать" speech_id="2474"><s>- Ну, <rs>мой</rs>
+                <rs>милый</rs>,- шутливо сказал <rs ref="Vasili_Kuragin" rolename="agent">князь
+                  Василий</rs>,- скажи же мне 'да', и я от себя напишу ей, и мы убьем жирного <rs rolename="undergoer">тельца</rs>. - Но <rs ref="Vasili_Kuragin" rolename="experiencer">князь Василий</rs> не успел договорить своей шутки, как <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> с бешенством в лице, которое
+                напоминало его <rs>отца</rs>, не глядя в глаза <rs>собеседнику</rs>, проговорил
+                тихим шепотом:</s></said> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Vasili_Kuragin" speech_text="Идите же," verb="повторить" author_comment="- повторил он, сам себе не веря и радуясь выражению смущенности и страха, показавшемуся на лице князя Василия." speech_id="2469"><said who="Pierre_Bezukhov" corresp="Vasili_Kuragin" speech_text="Князь, я вас не звал к себе, идите, пожалуйста, идите!" verb="отворить" author_comment="- он вскочил и отворил для него дверь." speech_id="2475"><s>-
+                    <rs>Князь</rs>, я <rs rolename="undergoer">вас</rs> не звал к себе, идите,
+                  пожалуйста, идите! - он вскочил и отворил для него дверь. - Идите же,- повторил
+                    <rs ref="Pierre_Bezukhov">он</rs>, сам <rs ref="Pierre_Bezukhov">себе</rs> не
+                  веря и радуясь выражению смущенности и страха, показавшемуся на лице <rs ref="Vasili_Kuragin" rolename="possessor">князя
+            Василия</rs>.</s></said></said> </p>
+          <p><said who="Vasili_Kuragin" corresp="Pierre_Bezukhov" speech_text="- Что с тобой? Ты болен?" speech_id="2467"><s>- Что с
+              <rs>тобой</rs>?</s></said>
+            <s><rs rolename="undergoer">Ты</rs> болен?</s> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Vasili_Kuragin" speech_text="Идите!" verb="проговорить" author_comment="- еще раз проговорил угрожающий голос." speech_id="2471"><s>- Идите! - еще раз проговорил угрожающий голос.</s></said>
+            <s>И <rs ref="Vasili_Kuragin">князь Василий</rs> должен был уехать, не получив никакого
+              объяснения.</s> </p>
+          <p><s>Через педелю <rs ref="Pierre_Bezukhov">Пьер</rs>, простившись с новыми друзьями
+              масонами и оставив им большие суммы на милостыни, уехал в свои имения.</s>
+            <s>Его новые братья дали ему письма в Киев и Одессу, к тамошним масонам, и обещали
+              писать ему и руководить его в его новой деятельности.</s>  </p>
+        </div>
+        

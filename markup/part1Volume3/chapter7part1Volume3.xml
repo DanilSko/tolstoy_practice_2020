@@ -1,0 +1,137 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="7" type="chapter" xml:id="chapter7part1Volume3">
+          <p> </p>
+          <p><s>После всего того, что сказал ему <rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs>, после этих взрывов гнева и после последних сухо сказанных слов; 'Je
+              ne vous retiens plus, général, vous recevrez ma lettre', <rs rolename="undergoer">Балашев</rs> был уверен, что <rs ref="Napoleon_Bonaparte" rolename="experiencer">Наполеон</rs> уже не только не пожелает <rs rolename="undergoer">его</rs> видеть, но
+              постарается не видать <rs rolename="undergoer">его</rs> - оскорбленного посла и, главное,
+              свидетеля его непристойной горячности.</s>
+            <s>Но, к удивлению <rs rolename="experiencer">своему</rs>, <rs rolename="possessor">Балашев</rs> через Дюрока получил в этот день приглашение к столу <rs rolename="possessor">императора</rs>.</s> </p>
+          <p><s>На обеде были <rs rolename="undergoer">Бессьер</rs>, <rs rolename="undergoer">Коленкур</rs> и <rs rolename="undergoer">Бертье</rs>.</s> </p>
+          <p><s><rs ref="Napoleon_Bonaparte" rolename="possessor">Наполеон</rs> встретил <rs ref="Balashev" rolename="undergoer">Балашева</rs> с веселым и ласковым видом.</s>
+            <s>Не только не было в нем выражения застенчивости или упрека себе за утреннюю вспышку,
+              но <rs ref="Napoleon_Bonaparte" rolename="agent">он</rs>, напротив, старался ободрить
+                <rs ref="Balashev" rolename="experiencer">Балашева</rs>.</s>
+            <s>Видно было, что уже давно для <rs ref="Napoleon_Bonaparte">Наполеона</rs> в <rs ref="Napoleon_Bonaparte" rolename="experiencer">его</rs> убеждении не существовало
+              возможности ошибок и что в <rs rolename="experiencer">его</rs> понятии все то, что <rs ref="Napoleon_Bonaparte">он</rs> делал, было хорошо не потому, что оно сходилось с
+              представлением того, что хорошо и дурно, но потому, что <rs ref="Napoleon_Bonaparte" rolename="agent">он</rs> делал это.</s> </p>
+          <p><s><rs rolename="undergoer">Император</rs> был очень весел после <rs rolename="agent">своей</rs> верховой прогулки по Вильне, в которой толпы народа с восторгом
+              встречали и провожали его.</s>
+            <s>Во всех окнах улиц, по которым он проезжал, были выставлены ковры, знамена, вензеля
+                <rs>его</rs>, и польские дамы, приветствуя <rs>его</rs>, махали <rs>ему</rs>
+              платками.</s> </p>
+          <p><s>За обедом, посадив подле себя <rs ref="Balashev" rolename="agent">Балашева</rs>, он
+              обращался с <rs>ним</rs> не только ласково, но обращался так, как будто он и <rs ref="Balashev" rolename="undergoer">Балашева</rs> считал в числе своих придворных, в
+              числе тех людей, которые сочувствовали его планам и должны были радоваться <rs rolename="experiencer">его</rs> успехам.</s>
+            <s>Между прочим разговором <rs>он</rs> заговорил о Москве и стал спрашивать <rs ref="Balashev" rolename="addressee">Балашева</rs> о русской столице, не только как
+              спрашивает любознательный <rs rolename="agent">путешественник</rs> о новом месте,
+              которое <rs>он</rs> намеревается посетить, но как бы с убеждением, что <rs ref="Balashev">Балашев</rs>, как <rs>русский</rs>, должен быть польщен этой
+              любознательностью.</s> </p>
+          <p>
+            <said who="Napoleon_Bonaparte" corresp="Balashev" speech_text="Правда ли, что Moscou называют Moscou la sainte?. Сколько жителей в Москве, сколько домов?. Сколько церквей в Moscou?" verb="спрашивать" author_comment="- спрашивал он." speech_id="3896"><s>- Сколько
+                жителей в Москве, сколько домов? Правда ли, что Moscou называют Moscou la sainte?
+                Сколько церквей в Moscou? - спрашивал <rs>он</rs>.</s></said> </p>
+          <p><s>И на ответ, что церквей более двухсот, он сказал:</s> </p>
+          <p>
+            <said who="Napoleon_Bonaparte" corresp="" speech_text="- К чему такая бездна церквей?" speech_id="3884"><s>- К чему такая бездна церквей?</s></said> </p>
+          <p>
+            <said who="Balashev" corresp="Napoleon_Bonaparte" speech_text="Русские очень набожны," verb="отвечать" author_comment="- отвечал Балашев." speech_id="3895"><s>- Русские
+                очень набожны, - отвечал <rs ref="Balashev" rolename="agent">Балашев</rs>.</s></said> </p>
+          <p>
+            <said who="Napoleon_Bonaparte" corresp="Balashev" speech_text="Впрочем, большое количество монастырей и церквей есть всегда признак отсталости народа," verb="сказать" author_comment="- сказал Наполеон, оглядываясь на Коленкура за оценкой этого суждения." speech_id="3890"><s>- Впрочем, большое количество монастырей и церквей есть всегда
+                признак отсталости народа, - сказал <rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs>, оглядываясь на <rs rolename="undergoer">Коленкура</rs> за оценкой
+                этого суждения.</s></said> </p>
+          <p><s><rs ref="Balashev" rolename="possessor">Балашев</rs> почтительно позволил
+                <rs>себе</rs> не согласиться с мнением французского <rs rolename="experiencer">императора</rs>.</s> </p>
+          <p>
+            <said who="Balashev" corresp="Napoleon_Bonaparte" speech_text="У каждой страны свои нравы," verb="сказать" author_comment="- сказал он." speech_id="3888"><s>- У каждой страны свои нравы, - сказал <rs rolename="agent">он</rs>.</s></said> </p>
+          <p>
+            <said who="Napoleon_Bonaparte" corresp="Balashev" speech_text="Но уже нигде в Европе нет ничего подобного," verb="сказать" author_comment="- сказал Наполеон." speech_id="3892"><s>- Но уже нигде в Европе нет
+                ничего подобного, - сказал <rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs>.</s></said> </p>
+          <p>
+            <said who="Balashev" corresp="Napoleon_Bonaparte" speech_text="Прошу извинения у вашего величества," verb="сказать" author_comment="- сказал Балашев, - кроме России, есть еще Испания, где также много церквей и монастырей." speech_id="3889"><s>- Прошу извинения у <rs rolename="possessor">вашего</rs>
+                <rs rolename="addressee">величества</rs>, - сказал <rs ref="Balashev" rolename="agent">Балашев</rs>, - кроме России, есть еще Испания, где также много
+                церквей и монастырей.</s></said> </p>
+          <p><s>Этот ответ <rs ref="Balashev" rolename="agent">Балашева</rs>, намекавший на недавнее
+              поражение французов в Испании, был высоко оценен впоследствии, по рассказам <rs ref="Balashev" rolename="agent">Балашева</rs>, при дворе <rs ref="Tsar_Alexander_I_of_Russia">императора Александра</rs> и очень мало был оценен
+              теперь, за обедом Наполеона, и прошел незаметно.</s> </p>
+          <p><s>По равнодушным и недоумевающим лицам господ маршалов видно было, что они
+              недоумевали, в чем тут состояла острота, на которую намекала интонация <rs ref="Balashev" rolename="undergoer">Балашева</rs>.</s>
+            <s>'Ежели и была она, то мы не поняли ее или она вовсе не остроумна', - говорили
+              выражения лиц маршалов. Так мало был оценен этот ответ, что <rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs> даже решительно не заметил
+                <rs rolename="undergoer">его</rs> и наивно спросил <rs rolename="addressee">Балашева</rs> о том, на какие города идет отсюда прямая дорога к Москве. <rs ref="Balashev" rolename="agent">Балашев</rs>, бывший все время обеда настороже,
+              отвечал, что comme tout chemin mène à Rome, tout chemin mène à Moscou, что есть много
+              дорог, и что в числе этих разных путей есть дорога на Полтаву, которую избрал <rs rolename="agent">Карл XII</rs>, сказал <rs ref="Balashev" rolename="agent">Балашев</rs>, невольно вспыхнув от удовольствия в удаче этого ответа.</s>
+            <s>Не успел <rs ref="Balashev" rolename="experiencer">Балашев</rs> досказать последних
+              слов: 'Poltawa', как уже <rs rolename="agent">Коленкур</rs> заговорил о неудобствах
+              дороги из Петербурга в Москву и о <rs>своих</rs> петербургских воспоминаниях.</s> </p>
+          <p><s>После обеда перешли пить кофе в кабинет <rs ref="Napoleon_Bonaparte">Наполеона</rs>,
+              четыре дня тому назад бывший кабинетом <rs ref="Tsar_Alexander_I_of_Russia" rolename="possessor">императора Александра</rs>.</s>
+            <s><rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs> сел, потрогивая кофе в
+              севрской чашке, и указал на стул подле <rs ref="Napoleon_Bonaparte">себя</rs>
+              <rs ref="Balashev" rolename="addressee">Балашеву</rs>.</s> </p>
+          <p><s>Есть в <rs>человеке</rs> известное послеобеденное расположение духа, которое сильнее
+              всяких разумных причин заставляет <rs rolename="experiencer">человека</rs> быть
+              довольным <rs>собой</rs> и считать всех <rs>своими</rs> друзьями.</s>
+            <s><rs ref="Napoleon_Bonaparte" rolename="undergoer">Наполеон</rs> находился в этом
+              расположении.</s>
+            <s><rs ref="Napoleon_Bonaparte" rolename="experiencer">Ему</rs> казалось, что <rs ref="Napoleon_Bonaparte">он</rs> окружен людьми, обожающими <rs ref="Napoleon_Bonaparte" rolename="undergoer">его</rs>.</s>
+            <s>Он был убежден, что и <rs ref="Balashev">Балашев</rs> после его обеда был его другом
+              и обожателем.</s>
+            <s><rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs> обратился к нему с
+              приятной и слегка насмешливой улыбкой.</s> </p>
+          <p>
+            <said who="Napoleon_Bonaparte" corresp="Balashev" speech_text="Странно, не правда ли, генерал?. Это та же комната, как мне говорили, в которой жил император Александр." verb="сказать" author_comment="- сказал он, очевидно, не сомневаясь в том, что это обращение не могло не быть приятно его собеседнику, так как оно доказывало превосходство его, Наполеона, над Александром." speech_id="3885"><s>- Это та же комната, как <rs rolename="addressee">мне</rs>
+                говорили, в которой жил <rs ref="Tsar_Alexander_I_of_Russia" rolename="agent">император Александр</rs>. Странно, не правда ли, <rs>генерал</rs>? - сказал он,
+                очевидно, не сомневаясь в том, что это обращение не могло не быть приятно его <rs rolename="experiencer">собеседнику</rs>, так как оно доказывало превосходство его,
+                  <rs ref="Napoleon_Bonaparte">Наполеона</rs>, над <rs ref="Tsar_Alexander_I_of_Russia">Александром</rs>.</s></said> </p>
+          <p><s><rs ref="Balashev">Балашев</rs> ничего не мог отвечать на это и молча наклонил
+              голову.</s> </p>
+          <p>
+            <said who="Napoleon_Bonaparte" corresp="Balashev" speech_text="Да, в этой комнате, четыре дня тому назад, совещались Винцингероде и Штейн. Чего я не могу понять. это того, что император Александр приблизил к себе всех личных моих неприятелей. Я этого не... понимаю. Он не подумал о том, что я могу сделать то же?" verb="продолжать" author_comment=", - с той же насмешливой, уверенной улыбкой продолжал Наполеон. -" speech_id="3886"><s>- Да, в этой комнате, четыре дня тому назад, совещались <rs rolename="agent">Винцингероде</rs> и <rs rolename="agent">Штейн</rs>, - с той же
+                насмешливой, уверенной улыбкой продолжал <rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs>.</s></said>
+            <s>- Чего я не могу понять, - сказал он, - это того, что <rs ref="Tsar_Alexander_I_of_Russia" rolename="agent">император Александр</rs> приблизил
+              к себе всех личных моих неприятелей. <rs rolename="experiencer">Я</rs> этого не...
+              понимаю. Он не подумал о том, что я могу сделать то же? - с вопросом обратился он к
+                <rs ref="Balashev">Балашеву</rs>, и, очевидно, это воспоминание втолкнуло его опять
+              в тот след утреннего гнева, который еще был свеж в нем.</s> </p>
+          <p>
+            <said who="Napoleon_Bonaparte" corresp="Balashev" speech_text="И пусть он знает, что я это сделаю. Я выгоню из Германии всех его родных, Виртембергских, Баденских, Веймарских... да, я выгоню их. Пусть он готовит для них убежище в России!" verb="сказать" author_comment=", - сказал Наполеон, вставая и отталкивая рукой свою чашку. -" speech_id="3887"><s>- И пусть он знает, что <rs rolename="agent">я</rs> это сделаю, -
+                сказал <rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs>, вставая и
+                отталкивая рукой <rs ref="Napoleon_Bonaparte">свою</rs> чашку. - <rs>Я</rs> выгоню
+                из Германии всех его родных, Виртембергских, Баденских, Веймарских... да, <rs>я</rs>
+                выгоню их. Пусть он готовит для них убежище в России!</s></said> </p>
+          <p><s><rs ref="Balashev" rolename="agent">Балашев</rs> наклонил голову, видом
+                <rs>своим</rs> показывая, что <rs rolename="experiencer">он</rs> желал бы
+              откланяться и слушает только потому, что <rs>он</rs> не может не слушать того, что <rs rolename="addressee">ему</rs> говорят.</s>
+            <s><rs ref="Napoleon_Bonaparte" rolename="experiencer">Наполеон</rs> не замечал этого
+              выражения; <rs ref="Napoleon_Bonaparte" rolename="agent">он</rs> обращался к <rs ref="Balashev">Балашеву</rs> не как к <rs>послу</rs>
+              <rs ref="Napoleon_Bonaparte">своего</rs> врага, а как к <rs>человеку</rs>,
+                <rs>который</rs> теперь вполне предан <rs rolename="addressee">ему</rs> и должен
+              радоваться унижению <rs rolename="undergoer">своего</rs> бывшего <rs rolename="experiencer">господина</rs>.</s> </p>
+          <p>
+            <said who="Napoleon_Bonaparte" corresp="Balashev" speech_text="И зачем император Александр принял начальство над войсками? К чему это? Война мое ремесло, а его дело царствовать, а не командовать войсками. Зачем он взял на себя такую ответственность?" speech_id="3891"><s>- И зачем <rs ref="Tsar_Alexander_I_of_Russia" rolename="agent">император Александр</rs> принял начальство над войсками?</s></said>
+            <s>К чему это?</s>
+            <s>Война <rs rolename="agent">мое</rs> ремесло, а <rs rolename="experiencer">его</rs>
+              дело царствовать, а не командовать войсками.</s>
+            <s>Зачем он взял на себя такую ответственность?</s> </p>
+          <p><s><rs ref="Napoleon_Bonaparte" rolename="possessor">Наполеон</rs> опять взял
+              табакерку, молча прошелся несколько раз по комнате и вдруг неожиданно подошел к <rs ref="Balashev">Балашеву</rs> и с легкой улыбкой так уверенно, быстро, просто, как
+              будто он делал какое-нибудь не только важное, но и приятное для <rs rolename="experiencer">Балашева</rs> дело, поднял руку к лицу сорокалетнего русского
+                <rs rolename="possessor">генерала</rs> и, взяв <rs rolename="undergoer">его</rs> за
+              ухо, слегка дернул, улыбнувшись одними губами.</s> </p>
+          <p>
+            <s>- Avoir l'oreille tirée par l'Empereur считалось величайшей честью и милостью при
+              французском дворе.</s> </p>
+          <p>
+            <said who="Napoleon_Bonaparte" corresp="Balashev" speech_text="Eh bien, vous ne dites rien, admirateur et courtisan de l'Empereur Alexandre?" verb="сказать" author_comment="- сказал он, как будто смешно было быть в его присутствии чьим-нибудь courtisan и admirateur, кроме его, Наполеона." speech_id="3894"><s>- Eh bien, vous ne dites rien, admirateur et courtisan de
+                l'Empereur Alexandre? - сказал <rs ref="Napoleon_Bonaparte" rolename="agent">он</rs>, как будто смешно было быть в <rs ref="Napoleon_Bonaparte">его</rs>
+                присутствии чьим-нибудь courtisan и admirateur, кроме <rs ref="Napoleon_Bonaparte">его</rs>, <rs ref="Napoleon_Bonaparte">Наполеона</rs>.</s></said> </p>
+          <p>
+            <said who="Napoleon_Bonaparte" corresp="" speech_text="Готовы ли лошади для генерала?" verb="прибавить" author_comment="- прибавил он, слегка наклоняя голову в ответ на поклон Балашева." speech_id="3893"><s>- Готовы ли лошади для <rs rolename="experiencer">генерала</rs>? -
+                прибавил он, слегка наклоняя голову в ответ на поклон <rs ref="Balashev" rolename="agent">Балашева</rs>.</s></said> </p>
+          <p>
+            <said who="Napoleon_Bonaparte" corresp="Balashev" speech_text="- Дайте ему моих, ему далеко ехать..." speech_id="3897"><s>- Дайте <rs rolename="possessor">ему</rs>
+                <rs>моих</rs>, <rs rolename="agent">ему</rs> далеко ехать...</s></said> </p>
+          <p><s>Письмо, привезенное <rs rolename="agent">Балашевым</rs>, было последнее письмо <rs ref="Napoleon_Bonaparte" rolename="agent" target="id_3171">Наполеона</rs> к <rs ref="Tsar_Alexander_I_of_Russia" rolename="addressee" xml:id="id_3171">Александру</rs>.</s>
+            <s>Все подробности разговора были переданы русскому <rs rolename="possessor">императору</rs>, и война началась.</s>  </p>
+        </div>
+        

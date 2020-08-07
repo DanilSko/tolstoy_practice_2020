@@ -1,0 +1,215 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="1" type="chapter" xml:id="chapter1part1Volume1">
+          <p/>
+          <p> </p>
+          <p><s>I</s> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="Vasili_Kuragin" speech_text="- Eh bien, mon prince. Gênes et Lueques ne sont plus que des apanages, des поместья, de la famille Buonaparte. Non, je vous préviens que si vous ne me dites pas que nous avons la guerre, si vous vous permettez encore de pallier toutes les infamies, toutes les atrocités de cet Antichrist (ma parole, j'y crois) - je ne vous connais plus, vous n'êtes plus mon ami, vous n'êtes plus мой верный раб, comme vous dites. Ну, здравствуйте, здравствуйте. Je vois que je vous fais peur, садитесь и рассказывайте." speech_id="11"><s>- Eh bien, mon prince. Gênes et Lueques ne sont plus que des
+                apanages, des поместья, de la famille Buonaparte. Non, je vous préviens que si vous
+                ne me dites pas que nous avons la guerre, si vous vous permettez encore de pallier
+                toutes les infamies, toutes les atrocités de cet Antichrist (ma parole, j'y crois) -
+                je ne vous connais plus, vous n'êtes plus mon ami, vous n'êtes plus мой верный раб,
+                comme vous dites. Ну, здравствуйте, здравствуйте. Je vois que je vous fais peur,
+                садитесь и рассказывайте.</s></said> </p>
+          <p><s>Так говорила в июле 1805 года известная <rs ref="Anna_Pavlovna_Scherer" rolename="agent" subrole="speaker">Анна Павловна Шерер</rs>, фрейлина и приближенная <rs ref="empress_Mariya">императрицы Марии Феодоровны</rs>, встречая важного и чиновного
+                <rs ref="Vasili_Kuragin" rolename="undergoer">князя Василия</rs>, первого приехавшего
+              на <rs ref="Anna_Pavlovna_Scherer" rolename="possessor">ее</rs> вечер.</s>
+            <s><rs ref="Anna_Pavlovna_Scherer" rolename="agent">Анна Павловна</rs> кашляла несколько
+              дней, у <rs ref="Anna_Pavlovna_Scherer" rolename="undergoer">нее</rs> был грипп, как <rs ref="Anna_Pavlovna_Scherer" rolename="agent">она</rs> говорила (грипп был тогда
+              новое слово, употреблявшееся только редкими).</s>
+            <s>В записочках, разосланных утром с красным <rs>лакеем</rs>, было написано без различия
+              во всех:</s> </p>
+          <p>
+            <s>'Si vous n'avez rien de mieux à faire, Monsieur le comte (или mon prince), et si la
+              perspective de passer la soirée chez une pauvre malade ne vous effraye pas trop, je
+              serai charmée de vous voir chez moi entre 7 et 10 heures. <rs ref="Anna_Pavlovna_Scherer">Annette Scherer</rs>' .</s>
+          </p>
+          <p><said who="Vasili_Kuragin" corresp="Anna_Pavlovna_Scherer" speech_text="- Dieu, quelle virulente sortie!" speech_id="18"><s>- Dieu, quelle
+                virulente sortie! - отвечал, нисколько не смутясь такою встречей, вошедший <rs ref="Vasili_Kuragin">князь</rs>, в придворном, шитом мундире, в чулках, башмаках и
+                звездах, с светлым выражением плоского лица.</s></said> </p>
+          <p><s><rs ref="Vasili_Kuragin" rolename="agent">Он</rs> говорил на том изысканном
+              французском языке, на котором не только говорили, но и думали наши деды, и с теми
+              тихими, покровительственными интонациями, которые свойственны состаревшемуся в свете и
+              при дворе значительному <rs>человеку</rs>.</s>
+            <s><rs ref="Vasili_Kuragin" rolename="agent" target="id_1112">Он</rs> подошел к <rs ref="Anna_Pavlovna_Scherer" rolename="undergoer">Анне Павловне</rs>, поцеловал <rs ref="Anna_Pavlovna_Scherer" rolename="possessor">ее</rs> руку, подставив <rs ref="Anna_Pavlovna_Scherer" rolename="benemalefactive">ей</rs>
+              <rs ref="Vasili_Kuragin" xml:id="id_111456">свою</rs> надушенную и сияющую лысину, и
+              покойно уселся на диване.</s> </p>
+          <p><said who="Vasili_Kuragin" corresp="Anna_Pavlovna_Scherer" speech_text="Avant tout dites moi, comment vous allez, chère amie?. Успокойте меня," speech_id="5"><s>- Avant tout dites moi, comment vous allez, chère amie? Успокойте <rs rolename="experiencer">меня</rs>,- сказал <rs ref="Vasili_Kuragin" rolename="agent">он</rs>, не
+                изменяя голоса и тоном, в котором из-за приличия и участия просвечивало равнодушие и
+                даже насмешка.</s></said> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="Vasili_Kuragin" speech_text="Вы весь вечер у меня, надеюсь?. Как можно быть здоровой... когда нравственно страдаешь?. Разве можно, имея чувство, оставаться спокойною в наше время?" speech_id="4"><s>- Как можно быть здоровой... когда нравственно страдаешь? Разве
+                можно, имея чувство, оставаться спокойною в наше время? - сказала <rs ref="Anna_Pavlovna_Scherer" rolename="agent">Анна Павловна</rs>. - Вы весь вечер у
+                  <rs ref="Anna_Pavlovna_Scherer">меня</rs>, надеюсь?</s></said> </p>
+          <p><said who="Vasili_Kuragin" corresp="Anna_Pavlovna_Scherer" speech_text="А праздник английского посланника?. Дочь заедет за мной и повезет меня.. Мне надо показаться там. Нынче середа." speech_id="27"><s>- А праздник английского <rs>посланника</rs>? Нынче середа. <rs ref="Vasili_Kuragin" rolename="experiencer">Мне</rs> надо показаться там, — сказал
+                  <rs ref="Vasili_Kuragin" rolename="agent">князь</rs>. - <rs ref="HeleneKuragin" rolename="agent">Дочь</rs> заедет за <rs ref="Vasili_Kuragin">мной</rs> и повезет
+                  <rs ref="Vasili_Kuragin">меня</rs>.</s></said> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="Vasili_Kuragin" speech_text="- Я думала, что нынешний                 праздник отменен. Je vous avoue que toutes ces t'êtes et tous ces feux d'artifice                 commencent à devenir insipides." speech_id="3"><s>- <rs ref="Anna_Pavlovna_Scherer" rolename="experiencer">Я</rs>
+                думала, что нынешний праздник отменен. Je vous avoue que toutes ces t'êtes et tous
+                ces feux d'artifice commencent à devenir insipides.</s></said> </p>
+          <p><said who="Vasili_Kuragin" corresp="Anna_Pavlovna_Scherer" speech_text="Ежели бы знали, что вы этого хотите, праздник бы отменили," speech_id="16"><s>- Ежели бы знали, что вы этого хотите, праздник бы отменили, —
+                сказал <rs ref="Vasili_Kuragin" rolename="agent">князь</rs>, по привычке, как
+                заведенные часы, говоря вещи, которым <rs ref="Vasili_Kuragin" rolename="experiencer">он</rs> и не хотел, чтобы верили.</s></said> </p>
+          <p>
+            <said who="Anna_Pavlovna_Scherer" corresp="Vasili_Kuragin" speech_text="- Ne me tourmentez pas. Eh bien, qu'a-t-on décidé par rapport à la dépêche de Novosilzoff? Vous savez tout." speech_id="25"><s>- Ne me tourmentez pas. Eh bien, qu'a-t-on décidé par rapport à la
+                dépêche de Novosilzoff?</s>
+              <s>Vous savez tout.</s> </said>
+          </p>
+          <p><said who="Vasili_Kuragin" corresp="Anna_Pavlovna_Scherer" speech_text=" Как вам сказать? Qu’a-t-on décidé? On a décidé que Buonaparte a brûlé ses vaisseaux, et je crois que nous sommes en train de brûler les notres." speech_id="20"><s>- Как вам сказать? - сказал <rs ref="Vasili_Kuragin" rolename="agent">князь</rs> холодным, скучающим тоном. - Qu'a-t-on
+              décidé?</s></said>
+            <s>On a décidé que Buonaparte a brûlé ses vaisseaux, et je crois que nous sommes en
+              train de brûler les nôtres.</s> </p>
+          <p><s><rs ref="Vasili_Kuragin" rolename="agent">Князь Василий</rs> говорил всегда лениво,
+              как актер говорит роль старой пиесы.</s>
+            <s><rs ref="Anna_Pavlovna_Scherer" rolename="undergoer">Анна Павловна Шерер</rs>, напротив,
+              несмотря на <rs ref="Anna_Pavlovna_Scherer" rolename="undergoer">свои</rs> сорок лет,
+              была преисполнена оживления и порывов.</s> </p>
+          <p><s>Быть энтузиасткой сделалось <rs ref="Anna_Pavlovna_Scherer" rolename="possessor">ее</rs> общественным положением, и иногда, когда ей даже того не хотелось, <rs rolename="agent">она</rs>,
+              чтобы не обмануть ожиданий людей, знавших ее, делалась энтузиасткой.</s>
+            <s>Сдержанная улыбка, игравшая постоянно на лице <rs ref="Anna_Pavlovna_Scherer" rolename="possessor">Анны Павловны</rs>, хотя и не шла к <rs ref="Anna_Pavlovna_Scherer" rolename="undergoer">ее</rs> отжившим чертам, выражала, как
+              у избалованных детей, постоянное сознание своего милого недостатка, от которого <rs ref="Anna_Pavlovna_Scherer" rolename="experiencer">она</rs> не
+              хочет, не может и не находит нужным исправляться.</s> </p>
+          <p><s>В середине разговора про политические действия <rs ref="Anna_Pavlovna_Scherer" rolename="experiencer">Анна Павловна</rs> разгорячилась.</s> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="Vasili_Kuragin" speech_text="- Ах, не говорите мне про Австрию!" speech_id="8"><s>- Ах, не говорите
+                  <rs ref="Anna_Pavlovna_Scherer" rolename="addressee">мне</rs> про Австрию! <rs ref="Anna_Pavlovna_Scherer" rolename="experiencer">Я</rs> ничего не понимаю, может
+                быть, но Австрия никогда не хотела и не хочет войны. Она предает нас. Россия одна
+                должна быть спасительницей Европы. Наш <rs ref="Tsar_Alexander_I_of_Russia" rolename="experiencer">благодетель</rs> знает <rs ref="Tsar_Alexander_I_of_Russia" rolename="experiencer">свое</rs> высокое призвание и будет верен ему. Вот одно, во
+                что <rs ref="Anna_Pavlovna_Scherer" rolename="experiencer">я</rs> верю. Нашему
+                доброму и чудному <rs ref="Tsar_Alexander_I_of_Russia" rolename="undergoer">государю</rs> предстоит величайшая роль в мире, и он так добродетелен и хорош,
+                что бог не оставит его, и он исполнит свое призвание задавить гидру революции,
+                которая теперь еще ужаснее в лице этого <rs>убийцы</rs> и
+              <rs>злодея</rs>.</s></said><s> Мы одни должны искупить кровь <rs>праведника</rs>. На
+              кого нам надеяться, <rs ref="Anna_Pavlovna_Scherer" rolename="agent">я</rs> вас
+              спрашиваю?.. Англия с своим коммерческим духом не поймет и не может понять всю высоту
+              души <rs ref="Tsar_Alexander_I_of_Russia" rolename="possessor">императора
+                Александра</rs>. Она отказалась очистить Мальту. Она хочет видеть, ищет заднюю мысль
+              наших действий. Что они сказали <rs rolename="addressee">Новосильцеву</rs>? Ничего.
+              Они не поняли, они не могут понять самоотвержения нашего <rs ref="Tsar_Alexander_I_of_Russia" rolename="agent">императора</rs>, который ничего не
+              хочет для себя и все хочет для блага мира. И что они обещали? Ничего. И что
+              обещали, и того не будет! Пруссия уже объявила, что <rs ref="Napoleon_Bonaparte" rolename="agent">Бонапарте</rs> непобедим и что вся Европа ничего не может против
+              него... И <rs rolename="experiencer">я</rs> не верю ни в одном слове ни Гарденбергу,
+              ни Гаугвицу. Cette fameuse neutralité prussienne, ce n'est qu'un piège. <rs ref="Anna_Pavlovna_Scherer" rolename="experiencer">Я</rs> верю в одного бога и в
+              высокую судьбу нашего милого <rs ref="Tsar_Alexander_I_of_Russia" rolename="experiencer">императора</rs>. <rs ref="Tsar_Alexander_I_of_Russia" rolename="agent">Он</rs> спасет Европу!.. - <rs ref="Anna_Pavlovna_Scherer" rolename="agent">Она</rs> вдруг остановилась с улыбкой насмешки над своею
+              горячностью.</s> </p>
+          <p><said who="Vasili_Kuragin" corresp="Anna_Pavlovna_Scherer" speech_text="- Я думаю, что, ежели бы вас послали вместо нашего милого Винценгероде, вы бы взяли приступом согласие прусского короля." speech_id="17"><s>- <rs ref="Vasili_Kuragin" rolename="experiencer">Я</rs> думаю, —
+                сказал <rs ref="Vasili_Kuragin" rolename="agent">князь</rs>, улыбаясь, — что, ежели
+                бы вас послали вместо нашего милого <rs>Винценгероде</rs>, вы бы взяли приступом
+                согласие прусского <rs rolename="agent">короля</rs>.</s></said>
+            <s>Вы так красноречивы.</s>
+            <s>Вы дадите <rs ref="Vasili_Kuragin" rolename="undergoer">мне</rs> чаю?</s> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="Vasili_Kuragin" speech_text="A propos,. Сейчас. нынче у меня два очень интересные человека, le vicomte de Mortemart, il est allié aux Montmorency par les Rohans, одна из лучших фамилий Франции." speech_id="32"><s>- Сейчас. A propos,- прибавила <rs ref="Anna_Pavlovna_Scherer" rolename="agent">она</rs>, опять успокоиваясь,- нынче у <rs ref="Anna_Pavlovna_Scherer">меня</rs> два очень интересные человека, le vicomte de
+                Mortemart, il est allié aux Montmorency par les Rohans, одна из лучших фамилий
+                Франции.</s></said>
+            <s>Это один из хороших эмигрантов, из настоящих.</s>
+            <s>И потом <rs ref="abbe_Morio">l'abbé Morio</rs>; вы знаете этот глубокий ум?</s>
+            <s>Он был принят <rs ref="Tsar_Alexander_I_of_Russia" rolename="agent">государем</rs>.</s>
+            <s>Вы знаете?</s> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="Vasili_Kuragin" speech_text="- А! Я очень рад буду,- сказал князь. - Скажите,- прибавил он, как будто только что вспомнив что-то и особенно-небрежно, тогда как то, о чем он спрашивал, было главной целью его посещения,- правда, что l'impératrice-mère желает назначения барона Функе первым секретарем в Вену?" speech_id="30"><s>- А! <rs ref="Vasili_Kuragin" rolename="experiencer">Я</rs> очень
+                рад буду,- сказал <rs ref="Vasili_Kuragin" rolename="agent">князь</rs>. - Скажите,-
+                прибавил <rs ref="Vasili_Kuragin" rolename="agent">он</rs>, как будто только что
+                вспомнив что-то и особенно-небрежно, тогда как то, о чем <rs ref="Vasili_Kuragin">он</rs> спрашивал, было главной целью <rs ref="Vasili_Kuragin">его</rs>
+                посещения,- правда, что l'impératrice-mère желает назначения <rs ref="baron_Funke" rolename="undergoer">барона Функе</rs> первым секретарем в Вену?</s></said>
+            <s>C'est un pauvre sire, ce baron, à ce qu'il paraît.</s><s>- <rs ref="Vasili_Kuragin" rolename="experiencer">Князь Василий</rs> желал определить <rs rolename="undergoer">сына</rs> на это место, которое через <rs ref="empress_Mariya">императрицу Марию
+                Феодоровну</rs> старались доставить <rs ref="baron_Funke" rolename="undergoer">барону</rs>.</s> </p>
+          <p><s><rs ref="Anna_Pavlovna_Scherer" rolename="agent">Анна Павловна</rs> почти закрыла глаза в знак того,
+              что ни <rs><rs ref="Anna_Pavlovna_Scherer" rolename="experiencer">она</rs></rs>, ни кто другой не могут
+              судить про то, что угодно или нравится <rs ref="empress_Mariya" rolename="experiencer">императрице</rs>.</s> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="Vasili_Kuragin" speech_text="Monsieur le baron de Funke a été recommandé à l'impératrice-mère par sa sœur," speech_id="23"><s>- Monsieur le baron de Funke a été recommandé à l'impératrice-mère
+                par sa sœur,- только сказала <rs ref="Anna_Pavlovna_Scherer" rolename="agent">она</rs> грустным, сухим тоном. В то время как <rs ref="Anna_Pavlovna_Scherer" rolename="agent">Анна Павловна</rs> назвала <rs ref="empress_Mariya" rolename="undergoer">императрицу</rs>, лицо <rs ref="Anna_Pavlovna_Scherer" rolename="possessor">ее</rs>
+                вдруг представило глубокое и искреннее выражение преданности и уважения, соединенное
+                с грустью, что с <rs ref="Anna_Pavlovna_Scherer">ней</rs> бывало каждый раз, когда
+                    <rs><rs ref="Anna_Pavlovna_Scherer">она</rs></rs> в разговоре упоминала о
+                    <rs><rs ref="Anna_Pavlovna_Scherer" rolename="undergoer">своей</rs></rs> высокой
+                  <rs ref="empress_Mariya">покровительнице</rs>. <rs ref="Anna_Pavlovna_Scherer" rolename="agent">Она</rs> сказала, что <rs rolename="experiencer">ее
+                  величество</rs> изволила оказать <rs ref="baron_Funke" rolename="experiencer">барону Функе</rs> beaucoup d'estime, и опять взгляд <rs ref="Anna_Pavlovna_Scherer" rolename="experiencer">ее</rs> подернулся
+              грустью.</s></said> </p>
+          <p><s><rs ref="Vasili_Kuragin" rolename="agent">Князь</rs> равнодушно замолк.</s>
+            <s><rs ref="Anna_Pavlovna_Scherer" rolename="experiencer" target="id_1115">Анна
+                Павловна</rs>, с свойственною <rs ref="Anna_Pavlovna_Scherer" rolename="experiencer">ей</rs> придворною и женскою ловкостью и быстротою такта, захотела и щелкануть <rs ref="Vasili_Kuragin" rolename="undergoer" xml:id="id_1115">князя</rs> за то, что
+                  <rs><rs ref="Vasili_Kuragin" rolename="agent">он</rs></rs> дерзнул так отозваться
+              о <rs>лице</rs>, рекомендованном <rs ref="empress_Mariya" rolename="addressee">императрице</rs>, и в то же время утешить <rs ref="Vasili_Kuragin" rolename="undergoer">его</rs>.</s> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="Vasili_Kuragin" speech_text="Mais à propos de votre famille," speech_id="29"><s>- Mais à propos de
+                votre famille,- сказала <rs ref="Anna_Pavlovna_Scherer" rolename="agent">она</rs>,-
+                знаете ли, что ваша <rs ref="HeleneKuragin" rolename="agent">дочь</rs>, с тех пор
+                как выезжает, fait les délices de tout le monde.</s></said>
+            <s>On la trouve belle comme le jour.</s> </p>
+          <p><s><rs ref="Vasili_Kuragin" rolename="agent">Князь</rs> наклонился в знак уважения и
+              признательности.</s> </p>
+          <p>
+            <said who="Anna_Pavlovna_Scherer" corresp="" speech_text="- Я часто думаю, я часто думаю, как иногда несправедливо распределяется счастие жизни." speech_id="13">
+              <s>- <rs ref="Anna_Pavlovna_Scherer" rolename="experiencer">Я</rs> часто думаю,- продолжала
+                  <rs ref="Anna_Pavlovna_Scherer" target="id_1117">Анна Павловна</rs> после
+                минутного молчания, придвигаясь к <rs ref="Vasili_Kuragin" rolename="finalpoint" xml:id="id_1117">князю</rs> и ласково улыбаясь <rs ref="Vasili_Kuragin" rolename="addressee">ему</rs>, как будто выказывая этим, что политические и
+                светские разговоры кончены и теперь начинается задушевный,- <rs ref="Anna_Pavlovna_Scherer">я</rs> часто думаю, как иногда несправедливо
+                распределяется счастие жизни.</s>
+            </said>
+            <said who="Anna_Pavlovna_Scherer" corresp="Vasili_Kuragin" speech_text="За что вам дала судьба таких двух славных детей (исключая Анатоля, вашего меньшого, я его не люблю. таких прелестных детей? А вы, право, менее всех цените их и потому их не сто́ите." speech_id="14"><s>За что вам дала судьба таких двух славных детей (исключая <rs ref="Anatole_Kuragin">Анатоля</rs>, вашего меньшого, <rs ref="Anna_Pavlovna_Scherer" rolename="experiencer">я</rs>
+                <rs ref="Anatole_Kuragin" rolename="undergoer">его</rs> не люблю,- вставила <rs ref="Anna_Pavlovna_Scherer" rolename="agent">она</rs> безапелляционно, приподняв
+                брови),- таких прелестных детей?</s>
+              <s>А вы, право, менее всех цените их и потому их не сто́ите.</s> </said>
+          </p>
+          <p><s>И <rs ref="Anna_Pavlovna_Scherer">она</rs> улыбнулась <rs ref="Anna_Pavlovna_Scherer">своею</rs> восторженною улыбкой.</s> </p>
+          <p><said who="Vasili_Kuragin" corresp="Anna_Pavlovna_Scherer" speech_text="Lafater aurait dit que je n'ai pas la bosse de la paternité,. Que voulez-vous?" speech_id="21"><s>- Que voulez-vous? Lafater aurait dit que je n'ai pas la bosse de la
+                paternité,- сказал <rs ref="Vasili_Kuragin" rolename="agent">князь</rs>.</s></said> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="Vasili_Kuragin" speech_text="- Перестаньте шутить." speech_id="19"><said who="Anna_Pavlovna_Scherer" corresp="Vasili_Kuragin" speech_text="Перестаньте шутить. Я хотела серьезно поговорить с вами. Знаете, я недовольна вашим меньшим сыном. Между нами будь сказано (лицо ее приняло грустное выражение), о нем говорили у ее величества и жалеют вас..." speech_id="22"><s>- Перестаньте шутить. <rs ref="Anna_Pavlovna_Scherer" rolename="experiencer">Я</rs> хотела серьезно поговорить с вами. Знаете, <rs ref="Anna_Pavlovna_Scherer" rolename="undergoer">я</rs> недовольна вашим меньшим
+                    <rs ref="Anatole_Kuragin">сыном</rs>. Между нами будь сказано (лицо <rs ref="Anna_Pavlovna_Scherer">ее</rs> приняло грустное выражение), о <rs ref="Anatole_Kuragin" rolename="undergoer">нем</rs> говорили у <rs>ее
+                    величества</rs> и жалеют <rs ref="Vasili_Kuragin" rolename="undergoer">вас</rs>...</s></said></said> </p>
+          <p><s><rs ref="Vasili_Kuragin" rolename="agent">Князь</rs> не отвечал, но <rs ref="Anna_Pavlovna_Scherer" rolename="experiencer">она</rs> молча, значительно глядя
+              на <rs ref="Vasili_Kuragin">него</rs>, ждала ответа.</s>
+            <s><rs ref="Vasili_Kuragin" rolename="agent">Князь Василий</rs> поморщился.</s> </p>
+          <p><said who="Vasili_Kuragin" corresp="Anna_Pavlovna_Scherer" speech_text="Что ж мне делать?" speech_id="7"><said who="Vasili_Kuragin" corresp="Anna_Pavlovna_Scherer" speech_text="Вот одно различие,. Вы знаете, я сделал для их воспитания все, что может отец, и оба вышли des imbéciles.. Ипполит, по крайней мере, покойный дурак, а Анатоль - беспокойный." speech_id="31"><s>- Что ж <rs><rs ref="Vasili_Kuragin">мне</rs></rs> делать? -
+                  сказал <rs ref="Vasili_Kuragin" rolename="agent">он</rs> наконец. - Вы знаете,
+                      <rs><rs ref="Vasili_Kuragin" rolename="agent">я</rs></rs> сделал для их
+                  воспитания все, что может <rs rolename="experiencer">отец</rs>, и оба вышли des
+                  imbéciles.</s></said></said>
+            <s><rs ref="Hippolyte_Kuragin" target="id_11110">Ипполит</rs>, по крайней мере, покойный
+              дурак, а <rs ref="Anatole_Kuragin" xml:id="id_11110">Анатоль</rs> - беспокойный.</s>
+            <s>Вот одно различие,- сказал <rs ref="Vasili_Kuragin" rolename="agent">он</rs>,
+              улыбаясь более неестественно и одушевленно, чем обыкновенно, и при этом особенно резко
+              выказывая в сложившихся около <rs ref="Vasili_Kuragin">его</rs> рта морщинах что-то
+              неожиданно-грубое и неприятное.</s> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="Vasili_Kuragin" speech_text="- И зачем родятся дети у таких людей, как вы? Ежели бы вы не были отец, я бы ни в чем не могла упрекнуть вас,- сказала Анна Павловна, задумчиво поднимая глаза." speech_id="24"><said who="Anna_Pavlovna_Scherer" corresp="Vasili_Kuragin" speech_text="- И зачем родятся дети у таких людей, как вы? Ежели бы вы не были отец, я бы ни в чем не могла упрекнуть вас" speech_id="28"><s>- И зачем родятся дети у таких людей, как вы?</s></said></said>
+            <s>Ежели бы вы не были <rs>отец</rs>, <rs>я</rs> бы ни в чем не могла упрекнуть вас,-
+              сказала <rs ref="Anna_Pavlovna_Scherer" rolename="agent">Анна Павловна</rs>, задумчиво
+              поднимая глаза.</s> </p>
+          <p><said who="Vasili_Kuragin" corresp="Anna_Pavlovna_Scherer" speech_text="Je suis votre верный раб, et à vous seule je puis l'avouer.. Que voulez vous?... Мои дети - ce sont les entraves de mon existence.. Это мой крест.. Я так себе объясняю." speech_id="2"><said who="Vasili_Kuragin" corresp="Anna_Pavlovna_Scherer" speech_text="Lafater aurait dit que je n'ai pas la bosse de la paternité,. Que voulez-vous?" speech_id="21"><s>- Je suis votre верный <rs>раб</rs>, et à vous seule je puis
+                  l'avouer. <rs>Мои</rs> дети - ce sont les entraves de mon existence. Это <rs rolename="experiencer">мой</rs> крест. <rs rolename="agent">Я</rs> так
+                    <rs>себе</rs> объясняю. Que voulez vous?..- <rs rolename="agent">Он</rs>
+                  помолчал, выражая жестом <rs>свою</rs> покорность жестокой
+              судьбе.</s></said></said> </p>
+          <p><s><rs ref="Anna_Pavlovna_Scherer" rolename="agent">Анна Павловна</rs>
+            задумалась.</s> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="Vasili_Kuragin" speech_text="Вы никогда не думали о том, чтобы женить вашего блудного сына Анатоля.. Говорят," speech_id="10"><s>- Вы никогда не думали о том, чтобы женить вашего блудного сына <rs ref="Anatole_Kuragin">Анатоля</rs>. Говорят,- сказала <rs ref="Anna_Pavlovna_Scherer" rolename="agent">она</rs>,- что старые девицы ont la
+                manie des mariages.</s></said>
+            <s><rs ref="Anna_Pavlovna_Scherer" rolename="experiencer" type="mention">Я</rs> еще не
+              чувствую за <rs ref="Anna_Pavlovna_Scherer" type="mention">собою</rs> этой слабости,
+              но у <rs>меня</rs> есть одна petite personne, которая очень несчастлива с <rs ref="Prince_Nikolay_Bolkonsky" type="mention">отцом</rs>, une parente à nous, une
+              princesse <rs ref="Princess_Mariya_Bolkonskaya" rolename="experiencer">Болконская</rs>.</s><s>- <rs ref="Vasili_Kuragin" rolename="agent">Князь Василий</rs>
+              не отвечал, хотя с свойственной светским людям быстротой соображения и памятью
+              движением головы показал, что <rs ref="Vasili_Kuragin" rolename="agent">он</rs> принял
+              к соображенью это сведенье.</s> </p>
+          <p><said who="Vasili_Kuragin" corresp="Anna_Pavlovna_Scherer" speech_text="- Нет, вы знаете ли, что этот Анатоль мне стоит сорок тысяч в год" speech_id="1"><s>- Нет, вы знаете ли, что этот <rs ref="Anatole_Kuragin" type="mention">Анатоль</rs>
+                <rs ref="Vasili_Kuragin" rolename="experiencer" type="mention">мне</rs> стоит сорок
+                тысяч в год,- сказал <rs ref="Vasili_Kuragin" rolename="agent">он</rs>, видимо не в
+                силах удерживать печальный ход своих мыслей. <rs ref="Vasili_Kuragin" rolename="agent">Он</rs> помолчал.</s></said> </p>
+          <p><said who="Vasili_Kuragin" corresp="Anna_Pavlovna_Scherer" speech_text="- Что будет через пять лет, ежели это пойдет так?" speech_id="12"><s>-
+                Что будет через пять лет, ежели это пойдет так?</s></said>
+            <s>Voilà l'avantage d'être père.</s>
+            <s><rs ref="Princess_Mariya_Bolkonskaya" rolename="theme">Она</rs> богата, ваша <rs ref="Princess_Mariya_Bolkonskaya">княжна</rs>?</s> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="Vasili_Kuragin" speech_text="- Отец очень богат и скуп." speech_id="9"><s>- <rs ref="Prince_Nikolay_Bolkonsky" rolename="theme">Отец</rs> очень богат и скуп. <rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">Он</rs> живет в деревне. Знаете,
+                этот известный <rs ref="Prince_Nikolay_Bolkonsky">князь Болконский</rs>,
+                отставленный еще при покойном <rs>императоре</rs> и прозванный прусским королем. <rs ref="Prince_Nikolay_Bolkonsky" rolename="theme">Он</rs> очень умный человек, но
+                со странностями и тяжелый. La pauvre petite est malheureuse comme les pierres. У <rs ref="Princess_Mariya_Bolkonskaya" rolename="possessor">нее</rs>
+                <rs ref="AndreyBolkonsky" rolename="undergoer" type="mention">брат</rs>, вот что
+                недавно женился на <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="undergoer" type="mention">Lise Мейнен</rs>, адъютант <rs ref="Mikhail_Ilarionovich_Kutuzov">Кутузова</rs>. <rs ref="AndreyBolkonsky" rolename="undergoer" type="mention">Он</rs> будет нынче у
+            <rs>меня</rs>.</s></said> </p>
+          <p><said who="Vasili_Kuragin" corresp="Anna_Pavlovna_Scherer" speech_text="Je suis votre верный раб, et à vous seule je puis l'avouer.. Que voulez vous?... Мои дети - ce sont les entraves de mon existence.. Это мой крест.. Я так себе объясняю." speech_id="2"><said who="Vasili_Kuragin" corresp="Anna_Pavlovna_Scherer" speech_text="Arrangez-moi cette affaire et je suis votre вернейший раб à tout jamais (pan - comme mon староста m'écrit des донесенья: покой-ер-п).. Ecoutez, chère Annette" speech_id="26"><s>- Ecoutez, chère Annette,-сказал <rs ref="Vasili_Kuragin" rolename="agent">князь</rs>, взяв вдруг <rs ref="Vasili_Kuragin">свою</rs>
+                  <rs ref="Anna_Pavlovna_Scherer" rolename="undergoer">собеседницу</rs> за руку и
+                  пригибая ее почему-то книзу. - Arrangez-moi cette affaire et je suis votre
+                  вернейший раб à tout jamais (рап - comme mon староста m'écrit des донесенья:
+                  покой-ер-п). <rs ref="Princess_Mariya_Bolkonskaya" rolename="undergoer" type="mention">Она</rs> хорошей фамилии и богата. Все, что <rs ref="Vasili_Kuragin" rolename="experiencer">мне</rs>
+            нужно.</s></said></said> </p>
+          <p><s>И <rs ref="Vasili_Kuragin" rolename="agent">он</rs> с теми свободными и фамильярными
+              грациозными движениями, которые его отличали, взял за руку <rs ref="Anna_Pavlovna_Scherer" rolename="undergoer">фрейлину</rs>, поцеловал <rs ref="Anna_Pavlovna_Scherer" rolename="undergoer">ее</rs> и, поцеловав, помахал
+              фрейлинскою рукой, развалившись на креслах и глядя в сторону.</s> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="Vasili_Kuragin" speech_text="Attendez. Я нынче же поговорю Lise (la femme du jeune Болконский)." speech_id="6"><s>- Attendez,- сказала <rs ref="Anna_Pavlovna_Scherer" rolename="agent">Анна Павловна</rs>, соображая.- <rs ref="Anna_Pavlovna_Scherer" rolename="agent">Я</rs> нынче же поговорю Lise (la femme du jeune <rs ref="AndreyBolkonsky">Болконский</rs>). И, может быть, это уладится. </s></said><s>Ce sera dans votre
+              famille que je ferai mon apprentissage de vieille fille.</s>  </p>
+        </div>
+        

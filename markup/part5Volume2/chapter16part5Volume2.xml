@@ -1,0 +1,220 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="16" type="chapter" xml:id="chapter16part5Volume2">
+          <p> </p>
+          <p><s>
+              <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs> последнее время переселился к
+                <rs ref="Fedor_Ivanovich_Dolokhov">Долохову</rs>.</s>
+            <s>План похищения <rs ref="NatashaRostova" rolename="undergoer">Ростовой</rs> уже несколько
+              дней был обдуман и приготовлен <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долоховым</rs>, и в тот день, когда <rs ref="Sonya_Rostova" rolename="agent" target="id_25161">Соня</rs>, подслушав у двери <rs ref="NatashaRostova" rolename="undergoer" xml:id="id_25161">Наташу</rs>, решилась оберегать ее, план этот
+              должен был быть приведен в исполнение.</s>
+            <s><rs ref="NatashaRostova" rolename="agent">Наташа</rs> в десять часов вечера обещала
+              выйти к Курагину на заднее крыльцо.</s>
+            <s><rs ref="Anatole_Kuragin" rolename="agent">Курагин</rs> должен был посадить <rs ref="NatashaRostova" rolename="undergoer">ее</rs> в приготовленную тройку и везти за
+              шестьдесят верст от Москвы, в село Каменку, где был приготовлен расстриженный <rs rolename="experiencer">поп</rs>, <rs>который</rs> должен был обвенчать их.</s>
+            <s>В Каменке была готова подстава, которая должна была вывезти их на Варшавскую дорогу,
+              и там на почтовых они должны были скакать за границу.</s> </p>
+          <p><s>У <rs ref="Anatole_Kuragin" rolename="possessor">Анатоля</rs> были и паспорт, и
+              подорожная, и десять тысяч денег, взятых у <rs>сестры</rs>, и десять тысяч, занятых
+              через посредство <rs ref="Fedor_Ivanovich_Dolokhov">Долохова</rs>.</s> </p>
+          <p><s>Два свидетеля - Хвостиков, бывший приказный, которого употреблял для игры <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>, и <rs rolename="agent">Макарин</rs>, отставной <rs rolename="agent">гусар</rs>, добродушный и слабый <rs rolename="agent">человек</rs>, питавший беспредельную любовь к <rs ref="Anatole_Kuragin" rolename="undergoer">Курагину</rs>,- сидели в первой комнате за
+              чаем.</s> </p>
+          <p><said who="Anatole_Kuragin" corresp="Fedor_Ivanovich_Dolokhov" speech_text="- Ах!. Ведь я тебе толковал. А?. глупости, глупости!" author_comment="- опять сморщившись, заговорил Анатоль. -" speech_id="3661"><s>В
+                большом кабинете <rs ref="Fedor_Ivanovich_Dolokhov" rolename="possessor">Долохова</rs>, убранном от стен до потолка персидскими коврами, медвежьими
+                шкурами и оружием, сидел <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>, в дорожном бешмете и сапогах, перед раскрытым бюро, на котором
+                лежали счеты и пачки денег.</s></said>
+            <s rolename="agent">Анатоль в расстегнутом мундире ходил из той комнаты, где сидели
+              свидетели, через кабинет в заднюю комнату, где его лакей-француз с другими укладывали
+              последние вещи.</s>
+            <s><rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs> считал деньги и
+              записывал.</s> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Anatole_Kuragin" speech_text="Ну. Хвостикову надо дать две тысячи." verb="сказать" author_comment=",- сказал он. -" speech_id="3648"><s>- Ну,- сказал <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">он</rs>. - <rs rolename="experiencer">Хвостикову</rs> надо дать две тысячи.</s></said> </p>
+          <p><said who="Anatole_Kuragin" corresp="Fedor_Ivanovich_Dolokhov" speech_text="Ну и дай," verb="сказать" author_comment="- сказал Анатоль." speech_id="3653"><said who="Anatole_Kuragin" corresp="" speech_text="- А!  Ну садись." speech_id="3664"><s>- Ну и дай,- сказал <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs>.</s></said></said> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="" speech_text="Макарка (они так звали Макарина), этот бескорыстно за тебя в огонь и в воду.. Ну вот, и кончены счеты. Так?" verb="сказать" author_comment=",- сказал Долохов, показывая ему записку.-" speech_id="3687"><s>- <rs>Макарка</rs> (они так звали <rs>Макарина</rs>), этот
+                бескорыстно за <rs>тебя</rs> в огонь и в воду. Ну вот, и кончены счеты,- сказал <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>, показывая <rs rolename="addressee">ему</rs> записку.- Так?</s></said> </p>
+          <p><said who="Anatole_Kuragin" corresp="Fedor_Ivanovich_Dolokhov" speech_text="Да, разумеется, так," verb="сказать" author_comment="- сказал Анатоль, видимо не слушавший Долохова и с улыбкой, не сходившей у него с лица, смотревший впереди себя." speech_id="3645"><s>- Да, разумеется, так,- сказал <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs>, видимо не слушавший <rs ref="Fedor_Ivanovich_Dolokhov" rolename="undergoer">Долохова</rs> и с улыбкой, не
+                сходившей у него с лица, смотревший впереди себя.</s></said> </p>
+          <p><said who="Anatole_Kuragin" corresp="Fedor_Ivanovich_Dolokhov" speech_text="- Ах!. Ведь я тебе толковал. А?. глупости, глупости!" author_comment="- опять сморщившись, заговорил Анатоль. -" speech_id="3661"><s><rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs> захлопнул бюро и
+                обратился к Анатолю с насмешливой улыбкой.</s></said> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Anatole_Kuragin" speech_text="А знаешь что - брось все это: еще время есть!" verb="сказать" author_comment="- сказал он." speech_id="3679"><s>- А знаешь что - брось все это: еще
+                время есть!- сказал <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">он</rs>.</s></said> </p>
+          <p><said who="Anatole_Kuragin" corresp="Fedor_Ivanovich_Dolokhov" speech_text="Дурак!. Перестань говорить глупости." verb="сказать" author_comment="- сказал Анатоль. -" speech_id="3683"><s>- <rs>Дурак</rs>! - сказал
+                  <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs>. - Перестань говорить
+                глупости. Ежели бы <rs rolename="experiencer">ты</rs> знал... Это черт знает что
+                такое!</s></said> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Anatole_Kuragin" speech_text="- Право, брось!" speech_id="3657"><said who="Fedor_Ivanovich_Dolokhov" corresp="Anatole_Kuragin" speech_text="- Право, брось. Я тебе дело говорю." verb="говорить" speech_id="3667"><said who="Fedor_Ivanovich_Dolokhov" corresp="Anatole_Kuragin" speech_text="Право, брось. Разве это шутка, что ты затеял?. Я тебе дело говорю." verb="сказать" author_comment=",- сказал Долохов. -" speech_id="3677"><s>- Право,
+                    брось,- сказал <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>.
+                    - <rs rolename="agent">Я</rs>
+                    <rs ref="Anatole_Kuragin" rolename="addressee">тебе</rs> дело говорю. Разве это
+                    шутка, что <rs ref="Anatole_Kuragin" rolename="agent">ты</rs>
+                затеял?</s></said></said></said> </p>
+          <p><said who="Anatole_Kuragin" corresp="Fedor_Ivanovich_Dolokhov" speech_text="А?... Ну, опять, опять дразнить?. Пошел к черту!. Право, не до твоих дурацких шуток." verb="сказать" author_comment="- сморщившись, сказал Анатоль. -" speech_id="3676"><s>-
+                Ну, опять, опять дразнить? Пошел к черту! А?..- сморщившись, сказал <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs>. - Право, не до <rs rolename="agent">твоих</rs> дурацких шуток.</s></said>
+            <s>- И он ушел из комнаты.</s> </p>
+          <p><s><rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs> презрительно и
+              снисходительно улыбался, когда <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs>
+              вышел.</s> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Anatole_Kuragin" speech_text="Ты постой,. я не шучу, а дело говорю, поди, поди сюда." verb="шутить" author_comment="- сказал он вслед Анатолю,- я не шучу, а дело говорю, поди, поди сюда." speech_id="3672"><s>- Ты постой,- сказал он вслед <rs ref="Anatole_Kuragin" rolename="addressee">Анатолю</rs>,- я не шучу, а дело говорю, поди, поди
+              сюда.</s></said> </p>
+          <p><s><rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs> опять вошел в комнату и,
+              стараясь сосредоточить внимание, смотрел на <rs ref="Fedor_Ivanovich_Dolokhov" rolename="undergoer">Долохова</rs>, очевидно, невольно покоряясь <rs ref="Fedor_Ivanovich_Dolokhov" rolename="benemalefactive">ему</rs>.</s> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Anatole_Kuragin" speech_text="- Ты меня слушай, я тебе последний раз говорю.. Что мне с тобой шутить? Разве я тебе перечил? Кто тебе все устроил, кто попа нашел, кто паспорт взял, кто денег достал? Все я." speech_id="3652"><s>- <rs rolename="agent">Ты</rs>
+                <rs rolename="undergoer">меня</rs> слушай, <rs rolename="agent">я</rs>
+                <rs>тебе</rs> последний раз говорю. Что <rs>мне</rs> с <rs>тобой</rs>
+              шутить?</s></said>
+            <s>Разве <rs>я</rs>
+              <rs>тебе</rs> перечил?</s>
+            <s>Кто <rs>тебе</rs> все устроил, кто <rs rolename="undergoer">попа</rs> нашел, кто паспорт
+              взял, кто денег достал?</s>
+            <s>Все я.</s> </p>
+          <p><said who="Anatole_Kuragin" corresp="Fedor_Ivanovich_Dolokhov" speech_text="Ну и спасибо тебе.. Ты думаешь, я тебе не благодарен?" verb="обнять" author_comment="- Анатоль вздохнул и обнял Долохова." speech_id="3682"><s>- Ну и
+                спасибо <rs>тебе. Ты</rs> думаешь, я <rs>тебе</rs> не благодарен? - <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs> вздохнул и обнял <rs ref="Fedor_Ivanovich_Dolokhov" rolename="undergoer">Долохова</rs>.</s></said> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Anatole_Kuragin" speech_text="- Я тебе помогал, но все же я тебе должен правду сказать: дело опасное и, если разобрать, глупое.. Ну, ты ее увезешь, хорошо. Ведь разве это так оставят? Узнается дело, что ты женат. Ведь тебя под уголовный суд подведут..." speech_id="3656"><s>- Я <rs>тебе</rs> помогал, но все же я <rs>тебе</rs> должен правду
+                сказать: дело опасное и, если разобрать, глупое. Ну, <rs ref="Anatole_Kuragin" rolename="agent">ты</rs>
+                <rs ref="NatashaRostova" rolename="undergoer">ее</rs> увезешь, хорошо. Ведь разве это
+                так оставят?</s></said>
+            <s>Узнается дело, что <rs>ты</rs> женат.</s>
+            <s>Ведь <rs>тебя</rs> под уголовный суд подведут...</s> </p>
+          <p><said who="Anatole_Kuragin" corresp="Fedor_Ivanovich_Dolokhov" speech_text="А?. Ведь я тебе толковал." verb="повторить" author_comment="- И Анатоль с тем особенным пристрастием, которое бывает у людей тупых к умозаключению, до которого они дойдут своим умом, повторил то рассуждение, которое он раз сто повторял Долохову." speech_id="3646"><said who="Anatole_Kuragin" corresp="Fedor_Ivanovich_Dolokhov" speech_text="- Ах!. Ведь я тебе толковал. А?. глупости, глупости!" author_comment="- опять сморщившись, заговорил Анатоль. -" speech_id="3661"><said who="Anatole_Kuragin" corresp="Fedor_Ivanovich_Dolokhov" speech_text="Ведь я тебе толковал, я решил: ежели этот брак будет недействителен, значит, я не отвечаю; ну а ежели действителен, все равно: за границей никто этого не будет знать, ну, ведь так? И не говори, не говори, не говори!" author_comment=",- сказал он, загибая палец,-" speech_id="3662"><s>- Ах! глупости,
+                    глупости! - опять сморщившись, заговорил <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs>. - Ведь я <rs>тебе</rs> толковал. А? - И <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs> с тем особенным
+                    пристрастием, которое бывает у людей тупых к умозаключению, до которого они
+                    дойдут своим умом, повторил то рассуждение, которое он раз сто повторял <rs ref="Fedor_Ivanovich_Dolokhov" rolename="benemalefactive">Долохову</rs>. -
+                    Ведь <rs>я</rs>
+                    <rs>тебе</rs> толковал, <rs rolename="agent">я</rs> решил: ежели этот брак будет
+                    недействителен,- сказал <rs ref="Anatole_Kuragin" rolename="agent">он</rs>,
+                    загибая палец,- значит, <rs>я</rs> не отвечаю; ну а ежели действителен, все
+                    равно: за границей никто этого не будет знать, ну, ведь
+              так?</s></said></said></said>
+            <s>И не говори, не говори, не говори!</s> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Anatole_Kuragin" speech_text="- Право, брось!" speech_id="3657"><s>- Право, брось!</s></said>
+            <s>Ты только <rs>себя</rs> свяжешь...</s> </p>
+          <p><said who="Anatole_Kuragin" corresp="" speech_text="Ah!. h! quel pied, mon cher, quel regard! Une déesse!! A?. А?. Ты посмотри, как бьется!. Убирайся к черту. Это черт знает что такое!" verb="сказать" author_comment="- Он взял руку Долохова и приложил к своему сердцу. -" speech_id="3684"><s>- Убирайся к черту,- сказал <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs> и, взявшись за волосы, вышел в другую комнату и
+                тотчас же вернулся и с ногами сел на кресло близко перед <rs ref="Fedor_Ivanovich_Dolokhov">Долоховым</rs>.- Это черт знает что такое! А? Ты
+                посмотри, как бьется! - <rs ref="Anatole_Kuragin">Он</rs> взял руку <rs ref="Fedor_Ivanovich_Dolokhov" rolename="possessor">Долохова</rs> и приложил к
+                своему сердцу. - Ah!</s></said>
+            <s>quel pied, mon cher, quel regard!</s>
+            <s>Une déesse!</s><s>! A?</s> </p>
+          <p><s><rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>, холодно улыбаясь и
+              блестя <rs ref="Fedor_Ivanovich_Dolokhov">своими</rs> красивыми, наглыми глазами,
+              смотрел на него, видимо желая еще повеселиться над ним.</s> </p>
+          <p><s>- Ну, деньги выйдут, тогда что?</s> </p>
+          <p><said who="Anatole_Kuragin" corresp="Fedor_Ivanovich_Dolokhov" speech_text="А?. Ну что глупости говорить!. Пора!. Там я не знаю что.... Тогда что?" verb="посмотреть" author_comment="- Он посмотрел на часы. -" speech_id="3688"><s>-
+                Тогда что? А? - повторил <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs> с
+                искренним недоуменьем перед мыслью о будущем. - Тогда что? Там <rs ref="Anatole_Kuragin" rolename="experiencer">я</rs> не знаю что... Ну что глупости
+                говорить! - <rs ref="Anatole_Kuragin" rolename="agent">Он</rs> посмотрел на часы. -
+                Пора!</s></said> </p>
+          <p><s>
+              <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs> пошел в заднюю
+            комнату.</s> </p>
+          <p><said who="Anatole_Kuragin" corresp="Балага" speech_text="Копаетесь тут!. Ну, скоро ли вы?" verb="крикнуть" author_comment="- крикнул он на слуг." speech_id="3649"><s>- Ну, скоро ли вы?
+                Копаетесь тут! - крикнул <rs ref="Anatole_Kuragin">он</rs> на слуг.</s></said> </p>
+          <p><s><rs ref="Fedor_Ivanovich_Dolokhov" rolename="possessor">Долохов</rs> убрал деньги и,
+              крикнув <rs rolename="undergoer">человека</rs>, чтобы велеть подать поесть и выпить на
+              дорогу, вышел в ту комнату, где сидели <rs>Макарин</rs> и Хвостиков.</s> </p>
+          <p><s>
+              <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs> в кабинете лежал,
+              облокотившись на руку, на диване, задумчиво улыбался и что-то нежно про себя
+              шептал.</s> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Anatole_Kuragin" speech_text="Иди съешь что-нибудь.. Ну выпей!" verb="кричать" author_comment="- кричал ему из другой комнаты Долохов." speech_id="3670"><s>-
+                  <rs>Иди</rs> съешь что-нибудь. Ну выпей! - кричал ему из другой комнаты <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>.</s></said> </p>
+          <p><said who="Anatole_Kuragin" corresp="Fedor_Ivanovich_Dolokhov" speech_text="Не хочу!" verb="ответить" author_comment="- ответил Анатоль, все продолжая улыбаться." speech_id="3685"><s>- Не хочу! - ответил <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs>, все продолжая улыбаться.</s></said>  </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Anatole_Kuragin" speech_text="- Иди, Балага приехал." speech_id="3658"><s>- <rs rolename="agent">Иди</rs>, <rs rolename="agent">Балага</rs> приехал.</s></said> </p>
+          <p><s><rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs> встал и вышел в столовую,
+                <rs>Балага</rs> был известный троечный ямщик, уже лет шесть знавший <rs ref="Fedor_Ivanovich_Dolokhov" rolename="undergoer">Долохова</rs> и <rs ref="Anatole_Kuragin" rolename="undergoer">Анатоля</rs> и служивший <rs rolename="benemalefactive">им</rs> своими тройками.</s>
+            <s>Не раз он, когда полк <rs ref="Anatole_Kuragin">Анатоля</rs> стоял в Твери, с вечера
+              увозил <rs rolename="undergoer">его</rs> из Твери, к рассвету доставлял в Москву и увозил
+              на другой день ночью.</s>
+            <s>Не раз он увозил <rs ref="Fedor_Ivanovich_Dolokhov" rolename="undergoer">Долохова</rs>
+              от погони, не раз он по городу катал <rs ref="Fedor_Ivanovich_Dolokhov" rolename="undergoer">их</rs> с цыганами и дамочками, как называл <rs rolename="agent">Балага</rs>.</s>
+            <s>Не раз он с <rs rolename="agent">их</rs> работой давил по Москве народ и извозчиков,
+              и всегда его выручали его господа, как он называл их.</s>
+            <s>Не одну лошадь он загнал под ними.</s>
+            <s>Не раз был бит ими, не раз напаиван ими шампанским и мадерой, которую он любил, и не
+              одну штуку он знал за каждым из них, которая обыкновенному <rs rolename="benemalefactive">человеку</rs> давно бы заслужила Сибирь.</s>
+            <said who="Anatole_Kuragin" corresp="Fedor_Ivanovich_Dolokhov" speech_text="- Ах!. Ведь я тебе толковал. А?. глупости, глупости!" author_comment="- опять сморщившись, заговорил Анатоль. -" speech_id="3661"><s>В
+                кутежах своих они часто зазывали Балагу, заставляли его пить и плясать у цыган, и не
+                одна тысяча их денег перешла через его руки.</s></said>
+            <s>Служа им, он двадцать раз в году рисковал и своей жизнью, и своей шкурой и на их
+              работе переморил больше лошадей, чем они ему переплатили денег.</s>
+            <s>Но он любил их, любил эту безумную езду, по восемнадцати верст в час, любил
+              перекувырнуть <rs rolename="undergoer">извозчика</rs>, и раздавить <rs rolename="undergoer">пешехода</rs> по Москве, и во весь скок пролететь по московским улицам.</s>
+            <s>Он любил слышать за собой этот дикий крик пьяных голосов: 'Пошел! пошел!', тогда как
+              уж и так нельзя было ехать шибче; любил вытянуть больно по шее <rs rolename="possessor">мужика</rs>, <rs>который</rs> и так, ни жив ни мертв,
+              сторонился от <rs>него</rs>.</s>
+            <s>'Настоящие господа!' - думал он.</s> </p>
+          <p><s><rs ref="Anatole_Kuragin" rolename="experiencer">Анатоль</rs> и <rs ref="Fedor_Ivanovich_Dolokhov" rolename="experiencer">Долохов</rs> тоже любили
+              Балагу за его мастерство езды и за то, что <rs rolename="experiencer">он</rs> любил то
+              же, что и <rs ref="Fedor_Ivanovich_Dolokhov">они</rs>.</s>
+            <s>С другими Балага рядился, брал по двадцати пяти рублей за двухчасовое катанье, и с
+              другими только изредка ездил сам, а больше посылал своих молодцов.</s>
+            <s>Но с своими господами, как <rs rolename="agent">он</rs> называл их, он всегда ехал
+              сам и никогда ничего не требовал за свою работу.</s>
+            <s>Только узнав через камердинеров время, когда были деньги, он раз в несколько месяцев
+              приходил поутру, трезвый, и, низко кланяясь, просил выручить его.</s>
+            <s>Его всегда сажали господа.</s> </p>
+          <p><said who="Балага" corresp="Fedor_Ivanovich_Dolokhov;Anatole_Kuragin" speech_text="Обезлошадничал вовсе, на ярманку ехать, уж ссудите, что можете.. Уж вы меня вызвольте, батюшка Федор Иваныч, или ваше сиятельство" verb="говорить" author_comment=",- говорил он. -" speech_id="3644"><s>- Уж вы меня
+                вызвольте, батюшка <rs>Федор Иваныч</rs>, или <rs rolename="possessor">ваше</rs>
+                <rs>сиятельство</rs>,- говорил он. - Обезлошадничал вовсе, на ярманку ехать, уж
+                ссудите, что можете.</s></said> </p>
+          <p><said who="Anatole_Kuragin" corresp="Fedor_Ivanovich_Dolokhov" speech_text="- Ах!. Ведь я тебе толковал. А?. глупости, глупости!" author_comment="- опять сморщившись, заговорил Анатоль. -" speech_id="3661"><s>И <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs> и <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>, когда бывали в
+                деньгах, давали ему по тысяче и по две рублей.</s></said> </p>
+          <p><s>Балага был русый, с красным лицом и в особенности красной толстой шеей, приземистый
+              курносый <rs>мужик</rs>, лет двадцати семи, с блестящими маленькими глазами и
+              маленькой бородкой.</s>
+            <s>Он был одет в тонком синем кафтане на шелковой подкладке, надетом на
+            полушубке.</s> </p>
+          <p><s>Он перекрестился на передний угол и подошел к <rs ref="Fedor_Ivanovich_Dolokhov">Долохову</rs>, протягивая черную небольшую руку.</s> </p>
+          <p><said who="Балага" corresp="Fedor_Ivanovich_Dolokhov" speech_text="Федору Ивановичу!" verb="сказать" author_comment="- сказал он, кланяясь." speech_id="3681"><s>- <rs rolename="experiencer">Федору Ивановичу</rs>! - сказал он,
+            кланяясь.</s></said> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="" speech_text="- Здорово, брат." speech_id="3666"><s>- Здорово, <rs>брат</rs>. Ну вот и он.</s></said> </p>
+          <p><said who="Балага" corresp="Anatole_Kuragin" speech_text="Здравствуй, ваше сиятельство," verb="сказать" author_comment="- сказал он входившему Анатолю и тоже протянул руку." speech_id="3680"><s>- Здравствуй, <rs rolename="possessor">ваше</rs>
+                <rs>сиятельство</rs>,- сказал он входившему <rs ref="Anatole_Kuragin" rolename="addressee">Анатолю</rs> и тоже протянул руку.</s></said> </p>
+          <p><said who="Anatole_Kuragin" corresp="Балага" speech_text="- Я тебе говорю, Балага, любишь ты меня или нет?" verb="сказать" speech_id="3651"><said who="Anatole_Kuragin" corresp="" speech_text="- А!  Ну садись." speech_id="3664"><s>- <rs rolename="agent">Я</rs> тебе говорю, Балага,- сказал <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs>, кладя ему руки на плечи,-
+                  любишь ты меня или нет?</s></said></said>
+            <s>А?</s>
+            <s>Теперь службу сослужи...</s>
+            <s>На каких приехал?</s>
+            <s>А?</s> </p>
+          <p><said who="Балага" corresp="Anatole_Kuragin" speech_text="Как посол приказал, на ваших, на зверьях," verb="сказать" author_comment="- сказал Балага." speech_id="3654"><s>- Как <rs rolename="agent">посол</rs> приказал, на ваших, на зверьях,- сказал Балага.</s></said> </p>
+          <p><said who="Anatole_Kuragin" corresp="Балага" speech_text="- Ну, слышишь, Балага!" speech_id="3660"><s>- Ну, слышишь, Балага!</s></said>
+            <s>Зарежь всю тройку, а чтобы в три часа приехать.</s>
+            <s>А?</s> </p>
+          <p><said who="Балага" corresp="Anatole_Kuragin" speech_text="Как зарежешь, на чем поедем?" verb="сказать" author_comment="- сказал Балага, подмигивая." speech_id="3686"><s>- Как
+                зарежешь, на чем поедем? - сказал Балага, подмигивая.</s></said> </p>
+          <p><said who="Anatole_Kuragin" corresp="Балага" speech_text="Ну, я тебе морду разобью, ты не шути!" verb="крикнуть" author_comment="- вдруг, выкатив глаза, крикнул Анатоль." speech_id="3669"><s>- Ну, я
+                  <rs>тебе</rs> морду разобью, <rs rolename="agent">ты</rs> не шути! - вдруг,
+                выкатив глаза, крикнул <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs>.</s></said> </p>
+          <p><said who="Балага" corresp="Anatole_Kuragin" speech_text="Разве я для своих господ пожалею?. Что ж шутить. Что мочи скакать будет лошадям, то и ехать будем." verb="сказать" author_comment=",- посмеиваясь, сказал ямщик. -" speech_id="3671"><s>-
+                Что ж шутить,- посмеиваясь, сказал <rs rolename="agent">ямщик</rs>. - Разве <rs rolename="experiencer">я</rs> для <rs rolename="undergoer">своих</rs> господ
+                пожалею?</s></said>
+            <s>Что мочи скакать будет лошадям, то и ехать будем.</s> </p>
+          <p><said who="Anatole_Kuragin" corresp="" speech_text="- А!  Ну садись." speech_id="3664"><s>- А! - сказал <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs>. - Ну
+                садись.</s></said> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Anatole_Kuragin" speech_text="Что ж, садись!" verb="сказать" author_comment="- сказал Долохов." speech_id="3647"><s>- Что ж, садись! - сказал <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>.</s></said> </p>
+          <p><said who="Балага" corresp="Fedor_Ivanovich_Dolokhov" speech_text="- Постою, Федор Иванович." speech_id="3663"><s>- Постою, <rs>Федор
+                  Иванович</rs>.</s></said> </p>
+          <p><said who="Anatole_Kuragin" corresp="Fedor_Ivanovich_Dolokhov" speech_text="Садись, врешь, пей," verb="сказать" author_comment="- сказал Анатоль и налил ему большой стакан мадеры." speech_id="3675"><s>- Садись, врешь, пей,- сказал <rs ref="Anatole_Kuragin" rolename="agent">Анатоль</rs> и налил ему большой стакан мадеры. Глаза <rs rolename="possessor">ямщика</rs> засветились на вино.</s></said>
+            <s>Отказываясь для приличия, <rs rolename="agent">он</rs> выпил и отерся шелковым
+              красным платком, который лежал у него в шапке.</s> </p>
+          <p><said who="Балага" corresp="Anatole_Kuragin" speech_text="- Что ж, когда ехать-то, ваше сиятельство?" speech_id="3659"><s>- Что ж,
+                когда ехать-то, <rs rolename="possessor">ваше</rs>
+                <rs>сиятельство</rs>?</s></said> </p>
+          <p><s>- Да вот... (<rs ref="Anatole_Kuragin" rolename="experiencer">Анатоль</rs> посмотрел
+              на часы) сейчас и ехать. Смотри же, Балага. А?</s>
+            <s>Поспеешь?</s> </p>
+          <p><said who="Балага" corresp="Anatole_Kuragin" speech_text="Да как выезд - счастлив ли будет, а то отчего же не поспеть?. Доставляли же в Тверь, в семь часов поспевали." verb="сказать" author_comment="- сказал Балага. -" speech_id="3650"><s>- Да как выезд
+                - счастлив ли будет, а то отчего же не поспеть? - сказал Балага. - Доставляли же в
+                Тверь, в семь часов поспевали. Помнишь небось, <rs>ваше</rs>
+                <rs>сиятельство</rs>.</s></said> </p>
+          <p><said who="Anatole_Kuragin" corresp="Fedor_Ivanovich_Dolokhov" speech_text="- Ах!. Ведь я тебе толковал. А?. глупости, глупости!" author_comment="- опять сморщившись, заговорил Анатоль. -" speech_id="3661"><said who="Anatole_Kuragin" corresp="Fedor_Ivanovich_Dolokhov" speech_text="Въехали в обоз, через два воза перескочили. А?. Ты веришь ли, Макарка, что дух захватывало, как мы летели.. Ты знаешь ли, на рождество из Твери я раз ехал" verb="сказать" author_comment=",- сказал Анатоль с улыбкой воспоминания, обращаясь к Макарину, который во все глаза умиленно смотрел на Курагина. -" speech_id="3674"><s>- Ты знаешь ли, на рождество из Твери <rs rolename="agent">я</rs> раз ехал,- сказал Анатоль с улыбкой воспоминания, обращаясь к
+                    <rs>Макарину</rs>, <rs>который</rs> во все глаза умиленно смотрел на
+                    <rs>Курагина</rs>. - <rs rolename="experiencer">Ты</rs> веришь ли,
+                    <rs>Макарка</rs>, что дух захватывало, как мы летели. Въехали в обоз, через два
+                  воза перескочили. А?</s></said></said> </p>
+          <p><said who="Балага" corresp="Fedor_Ivanovich_Dolokhov" speech_text="Уж лошади ж были!. Я тогда молодых пристяжных к каурому запрег,- обратился он к Долохову,- так веришь ли, Федор Иваныч, шестьдесят верст звери летели; держать нельзя, руки закоченели, мороз был." verb="продолжать" author_comment="- продолжал рассказ Балага. -" speech_id="3673"><s>-
+                Уж лошади ж были! - продолжал рассказ Балага. - <rs>Я</rs> тогда молодых пристяжных
+                к каурому запрег,- обратился <rs rolename="undergoer">он</rs> к <rs ref="Fedor_Ivanovich_Dolokhov">Долохову</rs>,- так веришь ли, <rs>Федор
+                  Иваныч</rs>, шестьдесят верст звери летели; держать нельзя, руки закоченели, мороз
+                был. Бросил вожжи - держи, мол, <rs>ваше</rs> сиятельство, сам, так в сани и
+                повалился. Так ведь не то что погонять, до места держать нельзя. В три часа донесли,
+                черти. Издохла левая только.</s></said>  </p>
+        </div>
+        

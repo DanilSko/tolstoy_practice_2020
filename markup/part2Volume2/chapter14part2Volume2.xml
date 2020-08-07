@@ -1,0 +1,87 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="14" type="chapter" xml:id="chapter14part2Volume2">
+          <p> </p>
+          <p><s><rs rolename="experiencer">Странница</rs> успокоилась и, наведенная опять на
+              разговор, долго потом рассказывала про отца Амфилохия, который был такой <rs rolename="undergoer">святой</rs> жизни, что от ручки его ладаном пахло, и о том, как
+              знакомые <rs rolename="experiencer">ей</rs> монахи в последнее <rs rolename="agent">ее</rs> странствие в Киев дали ей ключи от пещер и как она, взяв с собой сухарики,
+              двое суток провела в пещерах с угодниками.</s>
+            <s>'Помолюся одному, почитаю, пойду к другому. Сосну, опять пойду приложусь; и такая,
+                <rs>матушка</rs>, тишина, благодать такая, что и на свет божий выходить не
+              хочется'.</s> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> внимательно и серьезно слушал
+              ее.</s>
+            <s><rs ref="AndreyBolkonsky" rolename="agent">Князь Андрей</rs> вышел из комнаты.</s>
+            <s>И вслед за ним, оставив божьих людей допивать чай, <rs ref="Princess_Mariya_Bolkonskaya">княжна Марья</rs> повела <rs ref="Pierre_Bezukhov" rolename="agent">Пьера</rs> в гостиную.</s> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="Pierre_Bezukhov" speech_text="Вы очень добры," verb="сказать" author_comment="- сказала она ему." speech_id="2637"><s>- Вы очень добры,- сказала она ему.</s></said> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Ах, я, право, не думал оскорбить ее, я так понимаю и высоко ценю эти чувства." speech_id="2645"><s>- Ах, я, право, не думал оскорбить ее, я так понимаю и высоко ценю
+                эти чувства.</s></said> </p>
+          <p><s><rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">Княжна Марья</rs> молча
+              посмотрела на него и нежно улыбнулась.</s> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="Pierre_Bezukhov" speech_text="Ведь я вас давно знаю и люблю, как брата. Как вы нашли Андрея?. Он очень беспокоит меня." verb="спросить" author_comment="- спросила она поспешно, не давая ему времени сказать что-нибудь в ответ на ее ласковые слова.-" speech_id="2644"><s>- Ведь <rs rolename="experiencer">я</rs> вас давно знаю и люблю,
+                как <rs>брата</rs>,- сказала она. - Как вы нашли <rs ref="AndreyBolkonsky" rolename="undergoer">Андрея</rs>? - спросила она поспешно, не давая ему времени
+                сказать что-нибудь в ответ на ее ласковые слова.- Он очень беспокоит <rs rolename="experiencer">меня</rs>. Здоровье его зимой лучше, но прошлой весной рана
+                открылась, и <rs rolename="agent">доктор</rs> сказал, что <rs>он</rs> должен ехать
+                лечиться. И нравственно <rs rolename="experiencer">я</rs> очень боюсь за
+              него.</s></said><s> Он не такой характер, как мы, женщины, чтобы выстрадать и
+              выплакать свое горе. Он внутри себя носит его. Нынче он весел и оживлен; но это ваш
+              приезд так подействовал на него; он редко бывает таким. Ежели бы вы могли уговорить
+              его поехать за границу!</s>
+            <s>Ему нужна деятельность, а эта ровная, тихая жизнь губит его.</s>
+            <s>Другие не замечают, но <rs rolename="experiencer">я</rs> вижу.</s> </p>
+          <p><s>В десятом часу официанты бросились к крыльцу, заслышав бубенчики подъезжавшего
+              экипажа старого</s> </p>
+          <p>
+            <s><rs rolename="undergoer">князя</rs>.</s>
+            <s><rs ref="AndreyBolkonsky" rolename="agent">Князь Андрей</rs> с <rs ref="Pierre_Bezukhov" rolename="agent">Пьером</rs> тоже вышли на крыльцо.</s> </p>
+          <p><said who="Prince_Nikolay_Bolkonsky" corresp="AndreyBolkonsky" speech_text="- Это кто?" author_comment="- спросил старый князь, вылезая из кареты и увидав Пьера." speech_id="2638"><s>- Это кто? - спросил старый <rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">князь</rs>, вылезая из кареты и увидав <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs>.</s></said> </p>
+          <p><s>- А!</s>
+            <s>очень рад!</s>
+            <said who="Prince_Nikolay_Bolkonsky" corresp="Pierre_Bezukhov" speech_text="- А! очень рад! целуй" verb="сказать" author_comment="- сказал он, узнав, кто был незнакомый молодой человек." speech_id="2636"><s>целуй,- сказал <rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">он</rs>, узнав, кто был незнакомый <rs>молодой человек</rs>.</s></said> </p>
+          <p><s>Старый <rs ref="Prince_Nikolay_Bolkonsky" rolename="undergoer">князь</rs> был в хорошем
+              духе и обласкал <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs>.</s> </p>
+          <p><s>Перед ужином <rs ref="AndreyBolkonsky" rolename="possessor">князь Андрей</rs>,
+              вернувшись назад в кабинет <rs rolename="possessor">отца</rs>, застал старого <rs ref="Prince_Nikolay_Bolkonsky" rolename="undergoer">князя</rs> в горячем споре с <rs ref="Pierre_Bezukhov">Пьером</rs>.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> доказывал, что придет время,
+              когда не будет больше войны.</s>
+            <s>Старый <rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">князь</rs>, подтрунивая,
+              но не сердясь, оспаривал его.</s> </p>
+          <p><said who="Prince_Nikolay_Bolkonsky" corresp="Pierre_Bezukhov" speech_text="Бабьи бредни, бабьи бредни,. Кровь из жил выпусти, воды налей, тогда войны не будет." verb="проговорить" author_comment="- проговорил он, но все-таки ласково потрепал Пьера по плечу и подошел к столу, у которого князь Андрей, видимо не желая вступать в разговор, перебирал бумаги, привезенные князем из города." speech_id="2643"><s>- Кровь из жил выпусти, воды налей, тогда войны не будет. Бабьи
+                бредни, бабьи бредни,- проговорил <rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">он</rs>, но все-таки ласково потрепал <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs> по плечу и подошел к столу, у которого <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs>, видимо не желая вступать
+                в разговор, перебирал бумаги, привезенные <rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">князем</rs> из города.</s></said>
+            <s>Старый <rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">князь</rs> подошел к
+                <rs>нему</rs> и стал говорить о делах.</s> </p>
+          <p><said who="Prince_Nikolay_Bolkonsky" corresp="AndreyBolkonsky" speech_text="Ну, брат, молодец твой приятель, я его полюбил! Разжигает меня. Другой и умные речи говорит, а слушать не хочется, а он и врет, да разжигает меня, старика." verb="обратиться" author_comment="обратился князь Николай Андреич к сыну, хлопая по плечу Пьера," speech_id="2640"><said who="Prince_Nikolay_Bolkonsky" corresp="AndreyBolkonsky" speech_text="- Предводитель, Ростов граф, половины людей не доставил. Приехал в город, вздумал на обед звать,- я ему такой обед задал... А вот просмотри эту..." speech_id="2641"><s>- Предводитель, Ростов граф, половины людей не доставил. Приехал
+                  в город, вздумал на обед звать,- <rs rolename="agent">я</rs> ему такой обед
+                  задал... А вот просмотри эту... Ну, брат,- обратился <rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">князь Николай Андреич</rs> к <rs rolename="addressee">сыну</rs>, хлопая по плечу <rs ref="Pierre_Bezukhov" rolename="possessor">Пьера</rs>,- молодец <rs>твой</rs>
+                  <rs>приятель</rs>, я его полюбил!</s></said></said>
+            <s>Разжигает меня.</s>
+            <s>Другой и умные речи говорит, а слушать не хочется, а он и врет, да разжигает <rs rolename="undergoer">меня</rs>, старика.</s>
+            <said who="Prince_Nikolay_Bolkonsky" corresp="Pierre_Bezukhov" speech_text="Ну, идите, идите. может быть, приду за ужином вашим посижу. Опять поспорю." speech_id="2642"><s>Ну, идите, идите,- сказал он,- может быть, приду за ужином вашим
+                посижу.</s></said>
+            <s>Опять поспорю.</s>
+            <s><rs>Мою</rs> дуру, <rs ref="Princess_Mariya_Bolkonskaya">княжну Марью</rs>, полюби,-
+              прокричал он <rs ref="Pierre_Bezukhov" rolename="addressee">Пьеру</rs> из
+            двери.</s> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="undergoer">Пьер</rs> теперь только, в <rs ref="Pierre_Bezukhov" rolename="agent">свой</rs> приезд в Лысые Горы, оценил всю
+              силу и прелесть своей дружбы с <rs ref="AndreyBolkonsky">князем Андреем</rs>.</s>
+            <s>Эта прелесть выразилась не столько в его отношениях с <rs ref="Pierre_Bezukhov">ним</rs> самим, сколько в отношениях со всеми родными и домашними.</s>
+            <s><rs ref="Pierre_Bezukhov">Пьер</rs> с старым, суровым <rs>князем</rs> и с кроткой и
+              робкой <rs ref="Princess_Mariya_Bolkonskaya">княжной Марьей</rs>, несмотря на то, что
+                <rs ref="Pierre_Bezukhov" rolename="experiencer">он</rs> их почти не знал,
+              чувствовал <rs ref="Pierre_Bezukhov">себя</rs> сразу старым другом.</s>
+            <s>Они все уже любили его.</s>
+            <s>Не только <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">княжна Марья</rs>,
+              подкупленная его кроткими отношениями к странницам, самым лучистым взглядом смотрела
+              на <rs ref="Pierre_Bezukhov" rolename="undergoer">него</rs>; но маленький, годовой <rs ref="Prince_Nikolay_Bolkonsky" rolename="agent">князь Николай</rs>, как звал <rs rolename="agent">дед</rs>, улыбнулся <rs ref="Pierre_Bezukhov" rolename="addressee">Пьеру</rs> и пошел к нему на руки.</s>
+            <s><rs rolename="agent">Михаил Иваныч</rs>, <rs ref="Mademoiselle_Bourienne">m-lle
+                Bourienne</rs> с радостными улыбками смотрели на него, когда он разговаривал с
+              старым <rs>князем</rs>.</s> </p>
+          <p><s>Старый <rs rolename="agent">князь</rs> вышел ужинать: это было, очевидно, для <rs ref="Pierre_Bezukhov" rolename="benemalefactive">Пьера</rs>.</s>
+            <s><rs>Он</rs> был с <rs ref="Pierre_Bezukhov">ним</rs> оба дня <rs ref="Pierre_Bezukhov" rolename="undergoer">его</rs> пребывания в Лысых Горах
+              чрезвычайно ласков и велел <rs ref="Pierre_Bezukhov" rolename="addressee">ему</rs>
+              приезжать к <rs>себе</rs>.</s> </p>
+          <p><s>Когда <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> уехал и сошлись вместе
+              все члены семьи, <rs ref="Pierre_Bezukhov">его</rs> стали судить, как это всегда
+              бывает после отъезда нового <rs rolename="agent">человека</rs>, и, как это редко
+              бывает, все говорили про <rs ref="Pierre_Bezukhov">него</rs> одно хорошее.</s>  </p>
+        </div>
+        

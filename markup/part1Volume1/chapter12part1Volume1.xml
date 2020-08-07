@@ -1,0 +1,174 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="12" type="chapter" xml:id="chapter12part1Volume1">
+          <p> </p>
+          <p><s>XII</s> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="" speech_text="Mon cher Boris, будь ласков, будь внимателен." verb="сказать" author_comment="- сказала мать, выпрастывая руку из-под старого салопа и робким и ласковым движением кладя ее на руку сына,- будь ласков, будь внимателен." speech_id="410"><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Boris_Drubetskoy" speech_text="Mon cher Boris," verb="сказать" author_comment="- сказала княгиня Анна Михайловна сыну, когда карета графини Ростовой, в которой они сидели, проехала по устланной соломой улице и въехала на широкий двор графа Кирилла Владимировича Безухова." speech_id="419"><s>- Mon cher Boris,- сказала <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent">княгиня Анна
+                    Михайловна</rs>
+                  <rs rolename="addressee">сыну</rs>, когда карета <rs ref="Countess_Natalya_Rostova" rolename="possessor">графини Ростовой</rs>, в
+                  которой они сидели, проехала по устланной соломой улице и въехала на широкий двор
+                    <rs ref="Count_Kirill_Bezukhov">графа Кирилла Владимировича Безухова</rs>.- Mon
+                  cher Boris,- сказала <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent">мать</rs>, выпрастывая руку из-под старого салопа и робким и
+                  ласковым движением кладя ее на руку <rs rolename="possessor">сына</rs>,- будь
+                  ласков, будь внимателен.</s></said></said>
+            <s><rs ref="Count_Kirill_Bezukhov">Граф Кирилл Владимирович</rs> все-таки <rs>тебе</rs>
+              крестный отец.</s>
+            <s>и от <rs ref="Count_Kirill_Bezukhov">него</rs> зависит <rs rolename="experiencer">твоя</rs> будущая судьба.</s>
+            <s>Помни это, mon cher, будь мил, как <rs rolename="experiencer">ты</rs> умеешь
+              быть...</s> </p>
+          <p><said who="Boris_Drubetskoy" corresp="Princess_Anna_Mikhaylovna_Drubetskaya" speech_text="Ежели бы я знал, что из этого выйдет что-нибудь, кроме унижения.... Но я обещал вам и делаю это для вас." verb="отвечать" author_comment="- отвечал сын холодно.-" speech_id="407"><s>- Ежели бы
+                  <rs rolename="experiencer">я</rs> знал, что из этого выйдет что-нибудь, кроме
+                унижения...- отвечал <rs rolename="agent">сын</rs> холодно.- Но <rs rolename="agent">я</rs> обещал вам и делаю это для вас.</s></said> </p>
+          <p><s>Несмотря на то, что чья-то карета стояла у подъезда, <rs rolename="agent">швейцар</rs>, оглядев мать с <rs>сыном</rs> (которые, не приказывая докладывать о
+              себе, прямо вошли в стеклянные сени между двумя рядами статуй в нишах), значительно
+              посмотрев на старенький салоп, спросил, кого им угодно, княжон или графа, и, узнав,
+              что графа, сказал, что их <rs>сиятельству</rs> нынче хуже и их <rs rolename="agent">сиятельство</rs> никого не принимают.</s> </p>
+          <p><said who="Boris_Drubetskoy" corresp="Princess_Anna_Mikhaylovna_Drubetskaya" speech_text="Мы можем уехать," verb="сказать" author_comment="- сказал сын по-французски." speech_id="402"><s>- <rs>Мы</rs> можем
+                уехать,- сказал <rs rolename="agent">сын</rs> по-французски.</s></said> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Boris_Drubetskoy" speech_text="Mon ami!" verb="сказать" author_comment="- сказала мать умоляющим голосом, опять дотрогиваясь до руки сына, как будто это прикосновение могло успокоивать или возбуждать его." speech_id="412"><s>- Mon ami! - сказала <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent">мать</rs> умоляющим
+                голосом, опять дотрогиваясь до руки <rs rolename="possessor">сына</rs>, как будто
+                это прикосновение могло успокоивать или возбуждать <rs rolename="undergoer">его</rs>.</s></said> </p>
+          <p><s><rs ref="Boris_Drubetskoy" rolename="agent" target="id_11121">Борис</rs> замолчал и,
+              не снимая шинели, вопросительно смотрел на <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="undergoer" xml:id="id_11121">мать</rs>.</s> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="швейцар" speech_text="- Голубчик,- нежным голоском сказала Анна Михайловна, обращаясь к швейцару,- я знаю, что граф Кирилл Владимирович очень болен... я затем и приехала... я родственница... Я не буду беспокоить, голубчик..." speech_id="418"><s>- <rs>Голубчик</rs>,- нежным голоском сказала <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent">Анна Михайловна</rs>,
+                обращаясь к <rs>швейцару</rs>,- <rs rolename="experiencer">я</rs> знаю, что <rs ref="Count_Kirill_Bezukhov" rolename="undergoer">граф Кирилл Владимирович</rs> очень
+                болен... <rs rolename="agent">я</rs> затем и приехала... <rs>я</rs> родственница...
+                  <rs>Я</rs> не буду беспокоить, <rs>голубчик</rs>... А <rs>мне</rs> бы только надо
+                увидать <rs ref="Vasili_Kuragin" rolename="undergoer">князя Василия Сергеевича</rs>:
+                ведь <rs ref="Vasili_Kuragin" rolename="agent">он</rs> здесь стоит.</s></said>
+            <s>Доложи, пожалуйста.</s> </p>
+          <p><s><rs rolename="agent">Швейцар</rs> угрюмо дернул снурок наверх и отвернулся.</s> </p>
+          <p><said who="швейцар" corresp="официант" speech_text="Княгиня Друбецкая к князю Василию Сергеевичу," verb="крикнуть" author_comment="- крикнул он сбежавшему сверху и из-под выступа лестницы выглядывавшему официанту в чулках, башмаках и фраке." speech_id="404"><s>- Княгиня <rs ref="Vasili_Kuragin" rolename="undergoer">Друбецкая</rs>
+                к <rs ref="Vasili_Kuragin" rolename="finalpoint">князю Василию Сергеевичу</rs>,-
+                крикнул <rs>он</rs> сбежавшему сверху и из-под выступа лестницы выглядывавшему <rs rolename="addressee">официанту</rs> в чулках, башмаках и фраке.</s></said> </p>
+          <p><s><rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent">Мать</rs>
+              расправила складки <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">своего</rs>
+              крашеного шелкового платья, посмотрелась в цельное венецианское зеркало в стене и
+              бодро, в <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">своих</rs> стоптанных
+              башмаках, пошла вверх по ковру лестницы.</s> </p>
+          <p><s>- Mon ehe?</s><s>, vous m'avez promis,- обратилась она опять к <rs>сыну</rs>,
+              прикосновением руки возбуждая <rs rolename="experiencer">его</rs>.</s> </p>
+          <p><s><rs rolename="agent">Сын</rs>, опустив глаза, спокойно шел за нею.</s> </p>
+          <p><s>Они вошли в залу, из которой одна дверь вела в покои, отведенные <rs rolename="addressee">князю Василью</rs>.</s> </p>
+          <p><s>В то время как <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="experiencer">мать</rs> с <rs rolename="experiencer">сыном</rs>, выйдя на
+              середину комнаты, намеревались спросить дорогу у вскочившего при их входе старого <rs rolename="addressee">официанта</rs>, у одной из дверей повернулась бронзовая ручка,
+              и <rs ref="Vasili_Kuragin" rolename="agent">князь Василий</rs> в бархатной шубке, с
+              одною звездой, по-домашнему, вышел, провожая красивого черноволосого <rs rolename="undergoer">мужчину</rs>.</s>
+            <s><rs>Мужчина</rs> этот был знаменитый петербургский доктор Lorrain.</s> </p>
+          <p><said who="Vasili_Kuragin" corresp="Лоррен" speech_text="- C'est donc positif?" speech_id="399"><s>- C'est donc positif?</s></said><s>l - говорил <rs rolename="agent">князь</rs>.</s> </p>
+          <p><said who="Лоррен" corresp="" speech_text="Mon prince, 'errare humanum est', mais..." verb="отвечать" author_comment="- отвечал доктор, грассируя и произнося латинские слова французским выговором." speech_id="405"><s>- Mon prince, 'errare humanum est', mais... - отвечал <rs rolename="agent">доктор</rs>, грассируя и произнося латинские слова французским
+                выговором.</s></said> </p>
+          <p><said who="Vasili_Kuragin" corresp="Лоррен" speech_text="- C'est bien, c'est bien.." speech_id="400"><s>- C'est bien, c'est bien..</s></said>. </p>
+          <p><s>Заметив <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="undergoer">Анну
+                Михайловну</rs> с сыном, <rs ref="Vasili_Kuragin">князь Василий</rs> поклоном
+              отпустил <rs rolename="agent">доктора</rs> и молча, но с вопросительным видом подошел
+              к <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">ним</rs>.</s>
+            <s><rs rolename="experiencer">Сын</rs> заметил, как вдруг глубокая горесть выразилась в
+              глазах <rs>его</rs> матери, и слегка улыбнулся.</s> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Boris_Drubetskoy" speech_text="- Да, в каких грустных обстоятельствах пришлось нам свидеться, князь..." speech_id="394"><s>- Да, в каких грустных обстоятельствах пришлось <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="experiencer">нам</rs>
+                свидеться, <rs>князь</rs>... Ну, что <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">наш</rs> дорогой больной? - сказала <rs ref="Boris_Drubetskoy" rolename="agent">она</rs>, как будто не замечая холодного, оскорбительного, устремленного на <rs ref="Boris_Drubetskoy">нее</rs> взгляда.</s></said> </p>
+          <p><s><rs ref="Vasili_Kuragin" rolename="agent">Князь Василий</rs> вопросительно, до
+              недоумения, посмотрел на <rs ref="Boris_Drubetskoy">нее</rs>, потом на <rs ref="Boris_Drubetskoy" rolename="undergoer">Бориса</rs>.</s>
+            <s><rs ref="Boris_Drubetskoy" rolename="agent">Борис</rs> учтиво поклонился.</s>
+            <s><rs ref="Vasili_Kuragin" rolename="undergoer">Князь Василий</rs>, не отвечая на поклон,
+              отвернулся к <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">Анне Михайловне</rs> и на
+                <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent">ее</rs> вопрос
+              отвечал движением головы и губ, которое означало самую плохую надежду для <rs rolename="experiencer">больного</rs>.</s> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="" speech_text="Ах, это ужасно!. Неужели?. Он сам хотел благодарить вас.. Страшно подумать.... Это мой сын" verb="прибавить" author_comment="- воскликнула Анна Михайловна.-" speech_id="425"><s>-
+                Неужели?- воскликнула <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent" target="id_11123">Анна Михайловна</rs>.- Ах, это ужасно! Страшно
+                подумать... Это <rs>мой</rs> сын,- прибавила <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" xml:id="id_11123">она</rs>, указывая
+                на <rs ref="Boris_Drubetskoy" rolename="undergoer">Бориса</rs>.- <rs ref="Vasili_Kuragin" rolename="experiencer">Он</rs> сам хотел благодарить
+              вас.</s></said> </p>
+          <p><s><rs ref="Boris_Drubetskoy" rolename="agent">Борис</rs> еще раз учтиво
+              поклонился.</s> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Vasili_Kuragin" speech_text="- Верьте, князь, что сердце матери никогда не забудет того, что вы сделали для нас." speech_id="392"><s>- Верьте, <rs>князь</rs>, что сердце <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="undergoer">матери</rs> никогда
+                не забудет того, что <rs rolename="agent">вы</rs> сделали для нас.</s></said> </p>
+          <p><said who="Vasili_Kuragin" corresp="Princess_Anna_Mikhaylovna_Drubetskaya" speech_text="Я рад, что мог сделать вам приятное, любезная моя Анна Михайловна," verb="сказать" author_comment="- сказал князь Василий, оправляя жабо и в жесте и голосе проявляя здесь, в Москве, пред покровительствуемою Анною Михайловной еще гораздо большую важность, чем в Петербурге, на вечере у Annette Шерер." speech_id="406"><s>- <rs rolename="undergoer">Я</rs> рад, что мог сделать <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="experiencer">вам</rs>
+                приятное, любезная <rs>моя</rs>
+                <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">Анна Михайловна</rs>,- сказал <rs ref="Vasili_Kuragin" rolename="agent">князь Василий</rs>, оправляя жабо и в жесте
+                и голосе проявляя здесь, в Москве, пред покровительствуемою <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">Анною Михайловной</rs> еще гораздо
+                большую важность, чем в Петербурге, на вечере у Annette <rs ref="Anna_Pavlovna_Scherer" rolename="agent">Шерер</rs>.</s></said> </p>
+          <p><said who="Vasili_Kuragin" corresp="Vasili_Kuragin" speech_text="Старайтесь служить хорошо и быть достойным," verb="прибавить" author_comment="- прибавил он, строго обращаясь к Борису." speech_id="420"><s>-
+                Старайтесь служить хорошо и быть достойным,- прибавил он, строго обращаясь к <rs ref="Boris_Drubetskoy">Борису</rs>.</s></said><said who="Vasili_Kuragin" corresp="Boris_Drubetskoy" speech_text="Вы здесь в отпуску?. Я рад..." verb="продиктовать" author_comment="- продиктовал он своим бесстрастным тоном." speech_id="415"><s>- <rs>Я</rs> рад... Вы здесь в отпуску?- продиктовал он своим
+                бесстрастным тоном.</s></said> </p>
+          <p><said who="Boris_Drubetskoy" corresp="Vasili_Kuragin" speech_text="Жду приказа, ваше сиятельство, чтоб отправиться по новому назначению," verb="отвечать" author_comment="- отвечал Борис, не выказывая ни досады за резкий тон князя, ни желания вступить в разговор, но так спокойно и почтительно, что князь пристально поглядел на него." speech_id="413"><s>- Жду приказа, ваше <rs>сиятельство</rs>, чтоб отправиться по
+                новому назначению,- отвечал <rs ref="Boris_Drubetskoy" rolename="agent">Борис</rs>,
+                не выказывая ни досады за резкий тон <rs rolename="undergoer">князя</rs>, ни желания
+                вступить в разговор, но так спокойно и почтительно, что <rs rolename="agent">князь</rs> пристально поглядел на <rs ref="Boris_Drubetskoy">него</rs>.</s></said> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Boris_Drubetskoy" speech_text="- Вы живете с матушкой?" speech_id="397"><s>- Вы живете с
+                  <rs>матушкой</rs>?</s></said> </p>
+          <p><said who="Boris_Drubetskoy" corresp="Pierre_Bezukhov" speech_text="- Я живу у графини Ростовой,- сказал Борис, опять прибавив,- ваше сиятельство." speech_id="393"><s>- <rs ref="Boris_Drubetskoy" rolename="agent" target="id_11125">Я</rs> живу у <rs ref="Countess_Natalya_Rostova" xml:id="id_11125">графини
+                  Ростовой</rs>,- сказал <rs ref="Boris_Drubetskoy" rolename="agent">Борис</rs>,
+                опять прибавив,- ваше сиятельство.</s></said> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Vasili_Kuragin" speech_text="Это тот Илья Ростов, который женился на Nathalie Шиншиной," verb="сказать" author_comment="- сказала Анна Михайловна." speech_id="408"><s>- Это
+                тот <rs ref="Count_Ilya_Rostov">Илья Ростов</rs>, <rs ref="Count_Ilya_Rostov">который</rs> женился на Nathalie <rs ref="Pyotr_Nikolaitch_Shinshin">Шиншиной</rs>,- сказала <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent">Анна Михайловна</rs>.</s></said> </p>
+          <p><said who="Vasili_Kuragin" corresp="Princess_Anna_Mikhaylovna_Drubetskaya" speech_text="Je n'ai jamais pu concevoir, comment Nathalie s'est décidée à épouser cet ours mal-léché!. Знаю, знаю" verb="сказать" author_comment=", - сказал князь Василий своим монотонным голосом. -" speech_id="421"><s>- Знаю, знаю, - сказал <rs ref="Vasili_Kuragin" rolename="agent">князь Василий</rs>
+                <rs ref="Vasili_Kuragin" rolename="undergoer">своим</rs> монотонным голосом. - Je n'ai
+                jamais pu concevoir, comment Nathalie s'est décidée à épouser cet ours
+                mal-léché!</s></said>
+            <s>Un personnage complètement stupide et ridicule.</s>
+            <s>Et joueur à ce qu'on dit.</s> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Vasili_Kuragin" speech_text="Mais très brave homme, mon prince," verb="просить" author_comment="- заметила Анна Михайловна, трогательно улыбаясь, как будто и она знала, что граф Ростов заслуживал такого мнения, но просила пожалеть бедного старика." speech_id="417"><s>- Mais très brave homme, mon prince,- заметила <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent">Анна Михайловна</rs>,
+                трогательно улыбаясь, как будто и <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">она</rs> знала, что <rs ref="Count_Ilya_Rostov" rolename="experiencer">граф
+                  Ростов</rs> заслуживал такого мнения, но просила пожалеть бедного <rs rolename="undergoer">старика</rs>.</s></said> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Vasili_Kuragin" speech_text="Что говорят доктора?" verb="спросить" author_comment="- спросила княгиня, помолчав немного и опять выражая большую печаль на своем исплаканном лице." speech_id="423"><s>- Что говорят доктора?- спросила <rs rolename="agent">княгиня</rs>,
+                помолчав немного и опять выражая большую печаль на <rs>своем</rs> исплаканном
+                лице.</s></said> </p>
+          <p><said who="Vasili_Kuragin" corresp="Princess_Anna_Mikhaylovna_Drubetskaya" speech_text="Мало надежды," verb="сказать" author_comment="- сказал князь." speech_id="422"><s>- Мало надежды,- сказал <rs rolename="agent">князь</rs>.</s></said> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Vasili_Kuragin" speech_text="C'est son filleul,. А мне так хотелось еще раз поблагодарить дядю за все его благодеяния мне и Боре." verb="прибавить" author_comment="- прибавила она таким тоном, как будто это известие должно было крайне обрадовать князя Василия." speech_id="401"><s>- А <rs rolename="experiencer">мне</rs> так хотелось еще раз
+                поблагодарить <rs rolename="addressee">дядю</rs> за все <rs>его</rs> благодеяния <rs rolename="experiencer">мне</rs> и <rs ref="Boris_Drubetskoy" rolename="experiencer">Боре</rs>. C'est son filleul,- прибавила <rs rolename="agent">она</rs> таким тоном, как будто это известие должно было крайне
+                обрадовать <rs ref="Vasili_Kuragin" rolename="experiencer">князя
+              Василия</rs>.</s></said> </p>
+          <p><s><rs ref="Vasili_Kuragin" rolename="agent">Князь Василий</rs> задумался и
+              поморщился.</s>
+            <s><rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="experiencer" target="id_11128">Анна Михайловна</rs> поняла, что <rs ref="Vasili_Kuragin" rolename="experiencer" xml:id="id_11128">он</rs> боялся найти в <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya"><rs>ней</rs></rs>
+              <rs rolename="undergoer">соперницу</rs> по завещанию <rs ref="Count_Kirill_Bezukhov" rolename="agent">графа Безухова</rs>.</s>
+            <s><rs ref="Princess_Anna_Mikhaylovna_Drubetskaya"><rs rolename="experiencer">Она</rs></rs> поспешила успокоить <rs ref="Vasili_Kuragin" rolename="experiencer">его</rs>.</s> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Vasili_Kuragin" speech_text="- Ежели бы не моя истинная любовь и преданность дяде,- сказала она, с особенною уверенностию и небрежностию выговаривая это слово,- я знаю его характер, благородный, прямой, но ведь одни княжны при нем..." speech_id="391"><s>- Ежели бы не <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">моя</rs> истинная любовь и преданность <rs>дяде</rs>,- сказала <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">она</rs>, с особенною уверенностию и
+                небрежностию выговаривая это слово,- <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="experiencer">я</rs> знаю <rs rolename="undergoer">его</rs> характер,
+                благородный, прямой, но ведь одни княжны при <rs ref="Vasili_Kuragin">нем</rs>...
+                Они еще молоды...- <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent">Она</rs> наклонила голову и прибавила шепотом: - Исполнил ли <rs rolename="agent">он</rs> последний долг, <rs>князь</rs>? Как драгоценны эти последние минуты! Ведь
+                хуже быть не может; <rs>его</rs> необходимо приготовить, ежели <rs rolename="undergoer">он</rs> так плох. Мы, женщины, князь,- она нежно улыбнулась,- всегда знаем, как
+                говорить эти вещи.</s></said>
+            <s>Необходимо видеть <rs rolename="undergoer">его</rs>.</s>
+            <s>Как бы тяжело это ни было для <rs rolename="experiencer">меня</rs>, но <rs rolename="experiencer">я</rs> привыкла уже страдать.</s> </p>
+          <p><s><rs rolename="experiencer">Князь</rs>, видимо, понял, и понял, как и на вечере у
+              Annette <rs ref="Anna_Pavlovna_Scherer" rolename="undergoer">Шерер</rs>, что от <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">Анны Михайловны</rs> трудно
+              отделаться.</s> </p>
+          <p><said who="Vasili_Kuragin" corresp="Princess_Anna_Mikhaylovna_Drubetskaya" speech_text="Не было бы тяжело ему это свидание, chère Анна Михайловна. Подождем до вечера, доктора обещали кризис." verb="сказать" author_comment=",- сказал он.-" speech_id="403"><s>- Не было бы тяжело
+                  <rs rolename="experiencer">ему</rs> это свидание, chère Анна Михайловна,- сказал
+                  <rs rolename="agent">он</rs>.- Подождем до вечера, доктора обещали
+              кризис.</s></said> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Vasili_Kuragin" speech_text="- Но нельзя ждать, князь, в эти минуты." speech_id="396"><s>- Но нельзя
+                ждать, <rs>князь</rs>, в эти минуты. Pensez, il y va du salut de son
+              âme..</s></said><s>. Ah!</s>
+            <s>c'est terrible, les devoirs d'un chrétien...</s> </p>
+          <p><s>Из внутренних комнат отворилась дверь, и вышла одна из княжон - племянниц
+                <rs>графа</rs>, с угрюмым и холодным лицом и поразительно несоразмерною по ногам
+              длинною талией.</s> </p>
+          <p><s><rs ref="Vasili_Kuragin" rolename="agent">Князь Василий</rs> обернулся к
+            ней.</s> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Vasili_Kuragin" speech_text="- Ну, что он?" speech_id="395"><s>- Ну, что <rs ref="Vasili_Kuragin">он</rs>?</s></said> </p>
+          <p><said who="Catiche(eldest princess)" corresp="Vasili_Kuragin" speech_text="Все то же.. И как вы хотите, этот шум..." verb="сказать" author_comment="- сказала княжна, оглядывая Анну Михайловну, как незнакомую." speech_id="409"><s>- Все то же. И как вы хотите, этот шум...- сказала <rs rolename="agent">княжна</rs>, оглядывая <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">Анну Михайловну</rs>, как
+                незнакомую.</s></said> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="" speech_text="Ah, chère, je ne vous reconnaissais pas," verb="сказать" author_comment="- с счастливою улыбкой сказала Анна Михайловна, легкою иноходью подходя к племяннице графа." speech_id="424"><s>- Ah, chère, je ne vous reconnaissais pas,- с счастливою улыбкой
+                сказала <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent">Анна
+                  Михайловна</rs>, легкою иноходью подходя к <rs>племяннице</rs>
+                <rs>графа</rs>.</s></said><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="" speech_text="J'imagine combien vous avez souffert,. Je viens d'arriver et je suis à vous pour vous aider à soigner mon oncle." verb="прибавить" author_comment="- прибавила она, с участием закатывая глаза." speech_id="416"><s>- Je viens d'arriver et je suis à vous pour vous aider à soigner
+                mon oncle. J'imagine combien vous avez souffert,- прибавила <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">она</rs>, с участием закатывая
+                глаза.</s></said> </p>
+          <p><s><rs rolename="agent">Княжна</rs> ничего не ответила, даже не улыбнулась и тотчас же
+              вышла.</s>
+            <s><rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent">Анна Михайловна</rs>
+              сняла перчатки и в завоеванной позиции расположилась на кресле, пригласив <rs ref="Vasili_Kuragin" rolename="undergoer">князя Василия</rs> сесть подле <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">себя</rs>.</s> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Boris_Drubetskoy" speech_text="- Борис!- сказала она сыну и улыбнулась.- Я пройду к графу, к дяде, а ты поди к Пьеру, mon ami, покамест, да не забудь передать ему приглашение от Ростовых." speech_id="411"><s>- <rs ref="Boris_Drubetskoy" target="id_111210">Борис</rs>!-
+                сказала <rs><rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" xml:id="id_111210">она</rs></rs>
+                <rs rolename="addressee">сыну</rs> и улыбнулась.</s></said><s>- <rs rolename="agent">Я</rs> пройду к <rs>графу</rs>, к <rs>дяде</rs>, а ты поди к <rs ref="Pierre_Bezukhov">Пьеру</rs>, mon ami, покамест, да не забудь передать <rs><rs ref="Boris_Drubetskoy"><rs ref="Pierre_Bezukhov" rolename="addressee">ему</rs></rs></rs> приглашение от Ростовых. <rs rolename="agent">Они</rs> зовут
+                  <rs><rs ref="Boris_Drubetskoy"><rs ref="Pierre_Bezukhov" rolename="undergoer">его</rs></rs></rs> обедать. <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">Я</rs> думаю, <rs ref="Pierre_Bezukhov" rolename="agent">он</rs> не поедет? -
+              обратилась <rs><rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">она</rs></rs> к <rs ref="Vasili_Kuragin">князю</rs>.</s> </p>
+          <p><said who="Vasili_Kuragin" corresp="Princess_Anna_Mikhaylovna_Drubetskaya" speech_text="Je serais très content si vous me débarrassez de ce jeune homme.... Напротив" verb="сказать" author_comment=",- сказал князь, видимо, сделавшийся не в духе.-" speech_id="414"><s>- Напротив,- сказал <rs ref="Vasili_Kuragin" rolename="agent">князь</rs>, видимо, сделавшийся не в духе.- Je serais très content si vous me
+                débarrassez de ce jeune homme... Сидит тут. <rs ref="Count_Kirill_Bezukhov" rolename="agent">Граф</rs> ни разу не спросил про <rs ref="Pierre_Bezukhov">него</rs>.</s></said> </p>
+          <p><s><rs>Он</rs> пожал плечами.</s>
+            <s><rs>Официант</rs> повел <rs ref="Boris_Drubetskoy" rolename="agent">молодого
+                человека</rs> вниз и вверх по другой лестнице к <rs ref="Pierre_Bezukhov">Петру
+                Кирилловичу</rs>.</s>  </p>
+        </div>
+        

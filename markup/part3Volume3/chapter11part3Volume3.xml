@@ -1,0 +1,102 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="11" type="chapter" xml:id="chapter11part3Volume3">
+          <p> </p>
+          <p><s>В середине этого нового рассказа <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs> позвали к <rs>главнокомандующему</rs>.</s> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> вошел в кабинет <rs>графа
+                Растопчина</rs>.</s>
+            <s><rs ref="Rastopchin" rolename="agent">Растопчин</rs>, сморщившись, потирал лоб и
+              глаза рукой, в то время как вошел <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s>
+            <s>Невысокий <rs rolename="agent">человек</rs> говорил что-то и, как только вошел <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, замолчал и вышел.</s> </p>
+          <p>
+            <s>- А!</s>
+            <said who="Count_Rostopchin" corresp="" speech_text="как только вышел этот человек" verb="сказать" speech_id="4838"><s>здравствуйте, <rs>воин</rs> великий, - сказал <rs ref="Rastopchin" rolename="addressee">Растопчин</rs>, как только вышел этот <rs rolename="agent">человек</rs>.</s></said>
+            <said who="Count_Rostopchin" corresp="" speech_text=" но он намерен был простить" verb="сказать" speech_id="4834"><s>- Слышали про ваши prouesses! Но не в том дело. Mon
+                cher, entre nous, вы масон? - сказал <rs ref="Rastopchin" rolename="agent">граф
+                  Растопчин</rs> строгим тоном, как будто было что-то дурное в этом, но что он
+                намерен был простить.</s></said>
+            <s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> молчал.</s>
+            <s>- Mon cher, je suis bien informé, но я знаю, что есть масоны и масоны, и надеюсь, что
+              вы не принадлежите к тем, которые под видом спасенья рода человеческого хотят погубить
+              Россию.</s> </p>
+          <p>
+            <said who="Pierre_Bezukhov" corresp="Count_Rostopchin" speech_text="Да, я масон," verb="отвечать" author_comment="- отвечал Пьер." speech_id="4841"><s>- Да, я масон, -
+                отвечал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s></said> </p>
+          <p>
+            <said who="Count_Rostopchin" corresp="Pierre_Bezukhov" speech_text="Ну вот видите ли, мой милый. Вам, я думаю, не безызвестно, что господа Сперанский и Магницкий отправлены куда следует; то же сделано с господином Ключаревым, то же и с другими, которые под видом сооружения храма Соломона старались разрушить храм своего отечества. Вы можете понимать, что на это есть причины и что я не мог бы сослать здешнего почт-директора, ежели бы он не был вредный человек. Теперь мне известно, что вы послали ему свой экипаж для подъема из города и даже что вы приняли от него бумаги для хранения. Я вас люблю и не желаю вам зла, и как вы в два раза моложе меня, то я, как отец, советую вам прекратить всякое сношение с такого рода людьми и самому уезжать отсюда как можно скорее." speech_id="4835"><s>- Ну вот видите ли, мой <rs>милый</rs>. Вам, я думаю, не
+                безызвестно, что господа <rs ref="Speransky">Сперанский</rs> и <rs rolename="undergoer">Магницкий</rs> отправлены куда следует; то же сделано с <rs>господином
+                  Ключаревым</rs>, то же и с другими, которые под видом сооружения храма <rs rolename="possessor">Соломона</rs> старались разрушить храм своего отечества. Вы
+                можете понимать, что на это есть причины и что я не мог бы сослать здешнего
+                почт-директора, ежели бы <rs>он</rs> не был вредный человек.</s></said>
+            <s>Теперь мне известно, что вы послали <rs rolename="addressee">ему</rs> свой экипаж для
+              подъема из города и даже что вы приняли от него бумаги для хранения.</s>
+            <s><rs rolename="experiencer">Я</rs> вас люблю и не желаю вам зла, и как вы в два раза
+              моложе меня, то я, как <rs>отец</rs>, советую вам прекратить всякое сношение с такого
+              рода людьми и самому уезжать отсюда как можно скорее.</s> </p>
+          <p>
+            <said who="Pierre_Bezukhov" corresp="Count_Rostopchin" speech_text="Но в чем же, граф, вина Ключарева?" verb="спросить" author_comment="- спросил Пьер." speech_id="4837"><s>- Но в чем же, <rs>граф</rs>,
+                вина <rs rolename="experiencer">Ключарева</rs>? - спросил <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s></said> </p>
+          <p>
+            <said who="Count_Rostopchin" corresp="Pierre_Bezukhov" speech_text="Это мое дело знать и не ваше меня спрашивать," verb="вскрикнуть" author_comment="- вскрикнул Растопчин." speech_id="4843"><s>- Это мое дело знать и не
+                ваше меня спрашивать, - вскрикнул <rs ref="Rastopchin" rolename="agent">Растопчин</rs>.</s></said> </p>
+          <p>
+            <said who="Pierre_Bezukhov" corresp="Count_Rostopchin" speech_text="Ежели его обвиняют в том, что он распространял прокламации Наполеона, то ведь это не доказано.. И Верещагина..." speech_id="4832"><s>- Ежели его обвиняют в том, что он распространял прокламации <rs ref="Napoleon_Bonaparte" rolename="agent">Наполеона</rs>, то ведь это не доказано,
+                - сказал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> (не глядя на <rs ref="Rastopchin">Растопчина</rs>), - и Верещагина...</s></said> </p>
+          <p>
+            <said who="Count_Rostopchin" corresp="Pierre_Bezukhov" speech_text="Nous sommes à la veille d'un désastre publique, et je n'ai pas le temps de dire des gentillesses à tous ceux qui ont affaire à moi. Голова иногда кругом идет! Eh! bien, mon cher, qu'est ce que vous faites, vous personnellement?. Nous y voilà. Верещагин изменник и предатель, который получит заслуженную казнь. Но я не призвал вас для того, чтобы обсуждать мои дела, а для того, чтобы дать вам совет или приказание, ежели вы этого хотите.. Прошу вас прекратить сношения с такими господами, как Ключарев, и ехать отсюда. А я дурь выбью, в ком бы она ни была." verb="сказать" author_comment=", - сказал Растопчин с тем жаром злобы, с которым говорят люди при воспоминании об оскорблении. -" speech_id="4839"><s>- Nous y voilà, - вдруг нахмурившись, перебивая <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs>, еще громче прежнего вскрикнул
+                Растопчин. - <rs>Верещагин</rs> изменник и предатель, который получит заслуженную
+                казнь, - сказал Растопчин с тем жаром злобы, с которым говорят люди при воспоминании
+                об оскорблении. - Но <rs rolename="agent">я</rs> не призвал вас для того, чтобы
+                обсуждать <rs rolename="experiencer">мои</rs> дела, а для того, чтобы дать вам совет
+                или приказание, ежели вы этого хотите. Прошу вас прекратить сношения с такими
+                господами, как <rs>Ключарев</rs>, и ехать отсюда. А <rs rolename="agent">я</rs> дурь
+                выбью, в ком бы она ни была.</s></said>
+            <s>- И, вероятно, спохватившись, что <rs rolename="agent">он</rs> как будто кричал на
+                <rs ref="Pierre_Bezukhov" rolename="experiencer">Безухова</rs>, <rs>который</rs> еще
+              ни в чем не был виноват, <rs>он</rs> прибавил, дружески взяв за руку <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs>: -Nous sommes à la veille d'un
+              désastre publique, et je n'ai pas le temps de dire des gentillesses à tous ceux qui
+              ont affaire à moi.</s>
+            <s>Голова иногда кругом идет!</s>
+            <s>Eh!</s>
+            <s>bien, mon cher, qu'est ce que vous faites, vous personnellement?</s> </p>
+          <p>
+            <said who="Pierre_Bezukhov" corresp="Count_Rostopchin" speech_text="Mais rien," verb="отвечать" author_comment="- отвечал Пьер, все не поднимая глаз и не изменяя выражения задумчивого лица." speech_id="4833"><s>- Mais rien, - отвечал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, все не поднимая глаз и не изменяя выражения задумчивого
+              лица.</s></said>  </p>
+          <p><s><rs rolename="experiencer">Граф</rs> нахмурился.</s> </p>
+          <p>
+            <said who="Count_Rostopchin" corresp="Pierre_Bezukhov" speech_text="Un conseil d'ami, mon cher. Décampez et au plutôt, c'est tout ce que je vous dis. A bon entendeur salut! Прощайте, мой милый. Ах, да. правда ли, что графиня попалась в лапки des saints pères de la Société de Jésus?" speech_id="4840"><s>- Un conseil d'ami, mon cher. Décampez et au plutôt, c'est tout ce
+                que je vous dis. A bon entendeur salut!</s></said>
+            <s>Прощайте, <rs>мой</rs>
+              <rs>милый</rs>.</s>
+            <s>Ах, да, - прокричал он ему из двери, - правда ли, что <rs rolename="undergoer">графиня</rs> попалась в лапки des saints pères de la Société de Jésus?</s> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> ничего не ответил и,
+              нахмуренный и сердитый, каким <rs ref="Pierre_Bezukhov" rolename="undergoer">его</rs>
+              никогда не видали, вышел от <rs ref="Rastopchin">Растопчина</rs>.</s> </p>
+          <p><s>Когда <rs ref="Pierre_Bezukhov" rolename="agent">он</rs> приехал домой, уже
+              смеркалось.</s>
+            <s>Человек восемь разных людей побывало у него в этот вечер.</s>
+            <s><rs>Секретарь</rs> комитета, <rs>полковник</rs>
+              <rs>его</rs> батальона, <rs>управляющий</rs>, <rs>дворецкий</rs> и разные
+              просители.</s>
+            <s>У всех были дела до <rs ref="Pierre_Bezukhov">Пьера</rs>, которые <rs ref="Pierre_Bezukhov">он</rs> должен был разрешить.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="experiencer">Пьер</rs> ничего не понимал, не
+              интересовался этими делами и давал на все вопросы только такие ответы, которые бы
+              освободили <rs ref="Pierre_Bezukhov" rolename="experiencer">его</rs> от этих
+              людей.</s>
+            <s>Наконец, оставшись один, <rs ref="Pierre_Bezukhov" rolename="agent">он</rs>
+              распечатал и прочел письмо <rs rolename="agent">жены</rs>.</s> </p>
+          <p><said who="Pierre_Bezukhov" corresp="" speech_text="Они - солдаты на батарее, князь Андрей убит... старик... Простота есть покорность богу. Страдать надо... значение всего... сопрягать надо... жена идет замуж... Забыть и понять надо...'" speech_id="4836"><s>'Они - солдаты на батарее, <rs ref="AndreyBolkonsky" rolename="undergoer">князь Андрей</rs> убит... <rs>старик</rs>... Простота есть
+                покорность богу. Страдать надо... значение всего... сопрягать надо... <rs rolename="agent">жена</rs> идет замуж... Забыть и понять надо...'</s></said>
+            <s>И <rs rolename="agent">он</rs>, подойдя к постели, не раздеваясь повалился на нее и
+              тотчас же заснул.</s> </p>
+          <p><s>Когда <rs>он</rs> проснулся на другой день утром, <rs rolename="agent">дворецкий</rs> пришел доложить, что от <rs ref="Rastopchin">графа Растопчина</rs>
+              пришел нарочно посланный <rs rolename="agent">полицейский чиновник</rs> - узнать,
+              уехал ли или уезжает ли <rs rolename="agent">граф Безухов</rs>.</s> </p>
+          <p><s>Человек десять разных людей, имеющих дело до <rs ref="Pierre_Bezukhov">Пьера</rs>,
+              ждали его в гостиной.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> поспешно оделся, и, вместо того
+              чтобы идти к тем, которые ожидали его, он пошел на заднее крыльцо и оттуда вышел в
+              ворота.</s> </p>
+          <p><s>С тех пор и до конца московского разорения никто из домашних Безуховых, несмотря на
+              все поиски, не видал больше <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs> и
+              не знал, где он находился.</s>  </p>
+        </div>
+        

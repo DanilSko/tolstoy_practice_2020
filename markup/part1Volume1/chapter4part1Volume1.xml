@@ -1,0 +1,347 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="4" type="chapter" xml:id="chapter4part1Volume1">
+          <p> </p>
+          <p><s>IV</s> </p>
+          <p><s><rs ref="Anna_Pavlovna_Scherer" rolename="agent" target="id_1143">Анна Павловна</rs>
+              улыбнулась и обещалась заняться <rs ref="Pierre_Bezukhov" rolename="undergoer" xml:id="id_1143">Пьером</rs>, <rs ref="Pierre_Bezukhov">который</rs>, <rs ref="Anna_Pavlovna_Scherer" rolename="experiencer">она</rs> знала, приходился родня
+              по отцу <rs ref="Vasili_Kuragin">князю Василью</rs>.</s>
+            <s>Пожилая <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent">дама</rs>,
+              сидевшая прежде с ma tante, торопливо встала и догнала князя <rs ref="Vasili_Kuragin" rolename="undergoer">Василья</rs> в передней.</s>
+            <s>С лица <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">ее</rs> исчезла вся прежняя
+              притворность интереса.</s>
+            <s>Доброе, исплаканное лицо <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">ее</rs>
+              выражало только беспокойство и страх.</s> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Vasili_Kuragin" speech_text="Что же вы мне скажете, князь, о моем Борисе?. Я не могу оставаться дольше в Петербурге. Скажите, какие известия я могу привезти моему бедному мальчику?" verb="сказать" author_comment="- сказала она, догоняя его в передней." speech_id="99"><s>- Что же <rs rolename="agent" type="address">вы</rs>
+                <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="addressee">мне</rs>
+                скажете, <rs>князь</rs>, о <rs>моем</rs>
+                <rs ref="Boris_Drubetskoy" rolename="theme" type="mention">Борисе</rs>?- сказала <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">она</rs>, догоняя <rs ref="Vasili_Kuragin" rolename="undergoer">его</rs> в передней.</s></said>
+            <s>(Она выговаривала имя Борис с особенным ударением на о́.) - <rs>Я</rs> не могу
+              оставаться дольше в Петербурге.</s>
+            <s>Скажите, какие известия <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">я</rs> могу
+              привезти <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">моему</rs> бедному <rs ref="Boris_Drubetskoy" rolename="addressee">мальчику</rs>?</s> </p>
+          <p><s>Несмотря на то, что <rs ref="Vasili_Kuragin" rolename="agent">князь Василий</rs>
+              неохотно и почти неучтиво слушал пожилую <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="undergoer">даму</rs> и даже
+              выказывал нетерпение, <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent">она</rs> ласково и трогательно улыбалась <rs ref="Vasili_Kuragin" rolename="addressee">ему</rs> и, чтоб <rs ref="Vasili_Kuragin" rolename="agent">он</rs> не ушел, взяла <rs ref="Vasili_Kuragin" rolename="undergoer">его</rs> за
+              руку.</s> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Vasili_Kuragin" speech_text="Что вам стоит сказать слово государю, и он прямо будет переведен в гвардию," verb="просить" author_comment="- просила она." speech_id="97"><s>- Что вам стоит
+                сказать слово <rs ref="Tsar_Alexander_I_of_Russia" rolename="addressee">государю</rs>, и <rs ref="Boris_Drubetskoy"><rs rolename="undergoer">он</rs></rs>
+                прямо будет переведен в гвардию,- просила <rs>она</rs>.</s></said> </p>
+          <p><said who="Vasili_Kuragin" corresp="Princess_Anna_Mikhaylovna_Drubetskaya" speech_text="Поверьте, что я сделаю все, что могу, княгиня,. но мне трудно просить государя; я бы советовал вам обратиться к Румянцеву, через князя Голицына: это было бы умнее." verb="советовать" speech_id="139"><s>- Поверьте, что <rs rolename="agent">я</rs>
+                сделаю все, что могу, <rs>княгиня</rs>,- отвечал <rs ref="Vasili_Kuragin" rolename="agent">князь Василий</rs>,- но <rs>мне</rs> трудно просить <rs ref="Tsar_Alexander_I_of_Russia" rolename="addressee">государя</rs>; <rs>я</rs> бы
+                советовал <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="addressee">вам</rs> обратиться к <rs rolename="addressee">Румянцеву</rs>, через <rs>князя
+                  Голицына</rs>: это было бы умнее.</s></said> </p>
+          <p><s>Пожилая <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="possessor">дама</rs> носила имя <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="undergoer">княгини Друбецкой</rs>, одной из лучших фамилий России, но <rs rolename="undergoer">она</rs> была бедна, давно вышла из света и утратила прежние
+              связи.</s>
+            <s><rs rolename="agent">Она</rs> приехала теперь, чтобы выхлопотать определение в
+              гвардию <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya"><rs>своему</rs></rs>
+              единственному <rs ref="Boris_Drubetskoy" rolename="benemalefactive">сыну</rs>.</s>
+            <s>Только затем, чтобы увидеть <rs ref="Vasili_Kuragin" rolename="undergoer">князя
+                Василия</rs>, <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent">она</rs> назвалась и приехала на вечер к <rs ref="Anna_Pavlovna_Scherer">Анне
+                Павловне</rs>, только затем <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya"><rs rolename="agent">она</rs></rs> слушала историю <rs ref="viscount" rolename="agent">виконта</rs>.</s>
+            <s><rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="experiencer">Она</rs>
+              испугалась слов <rs ref="Vasili_Kuragin" rolename="agent">князя Василия</rs>; когда-то
+              красивое лицо <rs ref="Anna_Pavlovna_Scherer">ее</rs> выразило озлобление, но это
+              продолжалось только минуту.</s>
+            <s><rs ref="Princess_Anna_Mikhaylovna_Drubetskaya"><rs>Она</rs></rs> опять улыбнулась и
+              крепче схватилась за руку <rs ref="Vasili_Kuragin" rolename="possessor">князя
+                Василия</rs>.</s> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Vasili_Kuragin" speech_text="- Послушайте, князь, я никогда не просила вас, никогда не буду просить, никогда не напоминала вам о дружбе моего отца к вам." speech_id="141"><s>- Послушайте, <rs ref="Vasili_Kuragin">князь</rs>,- сказала <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">она</rs>,- <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent">я</rs> никогда не
+                просила <rs ref="Vasili_Kuragin" rolename="addressee">вас</rs>, никогда не буду
+                просить, никогда не напоминала <rs ref="Vasili_Kuragin" rolename="experiencer">вам</rs> о дружбе <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="possessor">моего</rs>
+                <rs rolename="experiencer">отца</rs> к <rs ref="Vasili_Kuragin" rolename="benemalefactive">вам</rs>. Но теперь, <rs>я</rs> богом заклинаю <rs ref="Vasili_Kuragin" rolename="addressee">вас</rs>, сделайте это для <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">моего</rs>
+                <rs ref="Boris_Drubetskoy" rolename="benemalefactive">сына</rs>, и <rs>я</rs> буду
+                считать вас благодетелем,- торопливо прибавила <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">она</rs>.</s></said>
+            <said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Vasili_Kuragin" speech_text="Soyez le bon enfant que vous avez été,. Нет, вы не сердитесь, а вы обещайте мне.. Я просила Голицына, он отказал." verb="говорить" author_comment="- говорила она, стараясь улыбаться, тогда как в ее глазах были слезы." speech_id="103"><s>- Нет, вы не сердитесь, а вы обещайте <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="addressee">мне</rs>. <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent">Я</rs> просила <rs rolename="addressee">Голицына</rs>, <rs rolename="agent">он</rs> отказал. Soyez le
+                bon enfant que vous avez été,- говорила она, стараясь улыбаться, тогда как в ее
+                глазах были слезы.</s></said> </p>
+          <p><said who="HeleneKuragin" corresp="Vasili_Kuragin" speech_text="Папа́, мы опоздаем," verb="сказать" author_comment="- сказала, поворачивая свою красивую голову на античных плечах, княжна Элен, ожидавшая у двери." speech_id="114"><s>- <rs ref="Vasili_Kuragin">Папа́</rs>, мы опоздаем,- сказала,
+                поворачивая <rs ref="HeleneKuragin" rolename="possessor">свою</rs> красивую голову
+                на античных плечах, <rs ref="HeleneKuragin" rolename="agent">княжна Элен</rs>,
+                ожидавшая у двери.</s></said> </p>
+          <p><s>Но влияние в свете есть капитал, который надо беречь, чтоб он не исчез.</s>
+            <s><rs ref="Vasili_Kuragin" rolename="experiencer">Князь Василий</rs> знал это, и, раз
+              сообразив, что ежели бы <rs ref="Vasili_Kuragin" rolename="agent">он</rs> стал просить
+              за всех, кто <rs ref="Vasili_Kuragin" rolename="agent">его</rs> просит, то вскоре <rs ref="Vasili_Kuragin">ему</rs> нельзя было бы просить за <rs ref="Vasili_Kuragin">себя</rs>, <rs ref="Vasili_Kuragin" rolename="agent">он</rs> редко употреблял <rs ref="Vasili_Kuragin" rolename="agent">свое</rs> влияние.</s>
+            <s>В деле <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">княгини Друбецкой</rs>
+              <rs ref="Vasili_Kuragin" rolename="experiencer">он</rs> почувствовал, однако, после
+                <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent">ее</rs> нового
+              призыва, что-то вроде укора совести.</s>
+            <s><rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent" target="id_1146">Она</rs> напомнила <rs ref="Vasili_Kuragin" rolename="addressee" xml:id="id_1146">ему</rs> правду: первыми шагами <rs ref="Vasili_Kuragin">своими</rs> в службе <rs ref="Vasili_Kuragin" xml:id="id_114678">он</rs> был обязан <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" target="id_114678">ее</rs>
+              <rs>отцу</rs>.</s>
+            <s>Кроме того, <rs ref="Vasili_Kuragin">он</rs> видел по <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">ее</rs> приемам, что она одна из тех
+              женщин, особенно матерей, которые, однажды взяв себе что-нибудь в голову, не отстанут
+              до тех пор, пока не исполнят их желания, а в противном случае готовы на ежедневные,
+              ежеминутные приставания и даже на сцены.</s>
+            <s>Это последнее соображение поколебало <rs ref="Vasili_Kuragin" rolename="undergoer">его</rs>.</s> </p>
+          <p><said who="Vasili_Kuragin" corresp="Princess_Anna_Mikhaylovna_Drubetskaya" speech_text="Chère Анна Михайловна. Для меня почти невозможно сделать то, что вы хотите; но чтобы доказать вам, как я люблю вас и чту память покойного отца вашего, я сделаю невозможное: сын ваш будет переведен в гвардию, вот вам моя рука." verb="сказать" author_comment=",- сказал он с своею всегдашнею фамильярностью и скукой в голосе. -" speech_id="115"><s>- Chère <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">Анна
+                  Михайловна</rs>,- сказал <rs ref="Vasili_Kuragin" rolename="agent">он</rs> с <rs ref="Vasili_Kuragin">своею</rs> всегдашнею фамильярностью и скукой в голосе. - Для
+                  <rs ref="Vasili_Kuragin">меня</rs> почти невозможно сделать то, что <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="experiencer">вы</rs> хотите;
+                но чтобы доказать <rs><rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="addressee">вам</rs></rs>, как <rs rolename="experiencer">я</rs> люблю
+                    <rs><rs rolename="undergoer">вас</rs></rs> и чту память покойного <rs>отца</rs>
+                <rs><rs>вашего</rs></rs>, <rs rolename="agent">я</rs> сделаю невозможное: <rs rolename="undergoer">сын</rs>
+                <rs><rs>ваш</rs></rs> будет переведен в гвардию, вот <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">вам</rs>
+                <rs>моя</rs> рука. Довольны <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">вы</rs>?</s></said> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Vasili_Kuragin" speech_text="Милый мой, вы благодетель! Я иного и не ждала от вас; я знала, как вы добры." speech_id="80"><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Vasili_Kuragin" speech_text="- Милый мой, вы благодетель!" speech_id="135"><s>- <rs>Милый</rs>
+                  <rs>мой</rs>, <rs><rs>вы</rs></rs> благодетель!</s></said></said>
+            <s><rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="experiencer">Я</rs> иного и
+              не ждала от <rs><rs>вас</rs></rs>; <rs rolename="experiencer">я</rs> знала, как
+                  <rs><rs rolename="undergoer">вы</rs></rs> добры.</s>  </p>
+          <p><s><rs ref="Vasili_Kuragin" rolename="experiencer">Он</rs> хотел уйти.</s> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Vasili_Kuragin" speech_text="Постойте, два слова. Une fois passé aux gardes... - Она замялась. - Вы хороши с Михаилом Иларионовичем Кутузовым, рекомендуйте ему Бориса в адъютанты. Тогда бы я была покойна, и тогда бы уж..." speech_id="92"><s>- Постойте, два слова. Une fois passé aux gardes... - Она замялась.
+                - <rs><rs rolename="undergoer">Вы</rs></rs> хороши с <rs ref="Mikhail_Ilarionovich_Kutuzov">Михаилом Иларионовичем Кутузовым</rs>,
+                рекомендуйте <rs rolename="addressee">ему</rs>
+                <rs ref="Boris_Drubetskoy" rolename="undergoer">Бориса</rs> в адъютанты. Тогда бы <rs rolename="undergoer">я</rs> была покойна, и тогда бы уж...</s></said> </p>
+          <p><s><rs ref="Vasili_Kuragin" rolename="agent">Князь Василий</rs> улыбнулся.</s> </p>
+          <p><said who="Vasili_Kuragin" corresp="Princess_Anna_Mikhaylovna_Drubetskaya" speech_text="- Этого не обещаю." speech_id="140"><s>- Этого не обещаю. <rs><rs rolename="experiencer">Вы</rs></rs> знаете, как осаждают <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="experiencer">Кутузова</rs> с тех пор,
+                как <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="undergoer">он</rs> назначен
+                главнокомандующим. <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Он</rs>
+                <rs rolename="addressee">мне</rs> сам говорил, что все московские барыни сговорились
+                отдать <rs ref="Mikhail_Ilarionovich_Kutuzov">ему</rs> всех своих детей в
+                адъютанты.</s></said> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Vasili_Kuragin" speech_text="- Нет, обещайте, я не пущу вас, милый благодетель мой." speech_id="108"><s>- Нет, обещайте, <rs rolename="agent">я</rs> не пущу <rs rolename="undergoer">вас</rs>, милый благодетель <rs>мой</rs>.</s></said> </p>
+          <p><said who="HeleneKuragin" corresp="Vasili_Kuragin" speech_text="- Папа́, мы опоздаем." speech_id="116"><s>- <rs>Папа́</rs>,- опять тем же тоном повторила <rs ref="HeleneKuragin" rolename="agent">красавица</rs>,- <rs>мы</rs>
+              опоздаем.</s></said> </p>
+          <p><said who="Vasili_Kuragin" corresp="Princess_Anna_Mikhaylovna_Drubetskaya" speech_text="- Ну, au revoir, прощайте, видите..." speech_id="86"><s>- Ну, au revoir,
+                прощайте, видите...</s></said> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Vasili_Kuragin" speech_text="- Так завтра вы доложите государю?" speech_id="85"><s>- Так завтра вы
+                доложите <rs ref="Tsar_Alexander_I_of_Russia" rolename="addressee">государю</rs>?</s></said> </p>
+          <p><said who="Vasili_Kuragin" corresp="Princess_Anna_Mikhaylovna_Drubetskaya" speech_text="- Непременно, а Кутузову не обещаю." speech_id="124"><s>- Непременно, а
+                  <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="addressee">Кутузову</rs> не
+                обещаю.</s></said> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Vasili_Kuragin" speech_text="Нет, обещайте, обещайте, Basile," verb="сказать" author_comment="- сказала вслед ему Анна Михайловна, с улыбкой молодой кокетки, которая когда-то, должно быть, была ей свойственна, а теперь так не шла к ее истощенному лицу." speech_id="104"><s>- Нет, обещайте, обещайте, Basile,- сказала вслед <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="addressee" target="id_1148">ему</rs>
+                <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent" xml:id="id_1148">Анна Михайловна</rs>, с улыбкой молодой <rs rolename="agent">кокетки</rs>,
+                  <rs>которая</rs> когда-то, должно быть, была <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya">ей</rs> свойственна, а теперь так не
+                шла к <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="possessor">ее</rs>
+                истощенному лицу.</s></said> </p>
+          <p><s>Она, видимо, забыла свои годы и пускала в ход, по привычке, все старинные женские
+              средства.</s>
+            <s>Но как только он вышел, лицо ее опять приняло то же холодное, притворное выражение,
+              которое было на нем прежде.</s>
+            <s>Она вернулась к кружку, в котором <rs rolename="agent">виконт</rs> продолжал
+              рассказывать, и опять сделала вид, что слушает, дожидаясь времени уехать, так как дело
+              ее было сделано.</s> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="" speech_text="Et la nouvelle comédie des peuples de Gênes et de Lucques qui viennent présenter leurs vœux à M. Buonaparte. M. Buonaparte assis sur un trône, et exauçant les vœux des nations! Adorable! Non, mais c'est à en devenir folle! On dirait que le monde entier a perdu la tête.. Но как вы находите всю эту последнюю комедию du sacre de Milan?" verb="сказать" author_comment="- сказала Анна Павловна. -" speech_id="138"><s>- Но как
+                вы находите всю эту последнюю комедию du sacre de Milan? - сказала <rs ref="Anna_Pavlovna_Scherer" rolename="agent">Анна Павловна</rs>. - Et la nouvelle
+                comédie des peuples de Gênes et de Lucques qui viennent présenter leurs vœux à M.
+                Buonaparte. M. Buonaparte assis sur un trône, et exauçant les vœux des
+              nations!</s></said>
+            <s>Adorable!</s>
+            <s>Non, mais c'est à en devenir folle!</s>
+            <s>On dirait que le monde entier a perdu la tête.</s> </p>
+          <p><s><rs ref="AndreyBolkonsky" rolename="agent">Князь Андрей</rs> усмехнулся, прямо глядя
+              в лицо <rs ref="Anna_Pavlovna_Scherer" rolename="possessor">Анны
+            Павловны</rs>.</s> </p>
+          <p><said who="AndreyBolkonsky" corresp="Anna_Pavlovna_Scherer" speech_text="- 'Dieu me la donne, gare à qui la touche',- сказал он (слова Бонапарте, сказанные при возложении короны) ." speech_id="83"><said who="AndreyBolkonsky" corresp="viscount;Anna_Pavlovna_Scherer" speech_text="Dieu me la donne, gare à qui la touche'" verb="сказать" speech_id="127"><s>- 'Dieu me la donne, gare à qui la touche',- сказал <rs ref="AndreyBolkonsky" rolename="agent">он</rs> (слова Бонапарте, сказанные при возложении короны)
+                  .</s></said></said>
+            <said who="AndreyBolkonsky" corresp="Anna_Pavlovna_Scherer" speech_text="On dit qu'il a été très beau en prononçant ces paroles," verb="прибавить" author_comment="- прибавил он и еще раз повторил эти слова по-итальянски: 'Dio mi la dona, guai a chi la tocca'." speech_id="121"><s>- On dit qu'il a été très beau en prononçant ces paroles,- прибавил
+                  <rs ref="AndreyBolkonsky">он</rs> и еще раз повторил эти слова по-итальянски: 'Dio
+                mi la dona, guai a chi la tocca'.</s></said> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="AndreyBolkonsky" speech_text="- J'espère enfin,- продолжала Анна Павловна,- que ça a été la goutte d'eau qui fera déborder le verre." speech_id="134"><s>- J'espère enfin,- продолжала <rs ref="Anna_Pavlovna_Scherer" rolename="agent">Анна Павловна</rs>,- que ça a été la goutte d'eau qui fera
+                déborder le verre.</s></said>
+            <said who="viscount" corresp="" speech_text="Et croyez-moi, ils subissent la punition pour leur trahison de la cause des Bourbons.. Je ne parle pas de la Russie. Les souverains, madame!. Les souverains?. Qu'ont ils fait pour Louis XVI, pour la reine, pour madame Elisabeth?. Rien" verb="сказать" author_comment=",- сказал виконт учтиво и безнадежно. -" speech_id="107"><s>Les souverains ne peuvent plus supporter cet homme qui menace
+                tout.</s></said> </p>
+          <p><said who="Hippolyte_Kuragin" corresp="" speech_text="- Ah!" speech_id="93"><said who="viscount" corresp="" speech_text="Et croyez-moi, ils subissent la punition pour leur trahison de la cause des Bourbons.. Je ne parle pas de la Russie. Les souverains, madame!. Les souverains?. Qu'ont ils fait pour Louis XVI, pour la reine, pour madame Elisabeth?. Rien" verb="сказать" author_comment=",- сказал виконт учтиво и безнадежно. -" speech_id="107"><s>- Les souverains? Je ne parle pas de la Russie,- сказал <rs ref="viscount" rolename="agent">виконт</rs> учтиво и безнадежно. - Les
+                  souverains, madame! Qu'ont ils fait pour Louis XVI, pour la reine, pour madame
+                  Elisabeth? Rien,- продолжал <rs ref="viscount" rolename="agent">он</rs>,
+                  одушевляясь. - Et croyez-moi, ils subissent la punition pour leur trahison de la
+                  cause des Bourbons. Les souverains?</s></said></said>
+            <s>Ils envoient des ambassadeurs complimenter l'usurpateur.</s> </p>
+          <p><s>И <rs ref="AndreyBolkonsky">он</rs>, презрительно вздохнув, опять переменил
+              положение.</s>
+            <s><rs ref="Hippolyte_Kuragin" rolename="agent">Князь Ипполит</rs>, долго <rs ref="Hippolyte_Kuragin" rolename="experiencer"/>смотревший в лорнет на <rs ref="viscount" rolename="undergoer">виконта</rs>, вдруг при этих словах повернулся всем
+              телом к маленькой <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya">княгине</rs> и, попросив у <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="addressee">нее</rs> иголку, стал показывать <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="addressee">ей</rs>,
+              рисуя иголкой на столе, герб Конде.</s>
+            <s><rs ref="Hippolyte_Kuragin" rolename="agent">Он</rs> растолковывал <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="addressee">ей</rs>
+              этот герб с таким значительным видом, как будто <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="agent">княгиня</rs>
+              просила его об этом.</s> </p>
+          <p><said who="Hippolyte_Kuragin" corresp="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" speech_text="Bâton de gueules, engrêle de gueules d'azur - maison Condé," verb="говорить" author_comment="- говорил он." speech_id="125"><s>- Bâton de gueules,
+                engrêle de gueules d'azur - maison Condé, - говорил он.</s></said> </p>
+          <p><s><rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="experiencer">Княгиня</rs>, улыбаясь, слушала.</s> </p>
+          <p><said who="viscount" corresp="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" speech_text="Ежели еще год Бонапарте останется на престоле Франции," verb="пойти" speech_id="106"><s>- Ежели еще год Бонапарте останется на престоле Франции,- продолжал
+                  <rs ref="viscount" rolename="agent">виконт</rs> начатый разговор, с видом <rs rolename="undergoer">человека</rs>, не слушающего других, но в деле, лучше всех
+                  <rs>ему</rs> известном, следящего только за ходом <rs rolename="agent">своих</rs>
+                мыслей,- то дела пойдут слишком далеко. Интригой, насилием, изгнаниями, казнями
+                общество, <rs ref="viscount" rolename="experiencer">я</rs> разумею хорошее общество,
+                французское, навсегда будет уничтожено, и тогда...</s></said> </p>
+          <p><s><rs>Он</rs> пожал плечами и развел руками.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="experiencer" target="id_1149">Пьер</rs> хотел
+              было сказать что-то: разговор интересовал <rs ref="Pierre_Bezukhov"><rs rolename="experiencer">его</rs></rs>, но <rs ref="Anna_Pavlovna_Scherer" rolename="agent" xml:id="id_1149">Анна Павловна</rs>, караулившая <rs ref="Pierre_Bezukhov" target="id_1149"><rs rolename="undergoer">его</rs></rs>,
+              перебила.</s> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="" speech_text="Император Александр, объявил, что он предоставит самим французам выбрать образ правления. И я думаю, нет сомнения, что вся нация, освободившись от узурпатора, бросится в руки законного короля" speech_id="75"><s>- <rs ref="Tsar_Alexander_I_of_Russia" rolename="agent">Император
+                  Александр</rs>,- сказала <rs ref="Anna_Pavlovna_Scherer">она</rs> с грустью,
+                сопутствовавшей всегда <rs ref="Anna_Pavlovna_Scherer">ее</rs> речам об
+                императорской фамилии,- объявил, что <rs ref="Pierre_Bezukhov" rolename="agent">он</rs> предоставит самим французам выбрать образ правления.</s></said>
+            <s>И <rs rolename="experiencer">я</rs> думаю, нет сомнения, что вся нация, освободившись
+              от <rs rolename="undergoer">узурпатора</rs>, бросится в руки законного <rs rolename="possessor">короля</rs>,- сказала <rs ref="Anna_Pavlovna_Scherer" rolename="agent">Анна Павловна</rs>, стараясь быть любезной с <rs>эмигрантом</rs> и
+                <rs>роялистом</rs>.</s> </p>
+          <p><said who="AndreyBolkonsky" corresp="Anna_Pavlovna_Scherer" speech_text="Monsieur le vicomte совершенно справедливо полагает, что дела зашли уже слишком далеко. Я думаю, что трудно будет возвратиться к старому.. Это сомнительно" verb="сказать" author_comment=",- сказал князь Андрей. -" speech_id="128"><s>- Это
+                сомнительно,- сказал <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs>. -
+                Monsieur le vicomte совершенно справедливо полагает, что дела зашли уже слишком
+                далеко. <rs rolename="experiencer">Я</rs> думаю, что трудно будет возвратиться к
+                старому.</s></said> </p>
+          <p><said who="Pierre_Bezukhov" corresp="viscount" speech_text="Сколько я слышал, почти все дворянство перешло уже на сторону Бонапарта." verb="вмешаться" speech_id="133"><s>- Сколько <rs rolename="experiencer">я</rs>
+                слышал,- краснея, опять вмешался в разговор <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>,- почти все дворянство перешло уже на сторону
+                Бонапарта.</s></said> </p>
+          <p><said who="viscount" corresp="AndreyBolkonsky" speech_text="Теперь трудно узнать общественное мнение Франции.. Это говорят бонапартисты" verb="сказать" author_comment=",- сказал виконт, не глядя на Пьера. -" speech_id="129"><s>- Это говорят бонапартисты,- сказал <rs rolename="agent">виконт</rs>, не глядя
+                на <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs>. - Теперь трудно узнать
+                общественное мнение Франции.</s></said> </p>
+          <p><said who="AndreyBolkonsky" corresp="viscount" speech_text="Bonaparte l'a dit," verb="сказать" author_comment="- сказал князь Андрей с усмешкой." speech_id="112"><s>-
+                Bonaparte l'a dit,- сказал <rs ref="AndreyBolkonsky" rolename="agent">князь
+                  Андрей</rs> с усмешкой.</s></said>
+            <s>(Видно было, что <rs rolename="undergoer">виконт</rs>
+              <rs ref="AndreyBolkonsky" rolename="experiencer">ему</rs> не нравился и что <rs ref="AndreyBolkonsky" rolename="agent">он</rs>, хотя и не смотрел на <rs>него</rs>,
+              против него обращал <rs ref="AndreyBolkonsky">свои</rs> речи.)</s> </p>
+          <p><said who="viscount" corresp="AndreyBolkonsky" speech_text="- 'Je leur ai montré le chemin de la gloire, ils n'en ont pas voulu; je leur ai ouvert mes antichambres, ils se sont précipités en foule...' Je ne sais pas à quel point il a eu le droit de le dire." speech_id="100"><s>- 'Je leur ai montré le chemin de la gloire,- сказал <rs rolename="agent">он</rs> после недолгого молчания, опять повторяя слова <rs ref="Napoleon_Bonaparte" rolename="agent">Наполеона</rs>,- ils n'en ont pas voulu;
+                je leur ai ouvert mes antichambres, ils se sont précipités en foule...' Je ne sais
+                pas à quel point il a eu le droit de le dire.</s></said> </p>
+          <p><said who="viscount" corresp="Anna_Pavlovna_Scherer" speech_text="Si même ça été un héros pour certaines gens, depuis l’assassinat du duc il y a un martyr de plus dans le ciel, un héros de moins sur la terre" speech_id="101"><said who="viscount" corresp="AndreyBolkonsky" speech_text="Aucun, После убийства герцога даже самые пристрастные люди перестали видеть в нем героя." verb="возразить" author_comment="- возразил виконт." speech_id="102"><s>- Aucun,-
+                  возразил <rs rolename="agent">виконт</rs>.- После убийства герцога даже самые
+                  пристрастные люди перестали видеть в нем героя. Si même ça été un héros pour
+                  certaines gens,- сказал <rs rolename="agent">виконт</rs>, обращаясь к <rs ref="Anna_Pavlovna_Scherer" rolename="addressee">Анне Павловне</rs>,- depuis
+                  l'assassinat du duc il y a un martyr de plus dans le ciel, un héros de moins sur
+                  la terre.</s></said></said> </p>
+          <p><s>Не успели еще <rs ref="Anna_Pavlovna_Scherer" target="id_11411">Анна Павловна</rs> и
+              другие улыбкой оценить этих слов <rs rolename="agent">виконта</rs>, как <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> опять ворвался в разговор, и <rs ref="Anna_Pavlovna_Scherer" xml:id="id_11411">Анна Павловна</rs>, хотя и
+              предчувствовавшая, что <rs><rs ref="Pierre_Bezukhov" rolename="agent">он</rs></rs>
+              скажет что-нибудь неприличное, уже не могла остановить <rs ref="Pierre_Bezukhov" target="id_11411">его</rs>.</s> </p>
+          <p><said who="Pierre_Bezukhov" corresp="viscount" speech_text="Казнь герцога Энгиенского была государственная необходимость; и я именно вижу величие души в том, что Наполеон не побоялся принять на себя одного ответственность в этом поступке." speech_id="74"><s>- Казнь <rs rolename="undergoer">герцога Энгиенского</rs>,- сказал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>,- была государственная
+                необходимость; и <rs ref="Pierre_Bezukhov">я</rs> именно вижу величие <rs rolename="undergoer">души</rs> в том, что <rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs> не побоялся принять на <rs ref="Napoleon_Bonaparte">себя</rs> одного ответственность в этом поступке.</s></said> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="Pierre_Bezukhov" speech_text="Dieu! mon dieu!" speech_id="78"><s>- Dieu! mon dieu! - страшным шепотом
+                проговорила <rs ref="Anna_Pavlovna_Scherer" rolename="agent">Анна
+              Павловна</rs>.</s></said> </p>
+          <p><said who="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" corresp="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" speech_text="Comment, monsieur Pierre, vous trouvez que l'assassinat est grandeur d'âme?" verb="сказать" author_comment="- сказала маленькая княгиня, улыбаясь и придвигая к себе работу." speech_id="98"><s>- Comment, monsieur Pierre, vous trouvez que l'assassinat est
+                grandeur d'âme? - сказала маленькая <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="agent">княгиня</rs>, улыбаясь и придвигая к <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya">себе</rs>
+            работу.</s></said> </p>
+          <p><said who="Hippolyte_Kuragin" corresp="" speech_text="- Ah!" speech_id="93"><s>- Ah!
+                Oh! - сказали разные голоса.</s></said> </p>
+          <p><said who="Hippolyte_Kuragin" corresp="" speech_text="Capital!" verb="сказать" author_comment="- по-английски сказал князь Ипполит и принялся бить себя ладонью по коленке." speech_id="132"><s>- Capital! - по-английски сказал <rs ref="Hippolyte_Kuragin" rolename="agent">князь Ипполит</rs> и принялся бить <rs ref="Hippolyte_Kuragin" rolename="undergoer">себя</rs> ладонью по коленке.</s></said>
+            <s><rs rolename="agent">Виконт</rs> только пожал плечами.</s> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> торжественно посмотрел сверх
+              очков на слушателей.</s> </p>
+          <p><said who="Pierre_Bezukhov" corresp="viscount" speech_text="- Я потому так говорю, что Бурбоны бежали от революции, предоставив народ анархии; а один Наполеон умел понять революцию, победить ее, и потому для общего блага он не мог остановиться перед жизнью одного человека." speech_id="109"><s>- <rs ref="Pierre_Bezukhov">Я</rs> потому так говорю,- продолжал
+                  <rs ref="Pierre_Bezukhov">он</rs> с отчаянностью,- что Бурбоны бежали от
+                революции, предоставив народ анархии; а один <rs ref="Napoleon_Bonaparte" rolename="experiencer">Наполеон</rs> умел понять революцию, победить ее, и потому
+                для общего блага <rs ref="Pierre_Bezukhov">он</rs> не мог остановиться перед жизнью
+                одного <rs rolename="experiencer">человека</rs>.</s></said> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="Pierre_Bezukhov" speech_text="Не хотите ли перейти к тому столу?" verb="сказать" author_comment="- сказала Анна Павловна." speech_id="126"><s>- Не хотите ли перейти к
+                тому столу? - сказала <rs ref="Anna_Pavlovna_Scherer" rolename="agent">Анна
+                  Павловна</rs>.</s></said>
+            <s>Но <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, не отвечая, продолжал <rs ref="Napoleon_Bonaparte"><rs ref="Pierre_Bezukhov">свою</rs></rs> речь.</s> </p>
+          <p><said who="Pierre_Bezukhov" corresp="viscount;Anna_Pavlovna_Scherer" speech_text="Нет, Наполеон велик, потому что он стал выше революции, подавил ее злоупотребления, удержав все хорошее,- и равенство граждан, и свободу слова и печати,- и только потому приобрел власть." verb="подавить" author_comment="- говорил он, все более и более одушевляясь,- Наполеон велик, потому что он стал выше революции, подавил ее злоупотребления, удержав все хорошее,- и равенство граждан, и свободу слова и печати,- и только потому приобрел власть." speech_id="137"><s>- Нет,- говорил <rs ref="Pierre_Bezukhov">он</rs>, все более и
+                более одушевляясь,- <rs ref="Napoleon_Bonaparte" rolename="undergoer">Наполеон</rs>
+                велик, потому что <rs ref="Pierre_Bezukhov" rolename="undergoer">он</rs> стал выше
+                революции, подавил ее злоупотребления, удержав все хорошее,- и равенство граждан, и
+                свободу слова и печати,- и только потому приобрел власть.</s></said> </p>
+          <p><said who="viscount" corresp="Pierre_Bezukhov" speech_text="- Да, ежели бы он, взяв власть, не пользуясь ею для убийства, отдал бы ее законному королю, тогда бы я назвал его великим человеком." speech_id="118"><s>- Да, ежели бы <rs ref="Napoleon_Bonaparte" rolename="agent">он</rs>, взяв власть, не пользуясь ею для убийства, отдал бы ее законному <rs rolename="possessor">королю</rs>,- сказал <rs ref="viscount" rolename="agent">виконт</rs>,- тогда бы <rs rolename="agent">я</rs> назвал <rs ref="Napoleon_Bonaparte">его</rs> великим <rs>человеком</rs>.</s></said> </p>
+          <p><said who="Pierre_Bezukhov" corresp="viscount" speech_text="Народ отдал ему власть только затем, чтоб он избавил его от Бурбонов, и потому, что народ видел в нем великого человека.. Он бы не мог этого сделать.. Революция была великое дело," verb="продолжать" author_comment="- продолжал мсье Пьер, выказывая этим отчаянным и вызывающим вводным предложением свою великую молодость и желание все поскорее высказать." speech_id="113"><s>- <rs ref="Napoleon_Bonaparte" target="id_11414"><rs ref="Napoleon_Bonaparte" xml:id="id_11414">Он</rs></rs> бы не мог этого сделать.
+                Народ отдал <rs ref="Napoleon_Bonaparte">ему</rs> власть только затем, чтоб <rs ref="Napoleon_Bonaparte">он</rs> избавил его от Бурбонов, и потому, что народ
+                видел в <rs ref="Napoleon_Bonaparte"><rs ref="Pierre_Bezukhov">нем</rs></rs>
+                великого человека. Революция была великое дело,- продолжал <rs ref="Pierre_Bezukhov" rolename="agent">мсье Пьер</rs>, выказывая этим отчаянным и вызывающим вводным
+                предложением <rs ref="Pierre_Bezukhov">свою</rs> великую молодость и желание все
+                поскорее высказать.</s></said> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="Pierre_Bezukhov" speech_text="Революция и цареубийство великое дело?.. После этого... да не хотите ли перейти к тому столу?" speech_id="90"><said who="Anna_Pavlovna_Scherer" corresp="" speech_text="- Революция и цареубийство великое дело?.. После этого... да не хотите ли перейти к тому столу? - повторила Анна Павловна." speech_id="123"><said who="Anna_Pavlovna_Scherer" corresp="Pierre_Bezukhov" speech_text="Не хотите ли перейти к тому столу?" verb="сказать" author_comment="- сказала Анна Павловна." speech_id="126"><s>- Революция и
+                    цареубийство великое дело?.. После этого... да не хотите ли перейти к тому
+                    столу? - повторила <rs ref="Anna_Pavlovna_Scherer" rolename="agent">Анна
+                      Павловна</rs>.</s></said></said></said> </p>
+          <p><said who="viscount" corresp="Pierre_Bezukhov;Anna_Pavlovna_Scherer" speech_text="Contrat social," verb="сказать" author_comment="- с кроткой улыбкой сказал виконт." speech_id="131"><s>- Contrat
+                social,- с кроткой улыбкой сказал <rs ref="viscount" rolename="agent">виконт</rs>.</s></said> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Anna_Pavlovna_Scherer" speech_text="Я не говорю про цареубийство. Я говорю про идеи." speech_id="87"><said who="Pierre_Bezukhov" corresp="Anna_Pavlovna_Scherer" speech_text="- Я не говорю про цареубийство." speech_id="130"><s>- <rs rolename="agent">Я</rs> не говорю про цареубийство. <rs>Я</rs> говорю про
+                  идеи.</s></said></said> </p>
+          <p><said who="viscount" corresp="Pierre_Bezukhov" speech_text="Да, идеи грабежа, убийства и цареубийства," verb="перебить" author_comment="- опять перебил иронический голос." speech_id="110"><s>- Да, идеи
+                грабежа, убийства и цареубийства,- опять перебил иронический голос.</s></said> </p>
+          <p><said who="Pierre_Bezukhov" corresp="viscount" speech_text="- Это были крайности, разумеется, но не в них все значение, а значение в правах человека, в эманципации от предрассудков, в равенстве граждан; и все эти идеи Наполеон удержал во всей их силе." speech_id="82"><s>- Это были крайности, разумеется, но не в них все значение, а
+                значение в правах человека, в эманципации от предрассудков, в равенстве граждан; и
+                все эти идеи <rs ref="Napoleon_Bonaparte" rolename="possessor">Наполеон</rs> удержал
+                во всей их силе.</s></said> </p>
+          <p><said who="viscount" corresp="Pierre_Bezukhov" speech_text="Свобода и равенство, всё громкие слова, которые уже давно компрометировались." verb="сказать" author_comment="- презрительно сказал виконт, как будто решившийся, наконец, серьезно доказать этому юноше всю глупость его речей,- всё громкие слова, которые уже давно компрометировались." speech_id="105"><s>- Свобода и равенство,- презрительно сказал <rs ref="viscount" rolename="agent">виконт</rs>, как будто решившийся, наконец, серьезно доказать
+                этому <rs ref="Pierre_Bezukhov" rolename="addressee">юноше</rs> всю глупость <rs ref="Pierre_Bezukhov" rolename="agent">его</rs> речей,- всё громкие слова, которые
+                уже давно компрометировались.</s></said>
+            <s>Кто же не любит свободы и равенства?</s>
+            <s>Еще спаситель наш проповедовал свободу и равенство.</s>
+            <s>Разве после революции люди стали счастливее?</s>
+            <s>Напротив.</s>
+            <s>Мы хотели свободы, а Бонапарте уничтожил ее.</s> </p>
+          <p><s><rs ref="AndreyBolkonsky" rolename="agent">Князь Андрей</rs> с улыбкой посматривал
+              то на <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs>, то на <rs ref="viscount" rolename="undergoer">виконта</rs>, то на <rs ref="Anna_Pavlovna_Scherer" rolename="undergoer">хозяйку</rs>.</s>
+            <s>В первую минуту, выходки <rs ref="Pierre_Bezukhov" rolename="agent">Пьера</rs>
+              <rs ref="Anna_Pavlovna_Scherer" rolename="experiencer">Анна Павловна</rs> ужаснулась,
+              несмотря на <rs ref="Anna_Pavlovna_Scherer" rolename="experiencer">свою</rs> привычку
+              к свету; но когда <rs ref="Anna_Pavlovna_Scherer" rolename="experiencer">она</rs>
+              увидела, что, несмотря на произнесенные <rs ref="Pierre_Bezukhov" rolename="agent">Пьером</rs> святотатственные речи, <rs ref="viscount" rolename="experiencer">виконт</rs> не выходил из <rs>себя</rs>, и когда <rs ref="Pierre_Bezukhov" rolename="experiencer">она</rs> убедилась, что замять этих речей уже нельзя, <rs ref="Anna_Pavlovna_Scherer" rolename="possessor">она</rs> собралась с силами и,
+              присоединившись к <rs ref="viscount" rolename="undergoer">виконту</rs>, напала на
+              оратора.</s> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="Pierre_Bezukhov" speech_text="Mais, mon cher monsieur Pierre, как же вы объясняете великого человека, который мог казнить герцога, наконец просто человека, без суда и без вины?" speech_id="77"><s>- Mais, mon cher monsieur Pierre,- сказала <rs ref="Anna_Pavlovna_Scherer" rolename="agent">Анна Павловна</rs>,- как же вы
+                объясняете великого <rs rolename="undergoer">человека</rs>, <rs>который</rs> мог
+                казнить <rs rolename="undergoer">герцога</rs>, наконец просто <rs>человека</rs>, без
+                суда и без вины?</s></said> </p>
+          <p><said who="viscount" corresp="Pierre_Bezukhov" speech_text="- Я бы спросил,- сказал виконт,- как monsieur объясняет 18 брюмера?" speech_id="84"><s>- <rs rolename="agent">Я</rs> бы спросил,- сказал <rs ref="viscount">виконт</rs>,- как monsieur объясняет 18 брюмера?</s></said>
+            <s>Разве это не обман?</s>
+            <s>C'est un escamotage qui ne ressemble nullement à la manière d'agir d'un grand
+              homme.</s> </p>
+          <p><said who="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" corresp="Pierre_Bezukhov" speech_text="A пленные в Африке, которых он убил?" verb="сказать" author_comment="- сказала маленькая княгиня." speech_id="119"><s>- A пленные в Африке,
+                которых он убил? - сказала маленькая <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="agent">княгиня</rs>.</s></said>
+            <said who="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" corresp="Pierre_Bezukhov" speech_text="Это ужасно!" verb="пожала плечь" author_comment="- И она пожала плечами." speech_id="111"><s>- Это ужасно! - И <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya">она</rs> пожала
+              плечами.</s></said> </p>
+          <p><said who="Hippolyte_Kuragin" corresp="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" speech_text="C'est un roturier, vous aurez beau dire," verb="сказать" author_comment="- сказал князь Ипполит." speech_id="136"><s>- C'est un roturier, vous
+                aurez beau dire, - сказал <rs ref="Hippolyte_Kuragin" rolename="agent">князь
+                  Ипполит</rs>.</s></said> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="experiencer">Мсье Пьер</rs> не знал, кому
+              отвечать, оглянул всех и улыбнулся.</s>
+            <s>Улыбка у <rs ref="Pierre_Bezukhov" rolename="experiencer">него</rs> была не такая,
+              как у других людей, сливающаяся с неулыбкой.</s>
+            <s>У <rs ref="Pierre_Bezukhov" rolename="possessor">него</rs>, напротив, когда приходила
+              улыбка, то вдруг, мгновенно исчезало серьезное и даже несколько угрюмое лицо и
+              являлось другое — детское, доброе, даже глуповатое и как бы просящее
+            прощения.</s> </p>
+          <p><s><rs ref="viscount">Виконту</rs>, <rs ref="viscount">который</rs> видел его в первый
+              раз, стало ясно, что этот <rs ref="Pierre_Bezukhov" rolename="undergoer">якобинец</rs>
+              совсем не так страшен, как <rs rolename="agent">его</rs> слова.</s>
+            <s>Все замолчали.</s> </p>
+          <p><said who="AndreyBolkonsky" corresp="viscount;Anna_Pavlovna_Scherer" speech_text="Как вы хотите, чтоб он всем отвечал вдруг?. Притом надо в поступках государственного человека различать поступки частного лица, полководца или императора. Мне так кажется." verb="сказать" author_comment="- сказал князь Андрей. -" speech_id="122"><s>- Как вы
+                хотите, чтоб <rs>он</rs> всем отвечал вдруг? - сказал <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs>. - Притом надо в поступках государственного <rs rolename="agent">человека</rs> различать поступки <rs rolename="agent">частного
+                  лица</rs>, <rs rolename="agent">полководца</rs> или <rs rolename="agent">императора</rs>. <rs rolename="experiencer">Мне</rs> так кажется.</s></said> </p>
+          <p><said who="Pierre_Bezukhov" corresp="AndreyBolkonsky" speech_text="Да, да, разумеется," verb="подхватить" author_comment="- подхватил Пьер, обрадованный выступавшею ему подмогой." speech_id="120"><s>- Да, да, разумеется,- подхватил <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, обрадованный выступавшею <rs ref="Pierre_Bezukhov" rolename="benemalefactive">ему</rs> подмогой.</s></said> </p>
+          <p><said who="AndreyBolkonsky" corresp="Pierre_Bezukhov" speech_text="Нельзя не сознаться, Наполеон как человек велик на Аркольском мосту, в госпитале в Яффе, где он чумным подает руку, но... но есть другие поступки, которые трудно оправдать." speech_id="95"><said who="AndreyBolkonsky" corresp="Pierre_Bezukhov;viscount" speech_text="- Нельзя не сознаться, Наполеон как человек велик на Аркольском мосту, в госпитале в Яффе, где он чумным подает руку, но... но есть другие поступки, которые трудно оправдать." speech_id="117"><s>- Нельзя не сознаться,- продолжал <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs>,- <rs ref="Napoleon_Bonaparte" rolename="addressee">Наполеон</rs> как человек велик на Аркольском мосту, в
+                  госпитале в Яффе, где <rs ref="Napoleon_Bonaparte" rolename="agent">он</rs> чумным
+                  подает руку, но... но есть другие поступки, которые трудно
+              оправдать.</s></said></said> </p>
+          <p><s><rs ref="AndreyBolkonsky" rolename="agent">Князь Андрей</rs>, видимо, желавший
+              смягчить неловкость речи <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs>,
+              приподнялся, сбираясь ехать и подавая знак <rs ref="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya" rolename="addressee">жене</rs>.</s> </p>
+          <p><s>Вдруг <rs ref="Hippolyte_Kuragin" rolename="agent">князь Ипполит</rs> поднялся и,
+              знаками рук останавливая всех и прося присесть, заговорил:</s> </p>
+          <p><said who="Hippolyte_Kuragin" corresp="" speech_text="- Ah!" speech_id="93"><s>-
+                Ah!</s></said>
+            <s>aujourd'hui on m'a raconté une anecdote moscovite, charmante: il faut que je vous en
+              régale.</s>
+            <s>Vous m'excusez, vicomte, il faut que je raconte en russe.</s>
+            <s>Autrement on ne sentira pas le sel de l'histoire.</s> </p>
+          <p><s>И <rs ref="Hippolyte_Kuragin" rolename="agent">князь Ипполит</rs> начал говорить
+              по-русски таким выговором, каким говорят французы, пробывшие с год в России.</s>
+            <s>Все приостановились: так оживленно, настоятельно требовал <rs ref="Hippolyte_Kuragin" rolename="agent">князь Ипполит</rs> внимания к <rs ref="Hippolyte_Kuragin" rolename="agent">своей</rs> истории.</s> </p>
+          <p><said who="Hippolyte_Kuragin" corresp="" speech_text="В Moscou есть одна бариня, une dame. И она очень скупо. Ей нужно было иметь два valets de pied за карета. И очень большой ростом. Это было ее вкусу. И она имела une femme de chambre, еще большой росту. Она сказала..." speech_id="76"><said who="Hippolyte_Kuragin" corresp="" speech_text="- В Moscou есть одна бариня, une dame. И она очень скупо." speech_id="89"><s>- В Moscou есть одна бариня, une dame. И она очень скупо. Ей нужно
+                  было иметь два valets de pied за карета. И очень большой ростом. Это было ее
+                  вкусу. И она имела une femme de chambre, еще большой росту. Она
+                сказала...</s></said></said> </p>
+          <p><s>Тут <rs ref="Hippolyte_Kuragin" rolename="agent">князь Ипполит</rs> задумался,
+              видимо, с трудом соображая.</s> </p>
+          <p><said who="Hippolyte_Kuragin" corresp="" speech_text=" - Она сказала... да, она сказала: 'Девушка (à la femme de chambre), надень livrée и поедем мной, за карета, faire des visites'." speech_id="79"><s>- Она сказала... да, она сказала: 'Девушка (à la femme de chambre),
+                надень livrée и поедем <rs>мной</rs>, за карета, faire des visites'.</s></said> </p>
+          <p><s>Тут <rs ref="Hippolyte_Kuragin" rolename="agent">князь Ипполит</rs> фыркнул и
+              захохотал гораздо прежде своих слушателей, что произвело невыгодное для <rs rolename="experiencer">рассказчика</rs> впечатление.</s>
+            <s>Однако многие, и в том числе пожилая <rs rolename="undergoer">дама</rs> и <rs ref="Anna_Pavlovna_Scherer" rolename="undergoer">Анна Павловна</rs>,
+            улыбнулись.</s> </p>
+          <p><said who="Hippolyte_Kuragin" corresp="" speech_text="- Она поехала." speech_id="81"><said who="Hippolyte_Kuragin" corresp="" speech_text="Она поехала. Незапно сделалась сильный ветер. Девушка потеряла шляпа, и длинны волоса расчесались..." speech_id="94"><s>- <rs rolename="agent">Она</rs> поехала. Незапно сделалась сильный
+                  ветер. <rs>Девушка</rs> потеряла шляпа, и длинны волоса
+              расчесались...</s></said></said> </p>
+          <p><s>Тут он не мог уже более держаться и стал отрывисто смеяться и сквозь этот смех
+              проговорил:</s> </p>
+          <p><said who="Hippolyte_Kuragin" corresp="" speech_text="- И весь свет узнал..." speech_id="88"><s>- И весь свет узнал...</s></said> </p>
+          <p><s>Тем анекдот и кончился.</s>
+            <s>Хотя и непонятно было, для чего он его рассказал и для чего его надо было рассказать
+              непременно по-русски, однако <rs ref="Anna_Pavlovna_Scherer" rolename="agent">Анна
+                Павловна</rs> и другие оценили светскую любезность <rs ref="Hippolyte_Kuragin" rolename="undergoer">князя Ипполита</rs>, так приятно закончившего неприятную и
+              нелюбезную выходку <rs ref="Pierre_Bezukhov" rolename="agent">мсье Пьера</rs>.</s>
+            <s>Разговор после анекдота рассыпался на мелкие, незначительные толки о будущем и
+              прошедшем бале, спектакле, о том, когда и где кто увидится.</s>  </p>
+        </div>
+        

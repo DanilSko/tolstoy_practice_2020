@@ -1,0 +1,139 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="16" type="chapter" xml:id="chapter16part2Volume3">
+          <p> </p>
+          <p>
+            <said who="Mikhail_Ilarionovich_Kutuzov" corresp="" speech_text="Ну, теперь все," verb="сказать" author_comment="- сказал Кутузов, подписывая последнюю бумагу, и, тяжело поднявшись и расправляя складки своей белой пухлой шеи, с повеселевшим лицом направился к двери." speech_id="4391"><s>- Ну, теперь все, - сказал <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs>, подписывая последнюю бумагу, и, тяжело поднявшись и
+                расправляя складки <rs ref="Mikhail_Ilarionovich_Kutuzov">своей</rs> белой пухлой
+                шеи, с повеселевшим лицом направился к двери.</s></said> </p>
+          <p><s><rs rolename="agent">Попадья</rs>, с бросившеюся кровью в лицо, схватилась за блюдо,
+              которое, несмотря на то, что <rs rolename="experiencer">она</rs> так долго
+              приготовлялась, <rs rolename="experiencer">она</rs> все-таки не успела подать
+              вовремя.</s>
+            <s>И с низким поклоном <rs rolename="agent">она</rs> поднесла его <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="addressee">Кутузову</rs>.</s> </p>
+          <p><s>Глаза <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="possessor">Кутузова</rs>
+              прищурились; <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">он</rs>
+              улыбнулся, взял рукой <rs>ее</rs> за подбородок и сказал:</s> </p>
+          <p>
+            <said who="Mikhail_Ilarionovich_Kutuzov" corresp="попадья" speech_text="И красавица какая! Спасибо, голубушка!" speech_id="4384"><s>- И
+                  <rs>красавица</rs> какая!</s></said>
+            <s>Спасибо, <rs>голубушка</rs>!</s>
+            <s>Он достал из кармана шаровар несколько золотых и положил <rs>ей</rs> на
+            блюдо.</s> </p>
+          <p>
+            <said who="Mikhail_Ilarionovich_Kutuzov" corresp="AndreyBolkonsky" speech_text="Ну что, как живешь?" verb="сказать" author_comment="- сказал Кутузов, направляясь к отведенной для него комнате." speech_id="4386"><s>- Ну что, как живешь? - сказал <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs>, направляясь к
+                отведенной для <rs ref="Mikhail_Ilarionovich_Kutuzov">него</rs> комнате.</s></said>
+            <s><rs rolename="agent">Попадья</rs>, улыбаясь ямочками на румяном лице, прошла за <rs ref="Mikhail_Ilarionovich_Kutuzov">ним</rs> в горницу.</s>
+            <s><rs rolename="agent">Адъютант</rs> вышел к <rs ref="AndreyBolkonsky" rolename="finalpoint">князю Андрею</rs> на крыльцо и приглашал его завтракать; через
+              полчаса <rs ref="AndreyBolkonsky" rolename="undergoer">князя Андрея</rs> позвали опять к
+                <rs ref="Mikhail_Ilarionovich_Kutuzov">Кутузову</rs>.</s>
+            <s><rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs> лежал на кресле
+              в том же расстегнутом сюртуке.</s>
+            <s><rs ref="Mikhail_Ilarionovich_Kutuzov">Он</rs> держал в руке французскую книгу и при
+              входе <rs ref="AndreyBolkonsky" rolename="agent">князя Андрея</rs>, заложив ее ножом,
+              свернул.</s>
+            <s>Это был 'Les chevaliers du Cygne', сочинение madame de Genlis, как увидал <rs ref="AndreyBolkonsky" rolename="experiencer">князь Андрей</rs> по обертке.</s> </p>
+          <p>
+            <said who="Mikhail_Ilarionovich_Kutuzov" corresp="AndreyBolkonsky" speech_text="Грустно, очень грустно. Но помни, дружок, что я тебе отец, другой отец.... Ну садись, садись тут, поговорим," verb="рассказать" author_comment="- Князь Андрей рассказал Кутузову все, что он знал о кончине своего отца, и о том, что он видел в Лысых Горах, проезжая через них." speech_id="4383"><s>- Ну садись, садись тут, поговорим, - сказал <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs>. - Грустно, очень
+                грустно. Но помни, <rs>дружок</rs>, что <rs>я</rs>
+                <rs>тебе</rs> отец, другой отец... - <rs ref="AndreyBolkonsky" rolename="agent">Князь Андрей</rs> рассказал <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="addressee">Кутузову</rs> все, что он знал о кончине своего <rs ref="Prince_Nikolay_Bolkonsky" rolename="experiencer">отца</rs>, и о том, что он
+                видел в Лысых Горах, проезжая через них.</s></said> </p>
+          <p>
+            <said who="Mikhail_Ilarionovich_Kutuzov" corresp="AndreyBolkonsky" speech_text="Дай срок, дай срок. До чего... до чего довели!. Я тебя вызвал, чтоб оставить при себе." verb="проговорить" author_comment="- проговорил вдруг Кутузов взволнованным голосом, очевидно, ясно представив себе, из рассказа князя Андрея, положение, в котором находилась  Россия. -" speech_id="4389"><s>- До чего... до чего довели! - проговорил вдруг <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs> взволнованным
+                голосом, очевидно, ясно представив <rs ref="Mikhail_Ilarionovich_Kutuzov">себе</rs>,
+                из рассказа <rs ref="AndreyBolkonsky" rolename="agent">князя Андрея</rs>, положение,
+                в котором находилась Россия. - Дай срок, дай срок, - прибавил <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">он</rs>, с злобным выражением
+                лица и, очевидно, не желая продолжать этого волновавшего <rs ref="Mikhail_Ilarionovich_Kutuzov">его</rs> разговора, сказал: - Я <rs rolename="undergoer">тебя</rs> вызвал, чтоб оставить при
+            <rs>себе</rs>.</s></said> </p>
+          <p>
+            <said who="AndreyBolkonsky" corresp="Mikhail_Ilarionovich_Kutuzov" speech_text="А главное. Благодарю вашу светлость. но я боюсь, что не гожусь больше для штабов,. я привык к полку, полюбил офицеров, и люди меня, кажется, полюбили. Мне бы жалко было оставить полк. Ежели я отказываюсь от чести быть при вас, то поверьте..." verb="сказать" speech_id="4393"><s>- Благодарю <rs rolename="possessor">вашу</rs>
+                <rs rolename="addressee">светлость</rs>, - отвечал <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs>, - но <rs ref="AndreyBolkonsky" rolename="experiencer">я</rs> боюсь, что не гожусь больше для штабов, - сказал он
+                с улыбкой, которую <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="experiencer">Кутузов</rs> заметил.</s></said>
+            <s><rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs> вопросительно
+              посмотрел на него.</s>
+            <s>- А главное, - прибавил <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs>,
+              - <rs rolename="experiencer">я</rs> привык к полку, полюбил офицеров, и люди <rs rolename="undergoer">меня</rs>, кажется, полюбили.</s>
+            <s><rs>Мне</rs> бы жалко было оставить полк.</s>
+            <s>Ежели <rs rolename="agent">я</rs> отказываюсь от чести быть при вас, то
+              поверьте...</s> </p>
+          <p><s>Умное, доброе и вместе с тем тонко-насмешливое выражение светилось на пухлом лице
+                <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="possessor">Кутузова</rs>.</s>
+            <s><rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Он</rs> перебил <rs ref="AndreyBolkonsky" rolename="undergoer">Болконского</rs>:</s> </p>
+          <p>
+            <said who="Mikhail_Ilarionovich_Kutuzov" corresp="AndreyBolkonsky" speech_text="Жалею, ты бы мне нужен был; но ты прав, ты прав.. Нам не сюда люди нужны.. Не такие бы полки были, если бы все советчики служили там в полках, как ты.. Помню, помню, с знаменем помню,. Советчиков всегда много, а людей нет.. Я тебя с Аустерлица помню..." verb="сказать" author_comment="- сказал Кутузов, и радостная краска бросилась в лицо князя Андрея при этом воспоминании." speech_id="4387"><s>- Жалею, <rs rolename="undergoer">ты</rs> бы мне нужен был; но <rs rolename="undergoer">ты</rs> прав, <rs rolename="undergoer">ты</rs> прав. Нам не сюда
+                люди нужны. Советчиков всегда много, а людей нет. Не такие бы полки были, если бы
+                все советчики служили там в полках, как <rs>ты</rs>. Я <rs rolename="undergoer">тебя</rs> с Аустерлица помню... Помню, помню, с знаменем помню, - сказал <rs ref="Mikhail_Ilarionovich_Kutuzov">Кутузов</rs>, и радостная краска бросилась в
+                лицо <rs ref="AndreyBolkonsky" rolename="possessor">князя Андрея</rs> при этом
+                воспоминании.</s></said>
+            <s><rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs> притянул его за
+              руку, подставляя ему щеку, и опять <rs ref="AndreyBolkonsky" rolename="experiencer">князь Андрей</rs> на глазах <rs rolename="possessor">старика</rs> увидал слезы.</s>
+            <s>Хотя <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs> и знал, что <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="undergoer">Кутузов</rs> был слаб на слезы
+              и что <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">он</rs> теперь особенно
+              ласкает <rs rolename="undergoer">его</rs> и жалеет вследствие желания выказать сочувствие
+              к <rs rolename="undergoer">его</rs> потере, но <rs ref="AndreyBolkonsky" rolename="undergoer">князю Андрею</rs>, и радостно я лестно было это воспоминание об
+              Аустерлице.</s> </p>
+          <p>
+            <said who="Mikhail_Ilarionovich_Kutuzov" corresp="AndreyBolkonsky" speech_text="Иди с богом своей дорогой. Я знаю, твоя дорога - это дорога чести.. Я жалел о тебе в Букареште: мне послать надо было." speech_id="4382"><s>- Иди с богом <rs rolename="possessor">своей</rs> дорогой. Я знаю,
+                  <rs rolename="possessor">твоя</rs> дорога - это дорога чести.</s></said>
+            <s>- Он помолчал. - <rs rolename="experiencer">Я</rs> жалел о <rs>тебе</rs> в
+              Букареште:</s>
+            <s><rs rolename="experiencer">мне</rs> послать надо было.</s>
+            <s>- И, переменив разговор, <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs> начал говорить о турецкой войне и заключенном мире.</s>
+            <said who="Mikhail_Ilarionovich_Kutuzov" corresp="AndreyBolkonsky" speech_text="Да, немало упрекали меня. и за войну и за мир... а все пришло вовремя. Tout vient à point à celui qui sait attendrel . A и там советчиков не меньше было, чем здесь..." verb="продолжать" author_comment="- продолжал он, возвращаясь к советчикам, которые, видимо, занимали его." speech_id="4390"><s>- Да, немало упрекали <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="undergoer">меня</rs>, - сказал <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs>, - и за войну и за мир... а все пришло вовремя. Tout
+                vient à point à celui qui sait attendrel . A и там советчиков не меньше было, чем
+                здесь... - продолжал <rs ref="Mikhail_Ilarionovich_Kutuzov">он</rs>, возвращаясь к
+                советчикам, которые, видимо, занимали <rs ref="Mikhail_Ilarionovich_Kutuzov">его</rs>.</s></said>
+            <said who="Mikhail_Ilarionovich_Kutuzov" corresp="AndreyBolkonsky" speech_text="Ох, советчики, советчики!" verb="сказать" author_comment="- сказал он." speech_id="4380"><s>- Ох, советчики, советчики! - сказал <rs ref="Mikhail_Ilarionovich_Kutuzov">он</rs>.</s></said>
+            <s>Если бы всех слушать, мы бы там, в Турции, и мира не заключили, да и войны бы не
+              кончили.</s>
+            <s>Всё поскорее, а скорое на долгое выходит.</s>
+            <s>Если бы <rs rolename="experiencer">Каменский</rs> не умер, <rs rolename="undergoer">он</rs> бы пропал.</s>
+            <s><rs rolename="agent">Он</rs> с тридцатью тысячами штурмовал крепости.</s>
+            <s>Взять крепость не трудно, трудно кампанию выиграть.</s>
+            <s>А для этого не нужно штурмовать и атаковать, а нужно терпение и время.</s>
+            <s><rs rolename="agent">Каменский</rs> на Рущук солдат послал, а <rs rolename="agent">я</rs> их одних (терпение и время) посылал и взял больше крепостей, чем
+                <rs>Каменский</rs>, и лошадиное мясо турок есть заставил.</s>
+            <s>- <rs rolename="agent">Он</rs> покачал головой.</s>
+            <said who="Mikhail_Ilarionovich_Kutuzov" corresp="AndreyBolkonsky" speech_text="И французы тоже будут! Верь моему слову. будут у меня лошадиное мясо есть!" verb="проговорить" speech_id="4392"><s>- И французы тоже будут! Верь <rs>моему</rs>
+                слову, - воодушевляясь, проговорил <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs>, ударяя <rs ref="Mikhail_Ilarionovich_Kutuzov">себя</rs> в грудь, - будут у <rs>меня</rs> лошадиное мясо есть! - И опять глаза
+                его залоснились слезами.</s></said> </p>
+          <p>
+            <said who="AndreyBolkonsky" corresp="Mikhail_Ilarionovich_Kutuzov" speech_text="Однако должно же будет принять сражение?" verb="сказать" author_comment="- сказал князь Андрей." speech_id="4388"><s>- Однако должно же будет
+                принять сражение? - сказал <rs ref="AndreyBolkonsky" rolename="agent">князь
+                  Андрей</rs>.</s></said> </p>
+          <p>
+            <said who="Mikhail_Ilarionovich_Kutuzov" corresp="AndreyBolkonsky" speech_text="Dans le doute, mon cher. abstiens toi. Да, что ты велишь делать?. Должно будет, если все этого захотят, нечего делать... А ведь, голубчик: нет сильнее тех двух воинов, терпение и, время; те всё сделают, да советчики n'entendent pas de cette oreille, voilà le mal. Одни хотят, другие не хотят.. Что ж делать?. Я тебе скажу, что делать. Я тебе скажу, что делать и что я делаю." verb="проговорить" author_comment="- повторил он, и глаза его блестели глубоким, умным выражением. -" speech_id="4385"><s>- Должно будет, если все этого захотят, нечего делать... А ведь,
+                  <rs>голубчик</rs>: нет сильнее тех двух воинов, терпение и, время; те всё сделают,
+                да советчики n'entendent pas de cette oreille, voilà le mal. Одни хотят, другие не
+                хотят. Что ж делать? - спросил он, видимо, ожидая ответа. - Да, что ты велишь
+                делать? - повторил он, и глаза его блестели глубоким, умным выражением. - <rs rolename="agent">Я</rs> тебе скажу, что делать, - проговорил он, так как <rs ref="AndreyBolkonsky" rolename="agent">князь Андрей</rs> все-таки не отвечал. -
+                  <rs rolename="agent">Я</rs> тебе скажу, что делать и что <rs rolename="agent">я</rs> делаю.</s></said>
+            <s>Dans le doute, mon cher, - он помолчал, - abstiens toi, - выговорил он с
+              расстановкой.</s> </p>
+          <p>
+            <said who="Mikhail_Ilarionovich_Kutuzov" corresp="AndreyBolkonsky" speech_text="Ну, прощай, дружок; помни, что я всей душой несу с тобой твою потерю и что я тебе не светлейший, не князь и не главнокомандующий, а я тебе отец. Ежели что нужно, прямо ко мне. Прощай, голубчик." speech_id="4381"><s>- Ну, прощай, <rs>дружок</rs>; помни, что <rs rolename="possessor">я</rs> всей душой несу с тобой твою потерю и что <rs>я</rs> тебе не светлейший,
+                не князь и не главнокомандующий, а <rs>я</rs> тебе отец. Ежели что нужно, прямо ко
+                  <rs>мне</rs>. Прощай, <rs>голубчик</rs>.</s></said>
+            <s>- Он опять обнял и поцеловал его.</s>
+            <s>И еще <rs ref="AndreyBolkonsky" rolename="experiencer">князь Андрей</rs> не успел
+              выйти в дверь, как <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs> успокоительно вздохнул и взялся опять за неконченный роман <rs rolename="agent">мадам Жанлис</rs> 'Les chevaliers du Cygne'.</s> </p>
+          <p><s>Как и отчего это случилось, <rs ref="AndreyBolkonsky">князь Андрей</rs> не мог бы
+              никак объяснить; но после этого свидания с <rs ref="Mikhail_Ilarionovich_Kutuzov">Кутузовым</rs> он вернулся к своему полку успокоенный насчет общего хода дела и
+              насчет того, кому оно вверено было.</s>
+            <s>Чем больше <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="experiencer">он</rs>
+              видел отсутствие всего личного в этом <rs>старике</rs>, в котором оставались как будто
+              одни привычки страстей и вместо ума (группирующего события и делающего выводы) одна
+              способность спокойного созерцания хода событий, тем более он был спокоен за то, что
+              все будет так, как должно быть.</s>
+            <s>'У него не будет ничего своего. Он ничего не придумает, ничего не предпримет, - думал
+              князь Андрей, - но он все выслушает, все запомнит, все поставит на свое место, ничему
+              полезному не помешает и ничего вредного не позволит. Он понимает, что есть что-то
+              сильнее и значительнее его воли, - это неизбежный ход событий, и он умеет видеть их,
+              умеет понимать их значение и, ввиду этого значения, умеет отрекаться от участия в этих
+              событиях, от своей личной воли, направленной на другое. А главное, - думал князь
+              Андрей, -</s><s> почему веришь ему, - это то, что он русский, несмотря на роман Жанлис
+              и французские поговорки; это то, что голос его задрожал, когда он сказал: 'До чего
+              довели!', и что он захлипал, говоря о том, что он 'заставит их есть лошадиное мясо'.
+              На этом же чувстве, которое более или менее смутно испытывали все, и основано было то
+              единомыслие и общее одобрение, которое сопутствовало народному, противному придворным
+              соображениям, избранию Кутузова в главнокомандующие.</s>  </p>
+        </div>
+        

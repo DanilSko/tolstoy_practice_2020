@@ -1,0 +1,168 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="15" type="chapter" xml:id="chapter15part1Volume5">
+          <p> </p>
+          <p><s>За ужином разговор не шел более о политике и обществах, а, напротив, затеялся самый
+              приятный для <rs ref="Nikolai_Rostov" rolename="experiencer">Николая</rs>,- о
+              воспоминаниях 12-го года, на который вызвал <rs ref="Vasily__Vasska__Denisov">Денисов</rs> и в котором <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьер</rs> был особенно мил и забавен.</s>
+            <s>И родные разошлись в самых дружеских отношениях.</s> </p>
+          <p><s>Когда после ужина <rs ref="Nikolai_Rostov" rolename="agent">Николаи</rs>, раздевшись в кабинете и отдав приказания заждавшемуся <rs rolename="experiencer">управляющему</rs>, пришел в халате в спальню, он застал <rs ref="Princess_Mariya_Bolkonskaya" rolename="undergoer">жену</rs> еще за письменным столом: <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">она</rs>
+              что-то писала.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="Что ты пишешь, Мари?" verb="спросить" author_comment="- спросил Николай." speech_id="6215"><s>- Что <rs rolename="agent">ты</rs> пишешь, <rs>Мари</rs>? -
+                спросил <rs ref="Nikolai_Rostov" rolename="agent">Николай</rs>.</s></said>
+            <s><rs ref="Princess_Mariya_Bolkonskaya" rolename="undergoer">Графиня Марья</rs> покраснела.</s>
+            <s><rs ref="Princess_Mariya_Bolkonskaya" rolename="experiencer">Она</rs> боялась, что то, что <rs rolename="agent">она</rs> писала, не будет понято и одобрено <rs rolename="agent">мужем</rs>.</s> </p>
+          <p><s><rs ref="Princess_Mariya_Bolkonskaya" rolename="experiencer">Она</rs> бы желала скрыть от <rs>него</rs> то, что <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">она</rs> писала, но
+              вместе с тем и рада была тому, что <rs>он</rs> застал <rs>ее</rs> и что надо сказать
+                <rs>ему</rs>.</s> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="Nikolai_Rostov" speech_text="Это дневник, Nicolas," verb="сказать" author_comment="- сказала она, подавая ему синенькую тетрадку, исписанную ее твердым, крупным почерком." speech_id="6219"><s>- Это дневник, Nicolas,- сказала <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">она</rs>, подавая
+                  <rs>ему</rs> синенькую тетрадку, исписанную <rs>ее</rs> твердым, крупным
+                почерком.</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="Дневник?.." verb="сказать" author_comment="- с оттенком насмешливости сказал Николай и взял в руки тетрадку." speech_id="6218"><s>- Дневник?.. - с оттенком насмешливости сказал <rs ref="Nikolai_Rostov" rolename="agent">Николай</rs> и взял в руки
+              тетрадку.</s></said>
+            <s>Было написано по-французски:</s> </p>
+          <p><s>'4 декабря. Нынче Андрюша, старший сын, проснувшись, не хотел одеваться, и m-lle
+              Louise прислала за мной. Он был в капризе и упрямстве. Я попробовала угрожать, но он
+              только еще больше рассердился. Тогда я взяла на себя, оставила его и стала с няней
+              поднимать других детей, а ему сказала, что я не люблю его.</s><s> Он долго молчал, как
+              бы удивившись; потом, в одной рубашонке, выскочил ко мне и разрыдался так, что я долго
+              его не могла успокоить. Видно было, что он мучился больше всего тем, что огорчил меня;
+              потом, когда я вечером дала ему билетец, он опять жалостно расплакался, целуя меня. С
+              ним все можно сделать нежностью'.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="Что такое билетец?" verb="спросить" author_comment="- спросил Николай." speech_id="6206"><s>- Что такое билетец? - спросил <rs ref="Nikolai_Rostov" rolename="agent">Николай</rs>.</s></said> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="Nikolai_Rostov" speech_text="- Я начала давать старшим по вечерам записочки, как они вели себя." speech_id="6210"><s>- Я начала давать старшим по вечерам записочки, как они вели
+                себя.</s></said> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="agent">Николай</rs> взглянул в лучистые глаза,
+              смотревшие на <rs ref="Nikolai_Rostov">него</rs>, и продолжал перелистывать и
+              читать.</s>
+            <s>В дневнике записывалось все то из детской жизни, что для <rs rolename="experiencer">матери</rs> казалось замечательным, выражая характеры детей или наводя на общие
+              мысли о приемах воспитания.</s>
+            <s>Это были большей частью самые ничтожные мелочи; но они не казались таковыми ни <rs rolename="experiencer">матери</rs>, ни <rs rolename="experiencer">отцу</rs>, когда
+                <rs rolename="agent">он</rs> теперь в первый раз читал этот детский
+            дневник.</s> </p>
+          <p><s>5-го декабря было записано:</s> </p>
+          <p><s>'<rs rolename="agent">Митя</rs> шалил за столом. <rs rolename="agent">Папа</rs> не
+              велел давать <rs>ему</rs> пирожного. <rs>Ему</rs> не дали; но <rs>он</rs> так жалостно
+              и жадно смотрел на других, пока они ели! <rs rolename="agent">Я</rs> думаю, что
+              наказывать, не давая сластей, развивает жадность. Сказать Nicolas'.</s> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="agent">Николай</rs> оставил книжку и посмотрел на
+                <rs ref="Princess_Mariya_Bolkonskaya" rolename="undergoer">жену</rs>.</s>
+            <s>Лучистые глаза вопросительно (одобрял или не одобрял <rs>он</rs> дневник) смотрели на
+              него.</s>
+            <s>Не могло быть сомнения не только в одобрении, но в восхищении <rs ref="Nikolai_Rostov" rolename="experiencer">Николая</rs> перед <rs ref="Nikolai_Rostov">своей</rs>
+              <rs rolename="undergoer">женой</rs>.</s> </p>
+          <p><s>'Может быть, не нужно было делать это так педантически; может быть, и вовсе не
+              нужно',- думал <rs ref="Nikolai_Rostov" rolename="agent">Николай</rs>; но это
+              неустанное, вечное душевное напряжение, имеющее целью только нравственное добро
+              детей,- восхищало его.</s>
+            <s>Ежели бы <rs ref="Nikolai_Rostov">Николай</rs> мог сознавать <rs ref="Nikolai_Rostov" rolename="experiencer">свое</rs> чувство, то <rs ref="Nikolai_Rostov" rolename="experiencer">он</rs> нашел бы, что главное основание <rs ref="Nikolai_Rostov" rolename="experiencer">его</rs> твердой, нежной и гордой любви
+              к <rs ref="Princess_Mariya_Bolkonskaya" rolename="undergoer">жене</rs> имело основанием
+              всегда это чувство удивления перед <rs ref="Princess_Mariya_Bolkonskaya" rolename="experiencer">ее</rs> душевностью,
+              перед тем, почти недоступным для <rs ref="Nikolai_Rostov" rolename="benemalefactive">Николая</rs>, возвышенным, нравственным миром, в котором всегда жила <rs ref="Nikolai_Rostov">его</rs>
+              <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">жена</rs>.</s> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="experiencer">Он</rs> гордился тем, что <rs ref="Princess_Mariya_Bolkonskaya">она</rs> так умна и хороша, сознавая <rs ref="Nikolai_Rostov">свое</rs>
+              <rs rolename="undergoer">ничтожество</rs> перед <rs ref="Princess_Mariya_Bolkonskaya">нею</rs> в мире духовном, и тем более радовался тому, что <rs ref="Princess_Mariya_Bolkonskaya">она</rs> с <rs ref="Princess_Mariya_Bolkonskaya">своей</rs> душой не только принадлежала <rs ref="Nikolai_Rostov" rolename="possessor">ему</rs>, но составляла часть его самого.</s> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="Nikolai_Rostov" speech_text="- Очень и очень одобряю, мой друг,- сказал он с значительным видом." speech_id="6209"><s>- Очень и очень одобряю, <rs>мой</rs> друг,- сказал <rs ref="Nikolai_Rostov">он</rs> с значительным видом. И, помолчав немного, он
+                прибавил: - А <rs rolename="agent">я</rs> нынче скверно <rs>себя</rs> вел. <rs rolename="undergoer">Тебя</rs> не было в кабинете. Мы заспорили с <rs ref="Pierre_Bezukhov">Пьером</rs>, и <rs>я</rs> погорячился. Да невозможно. Это
+                такой ребенок. <rs>Я</rs> не знаю, что бы с ним было, ежели бы <rs ref="NatashaRostova" rolename="possessor">Наташа</rs> не держала его за уздцы.
+                Можешь себе представить, зачем ездил в Петербург... Они там
+            устроили...</s></said> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="Nikolai_Rostov" speech_text="Да, я знаю. Мне Наташа рассказала." verb="сказать" author_comment=",- сказала графиня Марья. -" speech_id="6217"><s>- Да, <rs rolename="experiencer">я</rs> знаю,- сказала <rs rolename="agent">графиня
+                  Марья</rs>. - <rs>Мне</rs>
+                <rs ref="NatashaRostova" rolename="agent">Наташа</rs> рассказала.</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="Ну, так ты знаешь. Он хочет меня уверить, что обязанность всякого честного человека состоит в том, чтобы идти против правительства, тогда как присяга и долг.... Я жалею, что тебя не было." verb="продолжать" author_comment=",- горячась при одном воспоминании о споре, продолжал Николай. -" speech_id="6216"><s>- Ну, так ты знаешь,- горячась при одном воспоминании о споре,
+                продолжал <rs ref="Nikolai_Rostov" rolename="agent" target="id_51151">Николай</rs>.
+                - Он хочет <rs>меня</rs> уверить, что обязанность всякого честного <rs rolename="experiencer">человека</rs> состоит в том, чтобы идти против
+                правительства, тогда как присяга и долг... <rs>Я</rs> жалею, что <rs rolename="undergoer">тебя</rs> не было. А то на <rs>меня</rs> все напали, и Денисов,
+                и <rs ref="NatashaRostova" xml:id="id_51151">Наташа</rs>... <rs ref="NatashaRostova">Наташа</rs> уморительна.</s></said><s> Ведь как <rs ref="NatashaRostova" target="id_51153">она</rs> его под башмаком держит, а чуть дело до рассуждений - у
+              ней своих слов нет - <rs ref="NatashaRostova" rolename="agent" xml:id="id_51153">она</rs> так его словами и говорит,- прибавил <rs ref="Nikolai_Rostov" rolename="agent">Николай</rs>, поддаваясь тому непреодолимому стремлению, которое
+              вызывает на суждение о людях самых дорогих и близких. <rs ref="Nikolai_Rostov" rolename="experiencer">Николай</rs> забывал, что слово в слово то же, что <rs ref="Nikolai_Rostov" rolename="agent">он</rs> говорил о <rs ref="NatashaRostova">Наташе</rs>, можно было сказать о нем в отношении его <rs ref="Princess_Mariya_Bolkonskaya">жены</rs>.</s> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="Nikolai_Rostov" speech_text="Да, я это замечала," verb="сказать" author_comment="- сказала графиня Марья." speech_id="6214"><s>- Да, <rs ref="Princess_Mariya_Bolkonskaya" rolename="experiencer">я</rs> это замечала,-
+                сказала <rs rolename="agent">графиня Марья</rs>.</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Когда я ему сказал, что долг и присяга выше всего, он стал доказывать бог знает что." speech_id="6208"><s>- Когда <rs rolename="agent">я</rs> ему сказал, что долг и присяга
+                выше всего, он стал доказывать бог знает что. Жаль, что <rs>тебя</rs> не было; что
+                бы <rs rolename="agent">ты</rs> сказала?</s></said> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="Nikolai_Rostov" speech_text="По-моему, ты совершенно прав.. Пьер говорит, что все страдают, мучатся, развращаются и что наш долг помочь своим ближним.. Разумеется, он прав,. Я так и сказала Наташе." verb="забывать" author_comment="- говорила графиня Марья,- но он забывает, что у нас есть другие обязанности ближе, которые сам бог указал нам, и что мы можем рисковать собой, но не детьми." speech_id="6204"><s>- По-моему, <rs rolename="undergoer">ты</rs> совершенно прав. <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">Я</rs> так и сказала <rs ref="NatashaRostova" rolename="addressee">Наташе</rs>. <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> говорит, что все страдают, мучатся, развращаются и что
+                наш долг помочь своим ближним. Разумеется, он прав,- говорила <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">графиня Марья</rs>,- но он
+                забывает, что у нас есть другие обязанности ближе, которые сам бог указал нам, и что
+                мы можем рисковать собой, но не детьми.</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Ну вот, вот, это самое я и говорил ему,- подхватил Николай, которому действительно казалось, что он говорил это самое. - А он свое: что любовь к ближнему и христианство, и все это при Николеньке, который тут забрался в кабинет и переломал все." speech_id="6211"><s>- Ну вот, вот, это самое я и говорил ему,- подхватил <rs ref="Nikolai_Rostov">Николай</rs>, которому действительно казалось, что он говорил
+                это самое. - А он свое: что любовь к <rs rolename="undergoer">ближнему</rs> и
+                христианство, и все это при <rs ref="Nikolai_Rostov">Николеньке</rs>, который тут
+                забрался в кабинет и переломал все.</s></said> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="Nikolai_Rostov" speech_text="Ах, знаешь ли, Nicolas, Николенька так часто меня мучит. Это такой необыкновенный мальчик." verb="сказать" author_comment=",- сказала графиня Марья. -" speech_id="6213"><s>- Ах,
+                знаешь ли, Nicolas, <rs ref="Nikolenka_Bolkonsky" rolename="agent">Николенька</rs>
+                так часто <rs rolename="experiencer">меня</rs> мучит,- сказала <rs rolename="agent">графиня Марья</rs>. - Это такой необыкновенный мальчик. И <rs rolename="experiencer">я</rs> боюсь, что <rs rolename="experiencer">я</rs> забываю
+                  <rs ref="Nikolenka_Bolkonsky" rolename="undergoer">его</rs> за своими. У нас у всех
+                дети, у всех родня; а у <rs ref="Nikolenka_Bolkonsky" rolename="possessor">него</rs>
+                никого нет. <rs>Он</rs> вечно один с <rs rolename="experiencer">своими</rs>
+                мыслями.</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Ну уж, кажется, тебе себя упрекать за него нечего." speech_id="6212"><s>- Ну уж, кажется, <rs rolename="agent">тебе</rs> себя упрекать за него нечего.
+                Все, что может сделать самая нежная <rs>мать</rs> для своего <rs rolename="benemalefactive">сына</rs>, ты делала и делаешь для него. И я,
+                разумеется, рад этому. Он славный, славный мальчик. Нынче он в каком-то беспамятстве
+                слушал <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs>. И можешь себе
+                представить: мы выходим к ужину; я смотрю, он изломал вдребезги у <rs>меня</rs> все
+                на столе и сейчас же сказал. <rs rolename="experiencer">Я</rs> никогда не видал,
+                чтоб он сказал неправду. Славный, славный <rs>мальчик</rs>! - повторил <rs ref="Nikolai_Rostov" rolename="agent">Николай</rs>, которому по душе не нравился
+                  <rs ref="Nikolenka_Bolkonsky" rolename="undergoer">Николенька</rs>, но которого ему всегда
+                бы хотелось признавать славным.</s></said> </p>
+          <p><said who="Princess_Mariya_Bolkonskaya" corresp="Nikolai_Rostov" speech_text="- Всё не то, что мать,я чувствую, что не то, и меня это мучит." verb="сказать" speech_id="6207"><s>- Всё не то, что <rs>мать</rs>,- сказала <rs rolename="agent">графиня Марья</rs>,- <rs rolename="experiencer">я</rs> чувствую,
+                что не то, и <rs rolename="experiencer">меня</rs> это мучит. Чудный
+                <rs>мальчик</rs>; но <rs rolename="experiencer">я</rs> ужасно боюсь за <rs>него. <rs rolename="experiencer">Ему</rs></rs> полезно будет общество.</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="Да, Пьер всегда был и останется мечтателем. Ну какое мне дело до всего этого там - что Аракчеев нехорош и всё,- какое мне до этого дело было, когда я женился и у меня долгов столько, что меня в яму сажают, и мать, которая этого не может видеть и понимать.. Что ж, ненадолго; нынче летом я отвезу его в Петербург" verb="сказать" author_comment=",- сказал Николай. -" speech_id="6203"><s>- Что ж,
+                ненадолго; нынче летом <rs rolename="agent">я</rs> отвезу его в Петербург,- сказал
+                  <rs ref="Nikolai_Rostov">Николай</rs>. - Да, <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьер</rs> всегда был и останется мечтателем,- продолжал он,
+                возвращаясь к разговору в кабинете, который, видимо, взволновал его. - Ну какое <rs ref="Nikolai_Rostov" rolename="possessor">мне</rs> дело до всего этого там - что
+                  <rs ref="Arakcheev" rolename="undergoer">Аракчеев</rs> нехорош и всё,- какое
+                  <rs>мне</rs> до этого дело было, когда <rs ref="Nikolai_Rostov" rolename="agent">я</rs> женился и у меня долгов столько, что <rs rolename="undergoer">меня</rs> в яму
+                сажают, и мать, которая этого не может видеть и понимать. А потом ты, дети, дела.
+                Разве я для своего удовольствия с утра до вечера и в конторе, и по делам?</s></said>
+            <s>Нет, <rs ref="Nikolai_Rostov" rolename="experiencer">я</rs> знаю, что <rs>я</rs>
+              должен работать, чтоб успокоить <rs rolename="experiencer">мать</rs>, отплатить <rs rolename="undergoer">тебе</rs> и детей не оставить такими нищими, как <rs rolename="undergoer">я</rs> был.</s> </p>
+          <p><s><rs ref="Princess_Mariya_Bolkonskaya" rolename="experiencer">Графине Марье</rs>
+              хотелось сказать ему, что не о едином хлебе сыт будет <rs>человек</rs>, что он слишком
+              много приписывает важности этим делам; но <rs ref="Princess_Mariya_Bolkonskaya" rolename="experiencer">она</rs> знала, что этого говорить не нужно и бесполезно.</s>
+            <s><rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">Она</rs> только взяла его руку
+              и поцеловала.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="experiencer">Он</rs> принял этот жест <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">жены</rs> за одобрение и
+              подтверждение <rs ref="Nikolai_Rostov" rolename="experiencer">своих</rs> мыслей и,
+              подумав несколько времени молча, вслух продолжал <rs ref="Nikolai_Rostov" rolename="agent">свои</rs> мысли.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="Princess_Mariya_Bolkonskaya" speech_text="- Ты знаешь, Мари, нынче приехал Илья Митрофаныч (это был управляющий делами) из тамбовской деревни и рассказывает, что за лес уже дают восемьдесят тысяч." verb="сказать" author_comment=",- сказал он,- нынче приехал Илья Митрофаныч (это был управляющий делами) из тамбовской деревни и рассказывает, что за лес уже дают восемьдесят тысяч. -" speech_id="6205"><s>- <rs ref="Princess_Mariya_Bolkonskaya" rolename="experiencer">Ты</rs> знаешь, <rs ref="Princess_Mariya_Bolkonskaya">Мари</rs>,- сказал
+                  <rs>он</rs>,- нынче приехал <rs rolename="agent">Илья Митрофаныч</rs> (это был
+                управляющий делами) из тамбовской деревни и рассказывает, что за лес уже дают
+                восемьдесят тысяч. - И <rs ref="Nikolai_Rostov" rolename="agent">Николай</rs> с
+                оживленным <rs>лицом</rs> стал рассказывать о возможности в весьма скором времени
+                выкупить Отрадное.</s></said>
+            <s>- Еще десять годков жизни, и <rs rolename="agent">я</rs> оставлю детям десять тысяч в
+              отличном положении.</s> </p>
+          <p><s><rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">Графиня Марья</rs> слушала
+                <rs rolename="undergoer">мужа</rs> и понимала все, что <rs ref="Nikolai_Rostov" rolename="agent">он</rs> говорил <rs ref="Princess_Mariya_Bolkonskaya" rolename="addressee">ей</rs>.</s>
+            <s><rs ref="Princess_Mariya_Bolkonskaya" rolename="experiencer">Она</rs> знала, что
+              когда <rs ref="Nikolai_Rostov">он</rs> так думал вслух, <rs ref="Nikolai_Rostov">он</rs> иногда спрашивал <rs ref="Princess_Mariya_Bolkonskaya" rolename="addressee">ее</rs>, что <rs ref="Nikolai_Rostov">он</rs> сказал, и сердился, когда замечал,
+              что <rs ref="Princess_Mariya_Bolkonskaya" rolename="agent">она</rs> думала о
+              другом.</s>
+            <s>Но <rs>она</rs> делала для этого большие усилия, потому что <rs ref="Princess_Mariya_Bolkonskaya">ее</rs> нисколько не интересовало то, что <rs ref="Nikolai_Rostov">он</rs> говорил.</s>
+            <s>Она смотрела на него и не то что думала о другом, а чувствовала о другом.</s>
+            <s>Она чувствовала покорную, нежную любовь к этому <rs rolename="undergoer">человеку</rs>,
+                <rs>который</rs> никогда не поймет всего того, что она понимает, и как бы от этого
+              она еще сильнее, с оттенком страстной нежности, любила <rs rolename="undergoer">его</rs>.</s>
+            <s>Кроме этого чувства, поглощавшего ее всю и мешавшего ей вникать в подробности планов
+                <rs rolename="agent">мужа</rs>, в голове ее мелькали мысли, не имеющие ничего общего
+              с тем, о чем <rs>он</rs> говорил.</s>
+            <s>Она думала о <rs>племяннике</rs> (рассказ <rs ref="Nikolai_Rostov" rolename="agent">мужа</rs> о <rs>его</rs> волнении при разговоре <rs ref="Pierre_Bezukhov" rolename="agent">Пьера</rs> сильно поразил ее), различные черты <rs rolename="undergoer">его</rs> нежного, чувствительного характера представлялись ей; и
+              она, думая о <rs>племяннике</rs>, думала и о своих детях.</s>
+            <s>Она не сравнивала <rs>племянника</rs> и своих детей, но она сравнивала свое чувство к
+              ним и с грустью находила, что в чувстве ее к <rs ref="Nikolai_Rostov" rolename="undergoer">Николеньке</rs> чего-то недоставало.</s> </p>
+          <p><s>Иногда ей приходила мысль, что различие это происходит от возраста; но она
+              чувствовала, что была виновата перед ним, и в душе своей обещала себе исправиться а
+              сделать невозможное - то есть в этой жизни любить и своего <rs rolename="undergoer">мужа</rs>, и детей, и <rs ref="Nikolenka_Bolkonsky" rolename="undergoer">Николеньку</rs>, и всех ближних так, как <rs rolename="experiencer">Христос</rs>
+              любил человечество.</s>
+            <s>Душа <rs rolename="undergoer">графини Марьи</rs> всегда стремилась к бесконечному,
+              вечному и совершенному и потому никогда не могла быть покойна.</s>
+            <s>На лице <rs rolename="possessor">ее</rs> выступило строгое выражение затаенного
+              высокого страдания <rs rolename="experiencer">души</rs>, тяготящейся телом.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="agent">Николай</rs> посмотрел на
+            <rs>нее</rs>.</s> </p>
+          <p><s>'Боже мой! что с нами будет, если <rs rolename="experiencer">она</rs> умрет, как это
+                <rs rolename="experiencer">мне</rs> кажется, когда у <rs rolename="possessor">нее</rs> такое лицо',- подумал <rs ref="Nikolai_Rostov">он</rs>, и, став перед
+              образом, <rs ref="Nikolai_Rostov">он</rs> стал читать вечерние молитвы.</s>  </p>
+        </div>
+        

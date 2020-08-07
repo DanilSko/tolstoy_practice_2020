@@ -1,0 +1,205 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="22" type="chapter" xml:id="chapter22part2Volume3">
+          <p> </p>
+          <p><s>Покачиваясь от давки, охватившей его, <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> оглядывался вокруг <rs ref="Pierre_Bezukhov">себя</rs>.</s> </p>
+          <p>
+            <said who="Boris_Drubetskoy" corresp="Pierre_Bezukhov" speech_text="Вы как здесь?. Граф, Петр Кирилыч!" verb="сказать" author_comment="- сказал чей-то голос." speech_id="4514"><s>- <rs>Граф</rs>, <rs ref="Pierre_Bezukhov">Петр Кирилыч</rs>! Вы как здесь? - сказал чей-то
+              голос.</s></said>
+            <s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> оглянулся.</s> </p>
+          <p><s><rs ref="Boris_Drubetskoy" rolename="agent" target="id_32222">Борис Друбецкой</rs>,
+              обчищая рукой коленки, которые <rs ref="Pierre_Bezukhov" xml:id="id_32222">он</rs>
+              запачкал (вероятно, тоже прикладываясь к иконе), улыбаясь подходил к <rs ref="Pierre_Bezukhov">Пьеру</rs>.</s>
+            <s><rs ref="Boris_Drubetskoy" rolename="possessor">Борис</rs> был одет элегантно, с
+              оттенком походной воинственности.</s>
+            <s>На <rs ref="Boris_Drubetskoy">нем</rs> был длинный сюртук и плеть через плечо, так
+              же, как у <rs ref="Mikhail_Ilarionovich_Kutuzov">Кутузова</rs>.</s> </p>
+          <p><s><rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs> между тем
+              подошел к деревне и сел в тени ближайшего дома на лавку, которую бегом принес один <rs rolename="agent">казак</rs>, а другой поспешно покрыл ковриком.</s>
+            <s>Огромная блестящая свита окружила <rs>главнокомандующего</rs>.</s> </p>
+          <p><s>Икона тронулась дальше, сопутствуемая толпой.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="agent" target="id_32223">Пьер</rs> шагах в
+              тридцати от <rs ref="Mikhail_Ilarionovich_Kutuzov">Кутузова</rs> остановился,
+              разговаривая с <rs ref="Boris_Drubetskoy" xml:id="id_32223">Борисом</rs>.</s> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> объяснил <rs ref="Pierre_Bezukhov">свое</rs> намерение участвовать в сражении и осмотреть
+              позицию.</s> </p>
+          <p>
+            <said who="Boris_Drubetskoy" corresp="Pierre_Bezukhov" speech_text="Лучше всего вы увидите все оттуда, где будет граф Бенигсен.. Je vous ferai les honneurs du camp!. А если хотите объехать позицию, то поедемте с нами: мы сейчас едем на левый фланг.. А потом вернемся, и милости прошу у меня ночевать, и партию составим.. Вы ведь знакомы с Дмитрием Сергеичем?. Он вот тут стоит,. Я ведь при нем состою.. Я ему доложу." verb="указать" author_comment="- он указал третий дом в Горках." speech_id="4505"><said who="Boris_Drubetskoy" corresp="Pierre_Bezukhov" speech_text="Вот как сделайте," verb="сказать" author_comment="- сказал Борис." speech_id="4519"><s>- Вот как сделайте, - сказал <rs ref="Boris_Drubetskoy" rolename="agent">Борис</rs>. - Je vous ferai les honneurs du
+              camp!</s></said></said>
+            <s>1</s>
+            <s>Лучше всего вы увидите все оттуда, где будет <rs ref="Count_Bennigsen" rolename="undergoer">граф Бенигсен</rs>.</s>
+            <s>Я ведь при нем состою.</s>
+            <s><rs ref="Boris_Drubetskoy" rolename="agent">Я</rs> ему доложу.</s>
+            <s>А если хотите объехать позицию, то поедемте с нами: мы сейчас едем на левый
+              фланг.</s>
+            <s>А потом вернемся, и милости прошу у меня ночевать, и партию составим.</s>
+            <s>Вы ведь знакомы с <rs rolename="undergoer">Дмитрием Сергеичем</rs>?</s>
+            <s>Он вот тут стоит, - он указал третий дом в Горках.</s> </p>
+          <p>
+            <said who="Pierre_Bezukhov" corresp="Boris_Drubetskoy" speech_text="Но мне бы хотелось видеть правый фланг; говорят, он очень силен. Я бы хотел проехать от Москвы-реки и всю позицию." verb="сказать" author_comment=", - сказал Пьер. -" speech_id="4504"><s>- Но <rs ref="Pierre_Bezukhov"><rs rolename="experiencer">мне</rs></rs> бы хотелось видеть
+                правый фланг; говорят, он очень силен, - сказал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>. - <rs ref="Pierre_Bezukhov"><rs>Я</rs></rs> бы хотел
+                проехать от Москвы-реки и всю позицию.</s></said> </p>
+          <p>
+            <said who="Boris_Drubetskoy" corresp="Pierre_Bezukhov" speech_text="Ну, это после можете, а главный - левый фланг..." speech_id="4529"><s>-
+                Ну, это после можете, а главный - левый фланг...</s></said> </p>
+          <p>
+            <said who="Pierre_Bezukhov" corresp="Boris_Drubetskoy" speech_text="А где полк князя Болконского, не можете вы указать мне?. Да, да." verb="спросить" author_comment="- спросил Пьер." speech_id="4513"><s>- Да, да. А где
+                полк <rs ref="AndreyBolkonsky">князя Болконского</rs>, не можете вы указать <rs ref="Pierre_Bezukhov"><rs>мне</rs></rs>? - спросил <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s></said> </p>
+          <p>
+            <said who="Boris_Drubetskoy" corresp="Pierre_Bezukhov" speech_text="Андрея Николаевича? мы мимо проедем, я вас проведу к нему." speech_id="4526"><s>- <rs ref="AndreyBolkonsky" rolename="undergoer">Андрея
+                  Николаевича</rs>?</s></said>
+            <s>мы мимо проедем, <rs ref="Pierre_Bezukhov"><rs>я</rs></rs> вас проведу к
+            нему.</s> </p>
+          <p>
+            <said who="Pierre_Bezukhov" corresp="Boris_Drubetskoy" speech_text="Что ж левый фланг?" verb="спросить" author_comment="- спросил Пьер." speech_id="4510"><s>- Что ж левый
+                фланг? - спросил <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s></said> </p>
+          <p>
+            <said who="Boris_Drubetskoy" corresp="Pierre_Bezukhov" speech_text="А я вот стараюсь объяснить графу позицию. Удивителы но, как мог светлейший так верно угадать замыслы французов!. А! Паисий Сергеич. По правде вам сказать, entre nous, левый фланг наш бог знает в каком положении. Светлейший не захотел, или ему наговорили. Ведь.... граф Бенигсен совсем не то предполагал. Он предполагал укрепить вон тот курган, совсем не так... но" verb="сказать" author_comment="- И Борис не договорил, потому что в это время к Пьеру подошел Кайсаров, адъютант Кутузова. -" speech_id="4509"><s>- По правде вам сказать, entre nous, левый фланг наш бог знает в
+                каком положении, - сказал <rs ref="Boris_Drubetskoy" rolename="agent" target="id_32225">Борис</rs>, доверчиво понижая голос, - <rs ref="Count_Bennigsen" rolename="experiencer">граф <rs ref="Count_Bennigsen">Бенигсен</rs></rs> совсем не
+                то предполагал. Он предполагал укрепить вон тот курган, совсем не так... но, - <rs ref="Boris_Drubetskoy" rolename="agent" xml:id="id_32225">Борис</rs> пожал
+                плечами. - <rs rolename="experiencer">Светлейший</rs> не захотел, или <rs>ему</rs>
+                наговорили. Ведь... - И <rs ref="Boris_Drubetskoy" rolename="agent">Борис</rs> не
+                договорил, потому что в это время к <rs ref="Pierre_Bezukhov" target="id_32226">Пьеру</rs> подошел <rs ref="Paisi_Kaysarov" rolename="agent" xml:id="id_32226">Кайсаров</rs>, адъютант <rs ref="Mikhail_Ilarionovich_Kutuzov">Кутузова</rs>. -
+                А! <rs>Паисий Сергеич</rs>, - сказал <rs ref="Boris_Drubetskoy" rolename="agent">Борис</rs>, с свободной улыбкой обращаясь к <rs ref="Paisi_Kaysarov">Кайсарову</rs>. - А <rs rolename="agent">я</rs> вот стараюсь объяснить <rs rolename="addressee">графу</rs> позицию. Удивителы но, как мог <rs>светлейший</rs>
+                так верно угадать замыслы французов!</s></said> </p>
+          <p>
+            <said who="Paisi_Kaysarov" corresp="Boris_Drubetskoy" speech_text="Вы про левый фланг?" verb="сказать" author_comment="- сказал Кайсаров." speech_id="4506"><s>- Вы про левый
+                фланг? - сказал <rs ref="Paisi_Kaysarov" rolename="agent">Кайсаров</rs>.</s></said> </p>
+          <p>
+            <said who="Boris_Drubetskoy" corresp="Paisi_Kaysarov" speech_text="Да, да, именно. Левый фланг наш теперь очень, очень силен." speech_id="4499"><s>- Да, да, именно. Левый фланг наш теперь очень, очень
+              силен.</s></said> </p>
+          <p><s>Несмотря на то, что <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs> выгонял всех лишних из штаба, <rs ref="Boris_Drubetskoy" rolename="experiencer">Борис</rs> после перемен, произведенных <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузовым</rs>, сумел удержаться
+              при главной квартире.</s>
+            <s><rs ref="Boris_Drubetskoy" rolename="agent">Борис</rs> пристроился к <rs ref="Count_Bennigsen" rolename="finalpoint">графу <rs ref="Count_Bennigsen">Бенигсену</rs></rs>.</s>
+            <s><rs ref="Count_Bennigsen" rolename="experiencer">Граф <rs ref="Count_Bennigsen">Бенигсен</rs></rs>, как и все люди, при которых находился <rs ref="Boris_Drubetskoy" rolename="undergoer">Борис</rs>, считал молодого <rs>князя</rs>
+              Друбецкого неоцененным человеком.</s> </p>
+          <p><s>В начальствовании армией были две резкие, определенные партии: партия <rs ref="Mikhail_Ilarionovich_Kutuzov">Кутузова</rs> и партия <rs ref="Count_Bennigsen">Бенигсена</rs>, начальника штаба.</s>
+            <s><rs ref="Boris_Drubetskoy" rolename="undergoer">Борис</rs> находился при этой последней
+              партии, и никто так, как <rs ref="Boris_Drubetskoy">он</rs>, не умел, воздавая
+              раболепное уважение <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="possessor">Кутузову</rs>, давать чувствовать, что <rs rolename="undergoer">старик</rs> плох и что
+              все дело ведется <rs ref="Count_Bennigsen" rolename="agent">Бенигсеном</rs>.</s>
+            <s>Теперь наступила решительная минута сражения, которая должна была или уничтожить <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="undergoer">Кутузова</rs> и передать власть
+                  <rs><rs ref="Count_Bennigsen" rolename="possessor">Бенигсену</rs></rs>, или, ежели
+              бы даже <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs> выиграл
+              сражение, дать почувствовать, что все сделано <rs ref="Count_Bennigsen" rolename="agent">Бенигсеном</rs>.</s>
+            <s>Во всяком случае, за завтрашний день должны были быть розданы большие награды и
+              выдвинуты вперед новые люди.</s>
+            <s>И вследствие этого <rs ref="Boris_Drubetskoy" rolename="undergoer">Борис</rs> находился
+              в раздраженном оживлении весь этот день.</s> </p>
+          <p><s>За <rs ref="Paisi_Kaysarov" target="id_32229">Кайсаровым</rs> к <rs ref="Pierre_Bezukhov" xml:id="id_32229">Пьеру</rs> еще подошли другие из <rs ref="Pierre_Bezukhov">его</rs> знакомых, и <rs ref="Pierre_Bezukhov" rolename="experiencer">он</rs> не успевал отвечать на расспросы о Москве, которыми
+              они засыпали <rs ref="Pierre_Bezukhov">его</rs>, и не успевал выслушивать рассказов,
+              которые <rs ref="Paisi_Kaysarov" rolename="experiencer">ему</rs> делали.</s>
+            <s>На всех лицах выражались оживление и тревога.</s>
+            <s>Но <rs ref="Pierre_Bezukhov" rolename="experiencer">Пьеру</rs> казалось, что причина
+              возбуждения, выражавшегося на некоторых из этих лиц, лежала больше в вопросах личного
+              успеха, и у <rs ref="Pierre_Bezukhov">него</rs> не выходило из головы то другое
+              выражение возбуждения, которое <rs ref="Pierre_Bezukhov" rolename="experiencer">он</rs> видел на других лицах и которое говорило о вопросах не личных, а общих,
+              вопросах жизни и смерти.</s>
+            <s><rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="experiencer">Кутузов</rs> заметил
+              фигуру <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs> и группу, собравшуюся
+              около него.</s> </p>
+          <p>
+            <said who="Mikhail_Ilarionovich_Kutuzov" corresp="" speech_text="Позовите его ко мне," verb="сказать" author_comment="- сказал Кутузов." speech_id="4500"><s>- Позовите <rs ref="Pierre_Bezukhov" rolename="undergoer">его</rs> ко мне, - сказал <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs>.</s></said>
+            <s><rs rolename="agent">Адъютант</rs> передал желание <rs rolename="experiencer">светлейшего</rs>, и <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> направился
+              к скамейке.</s>
+            <s> к <rs ref="Mikhail_Ilarionovich_Kutuzov" xml:id="id_322210">Кутузову</rs> подошел
+              рядовой <rs rolename="agent">ополченец</rs>.</s>
+            <s>Это был <rs ref="Fedor_Ivanovich_Dolokhov">Долохов</rs>.</s> </p>
+          <p>
+            <said who="Pierre_Bezukhov" corresp="" speech_text="Этот как тут?" verb="спросить" author_comment="- спросил Пьер." speech_id="4521"><s>- Этот как тут? - спросил <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s></said> </p>
+          <p>
+            <s>- Это такая бестия, везде пролезет! - отвечали <rs ref="Pierre_Bezukhov" rolename="addressee">Пьеру</rs>. - Ведь <rs ref="Fedor_Ivanovich_Dolokhov">он</rs>
+              разжалован. Теперь <rs ref="Fedor_Ivanovich_Dolokhov">ему</rs> выскочить надо.
+              Какие-то проекты подавал и в цепь неприятельскую ночью лазил... но
+              <rs>молодец</rs>!..</s> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, сняв шляпу, почтительно
+              наклонился перед <rs ref="Mikhail_Ilarionovich_Kutuzov" xml:id="id_322213">Кутузовым</rs>.</s> </p>
+          <p>
+            <said who="Fedor_Ivanovich_Dolokhov" corresp="Mikhail_Ilarionovich_Kutuzov" speech_text="Я решил, что, ежели я доложу вашей светлости, вы можете прогнать меня или сказать, что вам известно то, что я докладываю, и тогда меня не убудет..." verb="говорить" author_comment="- говорил Долохов." speech_id="4503"><said who="Fedor_Ivanovich_Dolokhov" corresp="Mikhail_Ilarionovich_Kutuzov" speech_text="- Я решил, что, ежели я доложу вашей светлости, вы можете прогнать меня или сказать, что вам известно то, что я докладываю, и тогда меня не убудет... А ежели я прав, то я принесу пользу отечеству, для которого я готов умереть." speech_id="4523"><s>- Я решил, что, ежели <rs rolename="agent">я</rs> доложу вашей
+                    <rs rolename="addressee">светлости</rs>, вы можете прогнать <rs>меня</rs> или
+                  сказать, что вам известно то, что <rs>я</rs> докладываю, и тогда <rs>меня</rs> не
+                  убудет... - говорил <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>.</s></said></said> </p>
+          <p>
+            <said who="Mikhail_Ilarionovich_Kutuzov" corresp="Fedor_Ivanovich_Dolokhov" speech_text="Так... так..." speech_id="4498"><said who="Mikhail_Ilarionovich_Kutuzov" corresp="Fedor_Ivanovich_Dolokhov" speech_text="Так, так." speech_id="4525"><s>-
+                  Так, так.</s></said></said> </p>
+          <p>
+            <s>- А ежели <rs>я</rs> прав, то <rs>я</rs> принесу пользу отечеству, для которого
+                <rs>я</rs> готов умереть.</s> </p>
+          <p>
+            <said who="Mikhail_Ilarionovich_Kutuzov" corresp="Fedor_Ivanovich_Dolokhov" speech_text="Так... так..." speech_id="4498"><said who="Mikhail_Ilarionovich_Kutuzov" corresp="Fedor_Ivanovich_Dolokhov" speech_text="Так, так." speech_id="4525"><s>-
+                  Так... так...</s></said></said> </p>
+          <p>
+            <said who="Fedor_Ivanovich_Dolokhov" corresp="Mikhail_Ilarionovich_Kutuzov" speech_text="И ежели вашей светлости понадобится человек, который бы не жалел своей шкуры, то извольте вспомнить обо мне... Может быть, я пригожусь вашей светлости." speech_id="4528"><s>- И ежели вашей <rs rolename="experiencer">светлости</rs>
+                понадобится <rs rolename="undergoer">человек</rs>, <rs>который</rs> бы не жалел <rs rolename="possessor">своей</rs> шкуры, то извольте вспомнить обо <rs>мне</rs>...
+                Может быть, <rs>я</rs> пригожусь вашей <rs rolename="experiencer">светлости</rs>.</s></said> </p>
+          <p>
+            <s>... так... - повторил <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent" target="id_322214">Кутузов</rs>, смеющимся, суживающимся глазом глядя на <rs ref="Pierre_Bezukhov" rolename="undergoer" xml:id="id_322214">Пьера</rs>.</s> </p>
+          <p><s>В это время <rs ref="Boris_Drubetskoy">Борис</rs>, с своей придворной ловкостью,
+              выдвинулся рядом с <rs ref="Pierre_Bezukhov">Пьером</rs> в близость начальства и с
+              самым естественным видом и не громко, как бы продолжая начатый разговор, сказал <rs ref="Pierre_Bezukhov" rolename="addressee">Пьеру</rs>:</s> </p>
+          <p>
+            <said who="Boris_Drubetskoy" corresp="Pierre_Bezukhov" speech_text="Какое геройство, граф!. Ополченцы" speech_id="4516"><s>- Ополченцы - те
+                прямо надели чистые, белые рубахи, чтобы приготовиться к смерти. Какое геройство,
+                  <rs>граф</rs>!</s></said> </p>
+          <p><s><rs ref="Boris_Drubetskoy" rolename="agent" target="id_322216">Борис</rs> сказал это
+                <rs ref="Pierre_Bezukhov" rolename="addressee" xml:id="id_322216">Пьеру</rs>,
+              очевидно, для того, чтобы быть услышанным <rs rolename="experiencer">светлейшим</rs>.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="experiencer">Он</rs> знал, что <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs> обратит внимание на
+              эти слова, и действительно <rs rolename="agent">светлейший</rs> обратился к <rs ref="Mikhail_Ilarionovich_Kutuzov">нему</rs>:</s> </p>
+          <p>
+            <s> что говоришь про ополченье? - сказал <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent" target="id_322219">он</rs>
+              <rs ref="Boris_Drubetskoy" rolename="addressee" xml:id="id_322219">Борису</rs>.</s> </p>
+          <p>
+            <said who="Boris_Drubetskoy" corresp="Mikhail_Ilarionovich_Kutuzov" speech_text="Они, ваша светлость, готовясь к завтрашнему дню, к смерти, надели белые рубахи." speech_id="4517"><s>- Они, <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="possessor">ваша</rs>
+                <rs>светлость</rs>, готовясь к завтрашнему дню, к смерти, надели белые
+              рубахи.</s></said> </p>
+          <p>
+            <said who="Mikhail_Ilarionovich_Kutuzov" corresp="Boris_Drubetskoy" speech_text="А!... Чудесный, бесподобный народ!" verb="сказать" author_comment="- сказал Кутузов и, закрыв глаза, покачал головой." speech_id="4501"><said who="Mikhail_Ilarionovich_Kutuzov" corresp="Boris_Drubetskoy" speech_text="Бесподобный народ!" verb="повторить" author_comment="- повторил он со вздохом." speech_id="4508"><s>- А!.. Чудесный,
+                  бесподобный народ! - сказал <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs> и, закрыв глаза, покачал
+              головой.</s></said></said>
+            <said who="Mikhail_Ilarionovich_Kutuzov" corresp="Boris_Drubetskoy" speech_text="Бесподобный народ!" verb="повторить" author_comment="- повторил он со вздохом." speech_id="4508"><s>- Бесподобный народ! -
+                повторил <rs ref="Mikhail_Ilarionovich_Kutuzov">он</rs> со вздохом.</s></said> </p>
+          <p>
+            <said who="Mikhail_Ilarionovich_Kutuzov" corresp="Pierre_Bezukhov" speech_text="Да, приятный запах. Имею честь быть обожателем супруги вашей, здорова она? Мой привал к вашим услугам.. Хотите пороху понюхать?" verb="сказать" author_comment="- сказал он Пьеру. -" speech_id="4512"><s>- Хотите
+                пороху понюхать? - сказал <rs ref="Mikhail_Ilarionovich_Kutuzov" target="id_322221">он</rs>
+                <rs ref="Pierre_Bezukhov" rolename="addressee" xml:id="id_322221">Пьеру</rs>. - Да,
+                приятный запах.</s></said>
+            <s>Имею честь быть обожателем <rs rolename="undergoer">супруги</rs> вашей, здорова она?</s>
+            <s><rs rolename="agent">Мой</rs> привал к вашим услугам.</s>
+            <s>- И, как это часто бывает с старыми людьми, <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs> стал рассеянно оглядываться, как будто забыв все, что
+                <rs ref="Mikhail_Ilarionovich_Kutuzov">ему</rs> нужно было сказать или
+            сделать.</s> </p>
+          <p><s>Очевидно, вспомнив то, что <rs ref="Mikhail_Ilarionovich_Kutuzov" target="id_322224">он</rs> искал, <rs ref="Mikhail_Ilarionovich_Kutuzov" xml:id="id_322224">он</rs>
+              подманил к <rs ref="Mikhail_Ilarionovich_Kutuzov">себе</rs>
+              <rs ref="Andrei_Kaysarov" rolename="agent">Андрея Сергеича Кайсарова</rs>,
+                <rs>брата</rs>
+              <rs ref="Mikhail_Ilarionovich_Kutuzov">своего</rs>
+              <rs>адъютанта</rs>.</s> </p>
+          <p>
+            <said who="Mikhail_Ilarionovich_Kutuzov" corresp="" speech_text="Как, как, как стихи-то Марина, как стихи, как? Что на Геракова написал: 'Будешь в корпусе учитель...' Скажи, скажи" verb="заговорить" speech_id="4515"><s>- Как, как, как стихи-то <rs rolename="agent">Марина</rs>, как стихи, как?</s></said>
+            <s>Что на Геракова написал: 'Будешь в корпусе учитель...'</s>
+            <s>Скажи, скажи, - заговорил <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs>, очевидно, собираясь посмеяться.</s>
+            <s> Кайсаров прочел... <rs ref="Mikhail_Ilarionovich_Kutuzov" xml:id="id_322227">Кутузов</rs>, улыбаясь, кивая головой в такт стихов.</s> </p>
+          <p><s> Когда Пьер отошел от <rs ref="Mikhail_Ilarionovich_Kutuzov" xml:id="id_322229">Кутузова</rs>, <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>,
+              подвинувшись к <rs ref="Pierre_Bezukhov">нему</rs>, взял <rs ref="Pierre_Bezukhov">его</rs> за руку.</s> </p>
+          <p>
+            <said who="Fedor_Ivanovich_Dolokhov" corresp="Pierre_Bezukhov" speech_text="Накануне дня, в который бог знает кому из нас суждено остаться в живых, я рад случаю сказать вам, что я жалею о тех недоразумениях, которые были между нами, и желал бы, чтобы вы не имели против меня ничего. Прошу вас простить меня.. Очень рад встретить вас здесь, граф" verb="сказать" author_comment=", - сказал он ему громко и не стесняясь присутствием посторонних, с особенной решительностью и торжественностью. -" speech_id="4511"><s>- Очень рад встретить вас здесь, <rs>граф</rs>, - сказал он ему
+                громко и не стесняясь присутствием посторонних, с особенной решительностью и
+                торжественностью. - Накануне дня, в который бог знает кому из нас суждено остаться в
+                живых, я рад случаю сказать вам, что я жалею о тех недоразумениях, которые были
+                между нами, и желал бы, чтобы вы не имели против меня ничего. Прошу вас простить
+                меня.</s></said> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="agent" target="id_322231">Пьер</rs>, улыбаясь,
+              глядел на <rs ref="Fedor_Ivanovich_Dolokhov" rolename="undergoer" xml:id="id_322231">Долохова</rs>, не зная, что сказать <rs ref="Fedor_Ivanovich_Dolokhov" rolename="addressee">ему</rs>.</s>
+            <s><rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs> со слезами,
+              выступившими <rs ref="Fedor_Ivanovich_Dolokhov">ему</rs> на глаза, обнял и поцеловал
+                <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs>.</s> </p>
+          <p><s><rs ref="Boris_Drubetskoy" rolename="agent">Борис</rs> что-то сказал <rs ref="Boris_Drubetskoy">своему</rs>
+              <rs rolename="addressee">генералу</rs>, и <rs ref="Count_Bennigsen" rolename="agent">граф <rs ref="Count_Bennigsen">Бенигсен</rs></rs> обратился к <rs ref="Pierre_Bezukhov">Пьеру</rs> и предложил ехать с собою вместе по линии.</s> </p>
+          <p>
+            <said who="Count_Bennigsen" corresp="Pierre_Bezukhov" speech_text="Вам это будет интересно," verb="сказать" author_comment="- сказал он." speech_id="4524"><s>- Вам это будет интересно, - сказал <rs ref="Pierre_Bezukhov" rolename="agent">он</rs>.</s></said> </p>
+          <p>
+            <said who="Pierre_Bezukhov" corresp="Count_Bennigsen" speech_text="Да, очень интересно," verb="сказать" author_comment="- сказал Пьер." speech_id="4522"><s>- Да, очень
+                интересно, - сказал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s></said> </p>
+          <p><s>Через полчаса <rs ref="Mikhail_Ilarionovich_Kutuzov" rolename="agent">Кутузов</rs>
+              уехал в <rs>Татаринову</rs>, и <rs ref="Count_Bennigsen" rolename="agent">Бенигсен</rs> со свитой, в числе которой был и <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьер</rs>, поехал по линии.</s>  </p>
+        </div>
+        

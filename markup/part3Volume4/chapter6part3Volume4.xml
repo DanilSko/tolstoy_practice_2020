@@ -1,0 +1,104 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="6" type="chapter" xml:id="chapter6part3Volume4">
+          <p> </p>
+          <p><s>Поговорив еще несколько времени с эсаулом о завтрашнем нападении, которое теперь,
+              глядя на близость французов, Денисов, казалось, окончательно решил, он повернул лошадь
+              и поехал назад.</s> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Petya_Rostov" speech_text="Ну, бг'ат, тепег'ь поедем обсушимся," verb="сказать" author_comment="- сказал он Пете." speech_id="5662"><s>- Ну, бг'ат, тепег'ь поедем
+                обсушимся,- сказал он <rs ref="Petya_Rostov" rolename="addressee">Пете</rs>.</s></said> </p>
+          <p><s>Подъезжая к лесной караулке, <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs> остановился, вглядываясь в лес.</s>
+            <s>По лесу, между деревьев, большими легкими шагами шел на длинных ногах, с длинными
+              мотающимися руками, <rs>человек</rs> в куртке, лаптях и казанской шляпе, с ружьем
+              через плечо и топором за поясом.</s>
+            <s>Увидав <rs ref="Vasily__Vasska__Denisov" rolename="undergoer">Денисова</rs>, <rs rolename="agent">человек</rs> этот поспешно швырнул что-то в куст и, сняв с
+              отвисшими полями мокрую шляпу, подошел к <rs>начальнику</rs>.</s>
+            <s>Это был <rs ref="Tikhon_Shtcherbatov">Тихон</rs>.</s>
+            <s>Изрытое оспой и морщинами лицо <rs ref="Tikhon_Shtcherbatov" rolename="possessor">его</rs> с маленькими узкими глазами сияло самодовольным весельем.</s>
+            <s>, высоко подняв голову и как будто удерживаясь от смеха, уставился на <rs ref="Vasily__Vasska__Denisov" xml:id="id_4362">Денисова</rs>.</s> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Tikhon_Shtcherbatov" speech_text="Ну где пг'опадал?" verb="сказать" author_comment="- сказал Денисов." speech_id="5654"><s>- Ну где пг'опадал? - сказал <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs>.</s></said> </p>
+          <p><s>- Где пропадал?</s>
+            <s>За французами ходил,- смело и поспешно отвечал <rs ref="Tikhon_Shtcherbatov" rolename="agent">Тихон</rs> хриплым, но певучим басом.</s> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Tikhon_Shtcherbatov" speech_text="- Зачем же ты днем полез? Скотина! Ну что ж, не взял?.." speech_id="5652"><s>- Зачем же <rs rolename="agent">ты</rs> днем полез?</s></said>
+            <s><rs>Скотина</rs>!</s>
+            <s>Ну что ж, не взял?..</s> </p>
+          <p><said who="Tikhon_Shtcherbatov" corresp="Vasily__Vasska__Denisov" speech_text="Взять-то взял," verb="сказать" author_comment="- сказал Тихон." speech_id="5649"><s>- Взять-то взял,- сказал <rs ref="Tikhon_Shtcherbatov" rolename="agent">Тихон</rs>.</s></said> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Tikhon_Shtcherbatov" speech_text="- Где ж он?" speech_id="5656"><s>- Где ж <rs>он</rs>?</s></said> </p>
+          <p><said who="Tikhon_Shtcherbatov" corresp="Vasily__Vasska__Denisov" speech_text="- Да я его взял сперва-наперво на зорьке еще,. да и свел в лес. Вижу, не ладен. Думаю, дай схожу, другого поаккуратнее какого возьму." speech_id="5660"><s>- Да я <rs ref="Tikhon_Shtcherbatov">его</rs> взял сперва-наперво
+                на зорьке еще,- продолжал <rs ref="Tikhon_Shtcherbatov" rolename="agent">Тихон</rs>,
+                переставляя пошире плоские, вывернутые в лаптях ноги,- да и свел в лес. Вижу, не
+                  <rs>ладен</rs>. Думаю, дай схожу, другого поаккуратнее какого
+            возьму.</s></said> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Tikhon_Shtcherbatov" speech_text="Зачем же ты этого не пг'ивел?. Ишь, шельма, так и есть" verb="сказать" author_comment=",- сказал Денисов эсаулу. -" speech_id="5657"><s>- Ишь,
+                  <rs>шельма</rs>, так и есть,- сказал <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs> эсаулу. - Зачем же <rs rolename="agent">ты</rs>
+                этого не пг'ивел?</s></said> </p>
+          <p><said who="Tikhon_Shtcherbatov" corresp="Vasily__Vasska__Denisov" speech_text="- Да что ж его водить-то,. не гожающий. Разве я не знаю, каких вам надо?" speech_id="5658"><s>- Да что ж его водить-то,- сердито и поспешно перебил <rs ref="Tikhon_Shtcherbatov" rolename="agent">Тихон</rs>,- не гожающий. Разве <rs rolename="experiencer">я</rs> не знаю, каких вам надо?</s></said> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Tikhon_Shtcherbatov" speech_text="- Эка бестия!.. Ну?.." speech_id="5644"><s>- <rs>Эка</rs>
+                <rs>бестия</rs>!..</s></said>
+            <s>Ну?..</s> </p>
+          <p><said who="Tikhon_Shtcherbatov" corresp="Vasily__Vasska__Denisov" speech_text="Один и навернись,. Пойдем, говорю, к полковнику. Как загалдит. А их тут четверо. Бросились на меня с шпажками. Я на них таким манером топором: что вы, мол, Христос с вами,. Пошел за другим. Я его таким манером и сграбь.. подполоз я таким манером в лес, да и лег." verb="продолжать" author_comment=",- продолжал Тихон,- подполоз я таким манером в лес, да и лег. -" speech_id="5653"><s>- Пошел за другим,- продолжал <rs ref="Tikhon_Shtcherbatov" rolename="agent">Тихон</rs>,- подполоз <rs rolename="undergoer">я</rs> таким манером
+                в лес, да и лег. - <rs ref="Tikhon_Shtcherbatov" rolename="agent">Тихон</rs>
+                неожиданно и гибко лег на брюхо, представляя в лицах, как он это сделал.</s></said>
+            <s>- Один и навернись,- продолжал он.</s>
+            <s>- <rs rolename="undergoer">Я</rs> его таким манером и сграбь.</s>
+            <s>- <rs ref="Tikhon_Shtcherbatov" rolename="agent">Тихон</rs> быстро, легко
+              вскочил.</s>
+            <said who="Tikhon_Shtcherbatov" corresp="Vasily__Vasska__Denisov;esaul Lovaysky;Petya_Rostov" speech_text="- Пойдем, говорю, к полковнику. Как загалдит. А их тут четверо. Бросились на меня с шпажками. Я на них таким манером топором: что вы, мол, Христос с вами," verb="говорить" speech_id="5642"><s>- Пойдем, говорю, к <rs>полковнику</rs>. Как
+                загалдит. А их тут четверо. Бросились на <rs rolename="undergoer">меня</rs> с шпажками.
+                  <rs rolename="undergoer">Я</rs> на них таким манером топором: что вы, мол,
+                  <rs>Христос</rs> с вами,- вскрикнул <rs ref="Tikhon_Shtcherbatov" rolename="agent">Тихон</rs>, размахнув руками и грозно хмурясь, выставляя грудь.</s></said> </p>
+          <p><said who="esaul Lovaysky" corresp="Tikhon_Shtcherbatov" speech_text="То-то мы с горы видели, как ты стречка задавал через лужи-то," verb="сказать" author_comment="- сказал эсаул, суживая свои блестящие глаза." speech_id="5659"><s>- То-то мы с горы видели, как <rs rolename="agent">ты</rs> стречка
+                задавал через лужи-то,- сказал эсаул, суживая свои блестящие глаза.</s></said> </p>
+          <p><s><rs ref="Petya_Rostov" rolename="experiencer">Пете</rs> очень хотелось смеяться, но
+                <rs ref="Petya_Rostov" rolename="experiencer">он</rs> видел, что все удерживались от
+              смеха.</s>
+            <s><rs ref="Petya_Rostov" rolename="agent">Он</rs> быстро переводил глаза с лица <rs ref="Tikhon_Shtcherbatov" rolename="possessor">Тихона</rs> на лицо эсаула и <rs ref="Vasily__Vasska__Denisov" rolename="possessor">Денисова</rs>, не понимая того,
+              что все это значило.</s> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Tikhon_Shtcherbatov" speech_text="Зачем пег'вого не пг'ивел?. Ты дуг'ака-то не представляй" verb="сказать" author_comment=",- сказал Денисов, сердито покашливая. -" speech_id="5661"><s>- <rs rolename="experiencer">Ты</rs> дуг'ака-то не представляй,- сказал <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs>, сердито покашливая. -
+                Зачем пег'вого не пг'ивел?</s></said> </p>
+          <p><s><rs ref="Tikhon_Shtcherbatov" rolename="agent">Тихон</rs> стал чесать одной рукой
+              спину, другой <rs rolename="undergoer">голову</rs>, и вдруг вся рожа его растянулась в
+              сияющую глупую улыбку, открывшую недостаток зуба (за что он и прозван Щербатый).</s>
+            <s><rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs> улыбнулся, и <rs ref="Petya_Rostov" rolename="agent">Петя</rs> залился веселым смехом, к которому
+              присоединился и сам <rs ref="Tikhon_Shtcherbatov">Тихон</rs>.</s> </p>
+          <p><said who="Tikhon_Shtcherbatov" corresp="Vasily__Vasska__Denisov;esaul Lovaysky;Petya_Rostov" speech_text="не пойду. я сам анаральский сын" verb="говорить" speech_id="5641"><said who="Tikhon_Shtcherbatov" corresp="Vasily__Vasska__Denisov" speech_text="Да что, совсем несправный. Одежонка плохенькая на нем, куда же его водить-то. Да и грубиян, ваше благородие. Как же, говорит, я сам анаральский сын, не пойду, говорит." verb="сказать" author_comment=",- сказал Тихон. -" speech_id="5650"><s>- Да что,
+                  совсем несправный,- сказал <rs ref="Tikhon_Shtcherbatov" rolename="agent">Тихон</rs>. - Одежонка плохенькая на нем, куда же его водить-то. Да и
+                    <rs>грубиян</rs>, <rs rolename="possessor">ваше</rs>
+                  <rs>благородие</rs>. Как же, говорит, я сам анаральский сын, не пойду,
+                  говорит.</s></said></said> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Tikhon_Shtcherbatov" speech_text="- Экая скотина!. Мне расспросить надо..." speech_id="5646"><s>- Экая
+                  <rs>скотина</rs>! - сказал <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs>. - Мне расспросить надо...</s></said> </p>
+          <p><s>
+              <rs ref="Vasily__Vasska__Denisov" xml:id="id_4365">его</rs> спрашивал,- сказал <rs ref="Tikhon_Shtcherbatov">Тихон</rs>. - <rs ref="Vasily__Vasska__Denisov">Он</rs>
+              говорит: плохо знаком. Наших, говорит, и много, да всё плохие; только, говорит, одна
+              названия.</s>
+            <s>Ахнете, говорит, хорошенько, всех заберете,- заключил <rs ref="Tikhon_Shtcherbatov" rolename="agent">Тихон</rs>, весело и решительно взглянув в глаза <rs ref="Vasily__Vasska__Denisov" rolename="possessor">Денисова</rs>.</s> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Tikhon_Shtcherbatov" speech_text="- Вот я те всыплю сотню гог'ячих, ты и будешь дуг'ака-то ког'чить" speech_id="5648"><s>- Вот <rs ref="Tikhon_Shtcherbatov" rolename="agent">я</rs> те
+                всыплю сотню гог'ячих, ты и будешь дуг'ака-то ког'чить,- сказал <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs>
+            строго.</s></said> </p>
+          <p><said who="Tikhon_Shtcherbatov" corresp="Vasily__Vasska__Denisov" speech_text="- Да что же серчать-то,. что ж, я не видал французов ваших? Вот дай позатемняет, я тебе каких хошь, хоть троих приведу." verb="сказать" speech_id="5643"><s>- Да что же серчать-то,- сказал <rs ref="Tikhon_Shtcherbatov" rolename="agent">Тихон</rs>,- что ж, <rs>я</rs> не видал
+                французов ваших?</s></said>
+            <s>Вот дай позатемняет, <rs>я</rs>
+              <rs rolename="possessor">тебе</rs> каких хошь, хоть троих приведу.</s> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Tikhon_Shtcherbatov" speech_text="Ну, поедем," verb="сказать" author_comment="- сказал Денисов, и до самой караулки он ехал, сердито нахмурившись и молча." speech_id="5651"><s>- Ну, поедем,- сказал <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs>, и до самой караулки <rs ref="Vasily__Vasska__Denisov">он</rs> ехал, сердито нахмурившись и
+              молча.</s></said> </p>
+          <p><s><rs ref="Tikhon_Shtcherbatov" rolename="agent" target="id_4368">Тихон</rs> зашел
+              сзади, и <rs ref="Petya_Rostov" rolename="experiencer" xml:id="id_4368">Петя</rs>
+              слышал, как смеялись с <rs ref="Petya_Rostov">ним</rs> и над <rs ref="Tikhon_Shtcherbatov">ним</rs> казаки о каких-то сапогах, которые <rs ref="Petya_Rostov" rolename="agent">он</rs> бросил в куст.</s> </p>
+          <p><s>Когда прошел тот овладевший <rs ref="Petya_Rostov">им</rs> смех при словах и улыбке
+                <rs ref="Tikhon_Shtcherbatov" rolename="agent">Тихона</rs>, и <rs ref="Petya_Rostov" rolename="experiencer">Петя</rs> понял на мгновенье, что <rs ref="Tikhon_Shtcherbatov" rolename="agent">Тихон</rs> этот убил <rs rolename="undergoer">человека</rs>, <rs ref="Petya_Rostov">ему</rs> сделалось
+              неловко.</s>
+            <s><rs ref="Petya_Rostov" rolename="agent">Он</rs> оглянулся на пленного <rs rolename="undergoer">барабанщика</rs>, и что-то кольнуло <rs ref="Petya_Rostov" rolename="undergoer">его</rs> в сердце.</s>
+            <s>Но эта неловкость продолжалась только одно мгновенье.</s>
+            <s><rs ref="Petya_Rostov">Он</rs> почувствовал необходимость повыше поднять голову,
+              подбодриться и расспросить эсаула с значительным видом о завтрашнем предприятии, с тем
+              чтобы не быть недостойным того общества, в котором <rs ref="Petya_Rostov">он</rs>
+              находился.</s> </p>
+          <p><s>Посланный <rs rolename="possessor">офицер</rs> встретил <rs ref="Vasily__Vasska__Denisov" rolename="undergoer">Денисова</rs> на дороге с известием,
+              что <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs> сам сейчас
+              приедет и что с <rs ref="Vasily__Vasska__Denisov">его</rs> стороны все
+              благополучно.</s> </p>
+          <p><s><rs ref="Vasily__Vasska__Denisov" rolename="experiencer" target="id_43611">Денисов</rs> вдруг повеселел и подозвал к <rs ref="Vasily__Vasska__Denisov" xml:id="id_43611">себе</rs>
+              <rs ref="Petya_Rostov" rolename="undergoer">Петю</rs>.</s> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Petya_Rostov" speech_text="Ну, г'асскажи ты мне пг'о себя," verb="сказать" author_comment="- сказал он." speech_id="5655"><s>- Ну, г'асскажи ты <rs>мне</rs> пг'о
+                  <rs>себя</rs>,- сказал <rs ref="Vasily__Vasska__Denisov" rolename="agent">он</rs>.</s></said>  </p>
+        </div>
+        

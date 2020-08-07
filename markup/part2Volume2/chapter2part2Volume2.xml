@@ -1,0 +1,256 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="2" type="chapter" xml:id="chapter2part2Volume2">
+          <p> </p>
+          <p><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="- Имею удовольствие говорить с графом Безуховым, ежели я не ошибаюсь," speech_id="2381"><s>- Имею удовольствие говорить с <rs ref="Pierre_Bezukhov">графом
+                  Безуховым</rs>, ежели я не ошибаюсь,- сказал проезжающий неторопливо и громко. <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> молча, вопросительно смотрел
+                через очки на <rs ref="Pierre_Bezukhov">своего</rs>
+                <rs rolename="undergoer">собеседника</rs>.</s></said> </p>
+          <p><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="- Я слышал про вас,-и про постигшее вас, государь мой, несчастье." speech_id="2380"><s>- Я слышал про вас,- продолжал <rs ref="Joseph_Alexeevich_Bazdeev">проезжающий</rs>,- и про постигшее вас, <rs ref="Pierre_Bezukhov">государь</rs>
+                мой, несчастье. - <rs rolename="agent">Он</rs> как бы подчеркнул последнее слово,
+                как будто <rs>он</rs> сказал; 'Да, несчастье, как вы ни называйте, я знаю, что то,
+                что случилось с вами в Москве, было несчастье'.</s></said>
+            <s>- Весьма сожалею о том, <rs ref="Pierre_Bezukhov">государь</rs> мой.</s> </p>
+          <p><s> покраснел и, поспешно спустив ноги с постели, нагнулся к <rs ref="Joseph_Alexeevich_Bazdeev" xml:id="id_2223">старику</rs>, неестественно и робко
+              улыбаясь.</s> </p>
+          <p><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="- Я не из любопытства упомянул вам об этом, государь мой, но по более важным причинам." speech_id="2387"><s>- <rs rolename="agent">Я</rs> не из любопытства упомянул вам об
+                этом, <rs ref="Pierre_Bezukhov">государь</rs>
+                <rs>мой</rs>, но по более важным причинам.</s></said>
+            <s>- <rs ref="Joseph_Alexeevich_Bazdeev" rolename="agent">Он</rs> помолчал, не выпуская
+                <rs ref="Pierre_Bezukhov" rolename="agent">Пьера</rs> из <rs ref="Joseph_Alexeevich_Bazdeev">своего</rs> взгляда, и подвинулся на диване,
+              приглашая этим жестом <rs ref="Pierre_Bezukhov" rolename="agent">Пьера</rs> сесть
+              подле себя.</s>
+            <s><rs ref="Pierre_Bezukhov" target="id_2224">Пьеру</rs> неприятно было вступать в
+              разговор с этим <rs ref="Joseph_Alexeevich_Bazdeev" xml:id="id_2224">стариком</rs>, но
+                <rs ref="Joseph_Alexeevich_Bazdeev" rolename="agent">он</rs>, невольно покоряясь <rs ref="Pierre_Bezukhov" rolename="benemalefactive">ему</rs>, подошел и сел подле
+              него.</s> </p>
+          <p><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="Вы молоды, я стар.. Вы несчастливы, государь мой" verb="продолжать" author_comment=",- продолжал он.-" speech_id="2412"><s>- Вы несчастливы, <rs ref="Pierre_Bezukhov">государь</rs>
+                <rs>мой</rs>,- продолжал <rs ref="Joseph_Alexeevich_Bazdeev">он</rs>.- Вы молоды, я
+                стар. <rs rolename="experiencer">Я</rs> бы желал по мере <rs rolename="experiencer">моих</rs> сил помочь вам.</s></said> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Joseph_Alexeevich_Bazdeev" speech_text="Ах, да," verb="сказать" author_comment="- с неестественной улыбкой сказал Пьер." speech_id="2398"><s>- Ах, да,- с неестественной улыбкой сказал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s></said>
+            <said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="Вы откуда изволите проезжать?. Очень вам благодарен..." verb="действовать" author_comment="- Лицо проезжающего было не ласково, даже холодно и строго, но, несмотря на то, и речь и лицо нового знакомца неотразимо-привлекательно действовали на Пьера." speech_id="2393"><s>- Очень вам благодарен... Вы откуда изволите проезжать? - Лицо
+                проезжающего было не ласково, даже холодно и строго, но, несмотря на то, и речь и
+                лицо нового <rs rolename="possessor">знакомца</rs> неотразимо-привлекательно
+                действовали на <rs ref="Pierre_Bezukhov" rolename="experiencer">Пьера</rs>.</s></said> </p>
+          <p><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="Но если по каким-либо причинам вам неприятен разговор со мною," verb="сказать" author_comment=",- то вы так и скажите, государь мой. -" speech_id="2415"><s>- Но если по каким-либо причинам вам неприятен разговор со мною,-
+                сказал <rs ref="Joseph_Alexeevich_Bazdeev">старик</rs>,- то <rs ref="Pierre_Bezukhov" rolename="agent">вы</rs> так и скажите, <rs ref="Pierre_Bezukhov">государь</rs> мой. - И <rs ref="Joseph_Alexeevich_Bazdeev" rolename="agent">он</rs> вдруг улыбнулся неожиданной отечески нежной
+              улыбкой.</s></said> </p>
+          <p><s>- Ах, нет, совсем нет, напротив, я очень рад познакомиться с вами,- сказал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> и, взглянув еще раз на руки нового
+                <rs rolename="possessor">знакомца</rs>, ближе рассмотрел перстень.</s>
+            <s><rs ref="Pierre_Bezukhov">Он</rs> увидал на нем <rs rolename="possessor">адамову</rs>
+              голову, знак масонства.</s> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Joseph_Alexeevich_Bazdeev" speech_text="- Позвольте мне спросить, вы масон?" verb="сказать" speech_id="2392"><s>-
+                Позвольте мне спросить,- сказал <rs ref="Pierre_Bezukhov">он</rs>,- вы
+              масон?</s></said> </p>
+          <p><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="Да, я принадлежу к братству свободных каменщиков. И от себя и от их имени протягиваю вам братскую руку." verb="сказать" author_comment=",- сказал проезжий, все глубже и глубже вглядываясь в глаза Пьеру. -" speech_id="2413"><s>- Да, <rs ref="Joseph_Alexeevich_Bazdeev" rolename="undergoer" target="id_2225">я</rs> принадлежу к братству свободных каменщиков,- сказал <rs ref="Joseph_Alexeevich_Bazdeev" rolename="agent" xml:id="id_2225">проезжий</rs>,
+                все глубже и глубже вглядываясь в глаза <rs ref="Pierre_Bezukhov">Пьеру</rs>. - И от
+                  <rs>себя</rs> и от их имени протягиваю вам братскую руку.</s></said> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Joseph_Alexeevich_Bazdeev" speech_text="- Я боюсь, я боюсь, что я очень далек от пониманья, как это сказать, я боюсь, что мой образ мыслей насчет всего мироздания так противоположен вашему, что мы не поймем друг друга." verb="сказать" speech_id="2409"><s>- <rs rolename="experiencer">Я</rs> боюсь,- сказал
+                  <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, улыбаясь и колеблясь между
+                доверием, внушаемым ему личностью <rs ref="Joseph_Alexeevich_Bazdeev" rolename="undergoer">масона</rs>, и привычкой насмешки над верованиями масонов,- <rs rolename="experiencer">я</rs> боюсь, что <rs rolename="undergoer">я</rs> очень далек
+                от пониманья, как это сказать, <rs rolename="experiencer">я</rs> боюсь, что <rs rolename="experiencer">мой</rs> образ мыслей насчет всего мироздания так
+                противоположен вашему, что мы не поймем друг друга.</s></said> </p>
+          <p><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="Мне известен ваш образ мыслей," verb="сказать" author_comment="- сказал масон, - и тот ваш образ мыслей, о котором вы говорите и который вам кажется произведением вашего мысленного труда, есть образ мыслей большинства людей, есть однообразный плод гордости, лени и невежества." speech_id="2399"><s>- Мне известен ваш образ мыслей,- сказал <rs ref="Joseph_Alexeevich_Bazdeev" rolename="agent">масон</rs>, - и тот ваш образ
+                мыслей, о котором вы говорите и который вам кажется произведением вашего мысленного
+                труда, есть образ мыслей большинства людей, есть однообразный плод гордости, лени и
+                невежества.</s></said>
+            <s>Извините меня, <rs ref="Pierre_Bezukhov">государь</rs> мой, ежели бы я не знал его, я
+              бы не заговорил с <rs ref="Pierre_Bezukhov">вами</rs>.</s>
+            <s>Ваш образ мыслей есть печальное заблужденье.</s> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Joseph_Alexeevich_Bazdeev" speech_text="Точно так же, как я могу предполагать, что и вы находитесь в заблуждении," verb="сказать" author_comment="- сказал Пьер, слабо улыбаясь." speech_id="2402"><s>-
+                Точно так же, как я могу предполагать, что и <rs ref="Pierre_Bezukhov" rolename="undergoer">вы</rs> находитесь в заблуждении,- сказал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, слабо улыбаясь.</s></said> </p>
+          <p><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="- Я никогда не посмею сказать, что я знаю истину" verb="сказать" speech_id="2401"><s>- Я никогда не посмею сказать, что я знаю истину,- сказал <rs ref="Joseph_Alexeevich_Bazdeev" rolename="agent" target="id_2228">масон</rs>, все
+                более и более поражая <rs ref="Pierre_Bezukhov" rolename="experiencer" xml:id="id_2228">Пьера</rs>
+                <rs ref="Joseph_Alexeevich_Bazdeev">своею</rs> определенностью и твердостью
+                речи.</s></said>
+            <said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="Никто один не может достигнуть до истины; только камень за камнем, с участием всех, миллионами поколений, от праотца Адама и до нашего времени, воздвигается тот храм, который должен быть достойным жилищем великого бога," verb="сказать" author_comment="- сказал масон и закрыл глаза." speech_id="2405"><s>-
+                Никто один не может достигнуть до истины; только камень за камнем, с участием всех,
+                миллионами поколений, от <rs>праотца</rs>
+                <rs>Адама</rs> и до <rs rolename="possessor">нашего</rs> времени, воздвигается тот
+                храм, который должен быть достойным жилищем великого бога,- сказал <rs ref="Joseph_Alexeevich_Bazdeev" rolename="agent">масон</rs> и закрыл
+              глаза.</s></said> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Joseph_Alexeevich_Bazdeev" speech_text="Я должен вам сказать, я не верю, не... верю в бога," verb="сказать" author_comment="- с сожалением и усилием сказал Пьер, чувствуя необходимость высказать всю правду." speech_id="2391"><s>- Я должен вам сказать, <rs rolename="experiencer">я</rs> не верю,
+                не... верю в бога,- с сожалением и усилием сказал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, чувствуя необходимость высказать всю
+              правду.</s></said> </p>
+          <p><s> внимательно посмотрел на <rs ref="Pierre_Bezukhov" rolename="undergoer" xml:id="id_22211">Пьера</rs> и улыбнулся, как улыбнулся бы <rs rolename="agent">богач</rs>, державший в руках миллионы, <rs rolename="addressee">бедняку</rs>,
+                <rs>который</rs> бы сказал <rs ref="Pierre_Bezukhov" rolename="addressee">ему</rs>,
+              что нет у <rs rolename="possessor">него</rs>, у бедняка, пяти рублей, могущих сделать
+                <rs rolename="experiencer">его</rs> счастие.</s> </p>
+          <p><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="Вы не знаете его, а он здесь, он во мне, он в моих словах, он в тебе и даже в тех кощунствующих речах, которые ты произнес сейчас,. Вы не знаете его, государь мой, и оттого вы очень несчастны." verb="сказать" author_comment="- строгим дрожащим голосом сказал масон." speech_id="2397"><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="Вы не можете знать его.. Да вы не знаете его, государь мой" verb="сказать" author_comment=",- сказал масон. -" speech_id="2418"><s>- Да <rs ref="Tsar_Alexander_I_of_Russia" rolename="experiencer">вы</rs> не знаете его,
+                    <rs ref="Tsar_Alexander_I_of_Russia">государь</rs> мой,- сказал <rs ref="Joseph_Alexeevich_Bazdeev" rolename="agent">масон</rs>. - <rs ref="Pierre_Bezukhov">Вы</rs> не можете знать его. <rs ref="Pierre_Bezukhov" rolename="experiencer">Вы</rs> не знаете его, оттого <rs ref="Pierre_Bezukhov" rolename="undergoer">вы</rs> и несчастны.</s></said></said> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Joseph_Alexeevich_Bazdeev" speech_text="- Да, да, я несчастен, но что ж мне делать?" speech_id="2389"><s>- Да,
+                да, <rs ref="Pierre_Bezukhov" rolename="undergoer">я</rs> несчастен,- подтвердил <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>,- но что ж <rs ref="Pierre_Bezukhov">мне</rs> делать?</s></said> </p>
+          <p><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="Вы не знаете его, а он здесь, он во мне, он в моих словах, он в тебе и даже в тех кощунствующих речах, которые ты произнес сейчас,. Вы не знаете его, государь мой, и оттого вы очень несчастны." verb="сказать" author_comment="- строгим дрожащим голосом сказал масон." speech_id="2397"><s>- Вы не знаете его, <rs ref="Pierre_Bezukhov">государь</rs> мой, и
+                оттого вы очень несчастны.</s></said>
+            <said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="Вы не знаете его, а он здесь, он во мне, он в моих словах, он в тебе и даже в тех кощунствующих речах, которые ты произнес сейчас,. Вы не знаете его, государь мой, и оттого вы очень несчастны." verb="сказать" author_comment="- строгим дрожащим голосом сказал масон." speech_id="2397"><s>Вы не знаете его, а он здесь, он во мне, он в моих словах, он в
+                тебе и даже в тех кощунствующих речах, которые ты произнес сейчас,- строгим дрожащим
+                голосом сказал <rs ref="Joseph_Alexeevich_Bazdeev" rolename="agent">масон</rs>.</s></said> </p>
+          <p><s>Он помолчал и вздохнул, видимо, стараясь успокоиться.</s> </p>
+          <p><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="Ежели бы его не было,- сказал он тихо,- мы бы с вами не говорили о нем, государь мой.. Кого ты отрицал?. О чем, о ком мы говорили?" verb="сказать" author_comment="- вдруг сказал он с восторженной строгостью и властью в голосе." speech_id="2396"><s>- Ежели бы его не было,- сказал он тихо,- мы бы с <rs ref="Pierre_Bezukhov">вами</rs> не говорили о нем, <rs ref="Pierre_Bezukhov">государь</rs> мой. О чем, о ком мы говорили? Кого ты отрицал? - вдруг сказал он с
+                восторженной строгостью и властью в голосе.</s></said>
+            <said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="Он остановился" verb="молчать" speech_id="2404"><s>- Кто его выдумал,
+                ежели его нет? Почему явилось в тебе предположение, что есть такое непонятное
+                существо? Почему <rs rolename="experiencer">ты</rs> и весь мир предположили
+                существование такого непостижимого существа, существа всемогущего, вечного и
+                бесконечного во всех своих свойствах?.. - Он остановился и долго
+            молчал.</s></said> </p>
+          <p><s><rs ref="Pierre_Bezukhov">Пьер</rs> не мог и не хотел прерывать этого
+            молчания.</s> </p>
+          <p><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text=" Он есть, но понять Его трудно. Ежели бы это был человек, в существовании которого бы ты сомневался, я бы привел к тебе этого человека, взял бы его за руку и показал тебе. Но как я, ничтожный смертный, покажу всё всемогущество, всю вечность, всю благость Его тому, кто слеп, или тому, кто закрывает глаза, чтобы не видать, не понимать Его, и не увидать, и не понять всю свою мерзость и порочность?" verb="заговорить" speech_id="2385"><s>- Он есть, но понять его трудно,- заговорил
+                опять масон, глядя не на лицо <rs ref="Pierre_Bezukhov">Пьера</rs>, а перед собою,
+                своими старческими руками, которые от внутреннего волнения не могли оставаться
+                спокойными, перебирая листы книги. - Ежели бы это был человек, в существовании
+                которого ты бы сомневался, я бы привел к тебе этого человека, взял бы его за руку и
+                показал тебе. Но как я, ничтожный смертный, покажу все всемогущество, всю вечность,
+                всю благость его тому, кто слеп, или тому, кто закрывает глаза, чтобы не видать, не
+                понимать его, и не увидать, и не понять всю свою мерзость и порочность? - Он
+                помолчал. - Кто ты?</s></said>
+            <s>Что</s><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="Кто ты? Чтò ты? Ты мечтаешь о себе, что ты мудрец, потому что ты мог произнести эти кощунственные слова, а ты глупее и безумнее малого ребенка, который бы, играя частями искусно сделанных часов, осмелился бы говорить, что, потому что он не понимает назначения этих часов, он и не верит в мастера, который их сделал. Познать Его трудно. Мы веками, от праотца Адама и до наших дней, работаем для этого познания и на бесконечность далеки от достижения нашей цели; но в непонимании Его мы видим только нашу слабость и Его величие..." verb="сказать" speech_id="2382"><s>
+                <rs>ты? <rs rolename="experiencer">Ты</rs></rs> мечтаешь о <rs>себе</rs>, что
+                  <rs>ты</rs> мудрец, потому что <rs>ты</rs> мог произнести эти кощунственные
+                слова,- сказал он с мрачной и презрительной усмешкой,- а <rs>ты</rs> глупее и
+                безумнее малого <rs rolename="possessor">ребенка</rs>, который бы, играя частями
+                искусно сделанных часов, осмелился бы говорить, что, потому что он не понимает
+                назначения этих часов, он и не верит в <rs rolename="undergoer">мастера</rs>,
+                  <rs>который</rs> их сделал.</s></said>
+            <s>Познать <rs rolename="undergoer">его</rs> трудно.</s>
+            <s>Мы веками, от <rs>праотца</rs>
+              <rs>Адама</rs> и до <rs rolename="undergoer">наших</rs> дней, работаем для этого познания
+              и на бесконечность далеки от достижения нашей цели; но в непонимании его мы видим
+              только нашу слабость и его величие...</s> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> с замиранием сердца, блестящими
+              глазами глядя в лицо <rs ref="Joseph_Alexeevich_Bazdeev" rolename="possessor">масона</rs>, слушал его, не перебивал, не спрашивал его, а всей душой верил тому,
+              что говорил ему этот чужой <rs rolename="agent">человек</rs>.</s>
+            <s>Верил ли он тем разумным доводам, которые были в речи <rs ref="Joseph_Alexeevich_Bazdeev" rolename="agent">масона</rs>, или верил, как верят
+              дети, интонациям, убежденности и сердечности, которые были в речи <rs ref="Joseph_Alexeevich_Bazdeev" rolename="agent">масона</rs>, дрожанию голоса,
+              которое иногда почти прерывало <rs ref="Joseph_Alexeevich_Bazdeev" rolename="undergoer">масона</rs>, или этим блестящим старческим глазам, состарившимся на том же
+              убеждении, или тому спокойствию, твердости и знанию своего назначения, которые
+              светились из всего существа <rs ref="Joseph_Alexeevich_Bazdeev" rolename="agent">масона</rs> и которые особенно сильно поражали его в сравнении: с своей
+              опущенностыо и безнадежностью,- но он всей душой желал верить, и верил, и испытывал
+              радостное чувство успокоения, обновления и возвращения к жизни.</s> </p>
+          <p><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="Он не постигается умом, а постигается жизнью," verb="сказать" author_comment="- сказал масон." speech_id="2386"><s>- Он не постигается умом, а
+                постигается жизнью,- сказал <rs ref="Joseph_Alexeevich_Bazdeev" rolename="agent">масон</rs>.</s></said> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Joseph_Alexeevich_Bazdeev" speech_text="Я не понимаю, каким образом ум человеческий не может постигнуть того знания, о котором вы говорите." verb="сказать" author_comment="- сказал он,- каким образом ум человеческий не может постигнуть того знания, о котором вы говорите." speech_id="2407"><said who="Pierre_Bezukhov" corresp="" speech_text="Я не понимаю," verb="сказать" author_comment="- сказал Пьер, со страхом чувствуя поднимающееся в себе сомнение." speech_id="2414"><s>- <rs rolename="experiencer">Я</rs> не понимаю,- сказал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, со страхом чувствуя
+                  поднимающееся в <rs ref="Pierre_Bezukhov">себе</rs> сомнение.</s></said></said>
+            <s>Он боялся неясности и слабости доводов своего <rs rolename="agent">собеседника</rs>,
+              он боялся не верить <rs>ему</rs>.</s>
+            <said who="Pierre_Bezukhov" corresp="Joseph_Alexeevich_Bazdeev" speech_text="Я не понимаю, каким образом ум человеческий не может постигнуть того знания, о котором вы говорите." verb="сказать" author_comment="- сказал он,- каким образом ум человеческий не может постигнуть того знания, о котором вы говорите." speech_id="2407"><said who="Pierre_Bezukhov" corresp="" speech_text="Я не понимаю," verb="сказать" author_comment="- сказал Пьер, со страхом чувствуя поднимающееся в себе сомнение." speech_id="2414"><s>- <rs rolename="experiencer">Я</rs> не понимаю,- сказал он,-
+                  каким образом ум человеческий не может постигнуть того знания, о котором вы
+                  говорите.</s></said></said> </p>
+          <p><s><rs ref="Joseph_Alexeevich_Bazdeev" rolename="agent">Масон</rs> улыбнулся <rs ref="Joseph_Alexeevich_Bazdeev">своей</rs> кроткой отеческой улыбкой.</s> </p>
+          <p><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="Высшая мудрость и истина есть как бы чистейшая влага, которую мы хотим воспринять в себя. Могу ли я в нечистый сосуд воспринять эту чистую влагу и судить о чистоте ее?" verb="сказать" author_comment=",- сказал он. -" speech_id="2394"><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="- Высшая мудрость основана не на одном разуме, не на тех светских науках физики, истории, химии и т. д., на которые распадается знание умственное." speech_id="2408"><s>- Высшая мудрость и истина есть как бы чистейшая влага, которую
+                  мы хотим воспринять в себя,- сказал <rs ref="Joseph_Alexeevich_Bazdeev">он</rs>. -
+                  Могу ли <rs>я</rs> в нечистый сосуд воспринять эту чистую влагу и судить о чистоте
+                  ее?</s></said></said>
+            <s>Только внутренним очищением самого <rs rolename="undergoer">себя я</rs> могу до
+              известной чистоты довести воспринимаемую влагу.</s> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Joseph_Alexeevich_Bazdeev" speech_text="Да, да, это так!" verb="сказать" author_comment="- радостно сказал Пьер." speech_id="2403"><s>- Да, да, это так! - радостно сказал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s></said> </p>
+          <p><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="Высшая мудрость и истина есть как бы чистейшая влага, которую мы хотим воспринять в себя. Могу ли я в нечистый сосуд воспринять эту чистую влагу и судить о чистоте ее?" verb="сказать" author_comment=",- сказал он. -" speech_id="2394"><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="- Высшая мудрость основана не на одном разуме, не на тех светских науках физики, истории, химии и т. д., на которые распадается знание умственное." speech_id="2408"><s>- Высшая мудрость основана не на одном разуме, не на тех
+                  светских науках физики, истории, химии и т. д., на которые распадается знание
+                  умственное. Высшая мудрость одна. Высшая мудрость имеет одну науку - науку всего,
+                  науку, объясняющую все мироздание и занимаемое в нем место <rs rolename="undergoer">человека</rs>. Для того чтобы вместить в себя эту науку, необходимо очистить и
+                  обновить своего внутреннего <rs rolename="undergoer">человека</rs>, и потому прежде,
+                  чем знать, нужно верить и совершенствоваться.</s></said></said>
+            <s>И для достижения этих целей в душе нашей вложен свет божий, называемый
+            совестью.</s> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Joseph_Alexeevich_Bazdeev" speech_text="Да, да," verb="подтверждать" author_comment="- подтверждал Пьер." speech_id="2383"><s>- Да,
+                да,- подтверждал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s></said> </p>
+          <p><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="- Погляди духовными глазами на своего внутреннего человека и спроси у самого себя, доволен ли ты собой.. его ты достиг, руководясь одним умом? Что ты такое? Вы молоды, вы богаты, вы умны, образованны, государь мой. Что вы сделали из всех этих благ, данных вам? Довольны ли вы собой и своей жизнью?" speech_id="2416"><s>- Погляди духовными глазами на своего внутреннего <rs rolename="undergoer">человека</rs> и спроси у самого себя, доволен ли ты собой. Чего
+                ты достиг, руководясь одним умом?</s></said>
+            <s>Что ты такое?</s>
+            <s>Вы молоды, вы богаты, вы умны, образованны, <rs ref="Pierre_Bezukhov">государь</rs>
+              <rs>мой</rs>.</s>
+            <s>Что вы сделали из всех этих благ, данных вам?</s>
+            <s>Довольны ли вы собой и своей жизнью?</s> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Joseph_Alexeevich_Bazdeev" speech_text="Нет, я ненавижу свою жизнь," verb="проговорить" author_comment="- сморщась, проговорил Пьер." speech_id="2411"><s>- Нет, <rs rolename="experiencer">я</rs> ненавижу <rs rolename="experiencer">свою</rs>
+                жизнь,- сморщась, проговорил <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s></said> </p>
+          <p><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="- Ты ненавидишь, так измени ее, очисти себя, и по мере очищения ты будешь познавать мудрость." speech_id="2390"><s>- <rs rolename="experiencer">Ты</rs> ненавидишь, так измени ее,
+                очисти себя, и по мере очищения <rs rolename="experiencer">ты</rs> будешь познавать
+                мудрость. Посмотрите на <rs ref="Pierre_Bezukhov" rolename="experiencer">свою</rs>
+                жизнь, <rs ref="Pierre_Bezukhov">государь</rs>
+                <rs>мой</rs>. Как <rs ref="Pierre_Bezukhov" rolename="experiencer">вы</rs> проводили
+                ее?</s></said>
+            <s>В буйных оргиях и разврате, все получая от общества и ничего не отдавая ему.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="possessor">Вы</rs> получили богатство.</s>
+            <s>Как <rs ref="Pierre_Bezukhov" rolename="agent">вы</rs> употребили его?</s>
+            <s>Что <rs ref="Pierre_Bezukhov">вы</rs> сделали для <rs rolename="benemalefactive">ближнего</rs>
+              <rs ref="Pierre_Bezukhov">своего</rs>?</s>
+            <s>Подумали ли <rs ref="Pierre_Bezukhov">вы</rs> о десятках тысяч <rs ref="Pierre_Bezukhov">ваших</rs> рабов, помогли ли <rs ref="Pierre_Bezukhov">вы</rs>
+              им физически и нравственно?</s>
+            <s>Нет.</s>
+            <s><rs ref="Pierre_Bezukhov">Вы</rs> пользовались их трудами, чтобы вести распутную
+              жизнь.</s>
+            <s>Вот что <rs ref="Pierre_Bezukhov" rolename="agent">вы</rs> сделали.</s>
+            <s>Избрали ли <rs ref="Pierre_Bezukhov">вы</rs> место служения, где бы <rs ref="Pierre_Bezukhov">вы</rs> приносили пользу <rs ref="Pierre_Bezukhov">своему</rs>
+              <rs rolename="experiencer">ближнему</rs>?</s>
+            <s>Нет.</s>
+            <s><rs ref="Pierre_Bezukhov">Вы</rs> в праздности проводили <rs ref="Pierre_Bezukhov">свою</rs> жизнь.</s>
+            <s>Потом <rs ref="Pierre_Bezukhov" rolename="agent">вы</rs> женились, <rs ref="Pierre_Bezukhov">государь</rs>
+              <rs>мой</rs>, взяли на <rs ref="Pierre_Bezukhov">себя</rs> ответственность в
+              руководстве молодой <rs rolename="agent">женщины</rs>, и что же <rs ref="Pierre_Bezukhov">вы</rs> сделали?</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="agent">Вы</rs> не помогли <rs>ей</rs>, <rs ref="Pierre_Bezukhov">государь</rs>
+              <rs>мой</rs>, найти путь истины, а ввергли <rs>ее</rs> в пучину лжи и несчастья.</s>
+            <s><rs rolename="agent">Человек</rs> оскорбил <rs ref="Pierre_Bezukhov">вас</rs>, и <rs ref="Pierre_Bezukhov">вы</rs> убили <rs>его</rs>, и <rs ref="Pierre_Bezukhov">вы</rs> говорите, что <rs ref="Pierre_Bezukhov">вы</rs> не знаете бога и что <rs ref="Pierre_Bezukhov">вы</rs> ненавидите <rs ref="Pierre_Bezukhov">свою</rs>
+              жизнь.</s>
+            <s>Тут нет ничего мудреного, <rs ref="Pierre_Bezukhov">государь</rs>
+              <rs>мой</rs>!</s> </p>
+          <p><s>После этих слов <rs ref="Joseph_Alexeevich_Bazdeev" rolename="agent">масон</rs>, как
+              бы устав от продолжительного разговора, опять облокотился на спинку дивана и закрыл
+              глаза.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> смотрел на это строгое,
+              неподвижное, старческое, почти мертвое лицо и беззвучно шевелил губами.</s>
+            <s><rs ref="Pierre_Bezukhov">Он</rs> хотел сказать: да, мерзкая, праздная, развратная
+              жизнь, и не смел прерывать молчание.</s> </p>
+          <p><s><rs ref="Joseph_Alexeevich_Bazdeev" rolename="agent">Масон</rs> хрипло, старчески
+              прокашлялся и кликнул <rs rolename="undergoer">слугу</rs>.</s> </p>
+          <p><said who="Joseph_Alexeevich_Bazdeev" corresp="" speech_text="Что лошади?" verb="спросить" author_comment="- спросил он, не глядя на Пьера." speech_id="2400"><s>- Что лошади? - спросил он, не глядя на <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs>.</s></said> </p>
+          <p><said who="слуга" corresp="Joseph_Alexeevich_Bazdeev" speech_text="Отдыхать не будете?. Привели сдаточных" verb="отвечать" author_comment=",- отвечал слуга. -" speech_id="2410"><s>- Привели сдаточных,- отвечал
+                  <rs rolename="agent">слуга</rs>. - Отдыхать не будете?</s></said> </p>
+          <p><said who="Joseph_Alexeevich_Bazdeev" corresp="" speech_text="- Нет, вели закладывать." speech_id="2384"><s>- Нет, вели закладывать.</s></said> </p>
+          <p><s> уедет и оставит <rs ref="Pierre_Bezukhov" target="id_22213">меня</rs> одного, не
+              договорив всего и не обещав <rs ref="Pierre_Bezukhov" rolename="addressee" xml:id="id_22213">мне</rs> помощи? - думал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, вставая и, опустив голову, изредка взглядывая на <rs ref="Joseph_Alexeevich_Bazdeev" rolename="undergoer">масона</rs> и начиная ходить по
+              комнате. - Да, <rs ref="Pierre_Bezukhov">я</rs> не думал этого, но <rs ref="Pierre_Bezukhov">я</rs> вел презренную, развратную жизнь, но <rs ref="Pierre_Bezukhov" rolename="experiencer">я</rs> не любил ее и не хотел этого,-
+              думал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>,- а этот <rs rolename="experiencer">человек</rs> знает истину, и ежели бы <rs rolename="experiencer">он</rs> захотел, <rs>он</rs> мог бы открыть <rs ref="Pierre_Bezukhov">мне</rs> ее'.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="experiencer" target="id_22214">Пьер</rs> хотел и
+              не смел сказать этого <rs ref="Joseph_Alexeevich_Bazdeev" rolename="addressee" xml:id="id_22214">масону</rs>.</s>
+            <s>Проезжающий, привычными старческими руками уложив свои вещи, застегивал свой
+              тулупчик.</s>
+            <said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="Вы куда теперь изволите ехать, государь мой?" verb="сказать" speech_id="2395"><s>Окончив эти дела, <rs ref="Pierre_Bezukhov" rolename="agent">он</rs> обратился к <rs ref="Pierre_Bezukhov">Безухову</rs> и равнодушно, учтивым
+                тоном, сказал <rs ref="Pierre_Bezukhov">ему</rs>:</s></said> </p>
+          <p><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="- Вы куда теперь изволите ехать, государь мой?" speech_id="2388"><s>- <rs ref="Pierre_Bezukhov" rolename="experiencer">Вы</rs> куда теперь изволите ехать,
+                  <rs ref="Pierre_Bezukhov">государь</rs>
+                <rs>мой</rs>?</s></said> </p>
+          <p><said who="Pierre_Bezukhov" corresp="Joseph_Alexeevich_Bazdeev" speech_text="Я?.. Я в Петербург. Я благодарю вас." verb="отвечать" author_comment=",- отвечал Пьер детским, нерешительным голосом. -" speech_id="2406"><s>- Я?.. Я в Петербург,- отвечал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> детским, нерешительным голосом. - Я благодарю <rs ref="Pierre_Bezukhov" rolename="addressee">вас</rs>. Я во всем согласен с <rs ref="Pierre_Bezukhov">вами</rs>. Но <rs ref="Pierre_Bezukhov" rolename="experiencer">вы</rs> не
+                думайте, чтоб я был так дурен.</s></said>
+            <s>Я всей душой желал быть тем, чем <rs ref="Pierre_Bezukhov" rolename="experiencer">вы</rs> хотели бы, чтоб я был; но я ни в ком никогда не находил помощи...</s>
+            <s>Впрочем, <rs rolename="undergoer">я</rs> сам прежде всего виноват во всем.</s>
+            <s>Помогите мне, научите <rs rolename="experiencer">меня</rs>, и, может быть, <rs rolename="undergoer">я</rs> буду... - <rs ref="Pierre_Bezukhov">Пьер</rs> не мог
+              говорить дальше; <rs ref="Pierre_Bezukhov" rolename="agent">он</rs> засопел носом и
+              отвернулся.</s> </p>
+          <p><s><rs ref="Joseph_Alexeevich_Bazdeev" rolename="agent">Масон</rs> долго молчал,
+              видимо, что-то обдумывая.</s> </p>
+          <p><said who="Joseph_Alexeevich_Bazdeev" corresp="Pierre_Bezukhov" speech_text="Помощь дается токмо от бога," verb="сказать" author_comment="- сказал он,- но ту меру помощи, которую во власти подать наш орден, он подаст вам, государь мой." speech_id="2417"><s>- Помощь дается токмо от бога,- сказал <rs ref="Joseph_Alexeevich_Bazdeev" target="id_22217">он</rs>,- но ту меру помощи,
+                которую во власти подать наш орден, <rs ref="Joseph_Alexeevich_Bazdeev" rolename="agent" xml:id="id_22217">он</rs> подаст <rs ref="Pierre_Bezukhov" rolename="possessor">вам</rs>, <rs ref="Pierre_Bezukhov">государь</rs>
+                <rs>мой</rs>. <rs ref="Pierre_Bezukhov" rolename="agent">Вы</rs> едете в Петербург,
+                передайте это <rs rolename="addressee">графу Вилларскому</rs> (он достал бумажник и
+                на сложенном вчетверо большом листе бумаге написал несколько слов). Один совет
+                позвольте подать вам. Приехав в столицу, посвятите первое время уединению,
+                обсуждению самого себя и не вступайте на прежние пути жизни.</s></said>
+            <s>Затем желаю вам счастливого пути, <rs ref="Pierre_Bezukhov">государь</rs>
+              <rs>мой</rs>,- сказал он, заметив, что <rs rolename="agent">слуга</rs> его вошел в
+              комнату,- и успеха...</s> </p>
+          <p><s>Проезжающий был <rs ref="Joseph_Alexeevich_Bazdeev">Осип Алексеевич Баздеев</rs>,
+              как узнал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> по книге <rs rolename="possessor">смотрителя</rs>.</s>
+            <s><rs ref="Joseph_Alexeevich_Bazdeev">Баздеев</rs> был одним из известнейших масонов и
+              мартинистов еще новиковского времени.</s>
+            <s>Долго после <rs ref="Joseph_Alexeevich_Bazdeev" rolename="agent">его</rs> отъезда <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, не ложась спать и не спрашивая
+              лошадей, ходил по станционной комнате, обдумывая свое порочное прошедшее и с
+              восторгом.</s>
+            <s>обновления представляя себе свое блаженное, безупречное и добродетельное будущее,
+              которое казалось <rs ref="Pierre_Bezukhov">ему</rs> так легко.</s>
+            <s><rs ref="Pierre_Bezukhov">Он</rs> был, как <rs ref="Pierre_Bezukhov">ему</rs>
+              казалось, порочным только потому, что <rs ref="Pierre_Bezukhov">он</rs> как-то
+              случайно запамятовал, как хорошо быть добродетельным.</s>
+            <s>В душе его не оставалось ни следа прежних сомнений.</s>
+            <s>Он твердо верил в возможность братства людей, соединенных с целью поддерживать друг
+              друга на пути добродетели, и таким представлялось ему масонство.</s>  </p>
+        </div>
+        

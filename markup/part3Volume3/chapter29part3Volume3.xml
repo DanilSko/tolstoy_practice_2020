@@ -1,0 +1,412 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="29" type="chapter" xml:id="chapter29part3Volume3">
+          <p> </p>
+          <p><s>Французский <rs rolename="agent">офицер</rs> вместе с <rs ref="Pierre_Bezukhov">Пьером</rs> вошли в дом.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="experiencer">Пьер</rs> счел <rs ref="Pierre_Bezukhov" rolename="experiencer">своим</rs> долгом опять уверить <rs rolename="experiencer">капитана</rs>, что <rs>он</rs> был не француз, и хотел уйти,
+              но французский офицер и слышать не хотел об этом.</s>
+            <s><rs rolename="undergoer">Он</rs> был до такой степени учтив, любезен, добродушен и
+              истинно благодарен за спасение <rs rolename="experiencer">своей</rs> жизни, что <rs ref="Pierre_Bezukhov">Пьер</rs> не имел духа отказать ему и присел вместе с <rs ref="Pierre_Bezukhov">ним</rs> в зале, в первой комнате, в которую они вошли.</s>
+            <s>На утверждение <rs ref="Pierre_Bezukhov" rolename="agent">Пьера</rs>, что <rs ref="Pierre_Bezukhov">он</rs> не француз, <rs rolename="agent">капитан</rs>,
+              очевидно не понимая, как можно было отказываться от такого лестного звания, пожал
+              плечами и сказал, что ежели он непременно хочет слыть за русского, то пускай это так
+              будет, но что он, несмотря на то, все так же навеки связан с <rs ref="Pierre_Bezukhov">ним</rs> чувством благодарности за спасение жизни.</s> </p>
+          <p><s>Ежели бы этот <rs rolename="possessor">человек</rs> был одарен хоть сколько-нибудь
+              способностью понимать чувства других и догадывался бы об ощущениях <rs ref="Pierre_Bezukhov" rolename="experiencer">Пьера</rs>, <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, вероятно, ушел бы от него; но оживленная непроницаемость
+              этого <rs rolename="undergoer">человека</rs> ко всему тому, что не было он сам, победила
+                <rs ref="Pierre_Bezukhov">Пьера</rs>.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Français ou prince russe incognito. Je vous dois la vie je vous offre mon amitié. Un Français n'oublie jamais ni une insulte ni un service. Je vous offre mon amitié. Je ne vous dis que ça." verb="сказать" author_comment=", - сказал француз, оглядев хотя и грязное, но тонкое белье Пьера и перстень на руке. -" speech_id="5143"><s>- Français ou prince russe incognito, - сказал <rs rolename="agent">француз</rs>, оглядев хотя и грязное, но тонкое белье <rs ref="Pierre_Bezukhov" rolename="possessor">Пьера</rs> и перстень на руке. - Je
+                vous dois la vie je vous offre mon amitié. Un Français n'oublie jamais ni une
+                insulte ni un service. Je vous offre mon amitié. Je ne vous dis que
+            ça.</s></said> </p>
+          <p><s>В звуках голоса, в выражении лица, в жестах этого <rs rolename="agent">офицера</rs>
+              было столько добродушия и благородства (во французском смысле), что <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, отвечая бессознательной улыбкой на
+              улыбку <rs rolename="agent">француза</rs>, пожал протянутую руку.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Capitaine Ramball du treizième léger, décoré pour l'affaire du Sept. Voudrez vous bien me dire à présent, à qui j'ai l'honneur de parler aussi agréablement au lieu de rester à l'ambulance avec la balle de ce fou dans le çorps." verb="отрекомендоваться" author_comment=", - отрекомендовался он с самодовольной, неудержимой улыбкой, которая морщила его губы под усами. -" speech_id="5154"><s>- Capitaine Ramball du treizième léger, décoré pour l'affaire du
+                Sept, - отрекомендовался <rs ref="Captain_Ramballe">он</rs> с самодовольной,
+                неудержимой улыбкой, которая морщила <rs ref="Captain_Ramballe">его</rs> губы под
+                усами. - Voudrez vous bien me dire à présent, à qui j'ai l'honneur de parler aussi
+                agréablement au lieu de rester à l'ambulance avec la balle de ce fou dans le
+                çorps.</s></said> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> отвечал, что не может
+                сказать <rs ref="Pierre_Bezukhov" rolename="undergoer">своего</rs> имени, и, покраснев,
+                начал было, пытаясь выдумать имя, говорить о причинах, по которым <rs ref="Pierre_Bezukhov">он</rs> не может сказать этого, по <rs rolename="agent">француз</rs> поспешно перебил <rs ref="Pierre_Bezukhov" rolename="undergoer">его</rs>.</s></p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Je comprends vos raisons, vous êtes officier... officier supérieur, peut-être. Vous avez porté les armes contre nous. Ce n'est pas mon affaire.. Je suis tout à vous. Vous êtes gentilhomme?. Je vous dois la vie. Cela me suffit.. Votre nom de baptême, s'il vous plaît? Je ne demande pas davantage. Monsieur Pierre, dites vous... Parfait. C'est tout ce que je désire savoir." verb="прибавить" author_comment="- прибавил он с оттенком вопроса." speech_id="5145"><said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="De grâce," verb="сказать" author_comment="- сказал он." speech_id="5175"><s>- De grâce, -
+                  сказал он.</s></said></said>
+            <s>- Je comprends vos raisons, vous êtes officier... officier supérieur, peut-être. Vous
+              avez porté les armes contre nous. Ce n'est pas mon affaire. Je vous dois la vie. Cela
+              me suffit. Je suis tout à vous. Vous êtes gentilhomme? - прибавил он с оттенком
+              вопроса.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> наклонил голову.</s>
+            <s>- Votre nom de baptême, s'il vous plaît?</s>
+            <s>Je ne demande pas davantage.</s>
+            <s>Monsieur Pierre, dites vous..</s><s>. Parfait.</s>
+            <s>C'est tout ce que je désire savoir.</s> </p>
+          <p><s>Когда принесены были жареная баранина, яичница, самовар, водка и вино из русского
+              погреба, которое с собой привезли французы, Рамбаль попросил <rs ref="Pierre_Bezukhov" rolename="addressee">Пьера</rs> принять участие в этом обеде и тотчас сам, жадно и
+              быстро, как здоровый и голодный <rs>человек</rs>, принялся есть, быстро пережевывая
+              своими сильными зубами, беспрестанно причмокивая и приговаривая excellent, exquis!</s>
+            <s>Лицо <rs ref="Pierre_Bezukhov" rolename="possessor">его</rs> раскраснелось и
+              покрылось потом.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="undergoer">Пьер</rs> был голоден и с удовольствием
+              принял участие в обеде.</s>
+            <s><rs rolename="agent">Морель</rs>, денщик, принес кастрюлю с теплой водой и поставил в
+              нее бутылку красного вина.</s>
+            <s>Кроме того, <rs>он</rs> принес бутылку с квасом, которую <rs>он</rs> для пробы взял в
+              кухне.</s>
+            <s>Напиток этот был уже известен французам и получил название.</s>
+            <s>Они называли квас limonade de cochon (свиной лимонад), и <rs rolename="agent">Морель</rs> хвалил этот limonade de cochon, который он нашел в кухне.</s>
+            <s>Но так как у <rs rolename="possessor">капитана</rs> было вино, добытое при переходе
+              через Москву, то он предоставил квас <rs rolename="possessor">Морелю</rs> и взялся за
+              бутылку бордо.</s>
+            <s>Он завернул бутылку по горлышко в салфетку и налил себе и <rs ref="Pierre_Bezukhov" rolename="addressee">Пьеру</rs> вина.</s>
+            <s>Утоленный голод и вино еще более оживили <rs rolename="experiencer">капитана</rs>, и
+              он не переставая разговаривал во время обеда.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="En voilà une à Wagram et de deux à Smolensk,. Et cette jambe, comme vous voyez, qui ne veut pas marcher. C'est à la grande bataille du 7 à la Moskowa que j'ai reçu ça. Sacré dieu, c'était beau. Il fallait voir ça, c'était un déluge de feu. Vous nous avez taillé une rude besogne; vous pouvez vous en vanter, nom d'un petit bonhomme. Et, ma parole, malgré l'atoux que j'y ai gagné, je serais prêt à recommencer. Je plains ceux qui n'ont pas vu ça.. J'en ai assez, voyez-vous, de balles dans le corps.. Oui, mon cher monsieur Pierre, je vous dois une fière chandelle de m'avoir sauvé.... de cet enragé..." verb="показать" author_comment="- он показал шрам, который был на щеке, - Et cette jambe, comme vous voyez, qui ne veut pas marcher." speech_id="5171"><s>- Oui, mon cher monsieur Pierre, je vous dois une fière chandelle
+                de m'avoir sauvé... de cet enragé... J'en ai assez, voyez-vous, de balles dans le
+                corps. En voilà une (он показал на бок) à Wagram et de deux à Smolensk, - он показал
+                шрам, который был на щеке, - Et cette jambe, comme vous voyez, qui ne veut pas
+                marcher. C'est à la grande bataille du 7 à la Moskowa que j'ai reçu ça. Sacré dieu,
+                c'était beau. Il fallait voir ça, c'était un déluge de feu. Vous nous avez taillé
+                une rude besogne; vous pouvez vous en vanter, nom d'un petit bonhomme. Et, ma
+                parole, malgré l'atoux que j'y ai gagné, je serais prêt à recommencer.</s></said>
+            <s>Je plains ceux qui n'ont pas vu ça.</s> </p>
+          <p>
+            <said who="Pierre_Bezukhov" corresp="Captain_Ramballe" speech_text="J'y ai été," verb="сказать" author_comment="- сказал Пьер." speech_id="5146"><s>- J'y ai été, -
+                сказал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s></said> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Bah, vraiment!. Eh bien, tant mieux. J'y suis allé trois fois, tel quo vous me voyez. Trois fois nous étions sur les canons et trois fois on nous a culbuté et comme des capucins de cartes. Oh! c'était beau, monsieur Pierre. Vos grenadiers ont été superbes, tonnerre de Dieu. Je les ai vu six fois de suite serrer les rangs, et marcher comme à une revue. Les beaux hommes! Notre roi de Naples, qui s'y connaît a crié: bravo! Ah, ah! soldat comme nous autres!. Tant mieux, tant mieux, monsieur Pierre. Terribles en bataille... galants.... Vous êtes de fiers ennemis, tout de même. La grande redoute a été tenace, nom d'une pipe. Et vous nous l'avez fait crânement payer.. avec les belles, voilà les Français, monsieur Pierre, n'est ce pas?" verb="сказать" author_comment=", - сказал француз. -" speech_id="5139"><s>- Bah,
+                vraiment! Eh bien, tant mieux, - сказал <rs rolename="agent">француз</rs>. - Vous
+                êtes de fiers ennemis, tout de même. La grande redoute a été tenace, nom d'une pipe.
+                Et vous nous l'avez fait crânement payer. J'y suis allé trois fois, tel quo vous me
+                voyez. Trois fois nous étions sur les canons et trois fois on nous a culbuté et
+                comme des capucins de cartes. Oh! c'était beau, monsieur Pierre. Vos grenadiers ont
+                été superbes, tonnerre de Dieu. Je les ai vu six fois de suite serrer les rangs, et
+                marcher comme à une revue. Les beaux hommes! Notre roi de Naples, qui s'y connaît a
+                crié: bravo! Ah, ah! soldat comme nous autres! - сказал <rs ref="Pierre_Bezukhov">он</rs>, улыбаясь, после минутного молчания. - Tant mieux, tant mieux, monsieur
+                Pierre. Terribles en bataille... galants... - <rs ref="Pierre_Bezukhov">он</rs>
+                подмигнул с улыбкой, - avec les belles, voilà les Français, monsieur Pierre, n'est
+                ce pas?</s></said> </p>
+          <p><s>До такой степени <rs ref="Captain_Ramballe" rolename="undergoer">капитан</rs> был наивно и добродушно весел, и
+              целен, и доволен <rs>собой</rs>, что <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> чуть-чуть сам не подмигнул, весело глядя на <rs rolename="undergoer">него</rs>.</s>
+            <s>Вероятно, слово 'galant' навело <rs ref="Captain_Ramballe" rolename="experiencer">капитана</rs> на мысль о
+              положении Москвы.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="- A propos, dites, donc, est-ce vrai que toutes les femmes ont quitté Moscou?" speech_id="5149"><said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="A propos, dites, donc, est-ce vrai que toutes les femmes ont quitté Moscou? Une drôle d'idée! Qu'avaient-elles à craindre?" speech_id="5153"><s>- A propos, dites, donc, est-ce vrai que toutes les femmes ont
+                  quitté Moscou?</s></said></said>
+            <s>Une drôle d'idée!</s>
+            <s>Qu'avaient-elles à craindre?</s> </p>
+          <p>
+            <said who="Pierre_Bezukhov" corresp="Captain_Ramballe" speech_text="Est ce que les dames françaises ne quitteraient раз Paris si les Russes y entraient?" verb="сказать" author_comment="- сказал Пьер." speech_id="5148"><s>- Est ce que les
+                dames françaises ne quitteraient раз Paris si les Russes y entraient? - сказал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s></said> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Ah! elle est forte celle-là, - проговорил он. - Paris? Mais Paris... Paris.... Ah, ab, ah!" verb="расхохотаться" author_comment="- Француз весело, сангвинически расхохотался, трепля по плечу Пьера. -" speech_id="5166"><s>- Ah, ab, ah!.. - <rs rolename="agent">Француз</rs> весело,
+                сангвинически расхохотался, трепля по плечу <rs ref="Pierre_Bezukhov" rolename="possessor">Пьера</rs>. - Ah!</s></said>
+            <s>elle est forte celle-là, - проговорил <rs ref="Pierre_Bezukhov" rolename="agent">он</rs>.</s>
+            <s>- Paris?</s>
+            <s>Mais Paris... Paris...</s> </p>
+          <p>
+            <said who="Pierre_Bezukhov" corresp="Captain_Ramballe" speech_text="Paris la capitale du monde..." verb="сказать" author_comment="- сказал Пьер, доканчивая его речь." speech_id="5168"><s>- Paris la
+                capitale du monde... - сказал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>,
+                доканчивая его речь.</s></said> </p>
+          <p><s><rs rolename="agent">Капитан</rs> посмотрел на <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs>.</s>
+            <s><rs>Он</rs> имел привычку в середине разговора остановиться и поглядеть пристально
+              смеющимися, ласковыми глазами.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Eh bien, si vous ne m'aviez pas dit que vous êtes Russe, j'aurai parié que vous êtes Parisien. Vous avez ce je ne sais, quoi, ce..." speech_id="5167"><s>- Eh bien, si vous ne m'aviez pas dit que vous êtes Russe, j'aurai
+                parié que vous êtes Parisien. Vous avez ce je ne sais, quoi, ce... - и, сказав этот
+                комплимент, <rs ref="Pierre_Bezukhov">он</rs> опять молча посмотрел.</s></said> </p>
+          <p>
+            <said who="Pierre_Bezukhov" corresp="Captain_Ramballe" speech_text="J'ai été à Paris, j'y ai passé des années," verb="сказать" author_comment="- сказал Пьер." speech_id="5160"><s>- J'ai été à Paris, j'y ai passé
+                des années, - сказал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s></said> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Captain_Ramballe" speech_text="Oh ça se voit bien. Paris!... Paris, s'est Talma, la Duschénois, Potier, la Sorbonne, les boulevards,. Un Parisien, ça se sent à deux lieux.. Un homme qui ne connait pas Paris, est un sauvage.. il n'y a qu'ua Paris au monde. Vous avez été à Paris et vous êtes resté Russe. Eh bien, je ne vous en estime pas moins." verb="прибавить" author_comment="- и заметив, что заключение слабее предыдущего, он поспешно прибавил: - il n'y a qu'ua Paris au monde." speech_id="5174"><s>- Oh ça se voit bien. Paris!..</s></said>
+            <s>Un homme qui ne connait pas Paris, est un sauvage.</s>
+            <s>Un Parisien, ça se sent à deux lieux.</s>
+            <s>Paris, s'est Talma, la Duschénois, Potier, la Sorbonne, les boulevards, - и заметив,
+              что заключение слабее предыдущего, <rs ref="Pierre_Bezukhov" rolename="agent">он</rs>
+              поспешно прибавил: - il n'y a qu'ua Paris au monde.</s>
+            <s>Vous avez été à Paris et vous êtes resté Russe.</s>
+            <s>Eh bien, je ne vous en estime pas moins.</s> </p>
+          <p><s>Под влиянием выпитого вина и после дней, проведенных в уединении с <rs ref="Pierre_Bezukhov" rolename="experiencer">своими</rs> мрачными мыслями, <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьер</rs> испытывал невольное удовольствие в
+              разговоре с этим веселым и добродушным <rs>человеком</rs>.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Et puis l'Empereur!. On nous craint, mais on nous aime. Nous sommes bons à connaître.. Pour en revenir à vos dames, on les dit bien belles.. Quelle chance elles ont manqué celles-là. Vos moujiks c'est autre chose, mais vous autres gens civilisés vous devriez nous connaître mieux que ça. Nous avons pris Vienne, Berlin, Madrid, Naples, Rome, Varsovie, toutes les capitales du monde.... Quelle fichue idée d'aller s'enterrer dans les steppes, quand l'armée française est à Moscou." verb="перебить" author_comment="- начал он, но Пьер перебил его." speech_id="5155"><s>- Pour en revenir à vos dames, on les dit bien belles. Quelle fichue idée
+                d'aller s'enterrer dans les steppes, quand l'armée française est à Moscou. Quelle
+                chance elles ont manqué celles-là. Vos moujiks c'est autre chose, mais vous autres
+                gens civilisés vous devriez nous connaître mieux que ça. Nous avons pris Vienne,
+                Berlin, Madrid, Naples, Rome, Varsovie, toutes les capitales du monde... On nous
+                craint, mais on nous aime. Nous sommes bons à connaître. Et puis l'Empereur! - начал
+                  <rs rolename="agent">он</rs>, но <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> перебил <rs>его</rs>.</s></said> </p>
+          <p>
+            <said who="Pierre_Bezukhov" corresp="Captain_Ramballe" speech_text="Est-ce que l'Empereur?... L'Empereur?" verb="принять" author_comment=", - повторил Пьер, и лицо его вдруг приняло грустное и сконфуженное выражение. -" speech_id="5152"><s>- L'Empereur, - повторил <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, и лицо <rs ref="Pierre_Bezukhov">его</rs> вдруг
+                приняло грустное и сконфуженное выражение. - Est-ce que
+            l'Empereur?..</s></said> </p>
+          <p>
+            <s>- L'Empereur?</s>
+            <s>C'est la générosité, la clémence, la justice, l'ordre, le génie, voilà
+              l'Empereur!</s>
+            <s>C'est moi, Ramball, qui vous le dit. Tel que vous me voyez, j'étais son ennemi il y a
+              encore huit ans. Mon père a été comte émigré... Mais il m'a vaincu, cet homme.</s>
+            <s>Il m'a empoigné.</s>
+            <s>Je n'ai pas pu résister au spectacle de grandeur et de gloire dont il couvrait la
+              France.</s>
+            <s>Quand j'ai compris ce qu'il voulait, quand j'ai vu qu'il nous faisait une litière de
+              lauriers, voyez vous, je me suis dit: voilà un souverain, et je me suis donné à lui.
+              Eh voilà!</s>
+            <s>Oh, oui, mon cher, c'est le plus grand homme des siècles passés et à venir.</s> </p>
+          <p>
+            <said who="Pierre_Bezukhov" corresp="Captain_Ramballe" speech_text="Est-il à Moscou?" verb="сказать" author_comment="- замявшись и с преступным лицом сказал Пьер." speech_id="5144"><s>- Est-il à Moscou? - замявшись и с преступным лицом сказал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s></said> </p>
+          <p><s><rs rolename="agent">Француз</rs> посмотрел на преступное лицо <rs ref="Pierre_Bezukhov" rolename="possessor">Пьера</rs> и усмехнулся.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Non, il fera son entrée demain," verb="сказать" author_comment="- сказал он и продолжал свои рассказы." speech_id="5151"><s>- Non, il
+                fera son entrée demain, - сказал <rs ref="Pierre_Bezukhov" rolename="agent">он</rs>
+                и продолжал <rs ref="Pierre_Bezukhov">свои</rs> рассказы.</s></said> </p>
+          <p><s>Разговор их был прерван криком нескольких голосов у ворот и приходом <rs rolename="agent">Мореля</rs>, <rs>который</rs> пришел объявить <rs rolename="addressee">капитану</rs>, что приехали виртембергские гусары и хотят
+              ставить лошадей на тот же двор, на <rs>котором</rs> стояли лошади <rs rolename="possessor">капитана</rs>.</s>
+            <s>Затруднение происходило преимущественно оттого, что гусары не понимали того, что им
+              говорили.</s> </p>
+          <p><s><rs rolename="agent">Капитан</rs> велел позвать к <rs>себе</rs> старшего <rs rolename="undergoer">унтер-офицера</rs> и строгим голосом спросил у <rs rolename="addressee">него</rs>, к какому полку <rs rolename="undergoer">он</rs>
+              принадлежит, кто их <rs>начальник</rs> и на каком основании <rs rolename="possessor">он</rs> позволяет <rs>себе</rs> занимать квартиру, которая уже занята.</s>
+            <s>На первые два вопроса <rs rolename="agent">немец</rs>, плохо понимавший
+              по-французски, назвал <rs>свой</rs> полк и <rs>своего</rs>
+              <rs rolename="undergoer">начальника</rs>; но на последний вопрос <rs>он</rs>, не поняв
+              его, вставляя ломаные французские слова в немецкую речь, отвечал, что <rs>он</rs>
+              квартиргер полка и что <rs>ему</rs> велено от <rs>начальника</rs> занимать все дома
+              подряд.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>, знавший по-немецки, перевел <rs rolename="benemalefactive">капитану</rs> то, что говорил <rs rolename="agent">немец</rs>, и ответ <rs rolename="agent">капитана</rs> передал по-немецки
+              виртембергскому <rs rolename="addressee">гусару</rs>.</s>
+            <s>Поняв то, что <rs ref="Pierre_Bezukhov">ему</rs> говорили, <rs rolename="agent">немец</rs> сдался и увел своих людей.</s>
+            <s><rs rolename="agent">Капитан</rs> вышел на крыльцо, громким голосом отдавая какие-то
+              приказания.</s> </p>
+          <p><s>Когда <rs ref="Pierre_Bezukhov" rolename="agent">он</rs> вернулся назад в комнату,
+                <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> сидел на том же месте, где <rs ref="Pierre_Bezukhov">он</rs> сидел прежде, опустив руки на голову.</s>
+            <s>Лицо <rs ref="Pierre_Bezukhov">его</rs> выражало страдание.</s>
+            <s><rs ref="Pierre_Bezukhov">Он</rs> действительно страдал в эту минуту.</s>
+            <s>Когда <rs rolename="agent">капитан</rs> вышел и <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьер</rs> остался один, <rs ref="Pierre_Bezukhov" rolename="undergoer">он</rs> вдруг опомнился и сознал то положение, в котором
+              находился.</s>
+            <s>Не то, что Москва была взята, и не то, что эти счастливые победители хозяйничали в
+              ней и покровительствовали <rs ref="Pierre_Bezukhov">ему</rs>, - как ни тяжело
+              чувствовал это <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьер</rs>, не это мучило
+                <rs ref="Pierre_Bezukhov" rolename="experiencer">его</rs> в настоящую минуту.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="experiencer">Его</rs> мучило сознание своей
+              слабости.</s>
+            <s>Несколько стаканов выпитого вина, разговор с этим добродушным <rs>человеком</rs>
+              уничтожили сосредоточенно-мрачное расположение духа, в котором жил <rs ref="Pierre_Bezukhov" rolename="experiencer">Пьер</rs> эти последние дни и которое
+              было необходимо для исполнения его намерения.</s>
+            <s>Пистолет, и кинжал, и армяк были готовы, <rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs> въезжал завтра.</s>
+            <s><rs ref="Pierre_Bezukhov" rolename="experiencer">Пьер</rs> точно так же считал
+              полезным и достойным убить <rs rolename="undergoer">злодея</rs>; но <rs ref="Pierre_Bezukhov" rolename="experiencer">он</rs> чувствовал, что теперь <rs ref="Pierre_Bezukhov" rolename="agent">он</rs> не сделает этого.</s>
+            <s>Почему?</s>
+            <s>- <rs ref="Pierre_Bezukhov">он</rs> не знал, но предчувствовал как будто, что <rs ref="Pierre_Bezukhov">он</rs> не исполнит <rs ref="Pierre_Bezukhov">своего</rs>
+              намерения.</s>
+            <s><rs ref="Pierre_Bezukhov">Он</rs> боролся против сознания <rs ref="Pierre_Bezukhov">своей</rs> слабости, но смутно чувствовал, что <rs ref="Pierre_Bezukhov">ему</rs>
+              не одолеть ее, что прежний мрачный строй мыслей о мщенье, убийстве и самопожертвовании
+              разлетелся, как прах, при прикосновении первого <rs rolename="agent">человека</rs>.</s> </p>
+          <p><s><rs rolename="agent">Капитан</rs>, слегка прихрамывая и насвистывая что-то, вошел в
+              комнату.</s> </p>
+          <p><s>Забавлявшая прежде <rs ref="Pierre_Bezukhov" rolename="experiencer">Пьера</rs>
+              болтовня <rs rolename="agent">француза</rs> теперь показалась <rs rolename="addressee">ему</rs> противна.</s>
+            <s>И насвистываемая песенка, и походка, и жест покручиванья усов - все казалось теперь
+              оскорбительным <rs ref="Pierre_Bezukhov" rolename="experiencer">Пьеру</rs>.</s> </p>
+          <p><s>'<rs ref="Pierre_Bezukhov" rolename="agent">Я</rs> сейчас уйду, <rs ref="Pierre_Bezukhov">я</rs> ни слова больше не скажу с <rs ref="Pierre_Bezukhov">ним</rs>', - думал <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>. <rs ref="Pierre_Bezukhov">Он</rs> думал это, а между тем сидел все на том же месте.
+              Какое-то странное чувство слабости приковало <rs ref="Pierre_Bezukhov">его</rs> к
+              своему месту: <rs ref="Pierre_Bezukhov">он</rs> хотел и не мог встать и уйти.</s> </p>
+          <p><s><rs rolename="undergoer">Капитан</rs>, напротив, казался очень весел.</s>
+            <s><rs rolename="agent">Он</rs> прошелся два раза но комнате.</s>
+            <s>Глаза <rs>его</rs> блестели, и усы слегка подергивались, как будто <rs>он</rs>
+              улыбался сам с <rs>собой</rs> какой-то забавной выдумке.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Charmant. le colonel de ces Wurtembourgeois! C'est un Allemand; mais brave garçon, s'il en fat. Mais Allemand." verb="сказать" speech_id="5165"><s>- Charmant, - сказал <rs rolename="agent">он</rs>
+                вдруг, - le colonel de ces Wurtembourgeois!</s></said>
+            <s>C'est un Allemand; mais brave garçon, s'il en fat. Mais Allemand.</s> </p>
+          <p><s>Он сел против <rs ref="Pierre_Bezukhov">Пьера</rs>.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="A propos, vous savez donc l'allemand, vous?" speech_id="5163"><s>- A
+                propos, vous savez donc l'allemand, vous?</s></said> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> смотрел на него молча.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Comment dites-vous asile en allemand?" speech_id="5142"><said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Comment dites-vous?" verb="переспросить" author_comment="- недоверчиво и быстро переспросил капитан." speech_id="5157"><s>- Comment dites-vous asile en allemand?</s></said></said>  </p>
+          <p>
+            <said who="Pierre_Bezukhov" corresp="Captain_Ramballe" speech_text="Asile en allemand - Unterkunftl .. Asile?" verb="повторить" author_comment="- повторил Пьер. -" speech_id="5164"><s>- Asile? - повторил <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>. - Asile en allemand -
+                Unterkunftl .</s></said> </p>
+          <p><said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Comment dites-vous asile en allemand?" speech_id="5142"><said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Comment dites-vous?" verb="переспросить" author_comment="- недоверчиво и быстро переспросил капитан." speech_id="5157"><s>Comment dites-vous? - недоверчиво и быстро переспросил <rs ref="Captain_Ramballe" rolename="agent">капитан</rs>.</s></said></said> </p>
+          <p>
+            <said who="Pierre_Bezukhov" corresp="Captain_Ramballe" speech_text="Unterkunft," verb="повторить" author_comment="- повторил Пьер." speech_id="5137"><s>- Unterkunft, -
+                повторил <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s></said> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Onterkoff," verb="смотреть" author_comment="- сказал капитан и несколько секунд смеющимися глазами смотрел на Пьера." speech_id="5140"><s>- Onterkoff, - сказал <rs rolename="agent">капитан</rs> и
+                несколько секунд смеющимися глазами смотрел на <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs>.</s></said>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Les Allemands sont de fières bêtes.. N'est ce pas, monsieur Pierre?" verb="заключить" author_comment="- заключил он." speech_id="5150"><s>- Les Allemands
+                sont de fières bêtes. N'est ce pas, monsieur Pierre? - заключил <rs ref="Captain_Ramballe" rolename="agent">он</rs>.</s></said> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Eh bien, encore une bouteille de ce Bordeau Moscovite, n'est ce pas?. Morel!. Morel, va nous chauffer encore une petite bouteille." verb="крикнуть" author_comment="- весело крикнул капитан." speech_id="5141"><s>- Eh
+                bien, encore une bouteille de ce Bordeau Moscovite, n'est ce pas? Morel, va nous
+                chauffer encore une petite bouteille. Morel! - весело крикнул <rs ref="Captain_Ramballe" rolename="agent">капитан</rs>.</s></said> </p>
+          <p><s><rs rolename="agent">Морель</rs> подал свечи и бутылку вина.</s>
+            <s><rs rolename="agent">Капитан</rs> посмотрел на <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs> при освещении, и <rs ref="Pierre_Bezukhov" rolename="experiencer">его</rs>, видимо, поразило расстроенное лицо <rs ref="Pierre_Bezukhov">его</rs>
+              <rs>собеседника</rs>.</s>
+            <s><rs ref="Captain_Ramballe" rolename="agent">Рамбаль</rs> с искренним; огорчением и участием в лице подошел к <rs ref="Pierre_Bezukhov">Пьеру</rs> и нагнулся над <rs ref="Pierre_Bezukhov">ним</rs>.</s>  </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Eh bien, nous sommes tristes. Non, vrai, avez-vous quelque chose contre moi. Peut-être rapport à la situation?. Vous aurai-je fait de la peine?" verb="сказать" author_comment=", - сказал он, трогая Пьера за руку. -" speech_id="5158"><s>- Eh bien, nous sommes tristes, - сказал <rs ref="Captain_Ramballe" rolename="agent">он</rs>, трогая <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs> за руку. - Vous aurai-je fait de la peine? Non, vrai, avez-vous
+                quelque chose contre moi, - переспрашивал <rs ref="Pierre_Bezukhov">он</rs>. -
+                Peut-être rapport à la situation?</s></said> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> ничего не отвечал, но ласково
+              смотрел в глаза <rs ref="Captain_Ramballe">французу</rs>.</s>
+            <s>Это выражение участия было приятно <rs>ему</rs>.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Disposez de moi. C'est à la vie et à la mort. C'est la main sur le cœur que je vous le dis,. Parole d'honneur, sans parler de ce que je vous dois, j'ai de l'amitié pour vous. Puis-je faire quelque chose pour vous?" verb="сказать" author_comment="- сказал он, ударяя себя в грудь." speech_id="5173"><s>- Parole d'honneur, sans parler de ce que je vous dois, j'ai de l'amitié pour
+                vous. Puis-je faire quelque chose pour vous? Disposez de moi. C'est à la vie et à la
+                mort. C'est la main sur le cœur que je vous le dis, - сказал <rs ref="Captain_Ramballe" rolename="agent">он</rs>, ударяя <rs ref="Captain_Ramballe">себя</rs> в грудь.</s></said> </p>
+          <p>
+            <said who="Pierre_Bezukhov" corresp="Captain_Ramballe" speech_text="Merci," verb="сказать" author_comment="- сказал Пьер." speech_id="5161"><s>- Merci, - сказал
+                  <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs>.</s></said>
+            <s><rs rolename="agent">Капитан</rs> посмотрел пристально на <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs> так же, как <rs ref="Captain_Ramballe" rolename="agent">он</rs> смотрел, когда узнал, как убежище называлось по-немецки, и лицо <rs ref="Captain_Ramballe">его</rs> вдруг просияло.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Ah! dans ce cas je bois à notre amitié!" verb="крикнуть" speech_id="5172"><s>- Ah! dans ce cas je bois à notre amitié! - весело крикнул <rs ref="Captain_Ramballe" rolename="agent">он</rs>, наливая
+                два стакана вина.</s></said>
+            <s><rs ref="Pierre_Bezukhov" rolename="possessor">Пьер</rs> взял налитой стакан и выпил
+              его.</s>
+            <s>Рамбаль выпил свой, пожал еще раз руку <rs ref="Pierre_Bezukhov" rolename="possessor">Пьера</rs> и в задумчиво-меланхолической позе облокотился на стол.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Oui, mon cher ami, voilà les caprices de la fortune," verb="начать" author_comment="- начал он." speech_id="5147"><said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Et cependant me voilà à Moscou avec lui. Il faut vous dire, mon cher,. Qui m'aurait dit que je serai soldat et capitaine de dragons au service de Bonaparte, comme nous l'appellions jadis.. que notre nom est l'un des plus anciens de la France." verb="продолжать" author_comment="- продолжал он грустным и мерным голосом человека, который сбирается рассказывать длинную историю, - que notre nom est l'un des plus anciens de la France." speech_id="5162"><s>- Oui, mon cher ami, voilà les caprices de la fortune, - начал
+                    <rs ref="Pierre_Bezukhov" rolename="agent">он</rs>. - Qui m'aurait dit que je
+                  serai soldat et capitaine de dragons au service de Bonaparte, comme nous
+                  l'appellions jadis. Et cependant me voilà à Moscou avec lui. Il faut vous dire,
+                  mon cher, - продолжал <rs ref="Pierre_Bezukhov">он</rs> грустным и мерным голосом
+                    <rs rolename="undergoer">человека</rs>, <rs>который</rs> сбирается рассказывать
+                  длинную историю, - que notre nom est l'un des plus anciens de la
+                France.</s></said></said> </p>
+          <p><s>И с легкой и наивной откровенностью <rs rolename="undergoer">француза</rs>
+              <rs rolename="agent">капитан</rs> рассказал <rs ref="Pierre_Bezukhov" rolename="addressee">Пьеру</rs> историю <rs>своих</rs> предков, свое детство,
+              отрочество и возмужалость, все свои родственные, имущественные, семейные
+              отношения.</s>
+            <s>'Ma pauvre mère' играла, разумеется, важную роль в этом рассказе.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Encore un verre.. L'amour!. Mais tout ça ce n'est que la mise en scène de la vie, le fond c'est l'amour!. N'est ce pas, monsieur Pierre?" verb="сказать" author_comment="- сказал он, оживляясь. -" speech_id="5169"><s>- Mais
+                tout ça ce n'est que la mise en scène de la vie, le fond c'est l'amour! L'amour!
+                N'est ce pas, monsieur Pierre? - сказал <rs ref="Captain_Ramballe">он</rs>,
+                оживляясь. - Encore un verre.</s></said> </p>
+          <p><s><rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> опять выпил и налил <rs ref="Pierre_Bezukhov">себе</rs> третий.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Oh! les femmes, les femmes!" speech_id="5156"><s>- Oh! les femmes, les
+                femmes! - и <rs ref="Captain_Ramballe" rolename="agent">капитан</rs>, замаслившимися глазами глядя на <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs>, начал говорить о любви и о
+                  <rs>своих</rs> любовных похождениях.</s></said>
+            <s>Их было очень много, чему легко было поверить, глядя на самодовольное, красивое лицо
+                <rs rolename="possessor">офицера</rs> и на восторженное оживление, с которым <rs rolename="agent">он</rs> говорил о женщинах.</s>
+            <s>Несмотря на то, что все любовные истории Рамбаля имели тот характер пакостности, в
+              котором французы видят исключительную прелесть и поэзию любви, <rs rolename="agent">капитан</rs> рассказывал <rs>свои</rs> истории с таким искренним убеждением, что
+                <rs>он</rs> один испытал и познал все прелести любви, и так заманчиво описывал
+              женщин, что <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> с любопытством слушал
+                <rs>его</rs>.</s> </p>
+          <p><s>Очевидно было, что l'amour, которую так любил <rs ref="Captain_Ramballe" rolename="experiencer">француз</rs>, была ни та низшего и простого рода любовь, которую <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьер</rs> испытывал когда-то к своей
+                <rs>жене</rs>, ни та раздуваемая им самим романтическая любовь, которую он испытывал
+              к <rs ref="NatashaRostova">Наташе</rs> (оба рода этой любви Рамбаль одинаково презирал
+              - одна была l'amour des charretiers, другая l'amour des nigauds) ; l'amour, которой
+              поклонялся <rs ref="Captain_Ramballe" rolename="experiencer">француз</rs>, заключалась преимущественно в
+              неестественности отношений к <rs>женщине</rs> и в комбинации уродливостей, которые
+              придавали главную прелесть чувству.</s> </p>
+          <p><s>Так <rs ref="Captain_Ramballe" rolename="agent">капитан</rs> рассказал трогательную историю <rs>своей</rs>
+              любви к одной обворожительной тридцатипятилетней <rs rolename="addressee">маркизе</rs>
+              и в одно и то же время к прелестному невинному, семнадцатилетнему <rs rolename="addressee">ребенку</rs>, <rs>дочери</rs> обворожительной
+              <rs>маркизы</rs>.</s>
+            <s>Борьба великодушия между <rs>матерью</rs> и <rs>дочерью</rs>, окончившаяся тем, что
+                <rs rolename="agent">мать</rs>, жертвуя <rs>собой</rs>, предложила <rs>свою</rs>
+              <rs rolename="undergoer">дочь</rs> в жены <rs>своему</rs>
+              <rs>любовнику</rs>, еще и теперь, хотя уж давно прошедшее воспоминание, волновала <rs ref="Captain_Ramballe" rolename="experiencer">капитана</rs>.</s>
+            <s>Потом <rs ref="Captain_Ramballe" rolename="agent">он</rs> рассказал один эпизод, в котором <rs rolename="agent">муж</rs> играл роль <rs rolename="undergoer">любовника</rs>, а
+                <rs>он</rs> (любовник) роль мужа, и несколько комических эпизодов из souvenirs
+              d'Allemagne, где asile значит Unterkunft, где les maris mangent de la choux croute и
+              где les jeunes filles sont trop blondes.</s> </p>
+          <p><s>Наконец последний эпизод в Польше, еще свежий в памяти <rs rolename="undergoer">капитана</rs>, который <rs rolename="agent">он</rs> рассказывал с быстрыми жестами
+              и разгоревшимся лицом, состоял в том, что <rs>он</rs> спас жизнь одному
+                <rs>поляку</rs> (вообще в рассказах <rs rolename="agent">капитана</rs> эпизод
+              спасения жизни встречался беспрестанно) и <rs rolename="agent">поляк</rs> этот вверил
+                <rs>ему</rs>
+              <rs>свою</rs> обворожительную жену (Parisienne de cœur ), в то время как сам поступил
+              во французскую службу.</s>
+            <s><rs rolename="undergoer">Капитан</rs> был счастлив, обворожительная <rs rolename="experiencer">полька</rs> хотела бежать с <rs>ним</rs>; но, движимый
+              великодушием, <rs rolename="agent">капитан</rs> возвратил <rs rolename="possessor">мужу</rs>
+              <rs rolename="undergoer">жену</rs>, при этом сказав <rs rolename="addressee">ему</rs>:
+              'Je vous ai sauvé la vie et je sauve votre honneur!' Повторив эти слова, <rs rolename="agent">капитан</rs> протер глаза и встряхнулся, как бы отгоняя от себя
+              охватившую <rs rolename="undergoer">его</rs> слабость при этом трогательном
+              воспоминании.</s> </p>
+          <p><s>Слушая рассказы <rs rolename="agent">капитана</rs>, как это часто бывает в позднюю
+              вечернюю пору и под влиянием вина, <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> следил за всем тем, что говорил <rs rolename="agent">капитан</rs>,
+              понимал все и вместе с тем следил за рядом личных воспоминаний, вдруг почему-то
+              представших <rs ref="Pierre_Bezukhov">его</rs> воображению.</s>
+            <s>Когда <rs ref="Pierre_Bezukhov" target="id_33293">он</rs> слушал эти рассказы любви,
+                <rs ref="Pierre_Bezukhov" xml:id="id_33293">его</rs> собственная любовь к <rs ref="NatashaRostova" rolename="undergoer">Наташе</rs> неожиданно вдруг вспомнилась <rs ref="Pierre_Bezukhov">ему</rs>, и, перебирая в <rs ref="Pierre_Bezukhov">своем</rs>
+              воображении картины этой любви, <rs ref="Pierre_Bezukhov">он</rs> мысленно сравнивал
+              их с рассказами Рамбаля.</s>
+            <s>Следя за рассказом о борьбе долга с любовью, <rs ref="Pierre_Bezukhov" rolename="experiencer">Пьер</rs> видел пред <rs ref="Pierre_Bezukhov">собою</rs> все
+              малейшие подробности <rs ref="Pierre_Bezukhov" rolename="possessor">своей</rs>
+              последней встречи с предметом <rs ref="Pierre_Bezukhov" rolename="experiencer">своей</rs> любви у Сухаревой башни.</s>
+            <s>Тогда эта встреча не произвела на <rs ref="Pierre_Bezukhov">него</rs> влияния; <rs ref="Pierre_Bezukhov" rolename="experiencer">он</rs> даже ни разу не вспомнил о
+              ней.</s>
+            <s>Но теперь <rs ref="Pierre_Bezukhov" rolename="experiencer">ему</rs> казалось, что
+              встреча эта имела что-то очень значительное и поэтическое.</s> </p>
+          <p><s>'<rs ref="Pierre_Bezukhov">Петр Кирилыч</rs>, идите сюда, <rs rolename="agent">я</rs> узнала', - слышал <rs ref="Pierre_Bezukhov" rolename="experiencer">он</rs>
+              теперь сказанные ею слова, видел пред <rs ref="Pierre_Bezukhov">собой</rs> ее глаза,
+              улыбку, дорожный чепчик, выбившуюся прядь волос... и что-то трогательное, умиляющее
+              представлялось <rs ref="Pierre_Bezukhov" rolename="experiencer">ему</rs> во всем
+              этом.</s> </p>
+          <p><s>Окончив <rs rolename="agent">свой</rs> рассказ об обворожительной <rs>польке</rs>,
+                <rs>капитан</rs> обратился к <rs ref="Pierre_Bezukhov">Пьеру</rs> с вопросом,
+              испытывал ли <rs ref="Pierre_Bezukhov" rolename="undergoer">он</rs> подобное чувство
+              самопожертвования для любви и зависти к законному <rs rolename="undergoer">мужу</rs>.</s> </p>
+          <p><s>Вызванный этим вопросом, <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> поднял
+              голову и почувствовал необходимость высказать занимавшие его мысли; <rs ref="Pierre_Bezukhov">он</rs> стал объяснять, как <rs ref="Pierre_Bezukhov">он</rs>
+              несколько иначе понимает любовь к <rs rolename="undergoer">женщине</rs>.</s>
+            <s><rs ref="Pierre_Bezukhov">Он</rs> сказал, что <rs ref="Pierre_Bezukhov">он</rs> во
+              всю <rs ref="Pierre_Bezukhov">свою</rs> жизнь любил и любит только одну <rs rolename="undergoer">женщину</rs> и что эта <rs>женщина</rs> никогда не может
+              принадлежать <rs ref="Pierre_Bezukhov">ему</rs>.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="Tiens!" verb="сказать" author_comment="- сказал капитан." speech_id="5138"><s>- Tiens! -
+                сказал <rs rolename="agent">капитан</rs>.</s></said> </p>
+          <p><s>Потом <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> объяснил, что <rs ref="Pierre_Bezukhov">он</rs> любил эту <rs rolename="undergoer">женщину</rs> с самых
+              юных лет; но не смел думать о <rs>ней</rs>, потому что <rs rolename="undergoer">она</rs>
+              была слишком молода, а <rs ref="Pierre_Bezukhov">он</rs> был незаконный сын без
+              имени.</s>
+            <s>Потом же, когда он получил имя и богатство, он не смел думать о <rs>ней</rs>, потому
+              что слишком любил <rs rolename="undergoer">ее</rs>, слишком высоко ставил <rs>ее</rs> над
+              всем миром и потому, тем более, над самим собою.</s>
+            <s>Дойдя до этого места <rs ref="Pierre_Bezukhov" rolename="agent">своего</rs> рассказа,
+                <rs ref="Pierre_Bezukhov">Пьер</rs> обратился к <rs>капитану</rs> с вопросом:
+              понимает ли <rs ref="Pierre_Bezukhov">он</rs> это?</s> </p>
+          <p><s><rs rolename="agent">Капитан</rs> сделал жест, выражающий то, что ежели бы <rs ref="Ramballe">он</rs> не понимал, то <rs ref="Ramballe">он</rs> все-таки просит
+              продолжать.</s> </p>
+          <p>
+            <said who="Captain_Ramballe" corresp="Pierre_Bezukhov" speech_text="L'amour platonique, les nuages..." verb="пробормотать" author_comment="- пробормотал он." speech_id="5136"><s>- L'amour platonique, les
+                nuages... - пробормотал <rs>он</rs>.</s></said>
+            <s>Выпитое ли вино, или потребность откровенности, или мысль, что этот <rs rolename="experiencer">человек</rs> не знает и не узнает никого из действующих лиц
+                <rs rolename="agent">его</rs> истории, или все вместе развязало язык <rs ref="Pierre_Bezukhov" rolename="benemalefactive">Пьеру</rs>.</s>
+            <s>И <rs rolename="agent">он</rs> шамкающим ртом и маслеными глазами, глядя куда-то
+              вдаль, рассказал всю <rs ref="Pierre_Bezukhov">свою</rs> историю: и <rs ref="Pierre_Bezukhov">свою</rs> женитьбу, и историю любви <rs ref="NatashaRostova" rolename="experiencer">Наташи</rs> к <rs ref="Pierre_Bezukhov" rolename="undergoer">его</rs> лучшему <rs rolename="undergoer">другу</rs>, и <rs rolename="agent">ее</rs>
+              измену, и все свои несложные отношения к <rs>ней</rs>.</s>
+            <s>Вызываемый вопросами Рамбаля, он рассказал и то, что скрывал сначала, - свое
+              положение в свете и даже открыл ему свое имя.</s> </p>
+          <p><s>Более всего из рассказа <rs ref="Pierre_Bezukhov" rolename="agent">Пьера</rs>
+              поразило <rs rolename="experiencer">капитана</rs> то, что <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьер</rs> был очень богат, что <rs ref="Pierre_Bezukhov" rolename="possessor">он</rs> имел два дворца в Москве и что <rs ref="Pierre_Bezukhov" rolename="agent">он</rs> бросил все и не уехал из Москвы, а
+              остался в городе, скрывая <rs ref="Pierre_Bezukhov">свое</rs> имя и звание.</s> </p>
+          <p><s>Уже поздно ночью они вместе вышли на улицу.</s>
+            <s>Ночь была теплая и светлая.</s>
+            <s>Налево от дома светлело зарево первого начавшегося в Москве, на Петровке, пожара.</s>
+            <s>Направо стоял высоко молодой серп месяца, и в противоположной от месяца стороне
+              висела та светлая комета, которая связывалась в душе <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьера</rs> с <rs ref="Pierre_Bezukhov" rolename="experiencer">его</rs> любовью.</s>
+            <s>У ворот стояли <rs rolename="agent">Герасим</rs>, <rs rolename="agent">кухарка</rs> и
+              два француза.</s>
+            <s>Слышны были их смех и разговор на непонятном друг для друга языке.</s>
+            <s>Они смотрели на зарево, видневшееся в городе.</s> </p>
+          <p><s>Ничего страшного не было в небольшом отдаленном пожаре в огромном городе.</s> </p>
+          <p><s>Глядя на высокое звездное небо, на месяц, на комету и на зарево, <rs ref="Pierre_Bezukhov" rolename="undergoer">Пьер</rs> испытывал радостное умиление.</s>
+            <s>'Ну, вот как хорошо. Ну, чего еще надо?!' - подумал <rs ref="Pierre_Bezukhov" rolename="agent">он</rs>.</s>
+            <s>И вдруг, когда <rs ref="Pierre_Bezukhov">он</rs> вспомнил <rs ref="Pierre_Bezukhov">свое</rs> намерение, голова <rs ref="Pierre_Bezukhov">его</rs> закружилась, с ним
+              сделалось дурно, так что <rs ref="Pierre_Bezukhov">он</rs> прислонился к забору, чтобы
+              не упасть.</s> </p>
+          <p><s>Не простившись с <rs ref="Pierre_Bezukhov" rolename="addressee">своим</rs> новым <rs rolename="addressee">другом</rs>, <rs ref="Pierre_Bezukhov" rolename="agent">Пьер</rs> нетвердыми шагами отошел от ворот и, вернувшись в свою комнату, лег на
+              диван и тотчас же заснул.</s>  </p>
+        </div>
+        

@@ -1,0 +1,103 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="18" type="chapter" xml:id="chapter18part2Volume2">
+          <p> </p>
+          <p><s>Пройдя коридор, <rs>фельдшер</rs> ввел <rs ref="Nikolai_Rostov" rolename="agent">Ростова</rs> в офицерские палаты, состоявшие из трех, с растворенными дверями,
+              комнат.</s>
+            <s>В комнатах этих были кровати; раненые и больные офицеры сидели и лежали на них.</s>
+            <s>Некоторые в больничных халатах ходили по комнатам.</s>
+            <s>Первое лицо, встретившееся <rs ref="Nikolai_Rostov" rolename="possessor">Ростову</rs>
+              в офицерских палатах, был маленький, худой <rs ref="Staff_Captain_Tushin">человек</rs>
+              без руки, в колпаке и больничном халате, с закушенной трубочкой ходивший в первой
+              комнате.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>, вглядываясь в него, старался
+              вспомнить, где <rs ref="Nikolai_Rostov">он</rs> его видел.</s> </p>
+          <p><said who="Staff_Captain_Tushin" corresp="Nikolai_Rostov" speech_text="Вот где бог привел свидеться," verb="сказать" author_comment="- сказал маленький человек." speech_id="2703"><said who="Staff_Captain_Tushin" corresp="" speech_text="Здесь, здесь," verb="повести" author_comment="- и Тушин повел его в другую комнату, из которой слышался хохот нескольких голосов." speech_id="2706"><said who="Staff_Captain_Tushin" corresp="Nikolai_Rostov" speech_text="А мне кусочек отрезали, вот.... Тушин, Тушин - помните, довез вас под Шенграбеном?" verb="сказать" author_comment="- сказал он, улыбаясь и указывая на пустой рукав халата." speech_id="2710"><said who="Staff_Captain_Tushin" corresp="Nikolai_Rostov" speech_text="Василья Дмитрича Денисова ищете?. Сожитель," verb="сказать" author_comment="- сказал он, узнав, кого нужно было Ростову." speech_id="2716"><s>- Вот где бог привел свидеться,- сказал маленький <rs ref="Staff_Captain_Tushin" rolename="agent">человек</rs>. - Тушин, Тушин -
+                      помните, довез вас под Шенграбеном? А <rs rolename="benemalefactive">мне</rs>
+                      кусочек отрезали, вот... - сказал он, улыбаясь и указывая на пустой рукав
+                      халата. - <rs ref="Vasily__Vasska__Denisov" rolename="undergoer">Василья Дмитрича
+                        Денисова</rs> ищете? <rs>Сожитель</rs>,- сказал он, узнав, кого нужно было
+                        <rs ref="Nikolai_Rostov">Ростову</rs>. - Здесь, здесь,- и <rs ref="Staff_Captain_Tushin">Тушин</rs> повел его в другую комнату, из которой
+                      слышался хохот нескольких голосов.</s></said></said></said></said> </p>
+          <p><s>'И как они могут не только хохотать, но жить тут?' - думал <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>, все слыша еще этот запах мертвого тела, которого он
+              набрался в солдатском госпитале, и все еще видя вокруг <rs ref="Nikolai_Rostov">себя</rs> эти завистливые взгляды, провожавшие его с обеих сторон, и лицо этого
+              молодого <rs rolename="possessor">солдата</rs> с закаченными глазами.</s> </p>
+          <p><s><rs ref="Vasily__Vasska__Denisov" rolename="experiencer">Денисов</rs>, закрывшись с
+              головой одеялом, спал на постели, несмотря на то, что был двенадцатый час
+            дня.</s> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Nikolai_Rostov" speech_text="А!. Г'остов!. Здог'ово!" verb="проглядывать" author_comment="- закричал он всё тем же голосом, как, бывало, и в полку; но Ростов с грустью заметил, как за этой привычной развязностью и оживленностью какое-то новое, дурное, затаенное чувство проглядывало в выражении лица, в интонациях и словах Денисова." speech_id="2709"><s>- А! Г'остов! Здог'ово! Здог'ово! - закричал <rs ref="Vasily__Vasska__Denisov" rolename="agent">он</rs> всё тем же голосом, как,
+                бывало, и в полку; но <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> с
+                грустью заметил, как за этой привычной развязностью и оживленностью какое-то новое,
+                дурное, затаенное чувство проглядывало в выражении лица, в интонациях и словах <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисова</rs>.</s></said> </p>
+          <p><s>Рана <rs ref="Vasily__Vasska__Denisov">его</rs>, несмотря на свою ничтожность, все
+              еще не заживала, хотя уже прошло шесть недель, как он был ранен.</s>
+            <s>В лице его была та же бледная опухлость, которая была на всех гошпитальных лицах.</s>
+            <s>Но не это поразило <rs ref="Nikolai_Rostov" rolename="experiencer">Ростова</rs>; <rs ref="Nikolai_Rostov" rolename="experiencer">его</rs> поразило то, что <rs ref="Vasily__Vasska__Denisov" rolename="undergoer">Денисов</rs> как будто не рад был
+                <rs ref="Nikolai_Rostov">ему</rs> и неестественно <rs ref="Nikolai_Rostov" rolename="addressee">ему</rs> улыбался.</s>
+            <s><rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs> не расспрашивал ни
+              про полк, ни про общий ход дела.</s>
+            <s>Когда <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> говорил про это, <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs> не слушал.</s> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="experiencer">Ростов</rs> заметил даже, что <rs ref="Vasily__Vasska__Denisov" rolename="experiencer">Денисову</rs> неприятно было,
+              когда <rs ref="Vasily__Vasska__Denisov" rolename="experiencer">ему</rs> напоминали о
+              полке и вообще о той, другой, вольной жизни, которая шла вне госпиталя.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="agent">Он</rs>, казалось, старался забыть ту
+              прежнюю жизнь и интересовался только <rs ref="Vasily__Vasska__Denisov">своим</rs>
+              делом с провиантскими чиновниками.</s>
+            <s>На вопрос <rs ref="Nikolai_Rostov" rolename="agent">Ростова</rs>, в каком положении
+              было дело, <rs ref="Vasily__Vasska__Denisov">он</rs> тотчас достал из-под подушки
+              бумагу, полученную из комиссии, и <rs ref="Nikolai_Rostov">свой</rs> черновой ответ на
+              нее.</s>
+            <s><rs ref="Vasily__Vasska__Denisov">Он</rs> оживился, начав читать <rs ref="Nikolai_Rostov">свою</rs> бумагу, и особенно давал заметить <rs ref="Nikolai_Rostov" rolename="addressee">Ростову</rs> колкости, которые <rs ref="Vasily__Vasska__Denisov" rolename="agent">он</rs> в этой бумаге говорил <rs ref="Nikolai_Rostov">своим</rs> врагам.</s>
+            <s>Госпитальные товарищи <rs ref="Vasily__Vasska__Denisov">Денисова</rs>, окружившие
+              было <rs ref="Nikolai_Rostov">Ростова</rs> - вновь прибывшее из вольного света лицо,-
+              стали понемногу расходиться, как только <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs> стал читать <rs ref="Vasily__Vasska__Denisov">свою</rs> бумагу.</s>
+            <s>По их лицам <rs ref="Nikolai_Rostov" rolename="experiencer">Ростов</rs> понял, что
+              все эти господа уже не раз слышали всю эту успевшую им надоесть историю.</s>
+            <s>Только <rs rolename="agent">сосед</rs> на кровати, толстый улан, сидел на
+                <rs>своей</rs> койке, мрачно нахмурившись и куря трубку, и маленький <rs ref="Staff_Captain_Tushin" rolename="experiencer">Тушин</rs> без руки продолжал
+              слушать, неодобрительно покачивая головой.</s>
+            <s>В середине чтения <rs rolename="agent">улан</rs> перебил <rs ref="Vasily__Vasska__Denisov" rolename="undergoer">Денисова</rs>.</s> </p>
+          <p><said who="улан" corresp="Vasily__Vasska__Denisov" speech_text="- А по мне,- сказал он, обращаясь к Ростову,- надо просто просить государя о помиловании." verb="сказать" speech_id="2718"><s>- А по <rs>мне</rs>,- сказал он, обращаясь к <rs ref="Nikolai_Rostov">Ростову</rs>,- надо просто просить <rs ref="Tsar_Alexander_I_of_Russia" rolename="addressee">государя</rs> о
+                помиловании.</s></said>
+            <s>Теперь, говорят, награды будут большие, и, верно, простят...</s> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Nikolai_Rostov" speech_text="Ежели бы я был разбойник, я бы просил милости, а то я сужусь за то, что вывожу на чистую воду разбойников. Пускай судят, я никого не боюсь; я честно служил царю и отечеству и не крал! И меня разжаловать, и... Слушай, я так прямо и пишу им, вот я пишу: 'ежели бы а был казнокрад...'. Мне просить государя!. О чем?" verb="сказать" author_comment="- сказал Денисов голосом, которому он хотел придать прежнюю энергию и горячность, но который звучал бесполезной раздражительностью.-" speech_id="2713"><s>- <rs ref="Vasily__Vasska__Denisov" rolename="agent" target="id_22183">Мне</rs> просить <rs ref="Tsar_Alexander_I_of_Russia" rolename="addressee" xml:id="id_22183">государя</rs>! - сказал <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs> голосом, которому <rs ref="Vasily__Vasska__Denisov">он</rs> хотел придать прежнюю энергию и горячность,
+                но который звучал бесполезной раздражительностью.- О чем?</s></said>
+            <s>Ежели бы <rs ref="Vasily__Vasska__Denisov">я</rs> был разбойник, <rs ref="Vasily__Vasska__Denisov">я</rs> бы просил милости, а то <rs ref="Vasily__Vasska__Denisov">я</rs> сужусь за то, что вывожу на чистую воду
+              разбойников.</s>
+            <s>Пускай судят, <rs ref="Vasily__Vasska__Denisov">я</rs> никого не боюсь; <rs ref="Vasily__Vasska__Denisov">я</rs> честно служил <rs rolename="benemalefactive">царю</rs> и отечеству и не крал!</s>
+            <s>И меня разжаловать, и... Слушай, я так прямо и пишу им, вот я пишу: 'ежели бы а был
+                <rs rolename="undergoer">казнокрад</rs>...'</s> </p>
+          <p><said who="Staff_Captain_Tushin" corresp="Vasily__Vasska__Denisov" speech_text="Да не в том дело, Василий Дмитрич, покориться надо, а вот Василий Дмитрич не хочет. Ведь аудитор говорил вам, что дело ваше плохо.. Ловко написано, что и говорить" verb="сказать" author_comment=",- сказал Тушин.-" speech_id="2714"><s>- Ловко
+                написано, что и говорить,- сказал <rs ref="Staff_Captain_Tushin" rolename="agent">Тушин</rs>.- Да не в том дело, <rs>Василий Дмитрич</rs>,- <rs rolename="agent">он</rs> тоже обратился к <rs ref="Nikolai_Rostov">Ростову</rs>,- покориться надо,
+                а вот <rs ref="Vasily__Vasska__Denisov" rolename="experiencer">Василий Дмитрич</rs>
+                не хочет. Ведь <rs rolename="agent">аудитор</rs> говорил вам, что дело ваше
+                плохо.</s></said> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Nikolai_Rostov" speech_text="Ну, пускай будет плохо," verb="сказать" author_comment="- сказал Денисов." speech_id="2705"><s>- Ну, пускай будет плохо,-
+                сказал <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs>.</s></said> </p>
+          <p><said who="Staff_Captain_Tushin" corresp="Vasily__Vasska__Denisov" speech_text="- Вам написал аудитор просьбу, и надо подписать, да вот с ними и отправить." verb="продолжать" author_comment="- продолжал Тушин,-" speech_id="2704"><s>- Вам
+                написал <rs rolename="agent">аудитор</rs> просьбу,- продолжал<rs ref="Vasily__Vasska__Denisov" rolename="agent">Тушин</rs>,- и надо подписать, да
+                вот с ними и отправить. У них, верно (он указал на <rs ref="Nikolai_Rostov" rolename="undergoer">Ростова</rs>), и рука в штабе есть. Уж лучше случая не
+                найдете.</s></said> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="" speech_text=" подличать не стану" verb="сказать" speech_id="2708"><said who="Vasily__Vasska__Denisov" corresp="Nikolai_Rostov" speech_text="Да ведь я сказал, что подличать не стану," verb="продолжать" author_comment="- перебил Денисов и опять продолжал чтение своей бумаги." speech_id="2715"><s>- Да ведь я сказал, что подличать не стану,- перебил <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs> и опять продолжал
+                  чтение <rs ref="Vasily__Vasska__Denisov">своей</rs> бумаги.</s></said></said> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="agent" target="id_22186">Ростов</rs> не смел
+              уговаривать <rs ref="Vasily__Vasska__Denisov" rolename="experiencer" xml:id="id_22186">Денисова</rs>, хотя <rs ref="Nikolai_Rostov" rolename="experiencer">он</rs>
+              инстинктом чувствовал, что путь, предлагаемый<rs rolename="agent">Тушиным</rs> и
+              другими офицерами, был самый верный, и хотя <rs ref="Vasily__Vasska__Denisov" rolename="experiencer">он</rs> считал бы <rs ref="Vasily__Vasska__Denisov" rolename="undergoer">себя</rs> счастливым, ежели бы мог оказать помощь <rs ref="Vasily__Vasska__Denisov" rolename="experiencer">Денисову</rs>: <rs ref="Vasily__Vasska__Denisov" rolename="experiencer">он</rs> знал непреклонность
+              воли <rs ref="Vasily__Vasska__Denisov" rolename="experiencer">Денисова</rs> и <rs ref="Vasily__Vasska__Denisov" rolename="undergoer">его</rs> правдивую
+            горячность.</s> </p>
+          <p><s>Когда кончилось чтение ядовитых бумаг <rs ref="Vasily__Vasska__Denisov" rolename="possessor">Денисова</rs>, продолжавшееся более часа, <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> ничего не сказал и, в самом
+              грустном расположении духа, в обществе опять собравшихся около <rs ref="Nikolai_Rostov">него</rs> госпитальных товарищей <rs ref="Vasily__Vasska__Denisov">Денисова</rs> провел остальную часть дня, рассказывая
+              про то, что <rs ref="Nikolai_Rostov" rolename="experiencer">он</rs> знал, и слушая
+              рассказы других.</s>
+            <s><rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs> мрачно молчал в
+              продолжение всего вечера.</s> </p>
+          <p><s>Поздно вечером <rs ref="Nikolai_Rostov" rolename="experiencer">Ростов</rs> собрался
+              уезжать и спросил <rs ref="Vasily__Vasska__Denisov" rolename="addressee">Денисова</rs>, не будет ли каких поручений.</s> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Nikolai_Rostov" speech_text="Да, постой," verb="сказать" author_comment="- сказал Денисов, оглянулся на офицеров и, достав из-под подушки свои бумаги, пошел к окну, на котором у него стояла чернильница, и сел писать." speech_id="2717"><s>- Да, постой,- сказал <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs>, оглянулся на офицеров и, достав из-под подушки <rs ref="Vasily__Vasska__Denisov">свои</rs> бумаги, пошел к окну, на котором у <rs ref="Nikolai_Rostov">него</rs> стояла чернильница, и сел писать.</s></said> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Nikolai_Rostov" speech_text="Видно, плетыо обуха не пег'ешибешь," verb="сказать" author_comment="- сказал он, отходя от окна и подавая Ростову большой конверт." speech_id="2712"><s>- Видно, плетыо обуха не пег'ешибешь,- сказал <rs ref="Vasily__Vasska__Denisov" rolename="agent" target="id_22188">он</rs>, отходя
+                от окна и подавая <rs ref="Nikolai_Rostov" rolename="possessor" xml:id="id_22188">Ростову</rs> большой конверт.</s></said>
+            <s>Это была просьба на имя <rs ref="Tsar_Alexander_I_of_Russia" rolename="undergoer">государя</rs>, составленная <rs rolename="agent">аудитором</rs>, в которой <rs ref="Vasily__Vasska__Denisov" rolename="agent">Денисов</rs>, ничего не упоминая о
+              винах провиантского ведомства, просил только о помиловании.</s> </p>
+          <p><said who="Vasily__Vasska__Denisov" corresp="Nikolai_Rostov" speech_text="Пег'едай, видно..." verb="улыбнуться" author_comment="- Он не договорил и улыбнулся болезненно-фальшивой улыбкой." speech_id="2711"><s>- Пег'едай, видно...- <rs ref="Vasily__Vasska__Denisov">Он</rs> не
+                договорил и улыбнулся болезненно-фальшивой улыбкой.</s></said>  </p>
+        </div>
+        

@@ -1,0 +1,147 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="29" type="chapter" xml:id="chapter29part2Volume3">
+          <p> </p>
+          <p><s>Вернувшись после второй озабоченной поездки по линии, <rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs> сказал:</s> </p>
+          <p>
+            <said who="Napoleon_Bonaparte" corresp="" speech_text="- Шахматы поставлены, игра начнется завтра." speech_id="4614"><s>-
+                Шахматы поставлены, игра начнется завтра.</s></said> </p>
+          <p><s>Велев подать себе пуншу и призвав <rs ref="Beausset">Боссе</rs>, <rs rolename="agent">он</rs> начал с <rs>ним</rs> разговор о Париже, о некоторых
+              изменениях.</s>
+            <s>которые <rs>он</rs> намерен был сделать в maison de l'impératrice, удивляя <rs rolename="experiencer">префекта</rs>
+              <rs>своею</rs> памятливостью ко всем мелким подробностям придворных
+            отношений.</s> </p>
+          <p><s><rs>Он</rs> интересовался пустяками, шутил о любви к путешествиям <rs ref="Beausset">Боссе</rs> и небрежно болтал так, как это делает знаменитый, уверенный и знающий
+                <rs>свое</rs> дело <rs rolename="agent">оператор</rs>, в то время как <rs>он</rs>
+              засучивает рукава и надевает фартук, а <rs>больного</rs> привязывают к койке: 'Дело
+              все в <rs rolename="possessor">моих</rs> руках и в голове, ясно и определенно. Когда
+              надо будет приступить к делу, <rs rolename="agent">я</rs> сделаю его, как никто
+              другой, а теперь могу шутить, и чем больше <rs>я</rs> шучу и спокоен, тем больше вы
+              должны быть уверены, спокойны и удивлены <rs>моему</rs>
+              <rs>гению</rs>'.</s> </p>
+          <p><s>Окончив <rs ref="Napoleon_Bonaparte" rolename="possessor">свой</rs> второй стакан
+              пунша, <rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs> пошел отдохнуть
+              пред серьезным делом, которое, как <rs ref="Napoleon_Bonaparte">ему</rs> казалось,
+              предстояло ему назавтра.</s> </p>
+          <p><s><rs ref="Napoleon_Bonaparte" rolename="experiencer">Он</rs> так интересовался этим
+              предстоящим <rs ref="Napoleon_Bonaparte" rolename="undergoer">ему</rs> делом, что не мог
+              спать и, несмотря на усилившийся от вечерней сырости насморк, в три часа ночи, громко
+              сморкаясь, вышел в большое отделение палатки.</s>
+            <s><rs ref="Napoleon_Bonaparte" rolename="agent">Он</rs> спросил о том, не ушли ли
+              русские?</s>
+            <s><rs ref="Napoleon_Bonaparte">Ему</rs> отвечали, что неприятельские огни всё на тех же
+              местах.</s>
+            <s>Он одобрительно кивнул головой.</s> </p>
+          <p><s>Дежурный <rs rolename="agent">адъютант</rs> вошел в палатку.</s> </p>
+          <p>
+            <said who="адъютант" corresp="адъютант" speech_text="Eh bien, Rapp, croyez-vous, que nous ferons do bonnes affaires aujourd'hui?" verb="обратиться" author_comment="- обратился он к нему." speech_id="4623"><s>- Eh
+                bien, Rapp, croyez-vous, que nous ferons do bonnes affaires aujourd'hui? - обратился
+                он к <rs>нему</rs>.</s></said> </p>
+          <p>
+            <said who="Рапп" corresp="Napoleon_Bonaparte" speech_text="Sans aucun doute, Sire," verb="отвечать" author_comment="- отвечал Рапп." speech_id="4618"><s>- Sans aucun
+                doute, Sire, - отвечал <rs rolename="agent">Рапп</rs>.</s></said>  </p>
+          <p><s><rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs> посмотрел на <rs rolename="undergoer">него</rs>.</s> </p>
+          <p>
+            <said who="Рапп" corresp="Napoleon_Bonaparte" speech_text="- Vous rappelez-vous, Sire, ce que vous m'avez fait l'houneur de dire à Smolensk, - сказал Рапп, - le via est tiré, il faut le boire." verb="сказать" speech_id="4617"><s>- Vous rappelez-vous, Sire, ce que vous m'avez fait
+                l'houneur de dire à Smolensk, - сказал <rs rolename="agent">Рапп</rs>, - le via est
+                tiré, il faut le boire.</s></said> </p>
+          <p><s><rs ref="Napoleon_Bonaparte" rolename="experiencer">Наполеон</rs> нахмурился и долго
+              молча сидел, опустив голову на руку.</s> </p>
+          <p>
+            <said who="Napoleon_Bonaparte" corresp="Napoleon_Bonaparte" speech_text="Cette pauvre armée. elle a bien diminué depuis Smolensk. La fortune est une franche courtisane, Rapp; je le disais toujours, et je commence à l'éprouver. Mais la garde, Rapp, la garde est intacte?" verb="сказать" author_comment="- вопросительно сказал он." speech_id="4619"><s>- Cette
+                pauvre armée, - сказал <rs ref="Napoleon_Bonaparte" rolename="agent">он</rs> вдруг,
+                - elle a bien diminué depuis Smolensk. La fortune est une franche courtisane, Rapp;
+                je le disais toujours, et je commence à l'éprouver. Mais la garde, Rapp, la garde
+                est intacte? - вопросительно сказал <rs ref="Napoleon_Bonaparte">он</rs>.</s></said> </p>
+          <p>
+            <said who="Рапп " corresp="Napoleon_Bonaparte" speech_text="- Oui, Sire." speech_id="4616"><said who="Рапп" corresp="Napoleon_Bonaparte" speech_text="Oui, Sire," verb="отвечать" author_comment="- отвечал Рапп." speech_id="4621"><s>- Oui, Sire, - отвечал <rs rolename="agent">Рапп</rs>.</s></said></said> </p>
+          <p><s><rs ref="Napoleon_Bonaparte" rolename="possessor">Наполеон</rs> взял пастильку,
+              положил ее в рот и посмотрел на часы.</s>
+            <s>Спать <rs ref="Napoleon_Bonaparte" rolename="experiencer">ему</rs> не хотелось, до
+              утра было еще далеко; а чтобы убить время, распоряжений никаких нельзя уже было
+              делать, потому что все были сделаны и приводились теперь в исполнение.</s> </p>
+          <p>
+            <said who="Napoleon_Bonaparte" corresp="Рапп" speech_text="A-t-on distribué les biscuits et le riz aux régiments de la garde?" verb="спросить" author_comment="- строго спросил Наполеон." speech_id="4620"><s>-
+                A-t-on distribué les biscuits et le riz aux régiments de la garde? - строго спросил
+                  <rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs>.</s></said> </p>
+          <p>
+            <said who="Рапп " corresp="Napoleon_Bonaparte" speech_text="- Oui, Sire." speech_id="4616"><s>- Oui, Sire.</s></said> </p>
+          <p>
+            <said who="Napoleon_Bonaparte" corresp="Рапп" speech_text="Mais le riz?" speech_id="4613"><s>- Mais le riz?</s></said> </p>
+          <p><s><rs rolename="agent">Рапп</rs> отвечал, что <rs>он</rs> передал приказанья <rs ref="Napoleon_Bonaparte" rolename="agent">государя</rs> о рисе, но <rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs> недовольно покачал головой,
+              как будто <rs ref="Napoleon_Bonaparte">он</rs> не верил, чтобы приказание <rs ref="Napoleon_Bonaparte">его</rs> было исполнено.</s>
+            <s><rs rolename="agent">Слуга</rs> вошел с пуншем.</s>
+            <s><rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs> велел подать другой
+              стакан <rs rolename="addressee">Раппу</rs> и молча отпивал глотки из своего.</s> </p>
+          <p>
+            <said who="Napoleon_Bonaparte" corresp="" speech_text="Они толкуют про медицину. Какая медицина, когда они не могут вылечить насморка? Корвизар дал мне эти пастильки, но они ничего не помогают. Что они могут лечить? Лечить нельзя. Notre corps est une machine à vivre. Il est organisé pour cela, c'est sa nature; laissez-y la vie à son aise, qu'elle s'y défende elle même: elle fera plus que si vous la paralysiez en l'encombrant de remèdes. Notre corps est comme une montre parfaite qui doit aller un certain temps; l'horloger n'a pas la faculté de l'ouvrir, il ne peut la manier qu'à tâtons et les yeux bandés. Notre corps est une machine à vivre, voilà tout.. У меня нет ни вкуса, ни обоняния. Этот насморк надоел мне." verb="сказать" author_comment=", - сказал он, принюхиваясь к стакану. -" speech_id="4622"><s>- У <rs><rs ref="Napoleon_Bonaparte">меня</rs></rs> нет ни вкуса,
+                ни обоняния, - сказал <rs><rs ref="Napoleon_Bonaparte">он</rs></rs>, принюхиваясь к
+                стакану. - Этот насморк надоел <rs><rs ref="Napoleon_Bonaparte">мне</rs></rs>. Они
+                толкуют про медицину. Какая медицина, когда они не могут вылечить
+              насморка?</s></said>
+            <s>Корвизар дал <rs><rs ref="Napoleon_Bonaparte">мне</rs></rs> эти пастильки, но они
+              ничего не помогают.</s>
+            <s>Что они могут лечить?</s>
+            <s>Лечить нельзя.</s>
+            <s>Notre corps est une machine à vivre.</s>
+            <s>Il est organisé pour cela, c'est sa nature; laissez-y la vie à son aise, qu'elle s'y
+              défende elle même: elle fera plus que si vous la paralysiez en l'encombrant de
+              remèdes.</s>
+            <s>Notre corps est comme une montre parfaite qui doit aller un certain temps; l'horloger
+              n'a pas la faculté de l'ouvrir, il ne peut la manier qu'à tâtons et les yeux
+              bandés.</s>
+            <said who="Napoleon_Bonaparte" corresp="" speech_text="Вы знаете ли, Рапп, что такое военное искусство?" verb="спросить" author_comment="- спросил он." speech_id="4624"><s>Notre corps est une machine à
+                vivre, voilà tout. - И как будто вступив на путь определений, définitions, которые
+                любил <rs ref="Napoleon_Bonaparte" rolename="experiencer">Наполеон</rs>, <rs ref="Napoleon_Bonaparte" rolename="agent">он</rs> неожиданно сделал новое
+                определение.</s></said>
+            <s>- Вы знаете ли, <rs>Рапп</rs>, что такое военное искусство? - спросил <rs ref="Napoleon_Bonaparte">он</rs>.</s>
+            <s>- Искусство быть сильнее <rs>неприятеля</rs> в известный момент.</s>
+            <s>Voila tout.</s> </p>
+          <p><s><rs rolename="agent">Рапп</rs> ничего не ответил.</s> </p>
+          <p>
+            <said who="Napoleon_Bonaparte" corresp="" speech_text="Demainnous allons avoir affaire à Koutouzoff!. Посмотрим! Помните, в Браунау он командовал армией и ни разу в три недели не сел на лошадь, чтобы осмотреть укрепления. Посмотрим!" verb="сказать" author_comment="- сказал Наполеон. -" speech_id="4625"><s>- Demainnous
+                allons avoir affaire à Koutouzoff! - сказал <rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs>. - Посмотрим!</s></said>
+            <s>Помните, в Браунау <rs ref="Mikhail_Ilarionovich_Kutuzov">он</rs> командовал армией и
+              ни разу в три недели не сел на лошадь, чтобы осмотреть укрепления.</s>
+            <s>Посмотрим!</s> </p>
+          <p><s><rs ref="Napoleon_Bonaparte">Он</rs> поглядел на часы.</s>
+            <s>Было еще только четыре часа.</s>
+            <s>Спать не хотелось, пунш был допит, и делать все-таки было нечего.</s>
+            <s>Он встал, прошелся взад и вперед, надел теплый сюртук и шляпу и вышел из палатки.</s>
+            <s>Ночь была темная и сырая; чуть слышная сырость падала сверху.</s>
+            <s>Костры не ярко горели вблизи, во французской гвардии, и далеко сквозь дым блестели по
+              русской линии.</s>
+            <s>Везде было тихо, и ясно слышались шорох и топот начавшегося уже движения французских
+              войск для занятия позиции.</s> </p>
+          <p><s><rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs> прошелся перед палаткой,
+              посмотрел на огни, прислушался к топоту и, проходя мимо высокого <rs>гвардейца</rs> в
+              мохнатой шапке, стоявшего <rs>часовым</rs> у <rs rolename="possessor">его</rs> палатки
+              и, как черный столб, вытянувшегося при появлении <rs rolename="undergoer">императора</rs>, остановился против <rs>него</rs>.</s> </p>
+          <p>
+            <said who="Napoleon_Bonaparte" corresp="гвардеец" speech_text="С которого года в службе?" verb="спросить" author_comment="- спросил он с той привычной аффектацией грубой и ласковой воинственности, с которой он всегда обращался с солдатами." speech_id="4627"><s>- С которого года в службе? - спросил <rs ref="Napoleon_Bonaparte" rolename="agent">он</rs> с той привычной аффектацией грубой и ласковой
+                воинственности, с которой <rs ref="Napoleon_Bonaparte">он</rs> всегда обращался с
+                солдатами.</s></said>
+            <s><rs rolename="agent">Солдат</rs> отвечал ему.</s> </p>
+          <p>
+            <s>- Ah!</s>
+            <s>un des vieux!</s>
+            <s>Получили рис в полк?</s> </p>
+          <p>
+            <said who="гвардеец" corresp="Napoleon_Bonaparte" speech_text="- Получили, ваше величество." speech_id="4612"><s>- Получили, <rs rolename="possessor">ваше</rs>
+                <rs>величество</rs>.</s></said> </p>
+          <p><s><rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs> кивнул головой и отошел
+              от него.</s> </p>
+          <p><s>В половине шестого <rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs>
+              верхом ехал к деревне Шевардину.</s> </p>
+          <p><s>Начинало светать, небо расчистило, только одна туча лежала на востоке.</s>
+            <s>Покинутые костры догорали в слабом свете утра.</s> </p>
+          <p><s>Вправо раздался густой одинокий пушечный выстрел, пронесся и замер среди общей
+              тишины.</s>
+            <s>Прошло несколько минут.</s>
+            <s>Раздался второй, третий выстрел, заколебался воздух; четвертый, пятый раздались
+              близко и торжественно где-то справа.</s> </p>
+          <p><s>Еще не отзвучали первые выстрелы, как раздались еще другие, еще и еще, сливаясь и
+              перебивая один другой.</s> </p>
+          <p><s><rs ref="Napoleon_Bonaparte" rolename="agent">Наполеон</rs> подъехал со свитой к
+              Шевардинскому редуту и слез с лошади.</s>
+            <s>Игра началась.</s>  </p>
+        </div>
+        

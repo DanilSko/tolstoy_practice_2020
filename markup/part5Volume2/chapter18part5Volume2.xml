@@ -1,0 +1,149 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="18" type="chapter" xml:id="chapter18part5Volume2">
+          <p> </p>
+          <p>
+            <s><rs ref="Marya_Dmitriyevna_Akhrosimova">Марья Дмитриевна</rs>, застав заплаканную <rs ref="Sonya_Rostova" rolename="undergoer" xml:id="id_25181">Соню</rs> в коридоре,
+              заставила <rs ref="Sonya_Rostova" rolename="experiencer">ее</rs> во всем
+              признаться.</s>
+            <s>Перехватив записку <rs ref="NatashaRostova" rolename="agent">Наташи</rs> и прочтя ее,
+                <rs ref="Marya_Dmitriyevna_Akhrosimova" rolename="agent">Марья Дмитриевна</rs> с
+              запиской в руке вошла к <rs ref="NatashaRostova">Наташе</rs>.</s>
+          </p>
+          <p><s>,- сказала <rs ref="Marya_Dmitriyevna_Akhrosimova" target="id_25183">она</rs>
+              <rs ref="NatashaRostova" rolename="addressee" xml:id="id_25183">ей</rs>.</s>
+            <said who="Marya_Dmitriyevna_Akhrosimova" corresp="NatashaRostova" speech_text="Слышать ничего не хочу!" verb="село" author_comment="- Оттолкнув удивленными, но сухими глазами глядящую на нее Наташу, она заперла ее на ключ и, приказав дворнику пропустить в ворота тех людей, которые придут нынче вечером, но не выпускать их, а лакею приказав привести этих людей к себе, села в гостиной, ожидая похитителей." speech_id="3723"><s>- Слышать ничего не хочу! - Оттолкнув удивленными, но сухими
+                глазами глядящую на <rs ref="NatashaRostova" rolename="undergoer">нее</rs>
+                <rs ref="NatashaRostova" rolename="undergoer">Наташу</rs>, <rs ref="NatashaRostova" rolename="agent">она</rs> заперла <rs ref="NatashaRostova">ее</rs> на ключ и,
+                приказав <rs>дворнику</rs> пропустить в ворота тех людей, которые придут нынче
+                вечером, но не выпускать их, а <rs rolename="addressee">лакею</rs> приказав привести
+                этих людей к <rs>себе</rs>, села в гостиной, ожидая похитителей.</s></said> </p>
+          <p><s>Когда Гаврило пришел доложить <rs ref="Marya_Dmitriyevna_Akhrosimova" rolename="addressee">Марье Дмитриевне</rs>, что приходившие люди убежали, <rs ref="Marya_Dmitriyevna_Akhrosimova" rolename="agent">она</rs>, нахмурившись, встала
+              и, заложив назад руки, долго ходила по комнатам, обдумывая то, что ей делать.</s>
+            <s>В двенадцатом часу ночи она, ощупав ключ в кармане, пошла к комнате <rs ref="NatashaRostova" rolename="possessor">Наташи</rs>.</s>
+            <s><rs ref="Sonya_Rostova" rolename="agent">Соня</rs>, рыдая, сидела в
+            коридоре.</s> </p>
+          <p><said who="Sonya_Rostova" corresp="Marya_Dmitriyevna_Akhrosimova" speech_text="Марья Дмитриевна, пустите меня к ней, ради бога!" verb="сказать" author_comment="- сказала она." speech_id="3717"><s>- <rs ref="Marya_Dmitriyevna_Akhrosimova">Марья Дмитриевна</rs>, пустите <rs rolename="agent">меня</rs> к ней, ради бога! - сказала <rs ref="Sonya_Rostova">она</rs>.</s></said>
+            <s><rs ref="Marya_Dmitriyevna_Akhrosimova">Марья Дмитриевна</rs>, не отвечая <rs ref="Sonya_Rostova" xml:id="id_25184">ей</rs>, отперла дверь и вошла.</s>
+            <s>'Гадко, скверно... в моем доме, <rs>мерзавка</rs> девчонка... только <rs rolename="undergoer">отца</rs> жалко! - думала <rs ref="Marya_Dmitriyevna_Akhrosimova" rolename="agent">Марья Дмитриевна</rs>, стараясь утолить <rs ref="Marya_Dmitriyevna_Akhrosimova">свой</rs> гнев. - Как ни трудно, уж велю всем
+              молчать и скрою от <rs ref="Count_Ilya_Rostov">графа</rs>'.</s>
+            <s><rs ref="Marya_Dmitriyevna_Akhrosimova" rolename="agent">Марья Дмитриевна</rs>
+              решительными шагами вошла в комнату.</s>
+            <s><rs ref="NatashaRostova" rolename="agent">Наташа</rs> лежала на диване, закрыв голову
+              руками, и не шевелилась.</s>
+            <s> лежала в том самом положении, в котором оставила <rs ref="NatashaRostova" xml:id="id_25187">ее</rs>
+              <rs ref="Marya_Dmitriyevna_Akhrosimova" rolename="agent">Марья
+            Дмитриевна</rs>.</s> </p>
+          <p><said who="Marya_Dmitriyevna_Akhrosimova" corresp="NatashaRostova" speech_text="- Хороша, очень хороша! В моем доме любовникам свиданья назначать! Притворяться-то нечего." speech_id="3729"><s>- Хороша, очень хороша! - сказала <rs ref="Marya_Dmitriyevna_Akhrosimova" rolename="agent">Марья Дмитриевна</rs>. - В
+                  <rs rolename="possessor">моем</rs> доме любовникам свиданья назначать!</s>
+              <s>Притворяться-то нечего.</s>
+              <s>Ты слушай, когда я с <rs>тобой</rs> говорю.</s></said>
+            <s>- <rs ref="Marya_Dmitriyevna_Akhrosimova" rolename="agent">Марья Дмитриевна</rs>
+              тронула ее за руку.</s>
+            <s>- <rs rolename="agent">Ты</rs> слушай, когда <rs rolename="agent">я</rs> говорю.</s>
+            <s>Ты <rs rolename="experiencer">себя</rs> осрамила, как девка самая последняя.</s>
+            <s>Я бы с <rs>тобой</rs> то сделала, да <rs>мне</rs>
+              <rs>твоего</rs>
+              <rs rolename="undergoer">отца</rs> жалко.</s>
+            <s><rs rolename="agent">Я</rs> скрою.</s><s>- <rs ref="NatashaRostova" rolename="agent">Наташа</rs> не переменила положения, но только все тело ее стало вскидываться от
+              беззвучных.</s>
+            <s>судорожных рыданий, которые душили <rs ref="NatashaRostova" rolename="experiencer">ее</rs>.</s>
+            <s><rs ref="Marya_Dmitriyevna_Akhrosimova">Марья Дмитриевна</rs> оглянулась на <rs ref="Sonya_Rostova" rolename="undergoer">Соню</rs> и присела на диване подле <rs ref="NatashaRostova" xml:id="id_251810">Наташи</rs>.</s> </p>
+          <p><said who="Marya_Dmitriyevna_Akhrosimova" corresp="NatashaRostova" speech_text="Счастье его, что он от меня ушел; да я найду его," verb="сказать" author_comment="- сказала она своим грубым голосом." speech_id="3724"><s>- Счастье
+                его, что он от меня ушел; да <rs rolename="possessor">я</rs> найду его,- сказала <rs ref="Marya_Dmitriyevna_Akhrosimova">она своим</rs> грубым голосом.</s></said>
+            <said who="Marya_Dmitriyevna_Akhrosimova" corresp="NatashaRostova" speech_text="Слышишь ты, что ли, что я говорю?" verb="поддеть" author_comment="- Она поддела своею большой рукой под лицо Наташи и повернула ее к себе." speech_id="3715"><s>- Слышишь <rs rolename="experiencer">ты</rs>, что ли, что <rs rolename="agent">я</rs> говорю? - <rs ref="Marya_Dmitriyevna_Akhrosimova">Она</rs>
+                поддела <rs ref="Marya_Dmitriyevna_Akhrosimova">своею</rs> большой рукой под лицо
+                  <rs ref="NatashaRostova" rolename="agent">Наташи</rs> и повернула <rs ref="NatashaRostova">ее</rs> к себе.</s></said>
+            <s>И <rs ref="Marya_Dmitriyevna_Akhrosimova" rolename="experiencer" target="id_251813">Марья Дмитриевна</rs> и <rs ref="Sonya_Rostova" rolename="experiencer" xml:id="id_251813">Соня</rs> удивились, увидав лицо <rs ref="NatashaRostova" rolename="possessor">Наташи</rs>.</s>
+            <s>Глаза <rs ref="NatashaRostova" rolename="possessor">ее</rs> были блестящие и сухие,
+              губы поджаты, щеки опустились.</s> </p>
+          <p><said who="NatashaRostova" corresp="Marya_Dmitriyevna_Akhrosimova" speech_text="Оставь... те.... умру.... что мне.... я..." verb="проговорить" author_comment="- проговорила она, злым усилием вырвалась от Марьи Дмитриевны и легла в свое прежнее положение." speech_id="3727"><s>- Оставь... те... что <rs>мне</rs>... я... умру... - проговорила
+                она, злым усилием вырвалась от <rs ref="Marya_Dmitriyevna_Akhrosimova">Марьи
+                  Дмитриевны</rs> и легла в свое прежнее положение.</s></said> </p>
+          <p><said who="Marya_Dmitriyevna_Akhrosimova" corresp="NatashaRostova" speech_text="Наталья!... Ты лежи, ну лежи так, я тебя не трону, и слушай... Уж я не стану говорить, как ты виновата. Ты сама знаешь. Ну да теперь отец твой завтра приедет, что я скажу ему? А?. Я тебе добра желаю." verb="сказать" author_comment="- сказала Марья Дмитриевна. -" speech_id="3718"><said who="Marya_Dmitriyevna_Akhrosimova" corresp="NatashaRostova" speech_text="Уж я не стану говорить, как ты виновата." verb="говорить" speech_id="3730"><s>- <rs>Наталья</rs>!.. - сказала <rs ref="Marya_Dmitriyevna_Akhrosimova" rolename="agent">Марья Дмитриевна</rs>. -
+                    <rs rolename="agent">Я</rs> тебе добра желаю. <rs rolename="agent">Ты</rs> лежи,
+                  ну лежи так, <rs>я</rs>
+                  <rs>тебя</rs> не трону, и слушай... Уж <rs>я</rs> не стану говорить, как ты
+                  виновата. Ты сама знаешь. Ну да теперь <rs rolename="agent">отец</rs>
+                  <rs>твой</rs> завтра приедет, что <rs>я</rs> скажу <rs>ему</rs>?</s></said></said>
+            <s>А?</s> </p>
+          <p><s>Опять тело <rs ref="NatashaRostova" rolename="possessor">Наташи</rs> заколебалось от
+              рыданий.</s> </p>
+          <p><said who="Marya_Dmitriyevna_Akhrosimova" corresp="NatashaRostova" speech_text="- Ну, узнает он, ну брат твой, жених!" speech_id="3734"><s>- Ну, узнает
+                он, ну брат <rs>твой</rs>, жених!</s></said>! </p>
+          <p><said who="NatashaRostova" corresp="Marya_Dmitriyevna_Akhrosimova" speech_text="У меня нет жениха, я отказала," verb="прокричать" author_comment="- прокричала Наташа." speech_id="3722"><s>- У меня нет <rs rolename="undergoer">жениха</rs>, <rs rolename="agent">я</rs> отказала,- прокричала
+                  <rs ref="NatashaRostova" rolename="agent">Наташа</rs>.</s></said> </p>
+          <p><said who="Marya_Dmitriyevna_Akhrosimova" corresp="" speech_text="- Все равно,- продолжала Марья!" speech_id="3731"><s>- Все равно,-
+                продолжала <rs ref="Marya_Dmitriyevna_Akhrosimova" rolename="agent">Марья</rs>!</s></said>
+            <s><rs ref="Marya_Dmitriyevna_Akhrosimova">Дмитриевна</rs>.</s>
+            <s>- Ну, они узнают, что ж, они так оставят?</s>
+            <s>Ведь он, отец твой, я его знаю, ведь он его на дуэль вызовет, хорошо это будет?</s>
+            <s>А?</s> </p>
+          <p><s>, зачем вы всему помешали! Зачем? зачем? кто вас просил? - кричала <rs ref="NatashaRostova" rolename="agent" target="id_251815">Наташа</rs>, приподнявшись
+              на диване и злобно глядя на <rs ref="Marya_Dmitriyevna_Akhrosimova" rolename="undergoer" xml:id="id_251815">Марью Дмитриевну</rs>.</s> </p>
+          <p><said who="Marya_Dmitriyevna_Akhrosimova" corresp="NatashaRostova" speech_text="Да чего ж ты хотела?. Ну кто ж ему мешал в дом ездить? Зачем же тебя, как цыганку какую, увозить?.. Ну, увез бы он тебя, что ж ты думаешь, его бы не нашли? Твой отец, или брат, или жених? А он мерзавец, негодяй, вот что!. Что ж, тебя запирали, что ль?" verb="вскрикнуть" author_comment="- вскрикнула, опять горячась, Марья Дмитриевна. -" speech_id="3725"><s>- Да чего ж ты хотела? - вскрикнула, опять горячась, <rs ref="Marya_Dmitriyevna_Akhrosimova" rolename="agent">Марья Дмитриевна</rs>. - Что
+                ж, тебя запирали, что ль?</s></said>
+            <s>Ну кто ж ему мешал в дом ездить?</s>
+            <s>Зачем же <rs rolename="undergoer">тебя</rs>, как <rs>цыганку</rs> какую, увозить?..</s>
+            <s>Ну, увез бы он <rs rolename="undergoer">тебя</rs>, что ж <rs rolename="experiencer">ты</rs> думаешь, его бы не нашли?</s>
+            <s><rs>Твой</rs>
+              <rs>отец</rs>, или брат, или жених?</s>
+            <s>А <rs>он</rs> мерзавец, негодяй, вот что!</s> </p>
+          <p><said who="NatashaRostova" corresp="Marya_Dmitriyevna_Akhrosimova" speech_text="Если бы вы не мешали... Ах, боже мой, что это, что это! Соня, за что? Уйдите!. Он лучше всех вас," verb="вскрикнуть" author_comment="- вскрикнула Наташа, приподнимаясь." speech_id="3716"><s>- <rs rolename="undergoer">Он</rs> лучше всех вас,- вскрикнула <rs ref="NatashaRostova" rolename="agent">Наташа</rs>, приподнимаясь.</s></said>
+            <said who="NatashaRostova" corresp="Marya_Dmitriyevna_Akhrosimova;Sonya_Rostova" speech_text="Ах, боже мой, что это, что это!. Если бы вы не мешали.... Соня, за что?. Уйдите!.." verb="зарыдать" author_comment="- И она зарыдала с таким отчаянием, с каким оплакивают люди только такое горе, которого они чувствуют сами себя причиной." speech_id="3721"><s>- Если бы вы не мешали... Ах, боже мой, что это, что это! <rs ref="Sonya_Rostova">Соня</rs>, за что? Уйдите!.. - И она зарыдала с таким
+                отчаянием, с каким оплакивают люди только такое горе, которого они чувствуют сами
+                себя причиной.</s></said>
+            <said who="NatashaRostova" corresp="Marya_Dmitriyevna_Akhrosimova" speech_text="Уйдите, уйдите, вы все меня ненавидите, презираете!" verb="закричать" speech_id="3733"><s><rs ref="Marya_Dmitriyevna_Akhrosimova" rolename="agent">Марья
+                  Дмитриевна</rs> начала было опять говорить; но <rs ref="NatashaRostova" rolename="agent">Наташа</rs> закричала: 'Уйдите, уйдите, вы все <rs><rs ref="NatashaRostova">меня</rs></rs> ненавидите, презираете!' И опять бросилась
+                на диван.</s></said> </p>
+          <p><s><rs ref="Marya_Dmitriyevna_Akhrosimova">Марья Дмитриевна</rs> продолжала еще
+              несколько времени усовещивать <rs ref="NatashaRostova" rolename="experiencer" xml:id="id_251817">Наташу</rs> и внушать <rs><rs ref="NatashaRostova" rolename="experiencer">ей</rs></rs>, что все это надо скрыть от <rs ref="Count_Ilya_Rostov">графа</rs>, что никто не узнает ничего, ежели только <rs ref="NatashaRostova" rolename="agent">Наташа</rs> возьмет на <rs ref="NatashaRostova">себя</rs> все забыть и не показывать ни перед кем вида, что
+              что-нибудь случилось.</s>
+            <s><rs ref="NatashaRostova" rolename="agent">Наташа</rs> не отвечала.</s>
+            <s><rs ref="NatashaRostova">Она</rs> и не рыдала больше, но с <rs ref="NatashaRostova">ней</rs> сделались озноб и дрожь.</s>
+            <s><rs ref="Marya_Dmitriyevna_Akhrosimova">Марья Дмитриевна</rs> подложила <rs ref="NatashaRostova" xml:id="id_251820">ей</rs> подушку, накрыла ее двумя одеялами и
+              сама принесла <rs ref="NatashaRostova">ей</rs> липового цвета, но <rs ref="NatashaRostova" rolename="agent">Наташа</rs> не откликнулась <rs ref="NatashaRostova">ей</rs>.</s> </p>
+          <p><said who="Marya_Dmitriyevna_Akhrosimova" corresp="" speech_text="Ну, пускай спит," verb="сказать" author_comment="- сказала Марья Дмитриевна, уходя из комнаты, думая, что она спит." speech_id="3726"><s>- Ну, пускай спит, - сказала <rs ref="Marya_Dmitriyevna_Akhrosimova" rolename="agent">Марья Дмитриевна</rs>, уходя
+                из комнаты, думая, что <rs ref="Marya_Dmitriyevna_Akhrosimova">она</rs>
+              спит.</s></said>
+            <s>Но <rs ref="NatashaRostova" rolename="experiencer">Наташа</rs> не спала и
+              остановившимися раскрытыми глазами из бледного лица прямо смотрела перед <rs ref="NatashaRostova">собою</rs>.</s>
+            <s>Всю эту ночь <rs ref="NatashaRostova" rolename="experiencer" target="id_251823">Наташа</rs> не спала, и не плакала, и не говорила с <rs ref="Sonya_Rostova" xml:id="id_251823">Соней</rs>, несколько раз встававшей и подходившей к <rs ref="NatashaRostova">ней</rs>.</s> </p>
+          <p><s>На другой день к завтраку, как и обещал <rs rolename="agent">граф Илья Андреич</rs>,
+              он приехал из подмосковной.</s>
+            <s>Он был очень весел: дело с покупщиком ладилось и ничто уже не задерживало его теперь
+              в Москве и в разлуке с <rs rolename="undergoer">графиней</rs>, по которой он
+              соскучился.</s>
+            <s><rs ref="Marya_Dmitriyevna_Akhrosimova" rolename="possessor">Марья Дмитриевна</rs>
+              встретила его и объявила ему, что <rs ref="NatashaRostova" rolename="undergoer">Наташа</rs> сделалась очень нездорова вчера, что посылали за <rs>доктором</rs>, но
+              что теперь <rs rolename="addressee">ей</rs> лучше.</s>
+            <s><rs ref="NatashaRostova" rolename="agent">Наташа</rs> в это утро не выходила из <rs ref="NatashaRostova">своей</rs> комнаты.</s>
+            <s>С поджатыми растрескавшимися губами, сухими остановившимися глазами, <rs ref="NatashaRostova">она</rs> сидела у окна и беспокойно вглядывалась в проезжающих
+              по улице и торопливо оглядывалась на входивших в комнату.</s>
+            <s><rs ref="NatashaRostova">Она</rs>, очевидно, ждала известий о нем, ждала, что он сам
+              приедет или напишет <rs ref="NatashaRostova">ей</rs>.</s> </p>
+          <p><s>Когда <rs ref="Count_Ilya_Rostov" rolename="agent">граф</rs> взошел к ней, она
+              беспокойно оборотилась на звук <rs ref="Count_Ilya_Rostov">его</rs> мужских шагов, и
+              лицо ее приняло прежнее холодное и даже злое выражение.</s>
+            <s><rs ref="NatashaRostova">Она</rs> даже не поднялась навстречу ему.</s> </p>
+          <p><said who="Count_Ilya_Rostov" corresp="NatashaRostova" speech_text="Что с тобой, мой ангел, больна?" verb="спросить" author_comment="- спросил граф." speech_id="3719"><s>- Что с тобой, <rs>мой</rs>
+                <rs>ангел</rs>, больна? - спросил <rs ref="Count_Ilya_Rostov" rolename="agent">граф</rs>.</s></said>  </p>
+          <p><s><rs ref="NatashaRostova" rolename="agent">Наташа</rs> помолчала.</s> </p>
+          <p><said who="NatashaRostova" corresp="Count_Ilya_Rostov" speech_text="- Да, больна," speech_id="3732"><s>- Да, больна,- отвечала <rs ref="NatashaRostova">она</rs>.</s></said> </p>
+          <p><s>На беспокойные расспросы <rs ref="Count_Ilya_Rostov" rolename="agent" target="id_251824">графа</rs> о том, почему <rs ref="NatashaRostova" xml:id="id_251824">она</rs> такая убитая и не случилось ли чего-нибудь с <rs rolename="experiencer">женихом</rs>, <rs ref="NatashaRostova">она</rs> уверяла <rs ref="Count_Ilya_Rostov">его</rs>, что ничего, и просила <rs ref="Count_Ilya_Rostov">его</rs> не беспокоиться.</s>
+            <s><rs ref="Marya_Dmitriyevna_Akhrosimova" rolename="agent" target="id_251827">Марья
+                Дмитриевна</rs> подтвердила <rs ref="Count_Ilya_Rostov" rolename="addressee" xml:id="id_251827">графу</rs> уверения <rs ref="NatashaRostova" rolename="agent">Наташи</rs>, что ничего не случилось.</s>
+            <s>, судя по мнимой болезни, по расстройству <rs rolename="experiencer">дочери</rs>, по
+              сконфуженным лицам <rs ref="Sonya_Rostova" rolename="possessor" target="id_251830">Сони</rs> и <rs ref="Marya_Dmitriyevna_Akhrosimova" xml:id="id_251830">Марьи
+                Дмитриевны</rs>, ясно видел, что в его отсутствие должно было что-нибудь случиться;
+              но <rs ref="Count_Ilya_Rostov">ему</rs> так страшно было думать, что что-нибудь
+              постыдное случилось с <rs ref="Count_Ilya_Rostov">его</rs> любимой <rs rolename="experiencer">дочерью</rs>, <rs ref="Count_Ilya_Rostov" rolename="experiencer">он</rs> так любил <rs ref="Count_Ilya_Rostov" rolename="experiencer">свое</rs> веселое спокойствие, что <rs ref="Count_Ilya_Rostov" rolename="agent">он</rs> избегал расспросов и все старался
+              уверить <rs ref="Count_Ilya_Rostov">себя</rs>, что ничего особенного не было, и только
+              тужил о том, что по случаю <rs rolename="experiencer">ее</rs> нездоровья откладывался
+                <rs ref="Marya_Dmitriyevna_Akhrosimova" rolename="agent">их</rs> отъезд в
+              деревню.</s>
+            <s>, по сконфуженным лицам <rs ref="Sonya_Rostova" rolename="possessor" target="id_251831">Сони</rs> и <rs ref="Marya_Dmitriyevna_Akhrosimova" xml:id="id_251831">Марьи Дмитриевны</rs>, ясно видел, что в его отсутствие должно
+              было что-нибудь случиться; но ему так страшно было думать, что что-нибудь постыдное
+              случилось с его любимой <rs rolename="experiencer">дочерью</rs>, он так любил свое
+              веселое спокойствие, что он избегал расспросов и все старался уверить себя, что ничего
+              особенного не было, и только тужил о том, что по случаю <rs rolename="experiencer">ее</rs> нездоровья откладывался <rs ref="Marya_Dmitriyevna_Akhrosimova" rolename="agent">их</rs> отъезд в деревню.</s>  </p>
+        </div>
+        

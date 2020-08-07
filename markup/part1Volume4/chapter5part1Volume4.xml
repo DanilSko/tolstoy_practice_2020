@@ -1,0 +1,147 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="5" type="chapter" xml:id="chapter5part1Volume4">
+          <p> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="agent">Николай</rs>, с несходящей улыбкой на
+              лице, несколько изогнувшись на кресле, сидел, близко наклоняясь над
+                <rs>блондинкой</rs> и говоря <rs rolename="addressee">ей</rs> мифологические
+              комплименты.</s> </p>
+          <p><s>Переменяя бойко положение ног в натянутых рейтузах, распространяя от <rs ref="Nikolai_Rostov">себя</rs> запах духов и любуясь и <rs ref="Nikolai_Rostov">своей</rs>
+              <rs rolename="undergoer">дамой</rs>, и <rs ref="Nikolai_Rostov" rolename="undergoer">собою</rs>, и красивыми формами <rs ref="Nikolai_Rostov" rolename="possessor">своих</rs> ног под натянутыми кичкирами, <rs ref="Nikolai_Rostov" rolename="agent">Николай</rs> говорил <rs rolename="addressee">блондинке</rs>, что <rs ref="Nikolai_Rostov">он</rs> хочет здесь, в Воронеже, похитить одну <rs rolename="undergoer">даму</rs>.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="блондинка" speech_text="- Какую же?" speech_id="5351"><s>- Какую же?</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="блондинка" speech_text="- Прелестную, божественную. Глаза у ней  голубые, рот - кораллы, белизна.... стан - Дианы." speech_id="5355"><s>- Прелестную, божественную. Глаза у ней (<rs ref="Nikolai_Rostov" rolename="agent">Николай</rs> посмотрел на <rs rolename="undergoer">собеседницу</rs>)
+                голубые, рот - кораллы, белизна... - <rs ref="Nikolai_Rostov">он</rs> глядел на
+                плечи,- стан - <rs>Дианы</rs>...</s></said> </p>
+          <p><s><rs rolename="agent">Муж</rs> подошел к <rs>ним</rs> и мрачно спросил у <rs rolename="addressee">жены</rs>, о чем <rs rolename="agent">она</rs>
+            говорит.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="Никита Иваныч (муж блондинки)" speech_text="А!. Никита Иваныч," verb="сказать" author_comment="- сказал Николай, учтиво вставая." speech_id="5333"><s>- А! <rs>Никита
+                  Иваныч</rs>,- сказал <rs ref="Nikolai_Rostov" rolename="agent">Николай</rs>,
+                учтиво вставая.</s></said>
+            <s>И, как бы желая, чтобы <rs rolename="agent">Никита Иваныч</rs> принял участие в <rs ref="Nikolai_Rostov">его</rs> шутках, <rs ref="Nikolai_Rostov">он</rs> начал и
+                <rs>ему</rs> сообщать <rs ref="Nikolai_Rostov">свое</rs> намерение похитить одну <rs rolename="undergoer">блондинку</rs>.</s> </p>
+          <p><s><rs rolename="agent">Муж</rs> улыбался угрюмо, <rs>жена</rs> весело.</s>
+            <s>Добрая губернаторша с неодобрительным видом подошла к ним.</s> </p>
+          <p><said who="governor's wife" corresp="Nikolai_Rostov" speech_text="— Анна Игнатьевна Мальвинцева. Она слышала о тебе от своей племянницы, как ты спас ее... Угадаешь?.." speech_id="5340"><said who="governor's wife" corresp="Nikolai_Rostov" speech_text="Анна Игнатьевна хочет тебя видеть, Nicolas. Пойдем, Nicolas. Ведь ты позволил мне так называть тебя?" verb="сказать" author_comment=",- сказала она, таким голосом выговаривая слова: Анна Игнатьевна, что Ростову сейчас стало понятно, что Анна Игнатьевна очень важная дама. -" speech_id="5343"><s>- <rs ref="Anna_Ignatyevna_Malvintsev" rolename="experiencer">Анна Игнатьевна</rs> хочет тебя видеть, Nicolas,- сказала <rs rolename="agent">она</rs>, таким голосом выговаривая слова: <rs ref="Anna_Ignatyevna_Malvintsev">Анна Игнатьевна</rs>, что <rs ref="Nikolai_Rostov">Ростову</rs> сейчас стало
+                  понятно, что <rs ref="Anna_Ignatyevna_Malvintsev">Анна Игнатьевна</rs> очень
+                  важная дама. - Пойдем, Nicolas. Ведь <rs rolename="agent">ты</rs> позволил <rs rolename="addressee">мне</rs> так называть <rs>тебя</rs>?</s></said></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="" speech_text="- О да, ma tante." speech_id="5348"><s>- О да, ma tante. Кто же это?</s></said> </p>
+          <p><said who="governor's wife" corresp="Nikolai_Rostov" speech_text="— Анна Игнатьевна Мальвинцева. Она слышала о тебе от своей племянницы, как ты спас ее... Угадаешь?.." speech_id="5340"><said who="governor's wife" corresp="Nikolai_Rostov" speech_text="Анна Игнатьевна хочет тебя видеть, Nicolas. Пойдем, Nicolas. Ведь ты позволил мне так называть тебя?" verb="сказать" author_comment=",- сказала она, таким голосом выговаривая слова: Анна Игнатьевна, что Ростову сейчас стало понятно, что Анна Игнатьевна очень важная дама. -" speech_id="5343"><s>— <rs ref="Anna_Ignatyevna_Malvintsev">Анна Игнатьевна
+                    Мальвинцева</rs>. Она слышала о <rs>тебе</rs> от своей <rs>племянницы</rs>, как
+                    <rs>ты</rs> спас <rs rolename="undergoer">ее</rs>...</s></said></said>
+            <s>Угадаешь?..</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="governor's wife" speech_text="Мало ли я их там спасал!" verb="сказать" author_comment="- сказал Николай." speech_id="5342"><s>- Мало ли <rs rolename="agent">я</rs> их там спасал! - сказал <rs ref="Nikolai_Rostov" rolename="agent">Николай</rs>.</s></said> </p>
+          <p><said who="governor's wife" corresp="Nikolai_Rostov" speech_text="- Ее племянницу, княжну Болконскую." speech_id="5337"><s>- Ее племянницу,
+                  <rs ref="Princess_Mariya_Bolkonskaya">княжну Болконскую</rs>. Она здесь, в
+                Воронеже, с <rs>теткой</rs>. Ого!</s></said>
+            <s>как покраснел!</s>
+            <s>Что, или?..</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="governor's wife" speech_text="- И не думал, полноте, ma tante." speech_id="5329"><s>- И не думал,
+                полноте, ma tante.</s></said> </p>
+          <p><said who="governor's wife" corresp="Nikolai_Rostov" speech_text="- Ну хорошо, хорошо.. О! какой ты!" speech_id="5330"><s>- Ну хорошо,
+                хорошо. О!</s></said>
+            <s>какой <rs rolename="undergoer">ты</rs>!</s>
+            <s>Губернаторша подводила его к высокой и очень толстой <rs ref="Anna_Ignatyevna_Malvintsev">старухе</rs> в голубом токе, только что кончившей
+                <rs ref="Anna_Ignatyevna_Malvintsev">свою</rs> карточную партию с самыми важными
+              лицами в городе.</s>
+            <s>Это была <rs ref="Anna_Ignatyevna_Malvintsev">Мальвинцева</rs>, тетка <rs ref="Princess_Mariya_Bolkonskaya">княжны Марьи</rs> по <rs>матери</rs>, богатая
+              бездетная вдова, жившая всегда в Воронеже.</s>
+            <s><rs ref="Anna_Ignatyevna_Malvintsev" rolename="agent" target="id_4151">Она</rs>
+              стояла, рассчитываясь за карты, когда <rs ref="Nikolai_Rostov" rolename="agent" xml:id="id_4151">Ростов</rs> подошел к <rs ref="Anna_Ignatyevna_Malvintsev">ней</rs>.</s>
+            <s><rs ref="Anna_Ignatyevna_Malvintsev">Она</rs> строго и важно прищурилась, взглянула
+              на <rs ref="Nikolai_Rostov">него</rs> и продолжала бранить <rs rolename="undergoer">генерала</rs>, выигравшего у <rs ref="Anna_Ignatyevna_Malvintsev">нее</rs>.</s> </p>
+          <p><said who="Anna_Ignatyevna_Malvintsev" corresp="Nikolai_Rostov" speech_text="Милости прошу ко мне.. Очень рада, мой милый" verb="сказать" author_comment=",- сказала она, протянув ему руку. -" speech_id="5345"><s>- Очень
+                рада, <rs>мой</rs>
+                <rs>милый</rs>,- сказала <rs ref="Anna_Ignatyevna_Malvintsev">она</rs>, протянув <rs ref="Nikolai_Rostov">ему</rs> руку. - Милости прошу ко мне.</s></said> </p>
+          <p><s>Поговорив о <rs ref="Princess_Mariya_Bolkonskaya">княжне Марье</rs> и покойнике ее
+                <rs>отце</rs>, которого, видимо, не любила <rs ref="Anna_Ignatyevna_Malvintsev" rolename="experiencer">Мальвинцева</rs>, и расспросив о том, что <rs ref="Nikolai_Rostov" rolename="experiencer">Николай</rs> знал о <rs ref="AndreyBolkonsky">князе Андрее</rs>, который тоже, видимо, не пользовался ее
+              милостями, важная <rs ref="Anna_Ignatyevna_Malvintsev">старуха</rs> отпустила его,
+              повторив приглашение быть у нее.</s> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="agent">Николай</rs> обещал и опять покраснел,
+              когда откланивался <rs ref="Anna_Ignatyevna_Malvintsev">Мальвинцевой</rs>.</s>
+            <s>При упоминании о <rs ref="Princess_Mariya_Bolkonskaya">княжне Марье</rs>
+              <rs ref="Nikolai_Rostov" rolename="undergoer">Ростов</rs> испытывал непонятное для <rs ref="Nikolai_Rostov" rolename="experiencer">него</rs> самого чувство застенчивости,
+              даже страха.</s> </p>
+          <p><s>Отходя от <rs ref="Anna_Ignatyevna_Malvintsev">Мальвинцевой</rs>, <rs ref="Nikolai_Rostov" rolename="experiencer">Ростов</rs> хотел вернуться к танцам, но
+              маленькая губернаторша положила свою пухленькую ручку на рукав <rs ref="Nikolai_Rostov" rolename="possessor">Николая</rs> и, сказав, что ей нужно
+              поговорить с <rs ref="Nikolai_Rostov">ним</rs>, повела <rs ref="Anna_Ignatyevna_Malvintsev" rolename="agent">его</rs> в диванную, из которой
+              бывшие в ней вышли тотчас же, чтобы не мешать губернаторше.</s> </p>
+          <p><said who="governor's wife" corresp="Nikolai_Rostov" speech_text="- Знаешь, mon cher,. вот это тебе точно партия; хочешь, я тебя сосватаю?" verb="сказать" speech_id="5356"><s>- Знаешь, mon cher,- сказала губернаторша с
+                серьезным выражением маленького доброго лица,- вот это тебе точно партия; хочешь, я
+                тебя сосватаю?</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="governor's wife" speech_text="Кого, ma tante?" verb="спросить" author_comment="- спросил Николай." speech_id="5338"><s>- Кого, ma
+                tante? - спросил <rs ref="Nikolai_Rostov" rolename="agent">Николай</rs>.</s></said> </p>
+          <p><s>- <rs rolename="undergoer">Княжну</rs> сосватаю. <rs rolename="agent">Катерина
+                Петровна</rs> говорит, что Лили, а по-моему, нет,- княжна. Хочешь?</s>
+            <s><rs rolename="undergoer">Я</rs> уверена, <rs rolename="possessor">твоя</rs> maman
+              благодарить будет.</s>
+            <s>Право, какая <rs>девушка</rs>, прелесть!</s>
+            <s>И она совсем не так дурна.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="governor's wife" speech_text="Я, ma tante, как следует солдату, никуда не напрашиваюсь и ни от чего не отказываюсь," verb="сказать" author_comment="- сказал Ростов прежде, чем он успел подумать о том, что он говорит." speech_id="5341"><said who="Nikolai_Rostov" corresp="governor's wife" speech_text="Совсем нет" verb="сказать" speech_id="5346"><said who="Nikolai_Rostov" corresp="" speech_text="- Совсем нет,- как бы обидевшись, сказал Николай." speech_id="5354"><s>- Совсем нет,- как бы обидевшись, сказал <rs ref="Nikolai_Rostov" rolename="agent">Николай</rs>. - Я, ma tante, как следует
+                      <rs rolename="undergoer">солдату</rs>, никуда не напрашиваюсь и ни от чего не
+                    отказываюсь,- сказал <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>
+                    прежде, чем <rs ref="Nikolai_Rostov" rolename="experiencer">он</rs> успел
+                    подумать о том, что <rs ref="Nikolai_Rostov" rolename="agent">он</rs>
+                    говорит.</s></said></said></said> </p>
+          <p><said who="governor's wife" corresp="Nikolai_Rostov" speech_text="- Так помни же: это не шутка." speech_id="5336"><s>- Так помни же: это не
+                шутка.</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="governor's wife" speech_text="- Какая шутка!" speech_id="5358"><s>- Какая шутка!</s></said> </p>
+          <p><said who="governor's wife" corresp="Nikolai_Rostov" speech_text="А вот что еще, mon cher, entre autres. Vous êtes trop assidu auprès de l'autre, la blonde. Муж уж жалок, право.... Да, да" verb="сказать" author_comment=",- как бы сама с собою говоря, сказала губернаторша. -" speech_id="5353"><s>- Да, да,- как бы сама с собою говоря, сказала губернаторша. - А
+                вот что еще, mon cher, entre autres. Vous êtes trop assidu auprès de l'autre, la
+                blonde. <rs rolename="undergoer">Муж</rs> уж жалок, право...</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="governor's wife" speech_text="Ах нет, мы с ним друзья," verb="сказать" author_comment="- в простоте душевной сказал Николай: ему и в голову не приходило, чтобы такое веселое для него препровождение времени могло бы быть для кого-нибудь не весело." speech_id="5349"><s>- Ах нет, мы с <rs>ним</rs> друзья,- в простоте душевной сказал
+                  <rs ref="Nikolai_Rostov" rolename="agent">Николай</rs>: <rs ref="Nikolai_Rostov">ему</rs> и в голову не приходило, чтобы такое веселое для <rs ref="Nikolai_Rostov">него</rs> препровождение времени могло бы быть для
+                кого-нибудь не весело.</s></said> </p>
+          <p><s>'Что <rs rolename="agent">я</rs> за глупость сказал, однако, губернаторше! - вдруг
+              за ужином вспомнилось <rs ref="Nikolai_Rostov" rolename="experiencer">Николаю</rs>. -
+              Она точно сватать начнет, а <rs ref="Sonya_Rostova">Соня</rs>?..'</s>
+            <s>И, прощаясь с губернаторшей, когда <rs ref="Sonya_Rostova" rolename="agent">она</rs>,
+              улыбаясь, еще раз сказала <rs ref="Nikolai_Rostov" rolename="addressee">ему</rs>: 'Ну,
+              так помни же',- <rs ref="Nikolai_Rostov" rolename="agent">он</rs> отвел <rs ref="Sonya_Rostova" rolename="undergoer">ее</rs> в сторону:</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="governor's wife" speech_text="- Но вот что, по правде вам сказать, ma tante..." speech_id="5339"><s>-
+                Но вот что, по правде вам сказать, ma tante...</s></said> </p>
+          <p><said who="governor's wife" corresp="Nikolai_Rostov" speech_text="- Что, что, мой друг; пойдем вот тут сядем." speech_id="5334"><s>- Что,
+                что, <rs>мой</rs> друг; пойдем вот тут сядем.</s></said> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="experiencer">Николай</rs> вдруг почувствовал
+              желание и необходимость рассказать все <rs ref="Nikolai_Rostov" rolename="experiencer">свои</rs> задушевные мысли (такие, которые и не рассказал бы <rs rolename="addressee">матери</rs>, <rs rolename="addressee">сестре</rs>, <rs rolename="addressee">другу</rs>) этой почти чужой <rs rolename="addressee">женщине</rs>.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="experiencer">Николаю</rs> потом, когда <rs ref="Nikolai_Rostov" rolename="experiencer">он</rs> вспоминал об этом порыве ничем
+              не вызванной, необъяснимой откровенности, которая имела, однако, для <rs ref="Nikolai_Rostov" rolename="benemalefactive">него</rs> очень важные последствия,
+              казалось (как это и кажется всегда людям), что так, глупый стих нашел; а между тем
+              этот порыв откровенности, вместе с другими мелкими событиями, имел для него и для всей
+              семьи огромные последствия.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="governor's wife" speech_text="- Вот что, ma tante. Maman меня давно женить хочет на богатой, но мне мысль одна эта противна, жениться из-за денег." speech_id="5344"><s>- Вот что, ma tante. Maman <rs rolename="agent">меня</rs> давно
+                женить хочет на <rs>богатой</rs>, но мне мысль одна эта противна, жениться из-за
+                денег.</s></said> </p>
+          <p><said who="governor's wife" corresp="Nikolai_Rostov" speech_text="О да, понимаю," verb="сказать" author_comment="- сказала губернаторша." speech_id="5331"><s>- О да,
+                понимаю,- сказала <rs>губернаторша</rs>.</s></said> </p>
+          <p>- <said who="Nikolai_Rostov" corresp="governor's wife" speech_text="- Но княжна Болконская, это другое дело; во-первых, я вам правду скажу, она мне очень нравится, она по сердцу мне, и потом, после того как я ее встретил в таком положении, так странно, мне часто в голову приходило, что это судьба. Особенно подумайте: maman давно об этом думала, но прежде мне ее не случалось встречать, как-то все так случалось: не встречались. И во время, когда Наташа была невестой ее брата, ведь тогда мне бы нельзя было думать жениться на ней. Надо же, чтобы я ее встретил именно тогда, когда Наташина свадьба расстроилась, ну и потом всё... Да, вот что. Я никому не говорил этого и не скажу. А вам только." speech_id="5328"><s>Но <rs>княжна Болконская</rs>, это другое дело; во-первых, я вам
+                правду скажу, она мне очень нравится, она по сердцу мне, и потом, после того как я
+                ее встретил в таком положении, так странно, мне часто в голову приходило, что это
+                судьба.</s></said>
+            <s>Особенно подумайте: maman давно об этом думала, но прежде мне ее не случалось
+              встречать, как-то все так случалось: не встречались.</s>
+            <s>И во время, когда <rs ref="NatashaRostova">Наташа</rs> была невестой <rs ref="NatashaRostova">ее</rs>
+              <rs>брата</rs>, ведь тогда <rs>мне</rs> бы нельзя было думать жениться на ней.</s>
+            <s>Надо же, чтобы <rs>я</rs> ее встретил именно тогда, когда <rs ref="NatashaRostova" rolename="agent">Наташина</rs> свадьба расстроилась, ну и потом всё...</s>
+            <s>Да, вот что.</s>
+            <s><rs>Я</rs> никому не говорил этого и не скажу.</s>
+            <s>А вам только.</s> </p>
+          <p><s>Губернаторша пожала его благодарно за локоть.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="governor's wife" speech_text="Вы знаете Софи, кузину?. Поэтому вы видите, что про это не может быть и речи,. Я люблю ее, я обещал жениться и женюсь на ней..." verb="говорить" author_comment="- нескладно и краснея говорил Николай." speech_id="5335"><s>- Вы знаете <rs rolename="undergoer">Софи</rs>, кузину? Я люблю <rs rolename="undergoer">ее</rs>, я обещал жениться и женюсь на <rs>ней</rs>... Поэтому
+                вы видите, что про это не может быть и речи,- нескладно и краснея говорил <rs ref="Nikolai_Rostov" rolename="agent">Николай</rs>.</s></said> </p>
+          <p><said who="governor's wife" corresp="Nikolai_Rostov" speech_text="- Mon cher, mon cher, как же ты судишь? Да ведь у Софи ничего нет, а ты сам говорил, что дела твоего папа очень плохи. А твоя maman? Это убьет ее, раз. Потом Софи, ежели она девушка с сердцем, какая жизнь для нее будет? Мать в отчаянии, дела расстроены... Нет, mou cher, ты и Софи должны понять это." speech_id="5357"><s>- Mon cher, mon cher, как же ты судишь?</s></said>
+            <s>Да ведь у <rs rolename="possessor">Софи</rs> ничего нет, а <rs rolename="agent">ты</rs> сам говорил, что дела твоего <rs>папа</rs> очень плохи.</s>
+            <s>А <rs>твоя</rs> maman?</s>
+            <s>Это убьет ее, раз.</s>
+            <s>Потом <rs>Софи</rs>, ежели <rs>она</rs> девушка с сердцем, какая жизнь для <rs rolename="benemalefactive">нее</rs> будет?</s>
+            <s><rs>Мать</rs> в отчаянии, дела расстроены... Нет, mou cher, <rs>ты</rs> и
+                <rs>Софи</rs> должны понять это.</s> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="agent">Николай</rs> молчал.</s>
+            <s><rs ref="Nikolai_Rostov">Ему</rs> приятно было слышать эти выводы.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="governor's wife" speech_text="Все-таки, ma tante, этого не может быть. Да пойдет ли еще за меня княжна? и опять, она теперь в трауре. Разве можно об этом думать?" verb="сказать" author_comment=",- со вздохом сказал он, помолчав немного. -" speech_id="5327"><s>- Все-таки, ma tante, этого не может быть,- со вздохом сказал <rs ref="Nikolai_Rostov">он</rs>, помолчав немного. - Да пойдет ли еще за меня <rs rolename="agent">княжна</rs>?</s></said>
+            <s>и опять, <rs>она</rs> теперь в трауре.</s>
+            <s>Разве можно об этом думать?</s> </p>
+          <p><s>- Да разве <rs rolename="experiencer">ты</rs> думаешь, что <rs>я</rs>
+              <rs rolename="agent">тебя</rs> сейчас и женю. Il y a manière et manière,- сказала
+              губернаторша.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="governor's wife" speech_text="Какая вы сваха, ma tante..." verb="сказать" author_comment="- сказал Nicolas, целуя ее пухлую ручку." speech_id="5332"><s>- Какая
+                вы сваха, ma tante... - сказал Nicolas, целуя ее пухлую ручку.</s></said>  </p>
+        </div>
+        

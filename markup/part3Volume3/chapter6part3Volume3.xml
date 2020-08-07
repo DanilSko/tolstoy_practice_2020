@@ -1,0 +1,148 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="6" type="chapter" xml:id="chapter6part3Volume3">
+          <p> </p>
+          <p><s><rs ref="HeleneKuragin" rolename="undergoer">Элен</rs>, возвратившись вместе с двором
+              из Вильны в Петербург, находилась в затруднительном положении.</s> </p>
+          <p><s>В Петербурге <rs ref="HeleneKuragin" rolename="agent">Элен</rs> пользовалась особым
+              покровительством <rs rolename="undergoer">вельможи</rs>, занимавшего одну из высших
+              должностей в государстве.</s>
+            <s>В Вильне же <rs ref="HeleneKuragin">она</rs> сблизилась с молодым иностранным
+                <rs>принцем</rs>.</s>
+            <s>Когда <rs ref="HeleneKuragin">она</rs> возвратилась в Петербург, <rs rolename="undergoer">принц</rs> и <rs rolename="undergoer">вельможа</rs> были оба в
+              Петербурге, оба заявляли <rs rolename="experiencer">свои</rs> права, и для <rs ref="HeleneKuragin" rolename="benemalefactive">Элен</rs> представилась новая еще в
+                <rs ref="HeleneKuragin" rolename="undergoer">ее</rs> карьере задача: сохранить свою
+              близость отношений с обоими, не оскорбив ни одного.</s> </p>
+          <p><s>То, что показалось бы трудным и даже невозможным для другой <rs rolename="benemalefactive">женщины</rs>, ни разу не заставило задуматься <rs rolename="experiencer">графиню Безухову</rs>, недаром, видно, пользовавшуюся
+              репутацией умнейшей <rs rolename="undergoer">женщины</rs>.</s>
+            <s>Ежели бы она стала скрывать свои поступки, выпутываться хитростью из неловкого
+              положения, она бы этим самым испортила свое дело, сознав себя виноватою; но <rs ref="HeleneKuragin">Элен</rs>, напротив, сразу, как истинно великий
+              <rs>человек</rs>, <rs>который</rs> может все то, что хочет, поставила себя в положение
+              правоты, в которую <rs ref="HeleneKuragin" rolename="experiencer">она</rs> искренно
+              верила, а всех других в положение виноватости.</s> </p>
+          <p><s>В первый раз, как молодое <rs rolename="possessor">иностранное лицо</rs> позволило
+                <rs>себе</rs> делать <rs ref="HeleneKuragin" rolename="experiencer">ей</rs> упреки,
+                <rs ref="HeleneKuragin" rolename="agent">она</rs>, гордо подняв <rs ref="HeleneKuragin">свою</rs> красивую голову и вполуоборот повернувшись к
+                <rs>нему</rs>, твердо сказала:</s> </p>
+          <p>
+            <said who="HeleneKuragin" corresp="" speech_text="Voilà l'égoïsme et la cruauté des hommes! Je ne m'attendais pas à autre chose. Za femme se sacrifie pour vous, elle souffre, et voilà sa récompense. Quel droit avez vous, Monseigneur, de me demander compte de mes amitiés. de mes affections? C'est un homme qui a été plus qu'un père pour moi." speech_id="4769"><s>- Voilà l'égoïsme et la cruauté des hommes!</s></said>
+            <s>Je ne m'attendais pas à autre chose.</s>
+            <s>Za femme se sacrifie pour vous, elle souffre, et voilà sa récompense.</s>
+            <s>Quel droit avez vous, Monseigneur, de me demander compte de mes amitiés.</s>
+            <s>de mes affections?</s>
+            <s>C'est un homme qui a été plus qu'un père pour moi.</s> </p>
+          <p><s><rs rolename="experiencer">Лицо</rs> хотело что-то сказать.</s>
+            <s><rs ref="HeleneKuragin" rolename="agent">Элен</rs> перебила <rs rolename="undergoer">его</rs>.</s> </p>
+          <p>
+            <said who="HeleneKuragin" corresp="молодой иностранный принц" speech_text="Eh bien, oui. peut être qu'il a pour moi d'autres sentiments que ceux d'un père, mais ce n'est pas une raison pour que je lui ferme ma porte. Je ne suis pas un homme pour être ingrate. Sachez, Monseigneur, pour tout ce qui a rapport à mes sentiments intimes, je ne rends compte qu'à Dieu et à ma conscience" verb="кончить" author_comment="- кончила она, дотрогиваясь рукой до высоко поднявшейся красивой груди и взглядывая на небо." speech_id="4763"><s>- Eh bien, oui, - сказала <rs ref="HeleneKuragin">она</rs>, - peut
+                être qu'il a pour moi d'autres sentiments que ceux d'un père, mais ce n'est pas une
+                raison pour que je lui ferme ma porte. Je ne suis pas un homme pour être ingrate.
+                Sachez, Monseigneur, pour tout ce qui a rapport à mes sentiments intimes, je ne
+                rends compte qu'à Dieu et à ma conscience, - кончила <rs ref="HeleneKuragin">она</rs>, дотрогиваясь рукой до высоко поднявшейся красивой груди и взглядывая на
+                небо.</s></said> </p>
+          <p>
+            <said who="молодой иностранный принц" corresp="HeleneKuragin" speech_text="- Mais écoutez moi, au nom de Dieu." speech_id="4765"><s>- Mais écoutez
+                moi, au nom de Dieu.</s></said>  </p>
+          <p>
+            <said who="HeleneKuragin" corresp="молодой иностранный принц" speech_text="Epousez moi, et je serai votre esclave." speech_id="4762"><s>- Epousez
+                moi, et je serai votre esclave.</s></said> </p>
+          <p>
+            <said who="молодой иностранный принц" corresp="HeleneKuragin" speech_text="- Mais c'est impossible." speech_id="4760"><s>- Mais c'est
+                impossible.</s></said> </p>
+          <p>
+            <said who="HeleneKuragin" corresp="молодой иностранный принц" speech_text="Vous ne daignez pas descende jusqu'à moi, vous..." verb="сказать" author_comment="- заплакав, сказала Элен." speech_id="4764"><s>- Vous ne daignez pas
+                descende jusqu'à moi, vous... - заплакав, сказала <rs ref="HeleneKuragin" rolename="agent">Элен</rs>.</s></said> </p>
+          <p><s>Лицо стало утешать <rs ref="HeleneKuragin" target="id_3363">ее</rs>; <rs ref="HeleneKuragin" rolename="agent" xml:id="id_3363">Элен</rs> же сквозь слезы
+              говорили (как бы забывшись), что ничто не может мешать <rs ref="HeleneKuragin">ей</rs>
+              выйти замуж, что есть примеры (тогда еще мало было примеров, но <rs ref="HeleneKuragin">она</rs> назвала <rs ref="Napoleon_Bonaparte" rolename="undergoer">Наполеона</rs> и других высоких особ), что <rs ref="HeleneKuragin">она</rs> никогда
+              не была женою <rs ref="HeleneKuragin">своего</rs>
+              <rs>мужа</rs>, что она была принесена в жертву.</s> </p>
+          <p>
+            <said who="HeleneKuragin" corresp="" speech_text="Законы, религия.... На что бы они были выдуманы, ежели бы они не могли сделать этого!" verb="сказать" author_comment="- сказала Элен." speech_id="4761"><said who="молодой иностранный принц" corresp="HeleneKuragin" speech_text="Но законы, религия..." verb="говорить" author_comment="- уже сдаваясь, говорило лицо." speech_id="4768"><s>- Но законы,
+                  религия... - уже сдаваясь, говорило <rs rolename="agent">лицо</rs>.</s></said></said> </p>
+          <p>
+            <said who="HeleneKuragin" corresp="" speech_text="Законы, религия.... На что бы они были выдуманы, ежели бы они не могли сделать этого!" verb="сказать" author_comment="- сказала Элен." speech_id="4761"><s>- Законы,
+                религия... На что бы они были выдуманы, ежели бы они не могли сделать этого! -
+                сказала <rs ref="HeleneKuragin" rolename="agent">Элен</rs>.</s></said> </p>
+          <p><s>Важное <rs rolename="experiencer">лицо</rs> было удивлено тем, что такое простое
+              рассуждение могло не приходить <rs rolename="experiencer">ему</rs> в голову, и
+              обратилось за советом к святым братьям Общества Иисусова, с которыми оно находилось в
+              близких отношениях.</s> </p>
+          <p><s>Через несколько дней после этого, на одном из обворожительных праздников, который
+              давала <rs ref="HeleneKuragin" rolename="agent">Элен</rs> на своей даче на Каменном
+              острову, ей был представлен немолодой, с белыми как снег волосами и черными блестящими
+              глазами, обворожительный m-r de Jobert, un jésuite à robe courte, который долго в
+              саду, при свете иллюминации и при звуках музыки, беседовал с <rs ref="HeleneKuragin">Элен</rs> о любви к богу, к <rs rolename="undergoer">Христу</rs>, к сердцу божьей
+              матери и об утешениях, доставляемых в этой и в будущей жизни единою истинною
+              католическою религией.</s>
+            <s><rs ref="HeleneKuragin" rolename="experiencer">Элен</rs> была тронута, и несколько
+              раз у нее и у m-r Jobert в глазах стояли слезы и дрожал голос.</s>
+            <s>Танец, на который <rs rolename="agent">кавалер</rs> пришел звать <rs ref="HeleneKuragin" rolename="undergoer">Элен</rs>, расстроил <rs ref="HeleneKuragin" rolename="agent">ее</rs> беседу с ее будущим directeur de conscience; но на другой
+              день m-r de Jobert пришел один вечером к <rs ref="HeleneKuragin">Элен</rs> и с того
+              времени часто стал бывать у <rs ref="HeleneKuragin" rolename="possessor">нее</rs>.</s> </p>
+          <p><s>В один день <rs>он</rs> сводил <rs rolename="agent">графиню</rs> в католический
+              храм, где <rs ref="HeleneKuragin">она</rs> стала на колени перед алтарем, к которому
+                <rs ref="HeleneKuragin">она</rs> была подведена.</s>
+            <s>Немолодой обворожительный <rs rolename="agent">француз</rs> положил <rs ref="HeleneKuragin">ей</rs> на голову руки, и, как <rs ref="HeleneKuragin" rolename="agent">она</rs> сама потом рассказывала, <rs ref="HeleneKuragin">она</rs>
+              почувствовала что-то вроде дуновения свежего ветра, которое сошло <rs ref="HeleneKuragin">ей</rs> в <rs>душу</rs>.</s>
+            <s>Ей объяснили, что это была la grâce.</s> </p>
+          <p><s>Потом ей привели <rs rolename="agent">аббата</rs> à robe longue, <rs>он</rs>
+              исповедовал ее и отпустил ей грехи ее.</s>
+            <s>На другой день ей принесли ящик, в котором было причастие, и оставили ей на дому для
+              употребления.</s>
+            <s>После нескольких дней <rs ref="HeleneKuragin" rolename="agent">Элен</rs>, к
+              удовольствию <rs ref="HeleneKuragin">своему</rs>, узнала, что <rs ref="HeleneKuragin">она</rs> теперь вступила в истинную католическую церковь и что на днях сам <rs rolename="agent">папа</rs> узнает о <rs ref="HeleneKuragin">ней</rs> и пришлет <rs ref="HeleneKuragin">ей</rs> какую-то бумагу.</s> </p>
+          <p><s>Все, что делалось за это время вокруг нее и с нею, все это внимание, обращенное на
+              нее столькими умными людьми и выражающееся в таких приятных, утонченных формах, и
+              голубиная чистота, в которой она теперь находилась (она носила все это время белые
+              платья с белыми лентами), - все это доставляло ей удовольствие; но из-за этого
+              удовольствия она ни на минуту не упускала своей цели.</s>
+            <s>И как всегда бывает, что в деле хитрости глупый <rs rolename="agent">человек</rs>
+              проводит более умных, она, поняв, что цель всех этих слов и хлопот состояла
+              преимущественно в том, чтобы, обратив ее в католичество, взять с нее денег в пользу
+              иезуитских учреждений (о чем ей делали намеки), <rs ref="HeleneKuragin" rolename="agent">Элен</rs>, прежде чем давать деньги, настаивала на том, чтобы над
+                <rs ref="HeleneKuragin">нею</rs> произвела те различные операции, которые бы
+              освободили <rs ref="HeleneKuragin" rolename="experiencer">ее</rs> от <rs rolename="undergoer">мужа</rs>.</s>
+            <s>В <rs ref="HeleneKuragin">ее</rs> понятиях значение всякой религии состояло только в
+              том, чтобы при удовлетворении человеческих желаний соблюдать известные приличия.</s>
+            <s>И с этою целью <rs ref="HeleneKuragin">она</rs> в одной из <rs ref="HeleneKuragin">своих</rs> бесед с <rs>духовником</rs> настоятельно потребовала от <rs rolename="addressee">него</rs> ответа на вопрос о том, в какой мере <rs ref="HeleneKuragin">ее</rs> брак связывает ее.</s> </p>
+          <p><s>Они сидели в гостиной у окна.</s>
+            <s>Были сумерки.</s>
+            <s>Из окна пахло цветами.</s>
+            <s><rs ref="HeleneKuragin" rolename="undergoer">Элен</rs> была в белом платье,
+              просвечивающем на плечах и груди.</s>
+            <s><rs rolename="agent">Аббат</rs>, хорошо откормленный, с пухлой, гладко бритой
+              бородой, приятным крепким ртом и белыми руками, сложенными кротко на коленях, сидел
+              близко к <rs ref="HeleneKuragin">Элен</rs> и с тонкой улыбкой на губах, мирно -
+              восхищенным <rs ref="HeleneKuragin" rolename="undergoer">ее</rs> красотою взглядом
+              смотрел изредка на <rs ref="HeleneKuragin" rolename="possessor">ее</rs> лицо и излагал
+                <rs>свой</rs> взгляд на занимавший их вопрос.</s>
+            <s><rs ref="HeleneKuragin" rolename="agent">Элен</rs> беспокойно улыбалась, глядела на
+              его вьющиеся волоса, гладко выбритые чернеющие полные щеки и всякую минуту ждала
+              нового оборота разговора.</s>
+            <s>Но <rs>аббат</rs>, хотя, очевидно, и наслаждаясь красотой и близостью своей
+                <rs>собеседницы</rs>, был увлечен мастерством своего дела.</s> </p>
+          <p><s>Ход рассуждения <rs rolename="agent">руководителя</rs> совести был следующий.</s>
+            <s>В неведении значения того, что вы предпринимали, вы дали обет брачной верности <rs rolename="experiencer">человеку</rs>, который, с своей стороны, вступив в брак и не
+              веря в религиозное значение брака, совершил кощунство.</s>
+            <s>Брак этот не имел двоякого значения, которое должен он иметь.</s>
+            <s>Но несмотря на то, обет ваш связывал вас.</s>
+            <s>Вы отступили от него.</s>
+            <s>Что вы совершили этим?</s>
+            <s>Péché véniel или péché mortel?</s>
+            <s>Péché véniel, потому что вы без дурного умысла совершили поступок.</s>
+            <s>Ежели вы теперь, с целью иметь детей, вступила бы в новый брак, то грех ваш мог бы
+              быть прощен.</s>
+            <s>Но вопрос опять распадается надвое: первое...</s> </p>
+          <p>
+            <said who="HeleneKuragin" corresp="аббат-иезуит" speech_text="Но я думаю, что я, вступив в истинную религию, не могу быть связана тем, что наложила на меня ложная религия." verb="сказать" speech_id="4767"><s>- Но <rs ref="HeleneKuragin" rolename="experiencer">я</rs> думаю, - сказала вдруг соскучившаяся <rs ref="HeleneKuragin" rolename="agent">Элен</rs> с <rs ref="HeleneKuragin">своей</rs> обворожительной
+                улыбкой, - что <rs ref="HeleneKuragin">я</rs>, вступив в истинную религию, не могу
+                быть связана тем, что наложила на <rs ref="HeleneKuragin" rolename="undergoer">меня</rs> ложная религия.</s></said> </p>
+          <p><s>Directeur de conscience был изумлен этим постановленным перед ним с такою простотою
+                <rs rolename="possessor">Колумбовым</rs> яйцом.</s>
+            <s>Он восхищен был неожиданной быстротой успехов своей <rs rolename="experiencer">ученицы</rs>, но не мог отказаться от своего трудами умственными построенного
+              здания аргументов.</s> </p>
+          <p>
+            <said who="аббат-иезуит" corresp="HeleneKuragin" speech_text="Entendons nous, comtesse," verb="стать" author_comment="- сказал он с улыбкой и стал опровергать рассуждения своей духовной дочери." speech_id="4766"><s>- Entendons nous, comtesse, - сказал он с улыбкой и стал
+                опровергать рассуждения своей духовной <rs rolename="agent">дочери</rs>.</s></said> 
+          </p>
+        </div>
+        

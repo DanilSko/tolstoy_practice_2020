@@ -1,0 +1,75 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="7" type="chapter" xml:id="chapter7part2Volume2">
+          <p> </p>
+          <p><s>Когда <rs ref="Boris_Drubetskoy" rolename="agent" target="id_2271">Борис</rs> и <rs ref="Anna_Pavlovna_Scherer" xml:id="id_2271">Анна</rs>
+              <rs ref="Boris_Drubetskoy" rolename="agent">Павловна</rs> вернулись к общему кружку,
+              разговором в нем завладел <rs ref="Hippolyte_Kuragin" rolename="possessor">князь
+                Ипполит</rs>.</s>
+            <s>Он, выдвинувшись вперед на кресле, сказал:</s> </p>
+          <p><said who="Hippolyte_Kuragin" corresp="" speech_text="- Le Roi de Prusse!" speech_id="2486"><said who="Hippolyte_Kuragin" corresp="Anna_Pavlovna_Scherer" speech_text="Le Roi de Prusse?" verb="усесться" author_comment="- спросил Ипполит, опять засмеялся и опять спокойно и серьезно уселся в глубине своего кресла." speech_id="2495"><said who="Hippolyte_Kuragin" corresp="" speech_text="- Le Roi de Prusse..." speech_id="2499"><s>- Le Roi de Prusse! - и,
+                    сказав это, засмеялся.</s></said></said></said>
+            <s>Все обратились к нему.</s>
+            <said who="Hippolyte_Kuragin" corresp="" speech_text="- Le Roi de Prusse!" speech_id="2486"><said who="Hippolyte_Kuragin" corresp="Anna_Pavlovna_Scherer" speech_text="Le Roi de Prusse?" verb="усесться" author_comment="- спросил Ипполит, опять засмеялся и опять спокойно и серьезно уселся в глубине своего кресла." speech_id="2495"><said who="Hippolyte_Kuragin" corresp="" speech_text="- Le Roi de Prusse..." speech_id="2499"><s>- Le Roi de Prusse? -
+                    спросил <rs ref="Hippolyte_Kuragin" rolename="agent">Ипполит</rs>, опять
+                    засмеялся и опять спокойно и серьезно уселся в глубине <rs ref="Hippolyte_Kuragin">своего</rs> кресла.</s></said></said></said>
+            <s><rs ref="Anna_Pavlovna_Scherer" rolename="experiencer" target="id_2274">Анна
+                Павловна</rs> подождала <rs ref="Hippolyte_Kuragin" xml:id="id_2274">его</rs>
+              немного, но так как <rs ref="Hippolyte_Kuragin" rolename="experiencer">Ипполит</rs>
+              решительно, казалось, не хотел больше говорить, <rs ref="Anna_Pavlovna_Scherer" rolename="agent">она</rs> начала речь о том, как безбожный Бонапарт похитил в
+              Потсдаме шпагу Великого <rs rolename="possessor">Фридриха</rs>.</s> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="" speech_text="- C'est l'épée de Frédéric le Grand, que je.." speech_id="2491"><s>-
+                C'est l'épée de Frédéric le Grand, que je..</s></said><s>. - начала было <rs ref="Anna_Pavlovna_Scherer">она</rs>, но <rs ref="Hippolyte_Kuragin" rolename="agent">Ипполит</rs> перебил <rs ref="Anna_Pavlovna_Scherer">ее</rs>
+              словами:</s> </p>
+          <p><said who="Hippolyte_Kuragin" corresp="" speech_text="- Le Roi de Prusse!" speech_id="2486"><said who="Hippolyte_Kuragin" corresp="Anna_Pavlovna_Scherer" speech_text="Le Roi de Prusse?" verb="усесться" author_comment="- спросил Ипполит, опять засмеялся и опять спокойно и серьезно уселся в глубине своего кресла." speech_id="2495"><said who="Hippolyte_Kuragin" corresp="" speech_text="- Le Roi de Prusse..." speech_id="2499"><s>- Le Roi de Prusse... - и
+                    опять, как только к <rs ref="Hippolyte_Kuragin">нему</rs> обратились, извинился
+                    и замолчал. <rs ref="Anna_Pavlovna_Scherer" rolename="agent">Анна Павловна</rs>
+                    поморщилась. Mortemart, приятель <rs ref="Hippolyte_Kuragin">Ипполита</rs>,
+                    решительно обратился к <rs ref="Hippolyte_Kuragin">нему</rs>:</s></said></said></said> </p>
+          <p><said who="viscount" corresp="" speech_text="- Voyons à qui en avez vous avec votre Roi de Prusse?" speech_id="2489"><s>- Voyons à qui en avez vous avec votre Roi de Prusse?</s></said><s><rs ref="Hippolyte_Kuragin" rolename="agent">Ипполит</rs> засмеялся так, как будто <rs ref="Hippolyte_Kuragin">ему</rs> стыдно было своего смеха.</s> </p>
+          <p><said who="Hippolyte_Kuragin" corresp="" speech_text="- Non, ce n'est rien, je voulais dire seulement..." speech_id="2485"><s>-
+                Non, ce n'est rien, je voulais dire seulement...</s></said>
+            <s>(<rs ref="Hippolyte_Kuragin">Он</rs> намерен был повторить шутку, которую <rs ref="Hippolyte_Kuragin">он</rs> слышал в Вене и которую <rs ref="Hippolyte_Kuragin">он</rs> целый вечер собирался поместить.)</s>
+            <said who="Hippolyte_Kuragin" corresp="" speech_text="- Le Roi de Prusse!" speech_id="2486"><said who="Hippolyte_Kuragin" corresp="Anna_Pavlovna_Scherer" speech_text="Le Roi de Prusse?" verb="усесться" author_comment="- спросил Ипполит, опять засмеялся и опять спокойно и серьезно уселся в глубине своего кресла." speech_id="2495"><said who="Hippolyte_Kuragin" corresp="" speech_text="- Le Roi de Prusse..." speech_id="2499"><s>Je voulais dire seulement,
+                    que nous avons tort de faire la guerre pour le Roi de
+              Prusse.</s></said></said></said> </p>
+          <p><s><rs ref="Boris_Drubetskoy" rolename="agent">Борис</rs> осторожно улыбнулся так, что
+                <rs ref="Boris_Drubetskoy">его</rs> улыбка могла быть отнесена к насмешке или к
+              одобрению шутки, смотря по тому, как будет принята она.</s>
+            <s>Все засмеялись.</s> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="" speech_text="Il est très mauvais, votre jeu de mots, très spirituel, mais injuste," verb="сказать" author_comment="- грозя сморщенным пальчиком, сказала Анна Павловна." speech_id="2498"><s>- Il est très mauvais, votre jeu de mots, très spirituel, mais
+                injuste,- грозя сморщенным пальчиком, сказала <rs ref="Anna_Pavlovna_Scherer" rolename="agent">Анна Павловна</rs>.</s></said><said who="Hippolyte_Kuragin" corresp="" speech_text="- Le Roi de Prusse!" speech_id="2486"><said who="Anna_Pavlovna_Scherer" corresp="Hippolyte_Kuragin" speech_text="Ah, le méchant, ce prince Hippolyte!. Nous ne faisons pas la guerre pour le Roi de Prusse, mais pour les bons principes." verb="сказать" author_comment="- сказала она." speech_id="2493"><said who="Hippolyte_Kuragin" corresp="Anna_Pavlovna_Scherer" speech_text="Le Roi de Prusse?" verb="усесться" author_comment="- спросил Ипполит, опять засмеялся и опять спокойно и серьезно уселся в глубине своего кресла." speech_id="2495"><said who="Hippolyte_Kuragin" corresp="" speech_text="- Le Roi de Prusse..." speech_id="2499"><s>- Nous ne faisons pas la
+                      guerre pour le Roi de Prusse, mais pour les bons principes. Ah, le méchant, ce
+                      prince Hippolyte! - сказала <rs ref="Anna_Pavlovna_Scherer">она</rs>.</s></said></said></said></said> </p>
+          <p><s>Разговор не утихал целый вечер, обращаясь преимущественно около политических
+              новостей.</s>
+            <s>В конце вечера он особенно оживился, когда дело зашло о наградах, пожалованных <rs ref="Tsar_Alexander_I_of_Russia" rolename="agent">государем</rs>.</s> </p>
+          <p><said who="l'homme à l'esprit profond" corresp="" speech_text="- Ведь получил же в прошлом году NN." speech_id="2497"><s>- Ведь получил
+                же в прошлом году NN. табакерку с портретом,- говорил l'homme à l'esprit profond, -
+                почему же SS. не может получить той же награды?</s></said> </p>
+          <p><said who="дипломат" corresp="l'homme à l'esprit profond" speech_text="- Je vous demande pardon, une tabatière avec le portrait de l'Empereur est une récompense, mais point une distinction,- сказал дипломат,- un cadeau plutôt." verb="сказать" speech_id="2494"><s>- Je vous demande pardon, une tabatière avec le
+                portrait de l'Empereur est une récompense, mais point une distinction,- сказал <rs rolename="agent">дипломат</rs>,- un cadeau plutôt.</s></said> </p>
+          <p><s>- Il y eu plutôt des antécédents, je vous citerai Schwarzenberg.</s> </p>
+          <p><said who="другой" corresp="" speech_text="C'est impossible," verb="возражать" author_comment="- возражал ему другой." speech_id="2496"><s>- C'est impossible,-
+                возражал ему другой.</s></said> </p>
+          <p><said who="один" corresp="другой" speech_text="- Пари." speech_id="2490"><s>- Пари. Le
+                grand cordon, c'est différent...</s></said> </p>
+          <p><s>Когда все поднялись, чтобы уезжать, <rs ref="HeleneKuragin" rolename="agent" target="id_2277">Элен</rs>, очень мало говорившая весь вечер, опять обратилась к <rs ref="Boris_Drubetskoy" rolename="addressee" xml:id="id_2277">Борису</rs> с просьбой,
+              ласковым, значительным приказанием, чтобы <rs ref="Boris_Drubetskoy" rolename="undergoer">он</rs> был у <rs ref="HeleneKuragin">нее</rs> во вторник.</s> </p>
+          <p><said who="Anna_Pavlovna_Scherer" corresp="Boris_Drubetskoy;Anna_Pavlovna_Scherer" speech_text="Мне это очень нужно," verb="сказать" author_comment="- сказала она с улыбкой, оглядываясь на Анну Павловну, и Анна Павловна той грустной улыбкой, которая сопровождала ее слова при речи о своей высокой покровительнице, подтвердила желание Элен." speech_id="2492"><s>- <rs>Мне</rs> это очень нужно,- сказала <rs ref="HeleneKuragin">она</rs> с улыбкой, оглядываясь на <rs ref="Anna_Pavlovna_Scherer" rolename="undergoer">Анну Павловну</rs>, и <rs ref="Anna_Pavlovna_Scherer" rolename="agent">Анна Павловна</rs> той грустной улыбкой, которая сопровождала <rs ref="Anna_Pavlovna_Scherer">ее</rs> слова при речи о своей высокой
+                  <rs>покровительнице</rs>, подтвердила желание <rs ref="HeleneKuragin" rolename="experiencer">Элен</rs>.</s></said>
+            <s>Казалось, что в этот вечер из каких-то слов, сказанных <rs ref="Boris_Drubetskoy" rolename="agent" target="id_2279">Борисом</rs> о прусском войске, <rs ref="HeleneKuragin" rolename="agent" xml:id="id_2279">Элен</rs> вдруг открыла
+              необходимость видеть <rs ref="Boris_Drubetskoy">его</rs>.</s>
+            <s>Она как будто обещала ему, что, когда он приедет во вторник, она объяснит ему эту
+              необходимость.</s> </p>
+          <p><s>Приехав во вторник вечером в великолепный салон <rs ref="HeleneKuragin" rolename="benemalefactive">Элен</rs>, <rs ref="Boris_Drubetskoy" rolename="possessor">Борис</rs> не получил ясного объяснения, для чего было ему
+              необходимо приехать.</s>
+            <s>Были другие гости, <rs ref="HeleneKuragin" rolename="agent">графиня</rs> мало
+              говорила с <rs ref="Boris_Drubetskoy">ним</rs>, и, только прощаясь, когда <rs ref="Boris_Drubetskoy" rolename="agent">он</rs> целовал <rs ref="HeleneKuragin">ее</rs> руку, <rs ref="HeleneKuragin">она</rs> с странным отсутствием улыбки,
+              неожиданно, шепотом, сказала <rs ref="Boris_Drubetskoy">ему</rs>:</s> </p>
+          <p><said who="HeleneKuragin" corresp="Boris_Drubetskoy" speech_text="- Venez demain dîner le soir. Il faut que vous veniez... Venez." speech_id="2487"><s>- Venez demain dîner le soir. Il faut que vous
+              veniez...</s></said>
+            <s>Venez.</s> </p>
+          <p><s>В этот свой приезд в Петербург <rs ref="Boris_Drubetskoy">Борис</rs> сделался
+              близким человеком в доме <rs ref="HeleneKuragin" rolename="possessor">графини
+                Безуховой</rs>.</s>  </p>
+        </div>
+        

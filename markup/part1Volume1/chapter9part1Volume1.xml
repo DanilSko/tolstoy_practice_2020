@@ -1,0 +1,139 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="9" type="chapter" xml:id="chapter9part1Volume1">
+          <p> </p>
+          <p><s>IX</s> </p>
+          <p><s>Из молодежи, не считая старшей <rs ref="Vera_Rostova">дочери</rs>
+              <rs ref="Countess_Natalya_Rostova">графини</rs> (<rs ref="Vera_Rostova"><rs>которая</rs></rs> была четырьмя годами старше <rs ref="NatashaRostova">сестры</rs> и держала <rs ref="Vera_Rostova"><rs>себя</rs></rs> уже как большая) и
+              <rs>гостьи</rs>-барышни, в гостиной остались <rs ref="Nikolai_Rostov" rolename="undergoer" target="id_1192">Николай</rs> и <rs ref="Sonya_Rostova" rolename="undergoer" xml:id="id_1192">Соня</rs>-племянница.</s>
+            <s><rs ref="Sonya_Rostova">Соня</rs> была тоненькая, миниатюрненькая брюнетка с мягким,
+              степенным длинными ресницами взглядом, густою черною косою, два раза обвивавшею <rs ref="Sonya_Rostova" rolename="possessor">ее</rs> голову, и желтоватым оттенком кожи
+              на лице и в особенности на обнаженных худощавых, но грациозных мускулистых руках и
+              шее.</s>
+            <s>Плавностью движений, мягкостью и гибкостью маленьких членов и несколько хитрою и
+              сдержанною манерой <rs ref="Sonya_Rostova">она</rs> напоминала красивого, но еще не
+              сформировавшегося котенка, который будет прелестною кошечкой.</s>
+            <s><rs ref="Sonya_Rostova" rolename="experiencer">Она</rs>, видимо, считала приличным
+              выказывать улыбкой участие к общему разговору; но против воли <rs ref="Sonya_Rostova" rolename="possessor">ее</rs> глаза из-под длинных густых ресниц смотрели на
+              уезжающего в армию cousin с таким девическим страстным обожанием, что улыбка <rs ref="Sonya_Rostova" rolename="agent">ее</rs> не могла ни на мгновение обмануть
+              никого, и видно было, что кошечка присела только для того, чтоб еще энергичнее
+              прыгнуть и заиграть с своим <rs ref="Nikolai_Rostov">cousin</rs>, как скоро только они так же, как <rs ref="Boris_Drubetskoy">Борис</rs> с <rs ref="NatashaRostova">Наташей</rs>, выберутся
+              из этой гостиной.</s> </p>
+          <p>
+            <said who="Count_Ilya_Rostov" corresp="Marya_Lvovna_Karagina" speech_text="Да, ma chère," verb="сказать" author_comment="- сказал старый граф, обращаясь к гостье и указывая на своего Николая." speech_id="323"><s>- Да, ma chère,- сказал старый <rs ref="Count_Ilya_Rostov" rolename="agent">граф</rs>, обращаясь к <rs>гостье</rs> и указывая на <rs ref="Count_Ilya_Rostov">своего</rs>
+                <rs ref="Nikolai_Rostov" rolename="undergoer">Николая</rs>. </s></said>
+            <said who="Count_Ilya_Rostov" corresp="Marya_Lvovna_Karagina" speech_text="A уж ему место в архиве было готово, и все.. Вот дружба-то?. Вот его друг Борис произведен в офицеры, и он из дружбы не хочет отставать от него; бросает и университет, и меня, старика: идет в военную службу, ma chère." verb="сказать" author_comment="- сказал граф вопросительно." speech_id="314"><s>- Вот
+                  <rs ref="Count_Ilya_Rostov" target="id_1193">его</rs> друг <rs ref="Boris_Drubetskoy" xml:id="id_1193">Борис</rs> произведен в офицеры, и <rs ref="Boris_Drubetskoy" rolename="experiencer">он</rs> из дружбы не хочет отставать
+                от <rs ref="Count_Ilya_Rostov" rolename="experiencer">него</rs>; бросает и
+                университет, и <rs rolename="undergoer">меня</rs>, старика: идет в военную службу, ma
+                chère. A уж ему место в архиве было готово, и все. Вот дружба-то? - сказал <rs ref="Count_Ilya_Rostov" rolename="agent">граф</rs> вопросительно.</s></said>  </p>
+          <p><said who="Marya_Lvovna_Karagina" corresp="Count_Ilya_Rostov" speech_text="Да, ведь война, говорят, объявлена," verb="сказать" speech_id="310"><s>-
+                Да, ведь война, говорят, объявлена,- сказала <rs rolename="agent">гостья</rs>.</s></said> </p>
+          <p><said who="Count_Ilya_Rostov" corresp="Marya_Lvovna_Karagina" speech_text="Ma chère, вот дружба-то!. Давно говорят. Он идет в гусары.. Опять поговорят, поговорят, да так и оставят." verb="сказать" author_comment="- повторил он.-" speech_id="304"><s>- Давно говорят, -
+                сказал <rs ref="Count_Ilya_Rostov" rolename="agent">граф</rs>.- Опять поговорят,
+                поговорят, да так и оставят. Ma chère, вот дружба-то! - повторил <rs ref="Count_Ilya_Rostov">он</rs>.- Он идет в гусары.</s></said> </p>
+          <p><s><rs rolename="agent">Гостья</rs>, не зная, что сказать, покачала головой.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="Count_Ilya_Rostov" speech_text="Совсем не дружба, а просто чувствую призвание к военной службе.. Совсем не из дружбы" verb="отвечать" author_comment=",- отвечал Николай, вспыхнув и отговариваясь, как будто от постыдного на него наклепа.-" speech_id="307"><s>- Совсем не из дружбы,- отвечал <rs ref="Nikolai_Rostov" rolename="agent">Николай</rs>, вспыхнув и отговариваясь, как будто от постыдного
+                на него наклепа.- Совсем не дружба, а просто чувствую призвание к военной
+                службе.</s></said> </p>
+          <p><s><rs ref="Nikolai_Rostov">Он</rs> оглянулся на <rs rolename="undergoer">кузину</rs> и на
+                <rs rolename="undergoer">гостью</rs>-барышню: обе смотрели на <rs ref="Nikolai_Rostov">него</rs> с улыбкой одобрения.</s> </p>
+          <p><said who="Count_Ilya_Rostov" corresp="Marya_Lvovna_Karagina" speech_text="Нынче обедает у нас Шуберт, полковник Павлоградского гусарского полка.. Он был в отпуску здесь и берет его с собой.. Что делать?" verb="сказать" author_comment="- сказал граф, пожимая плечами и говоря шуточно о деле, которое, видимо, стоило ему много горя." speech_id="322"><s>- Нынче обедает у нас <rs rolename="agent">Шуберт</rs>, полковник
+                Павлоградского гусарского полка. <rs>Он</rs> был в отпуску здесь и берет <rs ref="Nikolai_Rostov" rolename="undergoer">его</rs> с <rs>собой</rs>. Что делать? -
+                сказал <rs ref="Count_Ilya_Rostov" rolename="agent">граф</rs>, пожимая плечами и
+                говоря шуточно о деле, которое, видимо, стоило <rs ref="Nikolai_Rostov">ему</rs>
+                много горя.</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="Count_Ilya_Rostov" speech_text="- Я уж вам говорил, папенька, что, ежели вам не хочется меня отпустить, я останусь. Но я знаю, что никуда не гожусь, кроме как в военную службу; я не дипломат, не чиновник, не умею скрывать того, что чувствую, - говорил он, все поглядывая с кокетством красивой молодости на Соню и гостью-барышню." verb="сказать" speech_id="325"><said who="Nikolai_Rostov" corresp="Count_Ilya_Rostov" speech_text="Я уж вам говорил, папенька,- сказал сын,- что, ежели вам не хочется меня отпустить, я останусь. Но я знаю, что никуда не гожусь, кроме как в военную службу; я не дипломат, не чиновник, не умею скрывать того, что чувствую,. " verb="говорить" speech_id="328"><s>- <rs><rs rolename="agent">Я</rs></rs> уж <rs rolename="addressee">вам</rs> говорил, <rs>папенька</rs>,- сказал <rs rolename="agent">сын</rs>,- что, ежели <rs rolename="experiencer">вам</rs> не
+                  хочется <rs><rs rolename="agent">меня</rs></rs> отпустить, <rs><rs rolename="undergoer">я</rs></rs> останусь. Но <rs><rs rolename="experiencer">я</rs></rs> знаю, что никуда не гожусь, кроме как в военную службу;
+                      <rs><rs>я</rs></rs> не дипломат, не чиновник, не умею скрывать того, что
+                  чувствую, - говорил <rs ref="Nikolai_Rostov" rolename="agent">он</rs>, все поглядывая с кокетством красивой молодости на <rs ref="Sonya_Rostova" rolename="undergoer">Соню</rs> и <rs rolename="undergoer">гостью</rs>-барышню.</s></said></said> </p>
+          <p><s>Кошечка, впиваясь в <rs><rs rolename="undergoer">него</rs></rs> глазами, казалась
+              каждую секунду готовою заиграть и выказать всю свою кошечью натуру.</s> </p>
+          <p><said who="Count_Ilya_Rostov" corresp="Nikolai_Rostov;Marya_Lvovna_Karagina" speech_text=" Ну, ну, хорошо! Все горячится.. Всё Бонапарте всем голову вскружил; все думают, как это он из поручиков попал в императоры. Что ж, дай Бог" verb="сказать" author_comment="- сказал старый граф." speech_id="317"><s>- Ну, ну,
+                хорошо! - сказал старый <rs ref="Count_Ilya_Rostov" rolename="agent">граф</rs>.- Все
+                горячится. Все Бонапарте всем голову вскружил; все думают, как это он из поручиков
+                попал в императоры.</s></said>
+            <s>Что ж, дай бог,- прибавил <rs ref="Count_Ilya_Rostov" rolename="agent">он</rs>, не
+              замечая насмешливой улыбки <rs rolename="agent">гостьи</rs>.</s> </p>
+          <p><s>Большие заговорили о <rs ref="Napoleon_Bonaparte">Бонапарте</rs>.</s>
+            <s><rs ref="Julie_Karagina" rolename="agent">Жюли</rs>, дочь <rs>Карагиной</rs>,
+              обратилась к молодому <rs ref="Nikolai_Rostov">Ростову</rs>:</s> </p>
+          <p><said who="Julie_Karagina" corresp="Nikolai_Rostov" speech_text="Как жаль, что вас не было в четверг у Архаровых.. Мне скучно было без вас," verb="сказать" author_comment="- сказала она, нежно улыбаясь ему." speech_id="327"><s>- Как жаль, что вас не было в четверг у Архаровых. <rs rolename="experiencer">Мне</rs> скучно было без вас,- сказала <rs ref="Julie_Karagina">она</rs>, нежно
+                улыбаясь <rs rolename="addressee">ему</rs>.</s></said> </p>
+          <p><s>Польщенный <rs rolename="agent">молодой человек</rs> с кокетливой улыбкой молодости
+              ближе пересел к <rs ref="Julie_Karagina">ней</rs> и вступил с улыбающеюся <rs ref="Julie_Karagina">Жюли</rs> в отдельный разговор, совсем не замечая того, что эта
+                <rs>его</rs> невольная улыбка ножом ревности резала сердце красневшей и притворно
+              улыбавшейся <rs ref="Sonya_Rostova" rolename="possessor">Сони</rs>.</s>
+            <s>В середине разговора <rs>он</rs> оглянулся на <rs ref="Julie_Karagina"><rs ref="Sonya_Rostova" rolename="undergoer">нее</rs></rs>.</s>
+            <s><rs ref="Sonya_Rostova" rolename="agent">Соня</rs> страстно-озлобленно взглянула на
+                <rs>него</rs> и, едва удерживая на глазах слезы, а на губах притворную улыбку,
+              встала и вышла из комнаты.</s>
+            <s>Все оживление <rs ref="Nikolai_Rostov" rolename="experiencer">Николая</rs>
+              исчезло.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="experiencer" target="id_1194">Он</rs> выждал
+              первый перерыв разговора и с расстроенным лицом вышел из комнаты отыскивать <rs ref="Sonya_Rostova" rolename="undergoer" xml:id="id_1194">Соню</rs>.</s> </p>
+          <p><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Countess_Natalya_Rostova" speech_text="Как секреты-то этой всей молодежи шиты белыми нитками!" verb="сказать" author_comment="- сказала Анна Михайловна, указывая на выходящего Николая." speech_id="326"><s>- Как секреты-то этой всей молодежи шиты белыми нитками! - сказала
+                  <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent" target="id_1196">Анна Михайловна</rs>, указывая на выходящего <rs ref="Nikolai_Rostov" rolename="undergoer" xml:id="id_1196">Николая</rs>.</s></said><said who="Princess_Anna_Mikhaylovna_Drubetskaya" corresp="Countess_Natalya_Rostova" speech_text="Cousinage dangereux voisinage," verb="прибавить" author_comment="- прибавила она." speech_id="318"><s>- Cousinage dangereux voisinage,-
+                прибавила <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" rolename="agent">она</rs>.</s></said> </p>
+          <p><said who="Countess_Natalya_Rostova" corresp="" speech_text="Да. Сколько страданий, сколько беспокойств перенесено за то, чтобы теперь на них радоваться!" verb="сказать" author_comment=",- сказала графиня, после того как луч солнца, проникнувший в гостиную вместе с этим молодым поколением, исчез, и как будто отвечая на вопрос, которого никто ей не делал, но который постоянно занимал ее.-" speech_id="302"><s>- Да,- сказала <rs ref="Countess_Natalya_Rostova" rolename="agent">графиня</rs>, после того как луч солнца, проникнувший в гостиную вместе с этим
+                молодым поколением, исчез, и как будто отвечая на вопрос, которого никто <rs ref="Countess_Natalya_Rostova">ей</rs> не делал, но который постоянно занимал <rs ref="Countess_Natalya_Rostova">ее</rs>.- Сколько страданий, сколько беспокойств
+                перенесено за то, чтобы теперь на них радоваться!</s></said>
+            <s>А и теперь, право, больше страха, чем радости.</s>
+            <s>Все боишься, все боишься!</s>
+            <s>Именно тот возраст, в котором так много опасностей и для девочек, и для
+              мальчиков.</s> </p>
+          <p><said who="Marya_Lvovna_Karagina" corresp="Countess_Natalya_Rostova" speech_text="Все от воспитания зависит," verb="сказать" author_comment="- сказала гостья." speech_id="320"><s>- Все от воспитания зависит,-
+                сказала <rs rolename="agent">гостья</rs>.</s></said> </p>
+          <p><said who="Countess_Natalya_Rostova" corresp="Marya_Lvovna_Karagina" speech_text="Да, ваша правда. До сих пор я была, слава богу, другом своих детей и пользуюсь полным их доверием. Я знаю, что я всегда буду первою confidente моих дочерей и что Николенька, по своему пылкому характеру, ежели будет шалить (мальчику нельзя без этого), то все не так, как эти петербургские господа." verb="продолжать" author_comment=",- продолжала графиня.-" speech_id="311"><s>- Да,
+                ваша правда,- продолжала <rs ref="Countess_Natalya_Rostova" rolename="agent">графиня</rs>.- До сих пор <rs ref="Countess_Natalya_Rostova">я</rs> была, слава
+                богу, другом <rs ref="Countess_Natalya_Rostova">своих</rs> детей и пользуюсь полным
+                их доверием,- говорила <rs ref="Countess_Natalya_Rostova" rolename="agent">графиня</rs>, повторяя заблуждение многих родителей, полагающих, что у детей их
+                нет тайн от них.- <rs ref="Countess_Natalya_Rostova" rolename="experiencer">Я</rs>
+                знаю, что <rs ref="Countess_Natalya_Rostova">я</rs> всегда буду первою confidente
+                  <rs ref="Countess_Natalya_Rostova">моих</rs> дочерей и что <rs ref="Nikolai_Rostov">Николенька</rs>, по <rs ref="Nikolai_Rostov" rolename="undergoer">своему</rs> пылкому характеру, ежели будет шалить (<rs rolename="experiencer">мальчику</rs> нельзя без этого), то все не так, как эти
+                петербургские господа.</s></said> </p>
+          <p><said who="Count_Ilya_Rostov" corresp="Countess_Natalya_Rostova" speech_text="Вот подите!. Да, славные, славные ребята" verb="подтвердить" author_comment=",- подтвердил граф, всегда разрешавший запутанные для него вопросы тем, что все находил славным.-" speech_id="305"><s>- Да, славные, славные ребята,- подтвердил <rs ref="Count_Ilya_Rostov" rolename="agent">граф</rs>, всегда разрешавший запутанные
+                для <rs ref="Count_Ilya_Rostov" rolename="experiencer">него</rs> вопросы тем, что
+                все находил славным.- Вот подите!</s>
+            <s>Захотел в гусары!</s>
+            <s>Да вот, что вы хотите, ma chère!</s></said> </p>
+          <p><said who="Marya_Lvovna_Karagina" corresp="Count_Ilya_Rostov" speech_text="Какое милое существо ваша меньшая!. Порох!" verb="сказать" author_comment="- сказала гостья.-" speech_id="308"><s>- Какое милое существо ваша
+                меньшая! - сказала <rs rolename="agent">гостья</rs>.- Порох!</s></said> </p>
+          <p><said who="Count_Ilya_Rostov" corresp="Marya_Lvovna_Karagina" speech_text="В меня пошла!. Да, порох" verb="сказать" author_comment=",- сказал граф.-" speech_id="306"><s>- Да, порох,- сказал <rs ref="Count_Ilya_Rostov" rolename="agent">граф</rs>.- В <rs>меня</rs>
+              пошла!</s></said>
+            <s>И какой голос: хоть и <rs>моя</rs>
+              <rs>дочь</rs>, а <rs rolename="agent">я</rs> правду скажу, певица будет, Саломони
+              другая.</s>
+            <s>Мы взяли <rs rolename="undergoer">итальянца</rs>
+              <rs rolename="experiencer">ее</rs> учить.</s> </p>
+          <p><said who="Marya_Lvovna_Karagina" corresp="Count_Ilya_Rostov" speech_text="- Не рано ли?" speech_id="315"><s>- Не рано ли?</s></said>
+            <said who="Marya_Lvovna_Karagina" corresp="Count_Ilya_Rostov" speech_text="Говорят, вредно для голоса учиться в эту пору." verb="говорят" speech_id="316"><s>Говорят, вредно для голоса учиться в эту пору.</s></said> </p>
+          <p><said who="Count_Ilya_Rostov" corresp="Marya_Lvovna_Karagina" speech_text="Как же наши матери выходили в двенадцать - тринадцать лет замуж?. О нет, какой рано!" verb="сказать" author_comment="- сказал граф.-" speech_id="303"><s>- О нет, какой
+                рано! - сказал <rs ref="Count_Ilya_Rostov" rolename="agent">граф</rs>.- Как же наши
+                матери выходили в двенадцать - тринадцать лет замуж?</s></said> </p>
+          <p><said who="Countess_Natalya_Rostova" corresp="Marya_Lvovna_Karagina" speech_text="Какова? Уж она и теперь влюблена в Бориса! Ну, вот видите, держи я ее строго, запрещай я ей... бог знает, что бы они делали потихоньку (графиня разумела, они целовались бы), а теперь я знаю каждое ее слово." verb="сказать" author_comment="- сказала графиня, тихо улыбаясь, глядя на мать Бориса и, видимо, отвечая на мысль, всегда ее занимавшую, продолжала: - Ну, вот видите, держи я ее строго, запрещай я ей... бог знает, что бы они делали потихоньку (графиня разумела, они целовались бы), а теперь я знаю каждое ее слово." speech_id="312"><s>- Уж она и теперь влюблена в <rs ref="Boris_Drubetskoy" rolename="undergoer">Бориса</rs>! Какова? - сказала <rs ref="Countess_Natalya_Rostova" rolename="agent" target="id_1199">графиня</rs>,
+                тихо улыбаясь, глядя на <rs ref="Countess_Natalya_Rostova" xml:id="id_1199">мать</rs>
+                <rs ref="Boris_Drubetskoy" rolename="undergoer">Бориса</rs> и, видимо, отвечая на
+                мысль, всегда <rs ref="Countess_Natalya_Rostova">ее</rs> занимавшую, продолжала: -
+                Ну, вот видите, держи <rs rolename="agent">я</rs> ее строго, запрещай <rs>я</rs>
+                ей... бог знает, что бы они делали потихоньку (<rs ref="Countess_Natalya_Rostova" rolename="experiencer">графиня</rs> разумела, они целовались бы), а теперь
+                  <rs>я</rs> знаю каждое ее слово. <rs ref="Countess_Natalya_Rostova" rolename="agent">Она</rs> сама вечером прибежит и все <rs>мне</rs>
+              расскажет.</s></said>
+            <s>Может быть, <rs rolename="agent">я</rs> балую <rs ref="Countess_Natalya_Rostova" rolename="undergoer">ее</rs>, но, право, это, кажется, лучше.</s>
+            <s><rs rolename="possessor">Я</rs> старшую держала строго.</s> </p>
+          <p><said who="Vera_Rostova" corresp="Countess_Natalya_Rostova;Marya_Lvovna_Karagina" speech_text="Да, меня совсем иначе воспитывали," verb="сказать" author_comment="- сказала старшая, красивая графиня Вера, улыбаясь." speech_id="324"><s>- Да, <rs rolename="undergoer">меня</rs> совсем иначе воспитывали,- сказала
+                старшая, красивая <rs ref="Vera_Rostova" rolename="agent">графиня Вера</rs>,
+                улыбаясь.</s></said> </p>
+          <p><s>Но улыбка не украсила лица <rs ref="Vera_Rostova" rolename="possessor">Веры</rs>,
+              как это обыкновенно бывает; напротив, лицо <rs ref="Vera_Rostova" rolename="undergoer">ее</rs> стало неестественно и оттого неприятно.</s>
+            <s>Старшая, <rs ref="Vera_Rostova">Вера</rs>, была хороша, была неглупа, училась
+              прекрасно, была хорошо воспитана, голос у нее был приятный, то, что она сказала, было
+              справедливо и уместно; но, странное дело, все, и <rs>гостья</rs> и <rs ref="Countess_Natalya_Rostova">графиня</rs>, оглянулись на нее, как будто удивились,
+              зачем она это сказала, и почувствовали неловкость.</s> </p>
+          <p><said who="Marya_Lvovna_Karagina" corresp="Count_Ilya_Rostov" speech_text="Всегда с старшими детьми мудрят, хотят сделать что-нибудь необыкновенное," verb="сказать" author_comment="- сказала гостья." speech_id="319"><s>- Всегда с
+                старшими детьми мудрят, хотят сделать что-нибудь необыкновенное,- сказала <rs rolename="agent">гостья</rs>.</s></said> </p>
+          <p><said who="Count_Ilya_Rostov" corresp="Marya_Lvovna_Karagina" speech_text="Графинюшка мудрила с Верой,. Что греха таить, ma chère!" verb="сказать" speech_id="313"><s>- Что греха таить, ma chère! Графинюшка мудрила с <rs ref="Vera_Rostova">Верой</rs>,- сказал <rs ref="Count_Ilya_Rostov" rolename="agent">граф</rs>.- Ну, да что ж!</s></said>
+            <s>Все-таки славная вышла,- прибавил <rs ref="Count_Ilya_Rostov" target="id_11911">он</rs>, одобрительно подмигивая <rs ref="Vera_Rostova" rolename="addressee" xml:id="id_11911">Вере</rs>.</s> </p>
+          <p><s>Гости встали и уехали, обещаясь приехать к обеду.</s> </p>
+          <p><said who="Countess_Natalya_Rostova" corresp="" speech_text="Уж сидели, сидели!. Что за манера!" verb="сказать" author_comment="- сказала графиня, проводя гостей." speech_id="321"><s>- Что за
+                манера! Уж сидели, сидели! - сказала <rs ref="Countess_Natalya_Rostova" rolename="agent">графиня</rs>, проводя гостей.</s></said>  </p>
+        </div>
+        

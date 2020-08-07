@@ -1,0 +1,119 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" n="13" type="chapter" xml:id="chapter13part1Volume2">
+          <p> </p>
+          <p><s>Два дня после этого <rs ref="Nikolai_Rostov" rolename="experiencer" target="id_21132">Ростов</rs> не видал <rs ref="Fedor_Ivanovich_Dolokhov" rolename="undergoer" xml:id="id_21132">Долохова</rs> у своих и не заставал <rs ref="Fedor_Ivanovich_Dolokhov" rolename="possessor">его</rs> дома; на третий день он
+              получил от <rs ref="Fedor_Ivanovich_Dolokhov">него</rs> записку.</s> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Nikolai_Rostov" speech_text="Так как я в доме у вас бывать более не намерен по известным тебе причинам и еду в армию, то нынче вечером я даю моим приятелям прощальную пирушку - приезжай в Английскую гостиницу'" speech_id="2302"><s>'Так как я в доме у вас бывать более не намерен по известным <rs rolename="experiencer">тебе</rs> причинам и еду в армию, то нынче вечером я даю
+                моим приятелям прощальную пирушку - приезжай в Английскую гостиницу'.</s></said>
+            <s><rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> в десятом часу, из театра, где
+              он был вместе с своими и <rs ref="Vasily__Vasska__Denisov">Денисовым</rs>, приехал в
+              назначенный день в Английскую гостиницу.</s>
+            <s>Его тотчас же провели в лучшее помещение гостиницы, занятое на эту ночь <rs ref="Fedor_Ivanovich_Dolokhov" rolename="possessor">Долоховым</rs>.</s> </p>
+          <p><s>Человек двадцать толпилось около стола, перед которым между двумя свечами сидел <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>.</s>
+            <s>На столе лежало золото и ассигнации, и <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs> метал банк.</s>
+            <s>После предложения и отказа <rs ref="Sonya_Rostova" rolename="agent">Сони</rs>
+              <rs ref="Nikolai_Rostov" rolename="agent" target="id_21134">Николай</rs> еще не
+              видался с <rs ref="Fedor_Ivanovich_Dolokhov" xml:id="id_21134">ним</rs> и испытывал
+              замешательство при мысли о том, как они свидятся.</s> </p>
+          <p><s>Светлый холодный взгляд <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent" target="id_21135">Долохова</rs> встретил <rs ref="Nikolai_Rostov" rolename="undergoer" xml:id="id_21135">Ростова</rs> еще у двери, как будто <rs ref="Fedor_Ivanovich_Dolokhov">он</rs> давно ждал <rs ref="Nikolai_Rostov" rolename="undergoer">его</rs>.</s> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Nikolai_Rostov" speech_text="Давно не видались,. спасибо, что приехал. Вот только домечу, и явится Илюшка с хором." verb="сказать" author_comment="- сказал он,- спасибо, что приехал." speech_id="2292"><s>- Давно не видались,- сказал <rs ref="Fedor_Ivanovich_Dolokhov">он</rs>,-
+                спасибо, что приехал. Вот только домечу, и явится <rs rolename="agent">Илюшка</rs> с
+                хором.</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="Fedor_Ivanovich_Dolokhov" speech_text="Я к тебе заезжал," verb="сказать" author_comment="- сказал Ростов, краснея." speech_id="2289"><s>- <rs rolename="agent">Я</rs> к <rs>тебе</rs> заезжал,- сказал <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>, краснея.</s></said>  </p>
+          <p><s><rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent" target="id_21137">Долохов</rs>
+              не отвечал <rs ref="Nikolai_Rostov" xml:id="id_21137">ему</rs>.</s> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Nikolai_Rostov" speech_text="Можешь поставить," verb="сказать" author_comment="- сказал он." speech_id="2298"><s>- Можешь поставить,- сказал <rs ref="Nikolai_Rostov">он</rs>.</s></said> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="experiencer" target="id_21138">Ростов</rs>
+              вспомнил в эту минуту странный разговор, который <rs ref="Nikolai_Rostov" rolename="possessor" xml:id="id_21138">он</rs> имел раз с <rs ref="Fedor_Ivanovich_Dolokhov">Долоховым</rs>.</s>
+            <said who="Fedor_Ivanovich_Dolokhov" corresp="Nikolai_Rostov" speech_text="Играть на счастие могут только дураки'" verb="сказать" author_comment="- сказал тогда Долохов" speech_id="2293"><s>'Играть на счастие могут
+                только дураки',- сказал тогда <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>.</s></said> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Nikolai_Rostov" speech_text="Или ты боишься со мной играть?" verb="улыбнуться" author_comment="- сказал теперь Долохов, как будто угадав мысль Ростова, и улыбнулся." speech_id="2287"><s>- Или ты боишься со <rs>мной</rs> играть? - сказал теперь <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>, как будто угадав
+                мысль <rs ref="Nikolai_Rostov" rolename="agent">Ростова</rs>, и
+              улыбнулся.</s></said>
+            <s>Из-за улыбки <rs ref="Fedor_Ivanovich_Dolokhov">его</rs> Ростов увидал в <rs ref="Nikolai_Rostov">нем</rs> то настроение духа, которое было у <rs ref="Nikolai_Rostov">него</rs> во время обеда в клубе и вообще в те времена, когда,
+              как бы соскучившись ежедневною жизнью, <rs ref="Fedor_Ivanovich_Dolokhov" rolename="experiencer">Долохов</rs> чувствовал необходимость каким-нибудь странным,
+              большею частью жестоким, поступком выходить из нее.</s> </p>
+          <p><s><rs ref="Nikolai_Rostov">Ростову</rs> стало неловко; <rs ref="Nikolai_Rostov" rolename="possessor">он</rs> искал и не находил в уме <rs ref="Nikolai_Rostov" rolename="undergoer">своем</rs> шутки, которая ответила бы на слова <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохова</rs>.</s>
+            <s>Но, прежде чем <rs ref="Fedor_Ivanovich_Dolokhov" target="id_211310">он</rs> успел
+              это сделать, <rs ref="Fedor_Ivanovich_Dolokhov" xml:id="id_211310">Долохов</rs>, глядя
+              прямо в лицо <rs ref="Nikolai_Rostov">Ростову</rs>, медленно и с расстановкой, так,
+              что все могли слышать, сказал <rs ref="Nikolai_Rostov" rolename="addressee">ему</rs>:</s> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Nikolai_Rostov" speech_text="кто на счастье хочет играть" verb="говорить" speech_id="2294"><said who="Fedor_Ivanovich_Dolokhov" corresp="Nikolai_Rostov" speech_text="- А помнишь, мы говорили с тобой про игру... дурак, кто на счастье хочет играть; играть надо наверное, а я хочу попробовать." speech_id="2301"><s>- А помнишь, мы говорили с тобой про игру... <rs>дурак</rs>, кто
+                  на счастье хочет играть; играть надо наверное, а <rs rolename="experiencer">я</rs>
+                  хочу попробовать.</s></said></said> </p>
+          <p><s>'Попробовать на счастье играть или наверное?' - подумал <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>.</s> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Nikolai_Rostov" speech_text="Да и лучше не играй" verb="прибавить" author_comment="- прибавил он и, треснув разорванной колодой, сказал:" speech_id="2288"><said who="Fedor_Ivanovich_Dolokhov" corresp="Nikolai_Rostov" speech_text="Банк, господа!" verb="сказать" author_comment="- прибавил он и, треснув разорванной колодой, сказал:" speech_id="2291"><s>- Да и лучше не играй,- прибавил <rs ref="Fedor_Ivanovich_Dolokhov">он</rs> и, треснув разорванной колодой, сказал: -
+                  Банк, господа!</s></said></said> </p>
+          <p><s>Подвинув вперед деньги, <rs ref="Fedor_Ivanovich_Dolokhov" rolename="experiencer">Долохов</rs> приготовился метать.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> сел подле <rs ref="Nikolai_Rostov">него</rs> и сначала не играл.</s>
+            <s><rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent" target="id_211311">Долохов</rs>
+              взглядывал на <rs ref="Nikolai_Rostov" xml:id="id_211311">него</rs>.</s> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Nikolai_Rostov" speech_text="Что ж не играешь?" verb="сказать" author_comment="- сказал Долохов." speech_id="2295"><s>- Что ж не играешь? - сказал <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>.</s></said>
+            <s>И странно, <rs ref="Nikolai_Rostov" rolename="experiencer">Николай</rs> почувствовал
+              необходимость взять карту, поставить на нее незначительный куш и начать игру.</s> </p>
+          <p><said who="Nikolai_Rostov" corresp="Fedor_Ivanovich_Dolokhov" speech_text="Со мною денег нет," verb="сказать" author_comment="- сказал Ростов." speech_id="2285"><s>- Со <rs>мною</rs> денег нет,- сказал <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>.</s></said> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Nikolai_Rostov" speech_text="- Поверю!" speech_id="2305"><s>- Поверю!</s></said> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> поставил пять рублей на карту
+              и проиграл, поставил еще и опять проиграл.</s>
+            <s><rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs> убил, то есть
+              выиграл десять карт сряду у <rs ref="Nikolai_Rostov">Ростова</rs>.</s> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="" speech_text="Господа,. прошу класть деньги на карты, а то я могу спутаться в счетах." verb="сказать" author_comment="- сказал он, прометав несколько времени,-" speech_id="2299"><s>- Господа,- сказал <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">он</rs>, прометав несколько времени,- прошу класть деньги на
+                карты, а то я могу спутаться в счетах.</s></said> </p>
+          <p><s>Один из игроков сказал, что, <rs rolename="experiencer">он</rs> надеется,
+                <rs>ему</rs> можно поверить.</s> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="" speech_text="Поверить можно, но боюсь спутаться; прошу класть деньги на карты," verb="отвечать" author_comment="- отвечал Долохов." speech_id="2303"><s>- Поверить
+                можно, но боюсь спутаться; прошу класть деньги на карты,- отвечал <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>.</s></said><said who="Fedor_Ivanovich_Dolokhov" corresp="Nikolai_Rostov" speech_text="Ты не стесняйся, мы с тобой сочтемся," verb="прибавить" author_comment="- прибавил он Ростову." speech_id="2304"><s>- <rs rolename="agent">Ты</rs> не стесняйся, мы с <rs>тобой</rs> сочтемся,- прибавил <rs ref="Fedor_Ivanovich_Dolokhov">он</rs>
+                <rs ref="Nikolai_Rostov" rolename="addressee">Ростову</rs>.</s></said> </p>
+          <p><s>Игра продолжалась; <rs rolename="agent">лакей</rs> не переставая разносил
+              шампанское.</s> </p>
+          <p><s>Все карты <rs ref="Nikolai_Rostov" rolename="possessor">Ростова</rs> бились, и на
+                <rs ref="Nikolai_Rostov">него</rs> было написано до восьмисот рублей.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="agent">Он</rs> надписал было над одной картой
+              восемьсот рублей, но в то время, как <rs ref="Nikolai_Rostov">ему</rs> подавали
+              шампанское, <rs ref="Nikolai_Rostov">он</rs> раздумал и написал опять обыкновенный
+              куш, двадцать рублей.</s> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Nikolai_Rostov" speech_text="Другим даю, а тебе бью.. Иль ты меня боишься?. Оставь, скорее отыграешься." verb="сказать" author_comment="- сказал Долохов, хотя он, казалось, и не смотрел на Ростова,-" speech_id="2290"><s>- Оставь,- сказал <rs ref="Fedor_Ivanovich_Dolokhov" target="id_211312">Долохов</rs>, хотя <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent" xml:id="id_211312">он</rs>, казалось, и не смотрел на <rs ref="Nikolai_Rostov" rolename="undergoer">Ростова</rs>,- скорее отыграешься. Другим
+                даю, а тебе бью. Иль ты <rs>меня</rs> боишься? - повторил <rs ref="Fedor_Ivanovich_Dolokhov">он</rs>.</s></said> </p>
+          <p><s><rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs> повиновался, оставил
+              написанные восемьсот и поставил семерку червей с оторванным уголком, которую <rs ref="Fedor_Ivanovich_Dolokhov">он</rs> поднял с земли.</s>
+            <s><rs ref="Fedor_Ivanovich_Dolokhov">Он</rs> хорошо ее после помнил.</s>
+            <s><rs ref="Fedor_Ivanovich_Dolokhov">Он</rs> поставил семерку червей, надписав над ней
+              отломанным мелком восемьсот, круглыми, прямыми цифрами; выпил поданный стакан
+              согревшегося шампанского, улыбнулся на слова <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохова</rs> и, с замиранием сердца ожидая семерки, стал смотреть
+              на руки <rs ref="Fedor_Ivanovich_Dolokhov" rolename="possessor">Долохова</rs>,
+              державшие колоду.</s>
+            <s>Выигрыш или проигрыш этой семерки червей означал многое для <rs ref="Nikolai_Rostov" rolename="experiencer">Ростова</rs>.</s>
+            <s>В воскресенье на прошлой неделе <rs rolename="agent">граф Илья Андреич</rs> дал
+                <rs>своему</rs>
+              <rs rolename="possessor">сыну</rs> две тысячи рублей, и <rs rolename="agent">он</rs>,
+              никогда не любивший говорить о денежных затруднениях, сказал <rs rolename="addressee">ему</rs>, что деньги эти были последние до мая и что потому <rs rolename="agent">он</rs> просил <rs rolename="addressee">сына</rs> быть на этот раз поэкономнее.</s>
+            <s><rs ref="Nikolai_Rostov" rolename="agent">Николай</rs> сказал, что <rs ref="Nikolai_Rostov">ему</rs> и это слишком много и что <rs ref="Nikolai_Rostov">он</rs> дает честное слово не брать больше денег до весны.</s>
+            <s>Теперь из этих денег оставалось тысяча двести рублей.</s>
+            <s>Стало быть, семерка червей означала не только проигрыш тысячи шестисот рублей, но и
+              необходимость изменения данному слову.</s>
+            <s>Он с замиранием сердца смотрел на руки <rs ref="Fedor_Ivanovich_Dolokhov" rolename="possessor">Долохова</rs> и думал: 'Ну, скорей, дай <rs rolename="possessor">мне</rs> эту карту, и <rs rolename="possessor">я</rs> беру
+              фуражку, уезжаю домой ужинать с <rs ref="Vasily__Vasska__Denisov" target="id_211315">Денисовым</rs>, <rs ref="NatashaRostova">Наташей</rs> и <rs ref="Sonya_Rostova" xml:id="id_211315">Соней</rs>, и уж верно никогда в руках <rs rolename="possessor">моих</rs> не будет карты'. В эту минуту домашняя жизнь его - шуточки с <rs ref="Petya_Rostov">Петей</rs>, разговоры с <rs ref="Sonya_Rostova">Соней</rs>, дуэты
+              с <rs ref="NatashaRostova">Наташей</rs></s><s>, пикет с <rs ref="Count_Ilya_Rostov">отцом</rs> и даже спокойная постель в Поварском доме - с такою силою, ясностью и
+              прелестью представилась <rs ref="Nikolai_Rostov" rolename="experiencer">ему</rs>, как
+              будто все это было давно прошедшее, потерянное и неоцененное счастье. <rs ref="Nikolai_Rostov">Он</rs> не мог допустить, чтобы глупая случайность, заставив
+              семерку лечь прежде направо, чем налево, могла бы лишить <rs>его</rs> всего этого
+              вновь понятого, вновь освещенного счастья и повергнуть <rs ref="Nikolai_Rostov" rolename="experiencer">его</rs> в пучину еще не испытанного и неопределенного
+              несчастия. Это не могло быть, но <rs rolename="experiencer">он</rs> все-таки ожидал с
+              замиранием движения рук <rs ref="Fedor_Ivanovich_Dolokhov" rolename="possessor">Долохова</rs>. Ширококостые, красноватые руки эти с волосами, видневшимися из-под
+              рубашки, положили колоду карт и взялись за подаваемый стакан и трубку.</s> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Nikolai_Rostov" speech_text="- Так ты не боишься со мной играть?" speech_id="2296"><s>- Так <rs ref="Nikolai_Rostov" rolename="experiencer">ты</rs> не боишься со <rs>мной</rs>
+                играть?</s></said>
+            <s>- повторил <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs>, и, как
+              будто для того, чтобы рассказать веселую историю, <rs ref="Fedor_Ivanovich_Dolokhov">он</rs> положил карты, опрокинулся на спинку стула и медлительно с улыбкой стал
+              рассказывать:</s> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="" speech_text="- Да, господа, мне говорили, что в Москве распущен слух, будто я шулер, поэтому советую вам быть со мной осторожнее." speech_id="2300"><s>- Да, господа, мне говорили, что в Москве распущен слух, будто я
+                шулер, поэтому советую вам быть со мной осторожнее.</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="Fedor_Ivanovich_Dolokhov" speech_text="Ну, мечи же!" verb="сказать" author_comment="- сказал Ростов." speech_id="2297"><s>- Ну, мечи же! - сказал <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>.</s></said> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Nikolai_Rostov" speech_text="Ох, московские тетушки!" verb="сказать" author_comment="- сказал Долохов и с улыбкой взялся за карты." speech_id="2283"><s>-
+                Ох, московские тетушки! - сказал <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent">Долохов</rs> и с улыбкой взялся за карты.</s></said> </p>
+          <p><said who="Nikolai_Rostov" corresp="Fedor_Ivanovich_Dolokhov" speech_text="Ааах!" verb="крикнуть" author_comment="- чуть не крикнул Ростов, поднимая обе руки к волосам." speech_id="2284"><s>- Ааах! - чуть не крикнул <rs ref="Nikolai_Rostov" rolename="agent">Ростов</rs>, поднимая обе руки к волосам.</s></said>
+            <s>Семерка, которая была нужна ему, уже лежала вверху, первою картой в колоде.</s>
+            <s>Он проиграл больше того, что мог заплатить.</s> </p>
+          <p><said who="Fedor_Ivanovich_Dolokhov" corresp="Nikolai_Rostov" speech_text="Однако ты не зарывайся," verb="сказать" author_comment="- сказал Долохов, мельком взглянув на Ростова и продолжая метать." speech_id="2286"><s>- Однако <rs rolename="agent">ты</rs> не зарывайся,- сказал <rs ref="Fedor_Ivanovich_Dolokhov" rolename="agent" target="id_211318">Долохов</rs>,
+                мельком взглянув на <rs ref="Nikolai_Rostov" rolename="undergoer" xml:id="id_211318">Ростова</rs> и продолжая метать.</s></said>  </p>
+        </div>
+        
