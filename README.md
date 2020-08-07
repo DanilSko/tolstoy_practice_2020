@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+## Инструкция по разметке семантических ролей в романе "Война и мир" для практикантов
+
+
+### Основная задача (легкая)
+[Вот тут]()лежат XML-документы с главами "Войны и мира". В этих текстах размечены:
+1. Упоминания персонажей, в т.ч. анафорические. Тег [<rs>](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-rs.html) из стандарта TEI (rs означает referring string, то есть любая строка, за которой стоит сущность-референт; т.е. семантика этого тега в TEI -- примерно "любая именованная сущность"). Всем персонажам романа, кроме эпизодических, присвоены уникальные ID ("Pierre_Bezukhov", "Natasha_Rostova", "Vasili_Kuragin" и т.п.), ссылка на которые хранится в атрибуте @ref. Выглядит как-то так:
+
+```<rs ref="Pierre_Bezukhov">Он</rs>, казалось, не мог переносить вида слез```
+
+прямая речь персонажа с указанием ID говорящего 
+
+### Дополнительная задача (посложнее; можно пытаться в автоматизацию)
 
 You can use the [editor on GitHub](https://github.com/DanilSko/tolstoy_practice_2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
